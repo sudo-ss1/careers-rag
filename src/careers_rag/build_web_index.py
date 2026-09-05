@@ -39,9 +39,15 @@ def main() -> None:
             "n": p.country,
             "e": p.employment_type,
             "u": p.source_url,
-            # Indexed text: title and skills are repeated deliberately -- BM25
-            # has no field weighting here, so repetition is the weighting.
-            "x": f"{p.title} {p.title} {' '.join(p.skills[:14])} {body[:TEXT_CHARS]}",
+            # Indexed text. Two deliberate choices:
+            #  * title and skills repeat, because BM25 has no field weighting
+            #    here -- repetition IS the weighting.
+            #  * the requisition id is included. In the Python pipeline it
+            #    arrives via each chunk's contextual header; omitting it here
+            #    made exact-id lookup -- the query type this whole project is
+            #    built around -- return nothing.
+            "x": f"req {p.req_id} {p.req_id} {p.title} {p.title} "
+                 f"{' '.join(p.skills[:14])} {body[:TEXT_CHARS]}",
             "s": body[:TEASER_CHARS],
         })
 
