@@ -37,7 +37,23 @@ Rules:
 - Be concise: at most 120 words. Mention at most 4 roles.
 """
 
-REQ_ID_RE = re.compile(r"\[(\d{6,8})\]")
+# Match requisition ids with OR without brackets.
+#
+# The bracketed-only version caused false abstentions: the model answered
+# "requisition 1440127 is for the role of..." in prose, the regex found zero
+# citations, and a correct answer was thrown away as ungrounded. A grounding
+# check that is stricter than the model's formatting habits fails closed on
+# correct answers -- which looks like a broken product.
+#
+# Verification does not depend on the formatting: every id found is checked
+# against the retrieved set regardless of how it was written.
+REQ_ID_RE = re.compile(r"\b(\d{6,8})\b")
+
+# A query naming a specific requisition is answerable by definition if that id
+# is in the corpus, no matter what the embedding similarity says. Dense
+# retrieval scores 0.000 recall on this query type (see reports/eval-full.json),
+# so gating it on a cosine threshold is the wrong instrument.
+REQ_ID_QUERY_RE = re.compile(r"\b(\d{6,8})\b")
 
 
 @dataclass
@@ -49,6 +65,24 @@ class Answer:
     retrieved: list[str] = field(default_factory=list)
     top_score: float = 0.0
     usage: dict = field(default_factory=dict)
+
+
+def diversify(chunks: list[Chunk], max_per_job: int = 2) -> list[Chunk]:
+    """Cap how many chunks one posting may contribute.
+
+    Without this the top 6 chunks were three copies of the same job's sections,
+    so the context described two roles instead of six. Ranking optimises
+    relevance per chunk; a useful answer needs coverage across documents.
+    """
+    seen: dict[str, int] = {}
+    out = []
+    for c in chunks:
+        n = seen.get(c.job_id, 0)
+        if n >= max_per_job:
+            continue
+        seen[c.job_id] = n + 1
+        out.append(c)
+    return out
 
 
 def build_context(chunks: list[Chunk], limit: int = 6) -> str:
@@ -71,20 +105,47 @@ def build_context(chunks: list[Chunk], limit: int = 6) -> str:
 
 
 class Answerer:
-    def __init__(self, model: str | None = None, min_score: float = 0.30):
+    def __init__(self, model: str | None = None, min_score: float = 0.36,
+                 min_bm25: float = float("inf")):
         self._client = openai.OpenAI(timeout=45.0, max_retries=3)
         self._model = model or os.environ.get("OPENAI_CHAT_MODEL", "gpt-4o-mini")
-        # Calibrated on the golden set -- see eval/calibrate_threshold.py.
-        # Not a guessed constant: it is chosen to separate answerable from
-        # out-of-corpus queries, and it is re-derived whenever the corpus or
-        # embedding model changes.
+        # Set from calibration, but NOT at the Youden-optimal point -- and the
+        # reason is the interesting part.
+        #
+        # Youden's J picks 0.41, which maximises the separation a single
+        # threshold can achieve. Measured end to end, that gate false-abstained
+        # on 15% of answerable queries -- every one of them an exact-token
+        # lookup (grpc, matlab, selenium, tensorflow) scoring 0.364-0.405.
+        # The distributions genuinely overlap: answerable min 0.364 sits below
+        # out-of-corpus max 0.465, so NO single threshold separates them.
+        #
+        # So layer 1 is deliberately tuned for SENSITIVITY, not accuracy: 0.36
+        # sits just under the lowest answerable score, letting nearly everything
+        # through, and specificity comes from layer 2 (the model's own NO_MATCH
+        # plus the grounding check). A cheap permissive filter in front of an
+        # expensive precise one is the right shape; a conservative first gate
+        # fails closed on correct answers, which users read as a broken product.
         self._min_score = min_score
+        # Lexical arm, disabled by default. Calibration showed raw BM25 scores
+        # are not comparable across queries -- they scale with query length and
+        # term rarity, so out-of-corpus queries scored HIGHER (max 14.4) than
+        # the answerable mean (11.6). Cosine is bounded and comparable; BM25 is
+        # not, and cannot be globally thresholded. Kept as a tunable, off.
+        self._min_bm25 = min_bm25
 
-    def answer(self, question: str, chunks: list[Chunk], top_score: float) -> Answer:
+    def answer(self, question: str, chunks: list[Chunk], top_score: float,
+               bm25_score: float = 0.0) -> Answer:
+        chunks = diversify(chunks)
         retrieved_reqs = [c.posting.req_id for c in chunks[:6]]
 
+        # A direct requisition lookup bypasses the similarity gate when that id
+        # was actually retrieved -- lexical certainty beats a cosine threshold.
+        asked_ids = set(REQ_ID_QUERY_RE.findall(question))
+        lexical_hit = bool(asked_ids & set(retrieved_reqs))
+
         # --- layer 1: retrieval gate -----------------------------------------
-        if not chunks or top_score < self._min_score:
+        confident = (top_score >= self._min_score) or (bm25_score >= self._min_bm25)
+        if not chunks or not (confident or lexical_hit):
             return Answer(
                 text=("I don't have any open roles matching that in the current "
                       "posting snapshot."),

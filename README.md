@@ -1,0 +1,175 @@
+# careers-rag
+
+A retrieval-augmented search layer over public job postings, built to answer one
+question honestly: **how do you know your RAG system is any good?**
+
+The interesting artifact here is not the chatbot. It is
+[`reports/`](reports/) — a golden evaluation set, three retrieval strategies
+measured against it, and a two-layer abstention gate whose threshold was
+calibrated from data rather than guessed.
+
+> Independent prototype for portfolio purposes. Not affiliated with, endorsed by,
+> or representing any employer. It reads publicly available job postings, stores a
+> dated snapshot, and cites the source URL for every answer.
+
+---
+
+## Headline results
+
+Corpus: **1,146 job postings** with full descriptions, spanning **42 countries** and
+**14 job categories**, chunked into **7,135 passages**. Snapshot: 2026-09-05.
+Golden set: **40 queries** (34 answerable, 6 deliberately unanswerable).
+
+### Retrieval
+
+| | BM25 | Dense | **Hybrid (RRF)** |
+|---|---|---|---|
+| recall@5 | 0.565 | 0.235 | **0.664** |
+| recall@10 | 0.740 | 0.378 | **0.848** |
+| recall@20 | 0.886 | 0.497 | **0.939** |
+| nDCG@10 | 0.713 | 0.357 | **0.736** |
+| MRR | **0.797** | 0.444 | 0.779 |
+| precision@5 | 0.382 | 0.347 | **0.529** |
+
+Hybrid lifts recall@10 by **15% over lexical** and **124% over dense**.
+
+### Where the difference comes from — recall@10 by query type
+
+| Query type | BM25 | Dense | Hybrid |
+|---|---|---|---|
+| Requisition id ("what is req 1440127") | **1.000** | **0.000** | **1.000** |
+| Exact tech token ("roles using grpc") | 0.323 | 0.257 | **0.582** |
+| Category + country | 0.680 | 0.681 | **0.820** |
+
+**Dense retrieval scores exactly zero on requisition-id lookups.** Embeddings blur
+the tokens a user is being most precise about. This is the entire argument for
+hybrid search in a job-search domain, and it is measured rather than asserted.
+
+The one place hybrid loses is MRR (0.779 vs 0.797): fusion demotes the perfect
+rank-1 hits BM25 gets on id lookups. An honest trade — a little top-1 precision
+on exact lookups for far better recall everywhere else. Query-type routing would
+recover it; see [Next](#what-id-do-next).
+
+### Answering
+
+| Metric | Result |
+|---|---|
+| Answerable queries answered | **97%** |
+| False abstention | **3%** |
+| Answers citing ≥1 truly relevant role | **100%** |
+| Citation precision | 86% |
+| Out-of-corpus queries correctly refused | **100%** |
+| Hallucinated citations | **0** |
+
+---
+
+## Three findings the evaluation produced
+
+**1. A grounding check stricter than the model's formatting fails closed on
+correct answers.** Citations were extracted with `\[(\d{6,8})\]`. The model
+answered *"requisition 1440127 is for..."* in prose, the regex matched nothing,
+and a perfectly correct answer was discarded as ungrounded. Retrieval was rank-1
+correct the whole time. Verification must be independent of formatting.
+
+**2. Raw BM25 scores cannot be thresholded across queries.** Calibrating an
+abstention gate on BM25 failed: out-of-corpus queries scored *higher* (max 14.4)
+than the answerable mean (11.6), because BM25 scales with query length and term
+rarity. Cosine similarity is bounded and comparable; BM25 is not.
+
+**3. The optimal single threshold was the wrong design.** Youden's J picked 0.41,
+which maximises what one threshold can do — and false-abstained on 15% of
+answerable queries, every one an exact-token lookup where dense retrieval is the
+weak arm. The distributions genuinely overlap (answerable min 0.364 < out-of-corpus
+max 0.465), so no threshold separates them. Retuning layer 1 for *sensitivity*
+(0.36) and letting layer 2 supply specificity cut false abstention to 3% with no
+loss of precision — 100% correct refusal, zero hallucinations, unchanged.
+
+---
+
+## How it works
+
+```
+postings ─► chunk ─┬─► BM25 index ──────┐
+   (JSON-LD)       │                    ├─► RRF fusion ─► top-k ─► gate ─► LLM ─► grounding check
+                   └─► embeddings ──────┘                            │                    │
+                                                                 abstain             abstain
+```
+
+**Chunking** splits on the posting's own section headings (`Meet the Team`,
+`Minimum Qualifications`, …) rather than a character count, and prepends a
+contextual header — title, req id, category, location — to every chunk before
+embedding. A bare qualifications list is unretrievable on its own because nothing
+in it says which job it belongs to.
+
+**Fusion** is Reciprocal Rank Fusion, which combines by *rank* not score. BM25
+scores are unbounded and corpus-dependent, cosine lives in [-1, 1]; adding them
+requires a normalisation that shifts every time the corpus does. RRF discards the
+scores and keeps only the ordering, which is comparable between any two retrievers.
+
+**Abstention** is two independent layers: a permissive similarity gate (cheap,
+deterministic, immune to persuasive generation), then the model's own `NO_MATCH`
+plus a citation check that drops any requisition id not present in the retrieved
+context. An answer left with no verified citation becomes a refusal.
+
+**Ground truth is tracked per document, never per chunk** — so changing the
+chunking strategy, the experiment run most often, does not invalidate the labels.
+
+---
+
+## Run it
+
+```bash
+python3 -m venv .venv && ./.venv/bin/pip install -r requirements.txt
+cp .env.example .env            # add OPENAI_API_KEY
+
+./.venv/bin/python src/careers_rag/fetch_jobs.py data/raw/snapshot-$(date +%F)
+./.venv/bin/python eval/build_golden.py data/raw/snapshot-$(date +%F)
+./.venv/bin/python eval/run_eval.py --modes bm25,dense,hybrid
+./.venv/bin/python eval/calibrate_threshold.py
+./.venv/bin/python eval/run_answer_eval.py
+
+./.venv/bin/python ask.py "roles working on retrieval augmented generation"
+```
+
+Embedding the full corpus costs about $0.02 and is cached to disk, so re-running
+an evaluation after a retrieval change is free.
+
+## Layout
+
+| Path | What it does |
+|---|---|
+| `src/careers_rag/fetch_jobs.py` | Paginated crawl + JSON-LD extraction. Resumable, rate-limited, dated snapshots |
+| `src/careers_rag/corpus.py` | Section-aware chunking with contextual headers |
+| `src/careers_rag/bm25.py` | BM25 from scratch — the exact-token half of hybrid |
+| `src/careers_rag/embed.py` | OpenAI embeddings, disk-cached; exact cosine index |
+| `src/careers_rag/retrieve.py` | `bm25` / `dense` / `hybrid` behind one interface |
+| `src/careers_rag/answer.py` | Grounded answering, two-layer abstention |
+| `eval/build_golden.py` | Golden set from structured metadata the retriever never sees |
+| `eval/metrics.py` | recall@k, nDCG@k, MRR, precision@k — document-level |
+| `eval/run_eval.py` | Retrieval comparison across modes |
+| `eval/calibrate_threshold.py` | Threshold sweep, Youden's J |
+| `eval/run_answer_eval.py` | End-to-end: false abstention, citation precision, hallucinations |
+
+## Stated limitations
+
+- **Label bias.** Golden labels derive from ML-extracted skill tags, which come
+  from the description text — so the labelled term usually appears verbatim in
+  the document. That flatters lexical retrieval. Paraphrase queries that avoid
+  corpus vocabulary would counterbalance it and are not yet built.
+- **40 queries is a small evaluation set.** Enough to separate three strategies
+  by a wide margin; not enough to resolve small differences.
+- **Exact search, not ANN.** At ~7k chunks a brute-force scan is sub-millisecond,
+  so these numbers measure retrieval quality without approximate-index recall
+  loss. At production scale this is where HNSW goes — and where you would compare
+  ANN recall against these exact results to size `ef_search`.
+- **131 of 1,277 listed postings** returned no description (expired or rate-limited)
+  and are excluded.
+
+## What I'd do next
+
+1. **Query-type routing** — detect id lookups and weight BM25 higher, recovering
+   the MRR that fusion costs.
+2. **Cross-encoder reranking** over the fused top-50; the usual next win once
+   recall is high but precision@5 (0.529) has headroom.
+3. **Paraphrase golden queries** to remove the lexical label bias above.
+4. **CI gate** — fail the build when recall@10 regresses more than 2 points.

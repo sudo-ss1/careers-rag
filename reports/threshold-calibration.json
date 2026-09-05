@@ -1,0 +1,3823 @@
+{
+ "scored": [
+  {
+   "query": "What is requisition 1440127 about?",
+   "answerable": true,
+   "top": 0.41432514786720276,
+   "bm25": 8.884376147425373
+  },
+  {
+   "query": "What is requisition 2010573 about?",
+   "answerable": true,
+   "top": 0.41035157442092896,
+   "bm25": 9.361235560413999
+  },
+  {
+   "query": "What is requisition 2013895 about?",
+   "answerable": true,
+   "top": 0.425315260887146,
+   "bm25": 9.342214584787015
+  },
+  {
+   "query": "What is requisition 2015955 about?",
+   "answerable": true,
+   "top": 0.4095010757446289,
+   "bm25": 10.020921947939833
+  },
+  {
+   "query": "What is requisition 2017930 about?",
+   "answerable": true,
+   "top": 0.43259167671203613,
+   "bm25": 8.635794614625778
+  },
+  {
+   "query": "What is requisition 2018781 about?",
+   "answerable": true,
+   "top": 0.39782580733299255,
+   "bm25": 10.088236789172047
+  },
+  {
+   "query": "What is requisition 2019781 about?",
+   "answerable": true,
+   "top": 0.38669848442077637,
+   "bm25": 10.465899524959712
+  },
+  {
+   "query": "What is requisition 2020622 about?",
+   "answerable": true,
+   "top": 0.4328092038631439,
+   "bm25": 10.714542115125896
+  },
+  {
+   "query": "What is requisition 2021252 about?",
+   "answerable": true,
+   "top": 0.42988699674606323,
+   "bm25": 9.323478122454041
+  },
+  {
+   "query": "What is requisition 2021863 about?",
+   "answerable": true,
+   "top": 0.4170193076133728,
+   "bm25": 8.03713987505188
+  },
+  {
+   "query": "What is requisition 2022652 about?",
+   "answerable": true,
+   "top": 0.4387105107307434,
+   "bm25": 9.09636714308619
+  },
+  {
+   "query": "What is requisition 2023368 about?",
+   "answerable": true,
+   "top": 0.4371374249458313,
+   "bm25": 10.424575225855849
+  },
+  {
+   "query": "Which open roles work with grpc?",
+   "answerable": true,
+   "top": 0.4046062231063843,
+   "bm25": 13.217335836997604
+  },
+  {
+   "query": "Which open roles work with matlab?",
+   "answerable": true,
+   "top": 0.3637896478176117,
+   "bm25": 9.779399671722446
+  },
+  {
+   "query": "Which open roles work with selenium?",
+   "answerable": true,
+   "top": 0.40234681963920593,
+   "bm25": 9.779399671722446
+  },
+  {
+   "query": "Which open roles work with spark?",
+   "answerable": true,
+   "top": 0.4363928437232971,
+   "bm25": 9.779399671722446
+  },
+  {
+   "query": "Which open roles work with tensorflow?",
+   "answerable": true,
+   "top": 0.39114630222320557,
+   "bm25": 9.779399671722446
+  },
+  {
+   "query": "Are there Sales openings in Singapore?",
+   "answerable": true,
+   "top": 0.6365363597869873,
+   "bm25": 10.10860128721414
+  },
+  {
+   "query": "Are there Other openings in Japan?",
+   "answerable": true,
+   "top": 0.4827505648136139,
+   "bm25": 9.964828107284337
+  },
+  {
+   "query": "Are there Product and Engineering openings in Poland?",
+   "answerable": true,
+   "top": 0.6779497861862183,
+   "bm25": 8.826502564270257
+  },
+  {
+   "query": "Are there Other openings in Singapore?",
+   "answerable": true,
+   "top": 0.5415002703666687,
+   "bm25": 10.86000209815791
+  },
+  {
+   "query": "Are there Supply Chain and Manufacturing Ops openings in India?",
+   "answerable": true,
+   "top": 0.637487530708313,
+   "bm25": 20.40404397006839
+  },
+  {
+   "query": "Are there Sales openings in Netherlands?",
+   "answerable": true,
+   "top": 0.6300070285797119,
+   "bm25": 10.354142367509985
+  },
+  {
+   "query": "Are there Supply Chain and Manufacturing Ops openings in Vietnam?",
+   "answerable": true,
+   "top": 0.6829810738563538,
+   "bm25": 21.75664606067903
+  },
+  {
+   "query": "Are there Supply Chain and Manufacturing Ops openings in Mexico?",
+   "answerable": true,
+   "top": 0.6778432130813599,
+   "bm25": 23.53578527573006
+  },
+  {
+   "query": "Are there Customer Experience openings in Malaysia?",
+   "answerable": true,
+   "top": 0.6220164895057678,
+   "bm25": 9.83724779980351
+  },
+  {
+   "query": "Are there Customer Experience openings in United States of America?",
+   "answerable": true,
+   "top": 0.6261831521987915,
+   "bm25": 11.983474638851575
+  },
+  {
+   "query": "Are there Sales openings in Germany?",
+   "answerable": true,
+   "top": 0.6057848930358887,
+   "bm25": 10.338430094784698
+  },
+  {
+   "query": "Are there Sales openings in Saudi Arabia?",
+   "answerable": true,
+   "top": 0.6460275053977966,
+   "bm25": 18.17449453443906
+  },
+  {
+   "query": "Are there Supply Chain and Manufacturing Ops openings in Thailand?",
+   "answerable": true,
+   "top": 0.6313749551773071,
+   "bm25": 22.658333381119643
+  },
+  {
+   "query": "Are there Information Technology openings in India?",
+   "answerable": true,
+   "top": 0.5121393799781799,
+   "bm25": 9.707243982234322
+  },
+  {
+   "query": "Are there Product and Engineering openings in Thailand?",
+   "answerable": true,
+   "top": 0.6343754529953003,
+   "bm25": 9.115723733433088
+  },
+  {
+   "query": "Are there Product and Engineering openings in Switzerland?",
+   "answerable": true,
+   "top": 0.6433281302452087,
+   "bm25": 9.927644109122987
+  },
+  {
+   "query": "Are there Sales openings in Poland?",
+   "answerable": true,
+   "top": 0.5967186093330383,
+   "bm25": 8.808004729910257
+  },
+  {
+   "query": "Do you have quantum cryptography research roles in Antarctica?",
+   "answerable": false,
+   "top": 0.40916574001312256,
+   "bm25": 14.369659718052297
+  },
+  {
+   "query": "I'm looking for a role as a commercial airline pilot.",
+   "answerable": false,
+   "top": 0.3489769697189331,
+   "bm25": 12.064555777439772
+  },
+  {
+   "query": "Are there any open positions for a professional chef?",
+   "answerable": false,
+   "top": 0.362167090177536,
+   "bm25": 12.67289241773976
+  },
+  {
+   "query": "Do you hire marine biologists for coral reef research?",
+   "answerable": false,
+   "top": 0.30507218837738037,
+   "bm25": 6.095743093542961
+  },
+  {
+   "query": "Is there a remote role teaching high-school mathematics?",
+   "answerable": false,
+   "top": 0.38659995794296265,
+   "bm25": 9.650755549427153
+  },
+  {
+   "query": "What veterinary surgeon openings are available in Lisbon?",
+   "answerable": false,
+   "top": 0.46493643522262573,
+   "bm25": 9.33060871566384
+  }
+ ],
+ "sweep": [
+  {
+   "dense_threshold": 0.2,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.2,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.2,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.2,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.2,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.2,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.2,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.2,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.2,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.2,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.21,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.21,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.21,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.21,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.21,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.21,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.21,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.21,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.21,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.21,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.22,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.22,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.22,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.22,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.22,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.22,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.22,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.22,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.22,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.22,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.23,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.23,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.23,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.23,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.23,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.23,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.23,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.23,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.23,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.23,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.24,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.24,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.24,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.24,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.24,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.24,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.24,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.24,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.24,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.24,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.25,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.25,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.25,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.25,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.25,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.25,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.25,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.25,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.25,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.25,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.26,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.26,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.26,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.26,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.26,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.26,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.26,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.26,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.26,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.26,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.27,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.27,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.27,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.27,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.27,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.27,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.27,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.27,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.27,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.27,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.28,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.28,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.28,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.28,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.28,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.28,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.28,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.28,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.28,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.28,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.29,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.29,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.29,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.29,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.29,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.29,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.29,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.29,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.29,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.29,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.3,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.3,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.3,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.3,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.3,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.3,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.3,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.3,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.3,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.3,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.31,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.31,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.31,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.31,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.31,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.31,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.31,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.31,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.31,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.31,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.32,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.32,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.32,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.32,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.32,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.32,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.32,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.32,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.32,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.32,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.33,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.33,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.33,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.33,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.33,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.33,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.33,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.33,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.33,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.33,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.34,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.34,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.34,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.34,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.34,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.34,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.34,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.34,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.34,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.34,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.35,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.35,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.35,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.35,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.35,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.35,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.35,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.33333333333333326
+  },
+  {
+   "dense_threshold": 0.35,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.33333333333333326
+  },
+  {
+   "dense_threshold": 0.35,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.33333333333333326
+  },
+  {
+   "dense_threshold": 0.35,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.33333333333333326
+  },
+  {
+   "dense_threshold": 0.36,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.36,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.36,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.36,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.36,
+   "bm25_threshold": 10,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.36,
+   "bm25_threshold": 12,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.36,
+   "bm25_threshold": 15,
+   "sensitivity": 1.0,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.33333333333333326
+  },
+  {
+   "dense_threshold": 0.36,
+   "bm25_threshold": 20,
+   "sensitivity": 1.0,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.33333333333333326
+  },
+  {
+   "dense_threshold": 0.36,
+   "bm25_threshold": 25,
+   "sensitivity": 1.0,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.33333333333333326
+  },
+  {
+   "dense_threshold": 0.36,
+   "bm25_threshold": 30,
+   "sensitivity": 1.0,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.33333333333333326
+  },
+  {
+   "dense_threshold": 0.37,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.37,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.37,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.37,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.37,
+   "bm25_threshold": 10,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.13725490196078427
+  },
+  {
+   "dense_threshold": 0.37,
+   "bm25_threshold": 12,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.13725490196078427
+  },
+  {
+   "dense_threshold": 0.37,
+   "bm25_threshold": 15,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.5,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.37,
+   "bm25_threshold": 20,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.5,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.37,
+   "bm25_threshold": 25,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.5,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.37,
+   "bm25_threshold": 30,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.5,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.38,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.38,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.38,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.38,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.38,
+   "bm25_threshold": 10,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.13725490196078427
+  },
+  {
+   "dense_threshold": 0.38,
+   "bm25_threshold": 12,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.13725490196078427
+  },
+  {
+   "dense_threshold": 0.38,
+   "bm25_threshold": 15,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.5,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.38,
+   "bm25_threshold": 20,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.5,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.38,
+   "bm25_threshold": 25,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.5,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.38,
+   "bm25_threshold": 30,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.5,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.39,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.39,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.39,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.39,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.39,
+   "bm25_threshold": 10,
+   "sensitivity": 0.9705882352941176,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.303921568627451
+  },
+  {
+   "dense_threshold": 0.39,
+   "bm25_threshold": 12,
+   "sensitivity": 0.9411764705882353,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.27450980392156854
+  },
+  {
+   "dense_threshold": 0.39,
+   "bm25_threshold": 15,
+   "sensitivity": 0.9411764705882353,
+   "specificity": 0.6666666666666666,
+   "youden_j": 0.607843137254902
+  },
+  {
+   "dense_threshold": 0.39,
+   "bm25_threshold": 20,
+   "sensitivity": 0.9411764705882353,
+   "specificity": 0.6666666666666666,
+   "youden_j": 0.607843137254902
+  },
+  {
+   "dense_threshold": 0.39,
+   "bm25_threshold": 25,
+   "sensitivity": 0.9411764705882353,
+   "specificity": 0.6666666666666666,
+   "youden_j": 0.607843137254902
+  },
+  {
+   "dense_threshold": 0.39,
+   "bm25_threshold": 30,
+   "sensitivity": 0.9411764705882353,
+   "specificity": 0.6666666666666666,
+   "youden_j": 0.607843137254902
+  },
+  {
+   "dense_threshold": 0.4,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.4,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.4,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.4,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.4,
+   "bm25_threshold": 10,
+   "sensitivity": 0.9411764705882353,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.27450980392156854
+  },
+  {
+   "dense_threshold": 0.4,
+   "bm25_threshold": 12,
+   "sensitivity": 0.8823529411764706,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.21568627450980382
+  },
+  {
+   "dense_threshold": 0.4,
+   "bm25_threshold": 15,
+   "sensitivity": 0.8823529411764706,
+   "specificity": 0.6666666666666666,
+   "youden_j": 0.5490196078431371
+  },
+  {
+   "dense_threshold": 0.4,
+   "bm25_threshold": 20,
+   "sensitivity": 0.8823529411764706,
+   "specificity": 0.6666666666666666,
+   "youden_j": 0.5490196078431371
+  },
+  {
+   "dense_threshold": 0.4,
+   "bm25_threshold": 25,
+   "sensitivity": 0.8823529411764706,
+   "specificity": 0.6666666666666666,
+   "youden_j": 0.5490196078431371
+  },
+  {
+   "dense_threshold": 0.4,
+   "bm25_threshold": 30,
+   "sensitivity": 0.8823529411764706,
+   "specificity": 0.6666666666666666,
+   "youden_j": 0.5490196078431371
+  },
+  {
+   "dense_threshold": 0.41,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.41,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.41,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.41,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.41,
+   "bm25_threshold": 10,
+   "sensitivity": 0.9117647058823529,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.2450980392156863
+  },
+  {
+   "dense_threshold": 0.41,
+   "bm25_threshold": 12,
+   "sensitivity": 0.8235294117647058,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.1568627450980391
+  },
+  {
+   "dense_threshold": 0.41,
+   "bm25_threshold": 15,
+   "sensitivity": 0.7941176470588235,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.6274509803921569
+  },
+  {
+   "dense_threshold": 0.41,
+   "bm25_threshold": 20,
+   "sensitivity": 0.7941176470588235,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.6274509803921569
+  },
+  {
+   "dense_threshold": 0.41,
+   "bm25_threshold": 25,
+   "sensitivity": 0.7941176470588235,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.6274509803921569
+  },
+  {
+   "dense_threshold": 0.41,
+   "bm25_threshold": 30,
+   "sensitivity": 0.7941176470588235,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.6274509803921569
+  },
+  {
+   "dense_threshold": 0.42,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.42,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.42,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.42,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.42,
+   "bm25_threshold": 10,
+   "sensitivity": 0.8235294117647058,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.1568627450980391
+  },
+  {
+   "dense_threshold": 0.42,
+   "bm25_threshold": 12,
+   "sensitivity": 0.7352941176470589,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.06862745098039214
+  },
+  {
+   "dense_threshold": 0.42,
+   "bm25_threshold": 15,
+   "sensitivity": 0.7058823529411765,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.5392156862745099
+  },
+  {
+   "dense_threshold": 0.42,
+   "bm25_threshold": 20,
+   "sensitivity": 0.7058823529411765,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.5392156862745099
+  },
+  {
+   "dense_threshold": 0.42,
+   "bm25_threshold": 25,
+   "sensitivity": 0.7058823529411765,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.5392156862745099
+  },
+  {
+   "dense_threshold": 0.42,
+   "bm25_threshold": 30,
+   "sensitivity": 0.7058823529411765,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.5392156862745099
+  },
+  {
+   "dense_threshold": 0.43,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.43,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.43,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.43,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.43,
+   "bm25_threshold": 10,
+   "sensitivity": 0.7647058823529411,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.09803921568627438
+  },
+  {
+   "dense_threshold": 0.43,
+   "bm25_threshold": 12,
+   "sensitivity": 0.6764705882352942,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.009803921568627416
+  },
+  {
+   "dense_threshold": 0.43,
+   "bm25_threshold": 15,
+   "sensitivity": 0.6470588235294118,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.48039215686274517
+  },
+  {
+   "dense_threshold": 0.43,
+   "bm25_threshold": 20,
+   "sensitivity": 0.6470588235294118,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.48039215686274517
+  },
+  {
+   "dense_threshold": 0.43,
+   "bm25_threshold": 25,
+   "sensitivity": 0.6470588235294118,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.48039215686274517
+  },
+  {
+   "dense_threshold": 0.43,
+   "bm25_threshold": 30,
+   "sensitivity": 0.6470588235294118,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.48039215686274517
+  },
+  {
+   "dense_threshold": 0.44,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.44,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.44,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.44,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.44,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6764705882352942,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.009803921568627416
+  },
+  {
+   "dense_threshold": 0.44,
+   "bm25_threshold": 12,
+   "sensitivity": 0.5294117647058824,
+   "specificity": 0.3333333333333333,
+   "youden_j": -0.13725490196078427
+  },
+  {
+   "dense_threshold": 0.44,
+   "bm25_threshold": 15,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.44,
+   "bm25_threshold": 20,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.44,
+   "bm25_threshold": 25,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.44,
+   "bm25_threshold": 30,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.45,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.45,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.45,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.45,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.45,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6764705882352942,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.009803921568627416
+  },
+  {
+   "dense_threshold": 0.45,
+   "bm25_threshold": 12,
+   "sensitivity": 0.5294117647058824,
+   "specificity": 0.3333333333333333,
+   "youden_j": -0.13725490196078427
+  },
+  {
+   "dense_threshold": 0.45,
+   "bm25_threshold": 15,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.45,
+   "bm25_threshold": 20,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.45,
+   "bm25_threshold": 25,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.45,
+   "bm25_threshold": 30,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.46,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.46,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.46,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.46,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.46,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6764705882352942,
+   "specificity": 0.3333333333333333,
+   "youden_j": 0.009803921568627416
+  },
+  {
+   "dense_threshold": 0.46,
+   "bm25_threshold": 12,
+   "sensitivity": 0.5294117647058824,
+   "specificity": 0.3333333333333333,
+   "youden_j": -0.13725490196078427
+  },
+  {
+   "dense_threshold": 0.46,
+   "bm25_threshold": 15,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.46,
+   "bm25_threshold": 20,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.46,
+   "bm25_threshold": 25,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.46,
+   "bm25_threshold": 30,
+   "sensitivity": 0.5,
+   "specificity": 0.8333333333333334,
+   "youden_j": 0.3333333333333335
+  },
+  {
+   "dense_threshold": 0.47,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.47,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.47,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.47,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.47,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6764705882352942,
+   "specificity": 0.5,
+   "youden_j": 0.17647058823529416
+  },
+  {
+   "dense_threshold": 0.47,
+   "bm25_threshold": 12,
+   "sensitivity": 0.5294117647058824,
+   "specificity": 0.5,
+   "youden_j": 0.02941176470588225
+  },
+  {
+   "dense_threshold": 0.47,
+   "bm25_threshold": 15,
+   "sensitivity": 0.5,
+   "specificity": 1.0,
+   "youden_j": 0.5
+  },
+  {
+   "dense_threshold": 0.47,
+   "bm25_threshold": 20,
+   "sensitivity": 0.5,
+   "specificity": 1.0,
+   "youden_j": 0.5
+  },
+  {
+   "dense_threshold": 0.47,
+   "bm25_threshold": 25,
+   "sensitivity": 0.5,
+   "specificity": 1.0,
+   "youden_j": 0.5
+  },
+  {
+   "dense_threshold": 0.47,
+   "bm25_threshold": 30,
+   "sensitivity": 0.5,
+   "specificity": 1.0,
+   "youden_j": 0.5
+  },
+  {
+   "dense_threshold": 0.48,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.48,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.48,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.48,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.48,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6764705882352942,
+   "specificity": 0.5,
+   "youden_j": 0.17647058823529416
+  },
+  {
+   "dense_threshold": 0.48,
+   "bm25_threshold": 12,
+   "sensitivity": 0.5294117647058824,
+   "specificity": 0.5,
+   "youden_j": 0.02941176470588225
+  },
+  {
+   "dense_threshold": 0.48,
+   "bm25_threshold": 15,
+   "sensitivity": 0.5,
+   "specificity": 1.0,
+   "youden_j": 0.5
+  },
+  {
+   "dense_threshold": 0.48,
+   "bm25_threshold": 20,
+   "sensitivity": 0.5,
+   "specificity": 1.0,
+   "youden_j": 0.5
+  },
+  {
+   "dense_threshold": 0.48,
+   "bm25_threshold": 25,
+   "sensitivity": 0.5,
+   "specificity": 1.0,
+   "youden_j": 0.5
+  },
+  {
+   "dense_threshold": 0.48,
+   "bm25_threshold": 30,
+   "sensitivity": 0.5,
+   "specificity": 1.0,
+   "youden_j": 0.5
+  },
+  {
+   "dense_threshold": 0.49,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.49,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.49,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.49,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.49,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6470588235294118,
+   "specificity": 0.5,
+   "youden_j": 0.1470588235294117
+  },
+  {
+   "dense_threshold": 0.49,
+   "bm25_threshold": 12,
+   "sensitivity": 0.5,
+   "specificity": 0.5,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.49,
+   "bm25_threshold": 15,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.49,
+   "bm25_threshold": 20,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.49,
+   "bm25_threshold": 25,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.49,
+   "bm25_threshold": 30,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.5,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.5,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.5,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.5,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.5,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6470588235294118,
+   "specificity": 0.5,
+   "youden_j": 0.1470588235294117
+  },
+  {
+   "dense_threshold": 0.5,
+   "bm25_threshold": 12,
+   "sensitivity": 0.5,
+   "specificity": 0.5,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.5,
+   "bm25_threshold": 15,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.5,
+   "bm25_threshold": 20,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.5,
+   "bm25_threshold": 25,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.5,
+   "bm25_threshold": 30,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.51,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.51,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.51,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.51,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.51,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6470588235294118,
+   "specificity": 0.5,
+   "youden_j": 0.1470588235294117
+  },
+  {
+   "dense_threshold": 0.51,
+   "bm25_threshold": 12,
+   "sensitivity": 0.5,
+   "specificity": 0.5,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.51,
+   "bm25_threshold": 15,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.51,
+   "bm25_threshold": 20,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.51,
+   "bm25_threshold": 25,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.51,
+   "bm25_threshold": 30,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 1.0,
+   "youden_j": 0.47058823529411775
+  },
+  {
+   "dense_threshold": 0.52,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.52,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.52,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.52,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.52,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6176470588235294,
+   "specificity": 0.5,
+   "youden_j": 0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.52,
+   "bm25_threshold": 12,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 0.5,
+   "youden_j": -0.02941176470588236
+  },
+  {
+   "dense_threshold": 0.52,
+   "bm25_threshold": 15,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.52,
+   "bm25_threshold": 20,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.52,
+   "bm25_threshold": 25,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.52,
+   "bm25_threshold": 30,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.53,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.53,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.53,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.53,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.53,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6176470588235294,
+   "specificity": 0.5,
+   "youden_j": 0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.53,
+   "bm25_threshold": 12,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 0.5,
+   "youden_j": -0.02941176470588236
+  },
+  {
+   "dense_threshold": 0.53,
+   "bm25_threshold": 15,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.53,
+   "bm25_threshold": 20,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.53,
+   "bm25_threshold": 25,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.53,
+   "bm25_threshold": 30,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.54,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.54,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.54,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.54,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.54,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6176470588235294,
+   "specificity": 0.5,
+   "youden_j": 0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.54,
+   "bm25_threshold": 12,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 0.5,
+   "youden_j": -0.02941176470588236
+  },
+  {
+   "dense_threshold": 0.54,
+   "bm25_threshold": 15,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.54,
+   "bm25_threshold": 20,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.54,
+   "bm25_threshold": 25,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.54,
+   "bm25_threshold": 30,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.4411764705882353
+  },
+  {
+   "dense_threshold": 0.55,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.55,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.55,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.55,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.55,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6176470588235294,
+   "specificity": 0.5,
+   "youden_j": 0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.55,
+   "bm25_threshold": 12,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 0.5,
+   "youden_j": -0.05882352941176472
+  },
+  {
+   "dense_threshold": 0.55,
+   "bm25_threshold": 15,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.55,
+   "bm25_threshold": 20,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.55,
+   "bm25_threshold": 25,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.55,
+   "bm25_threshold": 30,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.56,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.56,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.56,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.56,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.56,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6176470588235294,
+   "specificity": 0.5,
+   "youden_j": 0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.56,
+   "bm25_threshold": 12,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 0.5,
+   "youden_j": -0.05882352941176472
+  },
+  {
+   "dense_threshold": 0.56,
+   "bm25_threshold": 15,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.56,
+   "bm25_threshold": 20,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.56,
+   "bm25_threshold": 25,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.56,
+   "bm25_threshold": 30,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.57,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.57,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.57,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.57,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.57,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6176470588235294,
+   "specificity": 0.5,
+   "youden_j": 0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.57,
+   "bm25_threshold": 12,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 0.5,
+   "youden_j": -0.05882352941176472
+  },
+  {
+   "dense_threshold": 0.57,
+   "bm25_threshold": 15,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.57,
+   "bm25_threshold": 20,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.57,
+   "bm25_threshold": 25,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.57,
+   "bm25_threshold": 30,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.58,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.58,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.58,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.58,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.58,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6176470588235294,
+   "specificity": 0.5,
+   "youden_j": 0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.58,
+   "bm25_threshold": 12,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 0.5,
+   "youden_j": -0.05882352941176472
+  },
+  {
+   "dense_threshold": 0.58,
+   "bm25_threshold": 15,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.58,
+   "bm25_threshold": 20,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.58,
+   "bm25_threshold": 25,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.58,
+   "bm25_threshold": 30,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.59,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.59,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.59,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.59,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.59,
+   "bm25_threshold": 10,
+   "sensitivity": 0.6176470588235294,
+   "specificity": 0.5,
+   "youden_j": 0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.59,
+   "bm25_threshold": 12,
+   "sensitivity": 0.4411764705882353,
+   "specificity": 0.5,
+   "youden_j": -0.05882352941176472
+  },
+  {
+   "dense_threshold": 0.59,
+   "bm25_threshold": 15,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.59,
+   "bm25_threshold": 20,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.59,
+   "bm25_threshold": 25,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.59,
+   "bm25_threshold": 30,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 1.0,
+   "youden_j": 0.4117647058823528
+  },
+  {
+   "dense_threshold": 0.6,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.6,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.6,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.6,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.6,
+   "bm25_threshold": 10,
+   "sensitivity": 0.5882352941176471,
+   "specificity": 0.5,
+   "youden_j": 0.08823529411764719
+  },
+  {
+   "dense_threshold": 0.6,
+   "bm25_threshold": 12,
+   "sensitivity": 0.4117647058823529,
+   "specificity": 0.5,
+   "youden_j": -0.08823529411764708
+  },
+  {
+   "dense_threshold": 0.6,
+   "bm25_threshold": 15,
+   "sensitivity": 0.38235294117647056,
+   "specificity": 1.0,
+   "youden_j": 0.38235294117647056
+  },
+  {
+   "dense_threshold": 0.6,
+   "bm25_threshold": 20,
+   "sensitivity": 0.38235294117647056,
+   "specificity": 1.0,
+   "youden_j": 0.38235294117647056
+  },
+  {
+   "dense_threshold": 0.6,
+   "bm25_threshold": 25,
+   "sensitivity": 0.38235294117647056,
+   "specificity": 1.0,
+   "youden_j": 0.38235294117647056
+  },
+  {
+   "dense_threshold": 0.6,
+   "bm25_threshold": 30,
+   "sensitivity": 0.38235294117647056,
+   "specificity": 1.0,
+   "youden_j": 0.38235294117647056
+  },
+  {
+   "dense_threshold": 0.61,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.61,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.61,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.61,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.61,
+   "bm25_threshold": 10,
+   "sensitivity": 0.5882352941176471,
+   "specificity": 0.5,
+   "youden_j": 0.08823529411764719
+  },
+  {
+   "dense_threshold": 0.61,
+   "bm25_threshold": 12,
+   "sensitivity": 0.38235294117647056,
+   "specificity": 0.5,
+   "youden_j": -0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.61,
+   "bm25_threshold": 15,
+   "sensitivity": 0.35294117647058826,
+   "specificity": 1.0,
+   "youden_j": 0.3529411764705883
+  },
+  {
+   "dense_threshold": 0.61,
+   "bm25_threshold": 20,
+   "sensitivity": 0.35294117647058826,
+   "specificity": 1.0,
+   "youden_j": 0.3529411764705883
+  },
+  {
+   "dense_threshold": 0.61,
+   "bm25_threshold": 25,
+   "sensitivity": 0.35294117647058826,
+   "specificity": 1.0,
+   "youden_j": 0.3529411764705883
+  },
+  {
+   "dense_threshold": 0.61,
+   "bm25_threshold": 30,
+   "sensitivity": 0.35294117647058826,
+   "specificity": 1.0,
+   "youden_j": 0.3529411764705883
+  },
+  {
+   "dense_threshold": 0.62,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.62,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.62,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.62,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.62,
+   "bm25_threshold": 10,
+   "sensitivity": 0.5882352941176471,
+   "specificity": 0.5,
+   "youden_j": 0.08823529411764719
+  },
+  {
+   "dense_threshold": 0.62,
+   "bm25_threshold": 12,
+   "sensitivity": 0.38235294117647056,
+   "specificity": 0.5,
+   "youden_j": -0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.62,
+   "bm25_threshold": 15,
+   "sensitivity": 0.35294117647058826,
+   "specificity": 1.0,
+   "youden_j": 0.3529411764705883
+  },
+  {
+   "dense_threshold": 0.62,
+   "bm25_threshold": 20,
+   "sensitivity": 0.35294117647058826,
+   "specificity": 1.0,
+   "youden_j": 0.3529411764705883
+  },
+  {
+   "dense_threshold": 0.62,
+   "bm25_threshold": 25,
+   "sensitivity": 0.35294117647058826,
+   "specificity": 1.0,
+   "youden_j": 0.3529411764705883
+  },
+  {
+   "dense_threshold": 0.62,
+   "bm25_threshold": 30,
+   "sensitivity": 0.35294117647058826,
+   "specificity": 1.0,
+   "youden_j": 0.3529411764705883
+  },
+  {
+   "dense_threshold": 0.63,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.63,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.63,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.63,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.63,
+   "bm25_threshold": 10,
+   "sensitivity": 0.5588235294117647,
+   "specificity": 0.5,
+   "youden_j": 0.05882352941176472
+  },
+  {
+   "dense_threshold": 0.63,
+   "bm25_threshold": 12,
+   "sensitivity": 0.3235294117647059,
+   "specificity": 0.5,
+   "youden_j": -0.17647058823529416
+  },
+  {
+   "dense_threshold": 0.63,
+   "bm25_threshold": 15,
+   "sensitivity": 0.29411764705882354,
+   "specificity": 1.0,
+   "youden_j": 0.2941176470588236
+  },
+  {
+   "dense_threshold": 0.63,
+   "bm25_threshold": 20,
+   "sensitivity": 0.29411764705882354,
+   "specificity": 1.0,
+   "youden_j": 0.2941176470588236
+  },
+  {
+   "dense_threshold": 0.63,
+   "bm25_threshold": 25,
+   "sensitivity": 0.29411764705882354,
+   "specificity": 1.0,
+   "youden_j": 0.2941176470588236
+  },
+  {
+   "dense_threshold": 0.63,
+   "bm25_threshold": 30,
+   "sensitivity": 0.29411764705882354,
+   "specificity": 1.0,
+   "youden_j": 0.2941176470588236
+  },
+  {
+   "dense_threshold": 0.64,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.64,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.64,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.64,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.64,
+   "bm25_threshold": 10,
+   "sensitivity": 0.5294117647058824,
+   "specificity": 0.5,
+   "youden_j": 0.02941176470588225
+  },
+  {
+   "dense_threshold": 0.64,
+   "bm25_threshold": 12,
+   "sensitivity": 0.23529411764705882,
+   "specificity": 0.5,
+   "youden_j": -0.2647058823529411
+  },
+  {
+   "dense_threshold": 0.64,
+   "bm25_threshold": 15,
+   "sensitivity": 0.20588235294117646,
+   "specificity": 1.0,
+   "youden_j": 0.2058823529411764
+  },
+  {
+   "dense_threshold": 0.64,
+   "bm25_threshold": 20,
+   "sensitivity": 0.20588235294117646,
+   "specificity": 1.0,
+   "youden_j": 0.2058823529411764
+  },
+  {
+   "dense_threshold": 0.64,
+   "bm25_threshold": 25,
+   "sensitivity": 0.14705882352941177,
+   "specificity": 1.0,
+   "youden_j": 0.1470588235294117
+  },
+  {
+   "dense_threshold": 0.64,
+   "bm25_threshold": 30,
+   "sensitivity": 0.14705882352941177,
+   "specificity": 1.0,
+   "youden_j": 0.1470588235294117
+  },
+  {
+   "dense_threshold": 0.65,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.65,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.65,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.65,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.65,
+   "bm25_threshold": 10,
+   "sensitivity": 0.5,
+   "specificity": 0.5,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.65,
+   "bm25_threshold": 12,
+   "sensitivity": 0.20588235294117646,
+   "specificity": 0.5,
+   "youden_j": -0.2941176470588236
+  },
+  {
+   "dense_threshold": 0.65,
+   "bm25_threshold": 15,
+   "sensitivity": 0.17647058823529413,
+   "specificity": 1.0,
+   "youden_j": 0.17647058823529416
+  },
+  {
+   "dense_threshold": 0.65,
+   "bm25_threshold": 20,
+   "sensitivity": 0.14705882352941177,
+   "specificity": 1.0,
+   "youden_j": 0.1470588235294117
+  },
+  {
+   "dense_threshold": 0.65,
+   "bm25_threshold": 25,
+   "sensitivity": 0.08823529411764706,
+   "specificity": 1.0,
+   "youden_j": 0.08823529411764697
+  },
+  {
+   "dense_threshold": 0.65,
+   "bm25_threshold": 30,
+   "sensitivity": 0.08823529411764706,
+   "specificity": 1.0,
+   "youden_j": 0.08823529411764697
+  },
+  {
+   "dense_threshold": 0.66,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.66,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.66,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.66,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.66,
+   "bm25_threshold": 10,
+   "sensitivity": 0.5,
+   "specificity": 0.5,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.66,
+   "bm25_threshold": 12,
+   "sensitivity": 0.20588235294117646,
+   "specificity": 0.5,
+   "youden_j": -0.2941176470588236
+  },
+  {
+   "dense_threshold": 0.66,
+   "bm25_threshold": 15,
+   "sensitivity": 0.17647058823529413,
+   "specificity": 1.0,
+   "youden_j": 0.17647058823529416
+  },
+  {
+   "dense_threshold": 0.66,
+   "bm25_threshold": 20,
+   "sensitivity": 0.14705882352941177,
+   "specificity": 1.0,
+   "youden_j": 0.1470588235294117
+  },
+  {
+   "dense_threshold": 0.66,
+   "bm25_threshold": 25,
+   "sensitivity": 0.08823529411764706,
+   "specificity": 1.0,
+   "youden_j": 0.08823529411764697
+  },
+  {
+   "dense_threshold": 0.66,
+   "bm25_threshold": 30,
+   "sensitivity": 0.08823529411764706,
+   "specificity": 1.0,
+   "youden_j": 0.08823529411764697
+  },
+  {
+   "dense_threshold": 0.67,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.67,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.67,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.67,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.67,
+   "bm25_threshold": 10,
+   "sensitivity": 0.5,
+   "specificity": 0.5,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.67,
+   "bm25_threshold": 12,
+   "sensitivity": 0.20588235294117646,
+   "specificity": 0.5,
+   "youden_j": -0.2941176470588236
+  },
+  {
+   "dense_threshold": 0.67,
+   "bm25_threshold": 15,
+   "sensitivity": 0.17647058823529413,
+   "specificity": 1.0,
+   "youden_j": 0.17647058823529416
+  },
+  {
+   "dense_threshold": 0.67,
+   "bm25_threshold": 20,
+   "sensitivity": 0.14705882352941177,
+   "specificity": 1.0,
+   "youden_j": 0.1470588235294117
+  },
+  {
+   "dense_threshold": 0.67,
+   "bm25_threshold": 25,
+   "sensitivity": 0.08823529411764706,
+   "specificity": 1.0,
+   "youden_j": 0.08823529411764697
+  },
+  {
+   "dense_threshold": 0.67,
+   "bm25_threshold": 30,
+   "sensitivity": 0.08823529411764706,
+   "specificity": 1.0,
+   "youden_j": 0.08823529411764697
+  },
+  {
+   "dense_threshold": 0.68,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.68,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.68,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.68,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.68,
+   "bm25_threshold": 10,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 0.5,
+   "youden_j": -0.02941176470588236
+  },
+  {
+   "dense_threshold": 0.68,
+   "bm25_threshold": 12,
+   "sensitivity": 0.17647058823529413,
+   "specificity": 0.5,
+   "youden_j": -0.32352941176470584
+  },
+  {
+   "dense_threshold": 0.68,
+   "bm25_threshold": 15,
+   "sensitivity": 0.14705882352941177,
+   "specificity": 1.0,
+   "youden_j": 0.1470588235294117
+  },
+  {
+   "dense_threshold": 0.68,
+   "bm25_threshold": 20,
+   "sensitivity": 0.11764705882352941,
+   "specificity": 1.0,
+   "youden_j": 0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.68,
+   "bm25_threshold": 25,
+   "sensitivity": 0.029411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.02941176470588225
+  },
+  {
+   "dense_threshold": 0.68,
+   "bm25_threshold": 30,
+   "sensitivity": 0.029411764705882353,
+   "specificity": 1.0,
+   "youden_j": 0.02941176470588225
+  },
+  {
+   "dense_threshold": 0.69,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.69,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.69,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.69,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.69,
+   "bm25_threshold": 10,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 0.5,
+   "youden_j": -0.02941176470588236
+  },
+  {
+   "dense_threshold": 0.69,
+   "bm25_threshold": 12,
+   "sensitivity": 0.17647058823529413,
+   "specificity": 0.5,
+   "youden_j": -0.32352941176470584
+  },
+  {
+   "dense_threshold": 0.69,
+   "bm25_threshold": 15,
+   "sensitivity": 0.14705882352941177,
+   "specificity": 1.0,
+   "youden_j": 0.1470588235294117
+  },
+  {
+   "dense_threshold": 0.69,
+   "bm25_threshold": 20,
+   "sensitivity": 0.11764705882352941,
+   "specificity": 1.0,
+   "youden_j": 0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.69,
+   "bm25_threshold": 25,
+   "sensitivity": 0.0,
+   "specificity": 1.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.69,
+   "bm25_threshold": 30,
+   "sensitivity": 0.0,
+   "specificity": 1.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.7,
+   "bm25_threshold": 0,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.7,
+   "bm25_threshold": 4,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.7,
+   "bm25_threshold": 6,
+   "sensitivity": 1.0,
+   "specificity": 0.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.7,
+   "bm25_threshold": 8,
+   "sensitivity": 1.0,
+   "specificity": 0.16666666666666666,
+   "youden_j": 0.16666666666666674
+  },
+  {
+   "dense_threshold": 0.7,
+   "bm25_threshold": 10,
+   "sensitivity": 0.47058823529411764,
+   "specificity": 0.5,
+   "youden_j": -0.02941176470588236
+  },
+  {
+   "dense_threshold": 0.7,
+   "bm25_threshold": 12,
+   "sensitivity": 0.17647058823529413,
+   "specificity": 0.5,
+   "youden_j": -0.32352941176470584
+  },
+  {
+   "dense_threshold": 0.7,
+   "bm25_threshold": 15,
+   "sensitivity": 0.14705882352941177,
+   "specificity": 1.0,
+   "youden_j": 0.1470588235294117
+  },
+  {
+   "dense_threshold": 0.7,
+   "bm25_threshold": 20,
+   "sensitivity": 0.11764705882352941,
+   "specificity": 1.0,
+   "youden_j": 0.11764705882352944
+  },
+  {
+   "dense_threshold": 0.7,
+   "bm25_threshold": 25,
+   "sensitivity": 0.0,
+   "specificity": 1.0,
+   "youden_j": 0.0
+  },
+  {
+   "dense_threshold": 0.7,
+   "bm25_threshold": 30,
+   "sensitivity": 0.0,
+   "specificity": 1.0,
+   "youden_j": 0.0
+  }
+ ],
+ "best": {
+  "dense_threshold": 0.41,
+  "bm25_threshold": 15,
+  "sensitivity": 0.7941176470588235,
+  "specificity": 0.8333333333333334,
+  "youden_j": 0.6274509803921569
+ }
+}

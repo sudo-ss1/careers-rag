@@ -41,16 +41,23 @@ def main() -> None:
 
     golden = json.loads((ROOT / "eval/golden.json").read_text())
 
-    # Gate on raw DENSE cosine, not the fused RRF score: RRF scores are
-    # rank-derived and bounded by 1/(k+1), so they carry no notion of "how
-    # similar is this really" -- which is exactly what a threshold needs.
+    # Gate on raw retriever scores, never on the fused RRF score: RRF is
+    # rank-derived and bounded by 1/(k+1), so it carries no notion of "how
+    # similar is this actually" -- which is the only thing a threshold needs.
+    #
+    # BOTH arms are calibrated, because a dense-only gate false-abstained on
+    # every exact-token query (grpc, matlab, selenium, tensorflow) -- the exact
+    # queries where dense is the weak retriever. The gate has to be hybrid for
+    # the same reason retrieval does.
     scored = []
     for q in golden:
-        hits = r.search(q["query"], mode="dense", k=5)
+        dense = r.search(q["query"], mode="dense", k=5)
+        lex = r.bm25.search(q["query"], k=5)
         scored.append({
             "query": q["query"],
             "answerable": bool(q["relevant"]),
-            "top": hits[0].score if hits else 0.0,
+            "top": dense[0].score if dense else 0.0,
+            "bm25": lex[0][1] if lex else 0.0,
         })
 
     pos = [s["top"] for s in scored if s["answerable"]]
@@ -58,22 +65,32 @@ def main() -> None:
     print(f"answerable  n={len(pos)}  min={min(pos):.3f} mean={sum(pos)/len(pos):.3f}")
     print(f"out-of-corpus n={len(neg)}  max={max(neg):.3f} mean={sum(neg)/len(neg):.3f}")
 
+    lex_pos = [s_["bm25"] for s_ in scored if s_["answerable"]]
+    lex_neg = [s_["bm25"] for s_ in scored if not s_["answerable"]]
+    print(f"bm25 answerable mean={sum(lex_pos)/len(lex_pos):.1f}  "
+          f"out-of-corpus max={max(lex_neg):.1f}")
+
+    # Joint sweep over the OR rule: answer if EITHER arm is confident.
     best, sweep = None, []
     for i in range(20, 71):
-        t = i / 100
-        tp = sum(1 for v in pos if v >= t)
-        fn = len(pos) - tp
-        tn = sum(1 for v in neg if v < t)
-        fp = len(neg) - tn
-        sens = tp / max(1, len(pos))
-        spec = tn / max(1, len(neg))
-        j = sens + spec - 1
-        sweep.append({"threshold": t, "sensitivity": sens, "specificity": spec,
-                      "youden_j": j, "tp": tp, "fn": fn, "tn": tn, "fp": fp})
-        if best is None or j > best["youden_j"]:
-            best = sweep[-1]
+        td = i / 100
+        for tb in [0, 4, 6, 8, 10, 12, 15, 20, 25, 30]:
+            def answers(s_):
+                return s_["top"] >= td or s_["bm25"] >= tb
+            tp = sum(1 for s_ in scored if s_["answerable"] and answers(s_))
+            tn = sum(1 for s_ in scored if not s_["answerable"] and not answers(s_))
+            sens = tp / max(1, len(pos))
+            spec = tn / max(1, len(neg))
+            j = sens + spec - 1
+            row = {"dense_threshold": td, "bm25_threshold": tb,
+                   "sensitivity": sens, "specificity": spec, "youden_j": j}
+            sweep.append(row)
+            # Tie-break toward higher sensitivity: a false abstention is the
+            # failure users actually notice.
+            if best is None or (j, sens) > (best["youden_j"], best["sensitivity"]):
+                best = row
 
-    print(f"\nbest threshold = {best['threshold']:.2f}  "
+    print(f"\nbest gate: dense >= {best['dense_threshold']:.2f} OR bm25 >= {best['bm25_threshold']}  "
           f"(answers {best['sensitivity']:.0%} of answerable, "
           f"abstains on {best['specificity']:.0%} of out-of-corpus)")
 

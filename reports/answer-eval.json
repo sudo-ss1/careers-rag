@@ -1,0 +1,807 @@
+{
+ "summary": {
+  "n_queries": 40,
+  "answerable": {
+   "n": 34,
+   "answered": 33,
+   "answer_rate": 0.9705882352941176,
+   "false_abstention_rate": 0.02941176470588236,
+   "citation_hit_rate": 1.0,
+   "citation_precision": 0.8571428571428571
+  },
+  "unanswerable": {
+   "n": 6,
+   "abstained": 6,
+   "correct_abstention_rate": 1.0
+  },
+  "hallucinated_citations": 0,
+  "abstention_reasons": {
+   "model_no_match": 5,
+   "below_retrieval_threshold": 2
+  }
+ },
+ "rows": [
+  {
+   "query_id": "reqid-1440127",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 1440127 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "1440127"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "1440127"
+   ],
+   "text": "Requisition 1440127 is for the position of Lead Site Reliability Engineer, Data Platform - AI/ML Infrastructure, located in Bangalore, India. This full-time hybrid role involves utilizing strong programming skills to integrate software and systems engineering, building core data platform capabilities and automation to meet enterprise customer needs. The responsibilities include developing strategi",
+   "top_score": 0.4143
+  },
+  {
+   "query_id": "reqid-2010573",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 2010573 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2010573"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2010573"
+   ],
+   "text": "Requisition 2010573 is for the role of Solutions Engineer - Portfolio, located in Belfast, United Kingdom. This full-time, hybrid position involves being a technical sales professional who provides solutions to meet customer business needs, particularly in the Public Sector and Commercial sectors. The role requires collaboration with account teams and technical experts to architect innovative solu",
+   "top_score": 0.4104
+  },
+  {
+   "query_id": "reqid-2013895",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 2013895 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2013895"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2013895"
+   ],
+   "text": "Requisition 2013895 is for the position of Telco Account Executive located in Riyadh, Saudi Arabia. This full-time role is part of the Europe, Middle East & Africa Service Provider (EMEA SP) team at Cisco. The position focuses on selling solutions and products to help customers succeed in the rapidly evolving digital economy, emphasizing the importance of Service Providers in maintaining connectiv",
+   "top_score": 0.4253
+  },
+  {
+   "query_id": "reqid-2015955",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 2015955 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2015955"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2015955"
+   ],
+   "text": "Req ID 2015955 is for the position of Consulting Engineer, located in Pune and Bangalore, India. This full-time role falls under the Customer Experience category and is hybrid. The responsibilities include identifying and escalating risks proactively, providing structured problem analysis, and recommending mitigation actions to senior engineers and program leads. Additionally, this posting adverti",
+   "top_score": 0.4095
+  },
+  {
+   "query_id": "reqid-2017930",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 2017930 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2017930"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2017930"
+   ],
+   "text": "Req ID 2017930 is for the position of Mechanical Engineering Technical Leader located in Bangalore, India. The role requires 16+ years of hands-on experience in the design of Telecom & Datacentre products, with a background in Mechanical Engineering (MTech/BTech). Candidates should be experienced in solid modelling tools like Creo and UG-NX, as well as structural simulation tools like Ansys. The p",
+   "top_score": 0.4326
+  },
+  {
+   "query_id": "reqid-2018781",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 2018781 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2018781"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2018781"
+   ],
+   "text": "Requisition 2018781 is for the role of Account Executive - Portfolio, located in Mumbai, India. This full-time, onsite position involves working with customers to develop innovation strategies that save costs, deliver business value, and provide a competitive advantage. The role focuses on value-based selling and crafting business relevance for technology solutions, while being part of Cisco's Com",
+   "top_score": 0.3978
+  },
+  {
+   "query_id": "reqid-2019781",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 2019781 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2019781"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2019781"
+   ],
+   "text": "Req ID 2019781 is for the position of Test Development Engineering Technical Leader located in Hsinchu, Hsinchu City, Taiwan, and Taipei, New Taipei, Taiwan. The role involves conducting root cause and failure analysis, overseeing product qualification and burn-in testing, utilizing data-driven leadership for optimization, and providing mentorship to junior engineers. The position is categorized u",
+   "top_score": 0.3867
+  },
+  {
+   "query_id": "reqid-2020622",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 2020622 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2020622"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2020622"
+   ],
+   "text": "The requisition 2020622 is for a Solutions Engineer position located in Minato, Tokyo, Japan. This full-time, hybrid role involves providing technical solutions to address customer and partner business needs, collaborating with account teams, and ensuring customer success. Candidates must have a Bachelor's degree with 5 years of related experience, a Master's with 3 years, or a PhD with no experie",
+   "top_score": 0.4328
+  },
+  {
+   "query_id": "reqid-2021252",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 2021252 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2021252"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2021252"
+   ],
+   "text": "Req ID 2021252 is for a Test Engineer position located in Guadalajara, Mexico. This role is part of the Global Manufacturing Operations (GMO) Testing Engineering team, which focuses on ensuring the quality, reliability, and performance of manufacturing processes and products. The responsibilities include managing functional test capacity, developing and maintaining various testing strategies, and ",
+   "top_score": 0.4299
+  },
+  {
+   "query_id": "reqid-2021863",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 2021863 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2021863"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2021863"
+   ],
+   "text": "Requisition 2021863 is for the role of Account Executive - Portfolio, located in Syracuse, New York, United States. This full-time, remote position involves leading a defined portfolio of strategic Public Sector accounts, acting as a trusted advisor, and influencing customer purchasing decisions. The role requires regular travel within the region and aims to drive business growth by aligning Cisco",
+   "top_score": 0.417
+  },
+  {
+   "query_id": "reqid-2022652",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 2022652 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2022652"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2022652"
+   ],
+   "text": "Req ID 2022652 is for the position of Account Executive - Portfolio in the Enterprise Sector, located in Riyadh, Saudi Arabia. This full-time, hybrid role focuses on handling comprehensive sales cycles within the enterprise technology sector, particularly in public or private sectors and giga projects. Candidates should have expertise in secure networking technologies and proficiency in CRM tools,",
+   "top_score": 0.4387
+  },
+  {
+   "query_id": "reqid-2023368",
+   "family": "lexical",
+   "subtype": "req_id",
+   "query": "What is requisition 2023368 about?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2023368"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2023368"
+   ],
+   "text": "Requisition 2023368 is for the role of Inside Account Executive located in Singapore. This full-time, hybrid position involves collaborating with partners and cross-functional teams to design and propose customized solutions for customers. The role includes facilitating technical discussions, ensuring real-time updates across deal stages, and influencing partners by providing expertise in the Netw",
+   "top_score": 0.4371
+  },
+  {
+   "query_id": "tech-grpc",
+   "family": "lexical",
+   "subtype": "tech_token",
+   "query": "Which open roles work with grpc?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2018322",
+    "2019479"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2018322"
+   ],
+   "text": "The open roles that work with gRPC are:\n\n1. Software Engineer - C, Embedded, Multithreading, Netconf with Req ID [2018322].\n2. Software Engineer - Go Lang, API Gateway, KONG, OAuth2 with Req ID [2019479].\n\nThese positions mention experience with gRPC-based services and API programming.",
+   "top_score": 0.4046
+  },
+  {
+   "query_id": "tech-matlab",
+   "family": "lexical",
+   "subtype": "tech_token",
+   "query": "Which open roles work with matlab?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2003531",
+    "2018984"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2003531",
+    "2018984"
+   ],
+   "text": "The open roles that work with Matlab are:\n\n1. PHY System [2003531] - Requires proficiency in Matlab as a plus.\n2. ASIC Engineering Technical Leader [2018984] - Requires strong programming skills including Matlab.\n\nThese positions involve technical skills related to Matlab in their respective fields.",
+   "top_score": 0.3638
+  },
+  {
+   "query_id": "tech-selenium",
+   "family": "lexical",
+   "subtype": "tech_token",
+   "query": "Which open roles work with selenium?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2021622",
+    "2021627"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2021622",
+    "2021627"
+   ],
+   "text": "The open roles that work with Selenium are:\n\n1. Solution Test Engineer | Python/Java | Selenium/Playwright/Cypress | Rest API/PyTest | Networking | AWS - 7 to 10 years - Bangalore [2021622].\n2. Technical Leader \u2013 Solution Testing & Quality [2021627].\n\nBoth roles require experience in UI automation using Selenium.",
+   "top_score": 0.4023
+  },
+  {
+   "query_id": "tech-spark",
+   "family": "lexical",
+   "subtype": "tech_token",
+   "query": "Which open roles work with spark?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2021441",
+    "2024459"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2021441",
+    "2024459"
+   ],
+   "text": "The open roles that work with Spark are:\n\n1. Sr. Data Engineer [2021441] - Requires proficiency in distributed data processing frameworks, specifically Spark.\n2. Data Engineer I (Full-Time) - United States [2024459] - Familiarity with big data frameworks, including Spark, is mentioned.\n\nThese roles involve working with Spark in data engineering contexts.",
+   "top_score": 0.4364
+  },
+  {
+   "query_id": "tech-tensorflow",
+   "family": "lexical",
+   "subtype": "tech_token",
+   "query": "Which open roles work with tensorflow?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2015076",
+    "2021635",
+    "2021849",
+    "2022551"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2015076",
+    "2021849",
+    "2022551"
+   ],
+   "text": "The open roles that work with TensorFlow are:\n\n1. Software Engineer [2021849] - Requires experience with TensorFlow and AI/ML frameworks.\n2. Solutions Engineer - Artificial Intelligence (AI) Practitioner [2022551] - Involves experience with TensorFlow and model-serving frameworks.\n3. AI Researcher [2015076] - Requires proficiency in TensorFlow and building scalable AI pipelines.\n4. AI Operations E",
+   "top_score": 0.3911
+  },
+  {
+   "query_id": "catloc-Sales-Singapore",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Sales openings in Singapore?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2018657",
+    "2018659",
+    "2018913",
+    "2023368"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2018657",
+    "2018913"
+   ],
+   "text": "Yes, there are several Sales openings in Singapore:\n\n1. Associate Sales Representative, Singapore [2018659]\n2. Associate Solutions Engineer, Singapore [2018657]\n3. Inside Account Executive [2023368]\n4. Account Executive - CCaaS [2018913]",
+   "top_score": 0.6365
+  },
+  {
+   "query_id": "catloc-Other-Japan",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Other openings in Japan?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2006339",
+    "2014672",
+    "2018423",
+    "2018653"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2006339",
+    "2014672",
+    "2018423"
+   ],
+   "text": "Yes, there are other openings in Japan:\n\n1. Virtual Account Executive located in Minato, Tokyo, Japan; Kita, Japan [2014672].\n2. General Administrative/Support position specifically for individuals with disabilities, located in Minato, Tokyo, Japan; Kita, Japan [2006339].\n3. Operations Analyst located in Minato, Tokyo, Japan [2018423].\n\nAdditionally, there is a potential opening for an Associate S",
+   "top_score": 0.4828
+  },
+  {
+   "query_id": "catloc-Productand-Poland",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Product and Engineering openings in Poland?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "1448815",
+    "2017464",
+    "2021196"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "1448815",
+    "2017464",
+    "2021196"
+   ],
+   "text": "Yes, there are Product and Engineering openings in Poland. The available roles are:\n\n1. Senior Software Engineer / Technical Lead in Krakow, Gdansk, and Warsaw [2021196].\n2. Senior Engineer Cloud Infrastructure in Warsaw and Krakow [2017464].\n3. Software Engineer - Device Automation in Krakow [1448815].",
+   "top_score": 0.6779
+  },
+  {
+   "query_id": "catloc-Other-Singapore",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Other openings in Singapore?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2002951",
+    "2018657",
+    "2018659",
+    "2023368"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2002951",
+    "2018659",
+    "2023368"
+   ],
+   "text": "Yes, there are other openings in Singapore. The roles include:\n\n1. Associate Sales Representative, Singapore [2018659]\n2. Sales Development Representative (Taiwan Market) [2002951]\n3. Associate Solutions Engineer \u2013 Singapore [2018657]\n4. Inside Account Executive [2023368]",
+   "top_score": 0.5415
+  },
+  {
+   "query_id": "catloc-SupplyChain-India",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Supply Chain and Manufacturing Ops openings in India?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2017938",
+    "2019413",
+    "2022109"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2017938",
+    "2019413",
+    "2022109"
+   ],
+   "text": "Yes, there are Supply Chain and Manufacturing Ops openings in India:\n\n1. Manufacturing Engineer in Chennai, India; Bayan Lepas, Pulau Pinang (Penang), Malaysia [2019413].\n2. Product Lifecycle Project Manager in Bangalore, India [2022109].\n3. Reliability Engineer in Bangalore, India [2017938]. \n\nAll positions are full-time and hybrid.",
+   "top_score": 0.6375
+  },
+  {
+   "query_id": "catloc-Sales-Netherlands",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Sales openings in Netherlands?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2012031",
+    "2012639",
+    "2018450",
+    "2018452"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2012031",
+    "2012639",
+    "2018452"
+   ],
+   "text": "Yes, there are Sales openings in the Netherlands. The roles include:\n\n1. Associate Sales Representative - CSAP - Netherlands [2018450]\n2. Associate Solutions Engineer - CSAP - Netherlands [2018452]\n3. Leader, Sales Public Sector Splunk [2012031]\n4. Director, Sales [2012639]",
+   "top_score": 0.63
+  },
+  {
+   "query_id": "catloc-SupplyChain-Vietnam",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Supply Chain and Manufacturing Ops openings in Vietnam?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2015038",
+    "2017101",
+    "2022082",
+    "2023321"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2015038",
+    "2017101",
+    "2022082",
+    "2023321"
+   ],
+   "text": "Yes, there are several Supply Chain and Manufacturing Ops openings in Vietnam:\n\n1. Technical Operations Manager [2023321] - Hanoi, H\u00e0 N\u1ed9i, Vietnam.\n2. Test Development Engineering Technical Leader [2017101] - Hanoi, H\u00e0 N\u1ed9i, Vietnam.\n3. Test Development Engineer [2015038] - Hanoi, H\u00e0 N\u1ed9i, Vietnam; Chon Buri, Thailand.\n4. Failure Analysis Engineer [2022082] - Hanoi, H\u00e0 N\u1ed9i, Vietnam.",
+   "top_score": 0.683
+  },
+  {
+   "query_id": "catloc-SupplyChain-Mexico",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Supply Chain and Manufacturing Ops openings in Mexico?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2013739",
+    "2020395",
+    "2022977",
+    "2023731"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2013739",
+    "2022977",
+    "2023731"
+   ],
+   "text": "Yes, there are several Supply Chain and Manufacturing Ops openings in Mexico:\n\n1. Manufacturing Engineer [2013739] - Guadalajara, Mexico\n2. Test Technician I Full Time - Mexico [2023731] - Guadalajara, Mexico\n3. Manufacturing Engineer [2022977] - Guadalajara, Mexico\n4. Partner Sourcing Manager - Hybrid [2020395] - Guadalajara, Mexico\n\nAll positions are full-time and onsite or hybrid.",
+   "top_score": 0.6778
+  },
+  {
+   "query_id": "catloc-CustomerExp-Malaysia",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Customer Experience openings in Malaysia?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2018058",
+    "2018147",
+    "2019793",
+    "2020648"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2018058",
+    "2018147",
+    "2019793",
+    "2020648"
+   ],
+   "text": "Yes, there are Customer Experience openings in Malaysia. The roles include:\n\n1. Customer Experience Customer Success Specialist [2019793]\n2. Consulting Engineer - Data Center [2018058]\n3. Consulting Engineer | Collaboration (Japanese Speaking) [2018147]\n4. Customer Project Manager - Japanese speaking [2020648]",
+   "top_score": 0.622
+  },
+  {
+   "query_id": "catloc-CustomerExp-UnitedState",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Customer Experience openings in United States of America?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2019856",
+    "2019858",
+    "2020609"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2019856",
+    "2019858",
+    "2020609"
+   ],
+   "text": "Yes, there are Customer Experience openings in the United States of America. The roles include:\n\n1. Customer Experience Customer Success Specialist I (Full Time) [2019858] in Research Triangle Park, North Carolina.\n2. Customer Experience Customer Success Specialist II (Full Time) [2019856] in Research Triangle Park, North Carolina.\n3. Customer Experience Customer Success Technical Leader [2020609]",
+   "top_score": 0.6262
+  },
+  {
+   "query_id": "catloc-Sales-Germany",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Sales openings in Germany?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2014767",
+    "2018447",
+    "2018451",
+    "2018493"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2014767",
+    "2018451",
+    "2018493"
+   ],
+   "text": "Yes, there are Sales openings in Germany. The roles include:\n\n1. Account Executive - Portfolio located in Dusseldorf, Bonn, and Cologne [2014767].\n2. Associate Sales Representative - CSAP - Germany located in Eschborn, Amsterdam, and Berlin [2018447].\n3. Associate Solutions Engineer - CSAP - Germany located in Eschborn, Amsterdam, and Dusseldorf [2018451].\n4. Account Executive - Architecture locat",
+   "top_score": 0.6058
+  },
+  {
+   "query_id": "catloc-Sales-SaudiArabia",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Sales openings in Saudi Arabia?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2012553",
+    "2018436",
+    "2020338",
+    "2020849"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2012553",
+    "2018436",
+    "2020338",
+    "2020849"
+   ],
+   "text": "Yes, there are several Sales openings in Saudi Arabia:\n\n1. Account Executive - Splunk [2020849]\n2. Senior Cybersecurity Solutions Engineer - Splunk (Saudi Arabia) [2012553]\n3. Solutions Engineer [2018436]\n4. Leader, Sales - Commercial Sector \u2013 KSA [2020338]",
+   "top_score": 0.646
+  },
+  {
+   "query_id": "catloc-SupplyChain-Thailand",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Supply Chain and Manufacturing Ops openings in Thailand?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2017033",
+    "2017395",
+    "2022653",
+    "2023086"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2022653",
+    "2023086"
+   ],
+   "text": "Yes, there are several Supply Chain and Manufacturing Ops openings in Thailand:\n\n1. Partner Cost Manager in Chon Buri and Bangkok, Thailand [2022653].\n2. Inventory Analyst in Bangkok, Thailand [2023086].\n3. Supply Planning Manager in Bayan Lepas, Pulau Pinang (Penang) and Bangkok, Thailand [2017033].\n4. Supply Planning Manager in Bayan Lepas, Pulau Pinang (Penang) and Bangkok, Thailand [2017395].",
+   "top_score": 0.6314
+  },
+  {
+   "query_id": "catloc-Information-India",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Information Technology openings in India?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2016018",
+    "2020313",
+    "2021295",
+    "2022508"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2016018",
+    "2021295",
+    "2022508"
+   ],
+   "text": "Yes, there are Information Technology openings in India:\n\n1. Network Systems Engineer in Bangalore and Hyderabad [2022508].\n2. Database Administrator in Bangalore [2016018].\n3. Technical Systems Engineer (Pune) - Splunk in Pune [2021295].\n4. Forward Deployed Engineer in Bangalore, Hyderabad, and Mumbai [2020313].",
+   "top_score": 0.5121
+  },
+  {
+   "query_id": "catloc-Productand-Thailand",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Product and Engineering openings in Thailand?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2007945",
+    "2022809",
+    "2023018",
+    "2023975"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2007945",
+    "2022809",
+    "2023018",
+    "2023975"
+   ],
+   "text": "Yes, there are several Product and Engineering openings in Thailand:\n\n1. Process Automation Engineer - Optical & Transceiver Products [2007945] in Bangkok and Pathum Thani.\n2. Product Engineer - Client SiPh [2023018] in Bangkok.\n3. Product Engineer - Wafer Test [2022809] in Bangkok.\n4. Product Engineer - ITLA ODB [2023975] in Pathum Thani.",
+   "top_score": 0.6344
+  },
+  {
+   "query_id": "catloc-Productand-Switzerland",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Product and Engineering openings in Switzerland?",
+   "answerable": true,
+   "abstained": true,
+   "reason": "model_no_match",
+   "citations": [],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [],
+   "text": "I don't have any open roles matching that in the current posting snapshot.",
+   "top_score": 0.6433
+  },
+  {
+   "query_id": "catloc-Sales-Poland",
+   "family": "lexical",
+   "subtype": "category_location",
+   "query": "Are there Sales openings in Poland?",
+   "answerable": true,
+   "abstained": false,
+   "reason": "",
+   "citations": [
+    "2016398",
+    "2020351",
+    "2020512"
+   ],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [
+    "2016398",
+    "2020351",
+    "2020512"
+   ],
+   "text": "Yes, there are several Sales openings in Poland:\n\n1. Solutions Engineer, Polish Mid Market (GVSE) - Req ID [2020351], located in Krakow and Warsaw.\n2. Deal Strategy and Execution Lead - Req ID [2020512], located in Krakow.\n3. Strategic Deals Specialist, Global Security Sales Organization - Req ID [2016398], located in Krakow.\n\nAll positions are full-time and offer hybrid or onsite work options.",
+   "top_score": 0.5967
+  },
+  {
+   "query_id": "unanswerable-0",
+   "family": "unanswerable",
+   "subtype": "out_of_corpus",
+   "query": "Do you have quantum cryptography research roles in Antarctica?",
+   "answerable": false,
+   "abstained": true,
+   "reason": "model_no_match",
+   "citations": [],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [],
+   "text": "I don't have any open roles matching that in the current posting snapshot.",
+   "top_score": 0.4092
+  },
+  {
+   "query_id": "unanswerable-1",
+   "family": "unanswerable",
+   "subtype": "out_of_corpus",
+   "query": "I'm looking for a role as a commercial airline pilot.",
+   "answerable": false,
+   "abstained": true,
+   "reason": "below_retrieval_threshold",
+   "citations": [],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [],
+   "text": "I don't have any open roles matching that in the current posting snapshot.",
+   "top_score": 0.349
+  },
+  {
+   "query_id": "unanswerable-2",
+   "family": "unanswerable",
+   "subtype": "out_of_corpus",
+   "query": "Are there any open positions for a professional chef?",
+   "answerable": false,
+   "abstained": true,
+   "reason": "model_no_match",
+   "citations": [],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [],
+   "text": "I don't have any open roles matching that in the current posting snapshot.",
+   "top_score": 0.3622
+  },
+  {
+   "query_id": "unanswerable-3",
+   "family": "unanswerable",
+   "subtype": "out_of_corpus",
+   "query": "Do you hire marine biologists for coral reef research?",
+   "answerable": false,
+   "abstained": true,
+   "reason": "below_retrieval_threshold",
+   "citations": [],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [],
+   "text": "I don't have any open roles matching that in the current posting snapshot.",
+   "top_score": 0.3051
+  },
+  {
+   "query_id": "unanswerable-4",
+   "family": "unanswerable",
+   "subtype": "out_of_corpus",
+   "query": "Is there a remote role teaching high-school mathematics?",
+   "answerable": false,
+   "abstained": true,
+   "reason": "model_no_match",
+   "citations": [],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [],
+   "text": "I don't have any open roles matching that in the current posting snapshot.",
+   "top_score": 0.3866
+  },
+  {
+   "query_id": "unanswerable-5",
+   "family": "unanswerable",
+   "subtype": "out_of_corpus",
+   "query": "What veterinary surgeon openings are available in Lisbon?",
+   "answerable": false,
+   "abstained": true,
+   "reason": "model_no_match",
+   "citations": [],
+   "cited_not_retrieved": [],
+   "cited_in_gold": [],
+   "text": "I don't have any open roles matching that in the current posting snapshot.",
+   "top_score": 0.4649
+  }
+ ]
+}
