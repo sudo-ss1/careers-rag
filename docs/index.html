@@ -559,7 +559,7 @@ const K1=1.5, B=0.75;
 const STOP=new Set(("the a an and or of to in for on with at by is are be as that this it you your we our will have has from their they not but can all any more who").split(" "));
 const TOK=/[a-z0-9][a-z0-9.+#/-]*/g;
 const tokenize=t=>(t.toLowerCase().match(TOK)||[]).filter(w=>w.length>1&&!STOP.has(w));
-const DATA_V='2026-09-05.7';
+const DATA_V='2026-09-05.8';
 const esc=t=>String(t).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 /* Words that carry no role intent -- stripped so "software engineer jobs" and
@@ -679,7 +679,11 @@ function search(pool,k=8){
     });
   });
   const ranked=[...sc.entries()].sort((a,b)=>b[1]-a[1]).slice(0,k);
-  if(!ranked.length&&pool.length){
+  /* Only fall back when a CONSTRAINT is narrowing the pool. The fallback exists
+     to resolve the contradiction "22 roles match but none are shown"; with no
+     constraints active there is no contradiction -- "jobs in Wakanda" matching
+     nothing should say so, not dump eight unrelated roles. */
+  if(!ranked.length&&pool.length&&pool.length<IDX.docs.length){
     FELL_BACK=true;
     return pool.map(i=>[i,0])
       .sort((a,b)=>(IDX.docs[b[0]].d||'').localeCompare(IDX.docs[a[0]].d||'')).slice(0,k);
@@ -725,12 +729,14 @@ function render(userText){
         <h4><a href="${d.u}" target="_blank" rel="noopener">${highlight(d.t,terms)}</a></h4>
         <div class="m">req ${d.r} · ${esc(d.l)} · ${esc(d.c)} · ${esc(d.rt||d.e)} · posted ${esc(d.d)}</div>
         <div class="sn">${highlight(d.s,terms)}…</div></div>`;}).join('')}</div>`
-    : `<div class="empty">Nothing in the snapshot matches all of those constraints. Drop one of the chips above, or say <em>“anywhere”</em> to clear the location.</div>`;
-  const tail = !state.terms
-      ? `, newest ${hits.length} shown`
-      : FELL_BACK
-        ? ` — but none mention “${esc(state.terms)}”, so here they are anyway`
-        : `, showing the ${hits.length} best for “${esc(state.terms)}”`;
+    : `<div class="empty">${pool.length===0
+        ? 'Nothing in the snapshot matches all of those constraints. Drop one of the chips above, or say <em>&ldquo;anywhere&rdquo;</em> to clear the location.'
+        : 'No posting mentions that. Try different wording, or drop a constraint.'}</div>`;
+  const tail = pool.length===0 ? ''
+    : !state.terms ? `, newest ${hits.length} shown`
+    : FELL_BACK ? ` — none mention “${esc(state.terms)}”, so here they all are`
+    : hits.length ? `, showing the ${hits.length} best for “${esc(state.terms)}”`
+    : ` — but none mention “${esc(state.terms)}”`;
   bot.innerHTML=`<div class="understood">reading as: ${slotChips()}</div>
     <div class="count"><b>${pool.length}</b> role${plural} match${pool.length===1?'es':''} the constraints${tail}</div>${cards}`;
   thread.appendChild(bot);
