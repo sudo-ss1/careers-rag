@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022514EXTERNALENGLOBAL",
+ "req_id": "2022514",
+ "title": "Software Engineer - Data & Scalability Platform (8-12 Yrs)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-04T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "distributed systems",
+  "go",
+  "postgresql",
+  "mysql",
+  "kafka",
+  "clickhouse",
+  "druid",
+  "bigquery",
+  "snowflake",
+  "rabbitmq",
+  "pulsar",
+  "kinesis",
+  "distributed computing",
+  "performance engineering",
+  "cloud-native technologies",
+  "kubernetes",
+  "aws",
+  "java",
+  "c++",
+  "opentelemetry",
+  "metrics and tracing",
+  "capacity modeling",
+  "cost attribution",
+  "data migration",
+  "data quality assurance",
+  "backup and restore",
+  "disaster recovery",
+  "data retention compliance",
+  "mentoring"
+ ],
+ "teaser": "Exciting opportunity for a Software Engineer to lead the Data & Scalability Platform team, focusing on scalable, reliable data infrastructure. Drive platform performance, design robust data stores, and collaborate with engineering teams. Ideal for experienced professionals with strong backend engineering expertise and a background in large-scale distributed systems.",
+ "description": "Meet the Team\n\nThe Splunk Agent Resilience team is defining the future of AI resilience. Our team provides scalable, cost-effective evaluation and guardrails that ensure AI agents behave as intended, improving reliability and reducing risks. This unified approach empowers our customers to confidently deploy and manage AI-powered applications with enhanced observability and control.\n\nAs a Software Engineer on the Data & Scalability Platform team, you will own the data plane end to end: the stores that hold the data \u2014 relational, analytical/columnar, object storage, caches, and queues \u2014 the streaming and compute components that move and transform it, and the performance tooling that proves how all of it behaves under load. You will make that data plane correct, fast, cost-bounded, and tenant-isolated at production scale, own the capacity and performance model that says when and how it needs to grow, and partner closely with the product engineering teams that build on top of it.\n\nYour Impact\n\nOwn and evolve the platform's data stores \u2014 relational, analytical/columnar, object storage, and caching \u2014 including schema design, migration safety, and retention.\n\nDesign and operate the streaming and queueing backbone that carries data from ingest to queryable.\n\nBuild and scale the compute and pipelines that move and transform data, including stream processors, writers, schedulers, and distributed worker fleets.\n\nOwn end-to-end data performance: query and write latency, indexing and sharding strategy, and hot-path optimization.\n\nOwn the capacity model for the data platform, along with quotas, rate limiting, and multi-tenant isolation.\n\nDrive cost efficiency across the data platform, including cost per unit of telemetry and cost attribution.\n\nBuild and own performance tooling \u2014 load testing, profiling, and benchmarking \u2014 used to validate scale and guide optimization.\n\nBuild observability instrumentation and telemetry pipelines so platform signals are correct, complete, and affordable.\n\nOwn data operations: backup and restore, retention and deletion, replication, migration and backfill, and data-quality signals.\n\nDesign, develop, test, and maintain production services and internal tooling in Python and/or Go, using secure coding practices and automated tests.\n\nDebug and resolve complex production issues across data stores, queues, and services, and contribute to monitoring, on-call support, and root-cause analysis.\n\nContribute to platform architecture direction and act as a technical resource and mentor through design reviews, code reviews, and documentation.\n\nMinimum Qualifications\n\nBachelor's degree with 7+ years of related experience, or Master's degree with 4+ years, or PhD with 1+ year of related experience, in Computer Science, Software Engineering, or a related field.\n\nStrong backend software engineering experience building, operating, and delivering highly scalable, reliable, production-grade data-intensive services and platforms.\n\nProven experience with large-scale distributed systems, including designing and solving complex problems of scalability, availability, performance, reliability, and fault tolerance.\n\nHands-on experience operating and tuning both an OLTP database (e.g., PostgreSQL, MySQL) and an analytical, columnar, or time-series store (e.g., ClickHouse, Druid, BigQuery, Snowflake) \u2014 schema design, indexing, query tuning, and migration safety.\n\nProduction experience with streaming or queueing systems (e.g., Kafka, RabbitMQ, Pulsar, Kinesis) \u2014 partitioning, consumer-group semantics, delivery guarantees, and backlog and dead-letter handling.\n\nExperience scaling data-processing compute \u2014 queue consumers, async task workers, or streaming jobs \u2014 including concurrency tuning, batching, backpressure, and throughput behavior under sustained load.\n\nStrong proficiency in Python and solid experience with at least one additional backend programming language such as Go, Java, C++, or similar.\n\nDemonstrated performance engineering ability \u2014 profiling, benchmarking, and load testing real systems, and turning the measurements into capacity, design, and cost decisions.\n\nExperience with cloud-native technologies, containerized environments (Kubernetes), and public cloud platforms (AWS, GCP, or similar).\n\nDemonstrated ability to independently design, develop, debug, test, and maintain software with minimal guidance.\n\nPreferred Qualifications\n\nExperience running ClickHouse or a comparable columnar store at scale \u2014 sharding and replication topology, materialized views, merge and mutation behavior, retention and TTL mechanics.\n\nExperience owning a capacity model or a FinOps practice: cost per unit of telemetry, cardinality governance, and quota or rate-limit design.\n\nExperience with multi-tenant isolation and noisy-neighbor mitigation in shared data systems.\n\nExperience with backup and restore, tested disaster-recovery drills against stated RPO/RTO, and data retention or deletion compliance (e.g., GDPR/DSR hard delete).\n\nExperience building observability instrumentation and pipelines (OpenTelemetry, collectors, metrics/tracing backends) rather than only consuming dashboards.\n\nExperience building or operating performance tooling as a product for other engineers \u2014 load-test harnesses, continuous profiling (e.g., Pyroscope, py-spy, flame-graph workflows), or benchmarking suites used to justify capacity and design decisions.\n\nExperience with distributed task frameworks and worker orchestration (e.g., Celery, Temporal, Flink, custom consumer fleets) at production scale.\n\nFamiliarity with streaming databases, stream processing frameworks, or distributed query engines (e.g., RisingWave, Flink, Spark Streaming, Trino/Presto) and with model-serving infrastructure.\n\nExperience supporting stateful systems in both cloud/SaaS and air-gapped or on-prem deployments.\n\nExperience leading medium-sized features or projects end-to-end, mentoring engineers, and influencing technical decisions across teams.\n\nStrong communication skills, with the ability to turn complex performance, capacity, and cost findings into clear recommendations for engineering and product partners.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022514EXTERNALENGLOBAL/Software-Engineer-Data-Scalability-Platform-8-12-Yrs",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer---Data---Scalability-P-latform_2022514/apply"
+}

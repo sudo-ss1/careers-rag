@@ -1,0 +1,49 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022082EXTERNALENGLOBAL",
+ "req_id": "2022082",
+ "title": "Failure Analysis Engineer",
+ "category": "Supply Chain and Manufacturing Ops",
+ "categories": [
+  "Supply Chain and Manufacturing Ops"
+ ],
+ "locations": [
+  "Hanoi, H\u00e0 N\u1ed9i, Vietnam"
+ ],
+ "country": "Vietnam",
+ "city": "Hanoi",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-19T00:00:00.000+0000",
+ "skills": [
+  "failure analysis",
+  "high-speed network interfaces",
+  "board design",
+  "cadence allegro",
+  "schematics generation",
+  "design validation",
+  "serdes system design",
+  "signal integrity",
+  "power distribution",
+  "ecad",
+  "fpga",
+  "power management",
+  "manufacturing teams collaboration",
+  "cisco products knowledge",
+  "analog networking components",
+  "pcie switches",
+  "phy",
+  "retimers",
+  "voltage regulators",
+  "unit test methodologies",
+  "agile",
+  "corrective and preventive action",
+  "test strategy improvement",
+  "field return analysis",
+  "root cause analysis",
+  "technical issue communication"
+ ],
+ "teaser": "We are recruiting a Failure Analysis Engineer to drive improvements in fault duplication and isolation accuracy. You will provide technical guidance, coordinate with cross-functional teams, and support product quality initiatives. Ideal candidates have significant experience in high-speed network interface design and a strong background in electrical or computer engineering.",
+ "description": "Meet the Team\nWe are Cisco's Failure Analysis and Prevention team, which plays a critical role in ensuring high Customer/Product quality. The Technology and Quality organization is tasked with delivering customer focused quality, reliable solutions, and infrastructure for Cisco products. It is committed to driving a competitive advantage for Cisco by ensuring innovation and excellence in manufacturing technology, test, and component engineering, NPI, and closed-loop quality management.\n\nYour Impact\nYou are a problem solver and looking for continuous product improvement. You love to learn, grow, and work in a constantly evolving environment. You are a self-starter who thrives with learning information quickly and uses resources to research and resolve issues.\n\nFailure Analysis Engineer will drive the improvements in the accuracy of the fault duplication and isolation\n\nProvide directions and techniques on customer issues.\n\nEngage Design engineering and communicate findings and resolutions for HW and SW field issues.\n\nCoordinate the Failure Analysis cases review meeting with Cisco teams and suppliers.\n\nDefect detection including containment analysis.\n\nWork closely with a multi-functional team of Product Leads, Technical Leads and Customer Support to accelerate replicate customer reported issue.\n\nArticulate key technical issues to stakeholders, sense issues early, identify impact and partner to drive resolution.\n\nEnsure EMS partners deliver timely and accurate results in duplicating, isolating root cause of customer issues.\n\nDrive innovation, new technology/processes.\n\nOrganize, plan, track and close-out design, components, manufacturing issues associated with the products.\n\nEvolving the Product debug document over the Product Life Cycle.\n\nResponsible for communication on key issues along with quality group to design engineering, accounts and Escalations teams.\n\nProactive Engagement with customer facing teams on reducing RMA, rightsizing FA, and getting more debug and troubleshooting information from Field.\n\nCollaborate with PQE/CEs and drive Corrective/ Preventive action. Design Issue, MFG Issue, Process, supplier issue.\n\nParticipate in initiatives to enhance existing test strategies, methodologies and test/diagnostic coverage for field returns to aim for improvements in the accuracy of the fault duplication and isolation.\n\nMinimum Qualifications\n\nBachelor\u2019s in electrical or computer engineering with 7+ years of related experience.\n\nExperience with High-Speed Network Interfaces along with previous hands-on board design expertise and familiarity with board design tools such as Cadence Allegro or similar tools.\n\nHardware design, schematics generation, and design validation for service provide routing products.\n\nExperience with sophisticated high speed board design and board bring-up.\n\nKnowledge of\u00a0Cisco\u00a0products.\n\nExperience with high-speed SERDES (>=25G) system design, signal integrity issues, and power distribution techniques\n\nAbility to collaborate with eCAD, FPGA, Power, Mechanical, Signal integrity, and Manufacturing teams.\n\nFamiliarity with leading-edge CPUs such as Intel or AMD , analog and networking components such as PCIe switches, PHY, retimers, voltage regulators.\n\nExperience in unit test methodologies and agile working environment along with sophisticated CPU design and bring-up is a plus.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022082EXTERNALENGLOBAL/Failure-Analysis-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hanoi-Vietnam/Failure-Analysis-Engineer_2022082/apply"
+}

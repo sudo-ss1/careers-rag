@@ -1,0 +1,44 @@
+{
+ "job_seq_no": "CISCISGLOBAL2012565EXTERNALENGLOBAL",
+ "req_id": "2012565",
+ "title": "Mechanical Engineering Technical Leader - Thermal",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Taipei, New Taipei, Taiwan"
+ ],
+ "country": "Taiwan",
+ "city": "Taipei",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-05-06T00:00:00.000+0000",
+ "skills": [
+  "finite element analysis",
+  "thermal modeling",
+  "3d modeling",
+  "ansys",
+  "cfd",
+  "abaqus",
+  "cepak",
+  "python",
+  "thermal testing",
+  "fortran",
+  "apdl",
+  "cad",
+  "gd&t",
+  "autocad",
+  "creo",
+  "root cause analysis",
+  "design optimization",
+  "failure investigation",
+  "jedec",
+  "ipc",
+  "presentation skills"
+ ],
+ "teaser": "We are looking for a skilled Mechanical Engineering Technical Leader - Thermal to drive mechanical and thermomechanical simulations for ASICs and complex silicon packages. Lead simulation-driven design, ensure mechanical reliability, and support high-performance Cisco systems. Ideal for experienced engineers with strong thermal modelling expertise and team leadership skills.",
+ "description": "Meet the Team\n\nWe are seeking a skilled and driven ASIC Mechanical Engineer to join Cisco ASIC Group. In this role, you will focus on mechanical and thermomechanical simulations of ASICs and complex silicon packages. Your simulations will directly facilitate product design, ensure mechanical reliability, and accelerate time to market for high-performance Cisco systems.\n\nYou will collaborate with a globally distributed team across multiple time zones, contributing to innovative, simulation-driven design across packaging, reliability, thermal, and hardware engineering groups.\n\n\u00a0\n\nYour Impact\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Perform FEA/CFD to evaluate thermal behavior, thermal mechanical, warpage, solder joint reliability of ASIC package, substrates, and advanced packaging assemblies.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Simulate and analyze linear/nonlinear material behaviors.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Develop and automate simulation workflows using Python, Fortran, APDL or similar scripting tools to streamline analysis and reporting.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Provide clear simulation results to support thermal and mechanical design, root cause analysis, and risk mitigation.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Support design optimization at early phase of product development and failure investigations by correlating FEA/CFD predictions with test data and field returns.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Document and present analysis results, assumptions, and design recommendations in a clear, structured format.\n\nMinimum Qualifications\u00a0\n\nBachelors + 8 years of related experience, or Masters + 6 years of related experience, or PhD + 3 years of thermal modeling/simulation related experience.\n\nAt least 3 years of experience in mechanical principles in solving classical thermal analysis solutions both inside and outside of finite element tools and an ability to work independently and manage multiple priorities\n\nDemonstrated experience in thermal testing: Planning, organization, execution, data reduction and correlation\n\nDemonstrated experience in leading a team of thermal analysts on major program efforts\n\nHands-on experience with 3D modeling, FEA/CFD using ANSYS/Icepak or ABAQUS.\n\nFlexibility to coordinate and communicate across different time zones, supporting global project teams in the US and Asia.\n\n\u00a0\n\nPreferred Qualifications\u00a0\n\n5+ years of experience in mechanical and thermal simulation of semiconductors or electronics packaging systems.\n\nProficiency in CAD, GD&T with AUTOCAD, CREO and related industry standards (JEDEC, IPC, etc.).\n\nExperience in flip chips, 2.5D/3D, SoIC advanced packaging, and/or heterogeneous integration technologies.\n\nPerform thermal simulations utilizing CFD/FEA tools for package, board-level solutions and present results.\n\nWe do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2012565EXTERNALENGLOBAL/Mechanical-Engineering-Technical-Leader-Thermal",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Taipei-Taiwan/Mechanical-Engineering-Technical-Leader---Thermal_2012565/apply"
+}

@@ -1,0 +1,46 @@
+{
+ "job_seq_no": "CISCISGLOBAL2016564EXTERNALENGLOBAL",
+ "req_id": "2016564",
+ "title": "Software Engineer - QA Engineer, Automation and networking 8 to 11 years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-15T00:00:00.000+0000",
+ "skills": [
+  "ipv6",
+  "redis",
+  "mpls",
+  "manual",
+  "container technologies",
+  "qos",
+  "python",
+  "l2",
+  "segment routing",
+  "vxlan",
+  "ip fabrics",
+  "network security",
+  "automation",
+  "bgp",
+  "bgp-evpn",
+  "acl",
+  "software testing",
+  "test planning",
+  "l3",
+  "stakeholder management",
+  "sr/srv6",
+  "presentation skills",
+  "performance testing"
+ ],
+ "teaser": "Join us as a Software Engineer - QA Engineer, focusing on automation and networking within Cisco's DSE group. Contribute to the design, development, and execution of network performance tests for AI/ML environments. Ideal for experienced professionals with strong Python automation skills and a background in networking or telecommunication.",
+ "description": "Meet the Team\n\nThe Cisco Distributed System Engineering (DSE) group is at the forefront of developing products that power the largest networks in the world. The networking industry is going through a massive transformation to build the next generation infrastructure to meet the needs of AI/ML workloads and continuously increasing internet users and application. We are uniquely positioned to capture that market transition. This team builds products by harnessing the potential of open-source technologies while pushing the boundaries on Systems and Silicon Architecture.\n\nThis solutions team collaborates directly with large webscaler customers to replicate their networks and prepare software and hardware before deployment. With a broad range of expertise and strong communication skills, the team works on short sprints across Cisco's product lineup, focusing on SONiC for web-scale environments, including AIML, routers, and switches.\n\nYour Impact\n\nAs a Software Engineer, you'll be part of an agile team engaged in the design, development and execution of tests to qualify network performance for AI/ML capability. You will be a part of our solutions team which works in a fast-paced environment and be responsible for end-to-end product testing and production support.\n\nIn this role you will leverage your strong Python automation skills for scripting and testing, with some opportunities for development work. You will work with automation frameworks like PyTest to automate and streamline the testing process. You will be expected to both learn from and make contributions to the open-source community to drive innovative solutions in this space. Other responsibilities will include\u2026\n\nBuilding out testing environments for system/solution validation\n\nDeveloping and enhancing test frameworks and benchmarking tools\n\nDefining and gathering data for network performance benchmarking\n\nTroubleshooting customer issues\n\nMinimum Qualifications:\n\nAround 9+ years of experience in software Testing and automation experience within the networking or telecommunication industry. Preferably in product companies with very good exposure on distributed architecture and networking (routers and switches).\u00a0\n\nAdept in Python as coding language. Actively coding and automating functionalities with at least 5+ years of hands-on experience with virtualization and container technologies e.g. Docker.\n\nHands-on work experience working with software data and control plane software, Linux user space/OS internals. Comfortable with networking technologies such as L2, L3, VLAN, Port Channel, LAG, VXLAN, Segment Routing, BGP, QoS, ACL etc.\n\nExperience in designing, modelling, performance testing. Worked with opensource tools and databases (e.g. Redis). Experience in writing of Test Plans and testing of software for high performing and scalable \u00a0data canter \u00a0/ service provider networking products.\n\nComfortable working on technical projects in a complex development environment.\n\nSelf-motivated and quick learner with excellent problem-solving skills, logical thinking and a hunger to learn new technologies.\u00a0\n\nGood team player with nice communication and presentation skills.\n\nPreferred Qualifications\n\nWorking knowledge of VxLAN and IP Fabrics, BGP, BGP-EVPN, IPv6, MPLS, SR/SRv6, QoS.\n\nWorking Knowledge of Automation using Python, Experience with PyTest or similar open-source QA automation frameworks\n\nFair understanding of the network security requirements.\n\nExposure to SONiC or experience working with the SONiC open-source community\n\nPrevious experience in a customer-facing environment\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016564EXTERNALENGLOBAL/Software-Engineer-QA-Engineer-Automation-and-networking-8-to-11-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer---QA-Engineer--Automation-and-networking-8-to-11-years_2016564-1/apply"
+}

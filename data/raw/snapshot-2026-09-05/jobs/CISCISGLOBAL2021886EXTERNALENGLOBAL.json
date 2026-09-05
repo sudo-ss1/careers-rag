@@ -1,0 +1,50 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021886EXTERNALENGLOBAL",
+ "req_id": "2021886",
+ "title": "Software Engineering Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Slovakia"
+ ],
+ "country": "Slovakia",
+ "city": "",
+ "employment_type": "Full time",
+ "remote_type": "Remote",
+ "posted_date": "2026-08-13T00:00:00.000+0000",
+ "skills": [
+  "python development",
+  "distributed systems",
+  "linux",
+  "containers",
+  "networking",
+  "security",
+  "ci/cd",
+  "production troubleshooting",
+  "typescript",
+  "react",
+  "code reviews",
+  "automated testing",
+  "quality metrics",
+  "agentic engineering workflows",
+  "ai-assisted development tools",
+  "mentoring",
+  "technical leadership",
+  "cross-team coordination",
+  "service-provider networking",
+  "ip networking",
+  "optical transport",
+  "mpls",
+  "sr-te",
+  "srv6",
+  "is-is",
+  "bgp",
+  "ethernet services"
+ ],
+ "teaser": "Exciting opportunity for a Software Engineering Technical Leader to provide hands-on technical leadership in full-stack applications supporting complex IP and optical networks. Guide architecture and implementation, translate operator needs into secure, scalable software, and influence engineering practices. Ideal for experienced engineers with strong Python, distributed systems, and technical leadership expertise.",
+ "description": "What You\u2019ll Do\nJoin the Cisco Crosswork Hierarchical Controller (HCO) team and provide hands-on technical leadership across full-stack applications that help service providers understand, automate, and control complex IP and optical networks. Guide capabilities from architecture and implementation through production, translating operator needs into secure, scalable, and reliable software.\n\nDefine platform architecture, technical strategy, and multi-release roadmaps; translate product and operational needs into clear designs and implementation plans.\n\nDesign and evolve application workflows for service provider network observability and management.\n\nImprove scalability and performance across services and user interfaces through concurrency, query optimization, batching and streaming, memory and network efficiency, and rendering improvements.\n\nStrengthen security, privacy, and resilience throughout the software development lifecycle.\n\nStrengthen engineering excellence through code reviews, automated testing, quality metrics, and improvements to CI/CD and release practices across the application suite.\n\nInfluence the team\u2019s adoption of AI-assisted engineering practices and agentic workflows, while advancing AI-enabled product capabilities.\n\nStrengthen engineering excellence through code reviews, automated testing, quality metrics, and improvements to CI/CD and release practices across the application suite.\n\nWho You\u2019ll Work With\n\nYou will join a globally distributed engineering team and collaborate with Product Management, Design/UX, system and network architects, technical support, and customer-facing teams\n\nMinimum Qualifications:\n\nA related bachelor\u2019s degree and 5+ years of relevant software engineering experience, or equivalent practical experience\n\n3+ years of hands-on Python development for backend services, with TypeScript and React experience building complex web applications\n\nStrong engineering expertise across distributed systems, Linux, containers, networking, security, CI/CD, and production troubleshooting\n\nHands-on experience with AI-assisted development tools such as Codex, Cursor, GitHub Copilot, or equivalent platforms, and agentic engineering workflows\n\nPreferred Qualifications\n\nProven technical leadership of complex initiatives from architecture through production, including planning, cross-team coordination, technical reviews, and mentoring.\n\nStrong full-stack and distributed-systems expertise, with depth in application scalability or modern user experiences and visualization.\n\nExperience with service-provider networking and technologies such as IP, MPLS, SR-TE, SRv6, IS-IS, BGP, Ethernet services, or optical transport.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021886EXTERNALENGLOBAL/Software-Engineering-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bratislava-Slovakia/Software-Engineering-Technical-Leader_2021886/apply"
+}

@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2013159EXTERNALENGLOBAL",
+ "req_id": "2013159",
+ "title": "ASIC Engineering Analog Design Leader | high-speed optical transceiver circuits (modulator drivers, TIAs, CDRs, PLLs, ADC/DAC) | 10+ years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-07-10T00:00:00.000+0000",
+ "skills": [
+  "analog circuit design",
+  "mixed-signal design",
+  "high-speed optical transceiver design",
+  "silicon photonics",
+  "circuit verification and test",
+  "python",
+  "c programming",
+  "cadence virtuoso",
+  "spectre",
+  "caliber",
+  "device physics",
+  "circuit operations",
+  "serdes protocol",
+  "pam4",
+  "ethernet",
+  "ucie",
+  "llps",
+  "adc/dac circuits",
+  "lab instrumentation",
+  "digital communication analyzers",
+  "real-time scopes",
+  "berts",
+  "verilog-a modeling",
+  "failure analysis",
+  "stakeholder management"
+ ],
+ "teaser": "Exciting opportunity for an experienced ASIC Engineering Analogue Design Leader to drive high-speed optical transceiver circuit design and development for Cisco's next-generation silicon photonics modules. Lead full-chip electrical specifications and collaborate with cross-functional teams. Ideal for candidates with extensive high-speed AMS design expertise and strong knowledge of optical transceivers.",
+ "description": "Cisco\u2019s Client Optics Group (COG) designs & delivers the high-speed optical transceivers, and platforms that power Cisco's core data center networking solutions. We specialize in the design and integration of cutting-edge IM/DD optics and silicon photonic platforms that enable customers to deploy industry-leading optical technologies within data center with unprecedented speed, capacity, and reliability. Come join us and take part in shaping COG\u2019s ground-breaking optical solutions by designing, developing, and testing some of the most advanced pluggable, and Co-packaged Optics (CPO) being developed in the industry.\n\nYou will work with Cisco's best-in-class Silicon Photonics team. Our team is responsible for driving the development and optimization of optical transceivers & modules (800G,1.6T & beyond) that seamlessly integrate with Cisco's routing, switching, and datacenter platforms, enabling customers to build scalable, high-performance networks that support emerging technologies including AI/ML workloads, and next-generation data center architectures.\n\nWe seek an experienced High Speed AMS Design Engineer to drive full-chip electrical specifications and deliver mixed-signal design for Cisco's silicon photonics driver integrated circuits supporting 100G/200G/400G per Lambda solutions. You will own high-speed datapath and low-speed control circuit design for receive and transmit paths in our next-generation silicon photonics modules.\n\nYour Impact\n\nParticipate in analog/mixed-signal design for Cisco's next generation silicon photonics driver integrated circuits for 100G/200G/400G per Lambda solutions.\n\nDrive full-chip electrical specifications, circuit design, and verification test plans from concept through production, coordinating across electrical, optical, and product teams.\n\nAuthor mixed-signal datapath designs including photonics modulator drivers, serializers, PLLs, TIAs and control circuits while optimizing for power, performance, testability, and cost.\n\nDebug complex silicon and system-level issues during bring-up, and lab validation phases, driving yield enhancements and failure analysis.\n\nCollaborate with architecture, digital, SI/PI and product teams on verification, design and testability strategies.\n\nMinimum Qualifications\n\nBachelors + 10 years of related experience, or Masters + 6 years of related experience, or PhD + 3 years of high-speed AMS design experience\n\nDemonstrated expertise in high-speed optical transceiver design (modulator drivers, TIA, CDR, PLLs, ADC/DAC) and proficiency with industry standard tools (Cadence Virtuoso, Spectre, Caliber)\n\nStrong skills in device physics, & circuit operations\n\nProficiency in Python or C for design automation, scripting, and analytical tools\n\nPreferred Qualifications\n\nMaster\u2019s or PhD degree in Electrical Engineering\n\n8-10 years of hands-on analog/mixed signal circuit design experience\n\nExperience with silicon photonics driver ICs and direct-detect optical module architectures\n\nGood understanding of silicon photonics, optical subsystems\n\nExpertise in one or more high-speed PHYs, protocols and subsystems (SerDes 112Gbps/224Gbps PAM4, Ethernet, UCIE, clock and data recovery systems, PLLs, ADC/DAC circuits)\n\nHands-on experience with lab instrumentation (digital communication analyzers, real-time scopes, BERTs), SI/PI and test fixture/PCB\n\nFamiliarity with Verilog-A modeling for AMS simulations\n\nStrong collaborator, team player with ability to work across teams in multiple sites\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2013159EXTERNALENGLOBAL/ASIC-Engineering-Analog-Design-Leader-high-speed-optical-transceiver-circuits-modulator-drivers-TIAs-CDRs-PLLs-ADC-DAC-10-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-Engineering-Analog-Design-Leader---high-speed-optical-transceiver-circuits--modulator-drivers--TIAs--CDRs--PLLs--ADC-DAC----10--years_2013159/apply"
+}

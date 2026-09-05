@@ -1,0 +1,36 @@
+{
+ "job_seq_no": "CISCISGLOBAL2013155EXTERNALENGLOBAL",
+ "req_id": "2013155",
+ "title": "Embedded Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Lysaker, Norway"
+ ],
+ "country": "Norway",
+ "city": "Lysaker",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-29T00:00:00.000+0000",
+ "skills": [
+  "embedded linux development",
+  "c/c++",
+  "android development",
+  "python",
+  "rust",
+  "graphics programming",
+  "english communication",
+  "egl",
+  "opengl",
+  "qt",
+  "gpu programming",
+  "hardware resource optimization",
+  "video and graphics development"
+ ],
+ "teaser": "Take on the role of Embedded Software Engineer, contributing to the development of Cisco's collaboration video products. Collaborate with cross-functional teams to enhance OS layer software and hardware integration. Ideal for candidates with embedded development experience and a background in relevant programming languages.",
+ "description": "Meet the Team\nAs a global technology leader, Cisco has been transforming how people connect, communicate, and collaborate for decades. Our innovation in networking, security, and cloud-based solutions enables organizations to drive digital transformation and achieve their business goals.\n\nThe Collaboration Employee Experience organization creates workspace solutions that connect people, places, and experiences. Located just outside of Oslo, our innovation center is home to 300+ passionate engineers working across hardware, software, mechanics, audio, media processing and artificial intelligence - from concept to product. We strive to create best-in-class video conferencing experiences by bringing together diverse disciplines and ideas under one roof.\n\nThe Cisco Lysaker Platform team are looking for an embedded platform engineer to join us. You will be working closely with other platform engineers as well as software, hardware and test engineers to develop the next Cisco collaboration video products.\n\nYour Impact\nYou are a dedicated embedded developer, with skills within OS and hardware near software development. You are self driven, quality focused and enjoy working with other developers and teams. You will:\n\nWork on OS layer software on our new and existing devices, offering a development platform and access to hardware services to our application teams\nFocus on improvement, either it being related to an area, a piece of code or internal processes\n\nMinimum Qualifications\n\nA degree in relevant field (CS, CE, EE or similar)\n\nExperience with relevant programming languages (C/C++/Rust/Python)\n\nExperience with embedded Linux or Android development\n\nPreferred Qualifications\n\nExperience in developing software that makes efficient use of hardware resources.\n\nExperience in one or more of the following areas: graphics or display development on Linux or Android; graphics programming (e.g., EGL, OpenGL, Qt); graphics and display pipelines; GPU programming; or working with hardware accelerators for video and graphics;\n\nAbility to communicate clearly and effectively in English\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2013155EXTERNALENGLOBAL/Embedded-Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Lysaker-Norway/Embedded-Software-Engineer_2013155/apply"
+}

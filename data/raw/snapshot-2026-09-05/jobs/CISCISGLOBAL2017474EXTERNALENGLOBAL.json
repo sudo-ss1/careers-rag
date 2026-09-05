@@ -1,0 +1,45 @@
+{
+ "job_seq_no": "CISCISGLOBAL2017474EXTERNALENGLOBAL",
+ "req_id": "2017474",
+ "title": "Software Engineering Technical Leader, Security Officer / DevSecOps (BLR G11)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-04T00:00:00.000+0000",
+ "skills": [
+  "access control",
+  "ci/cd security",
+  "stakeholder management",
+  "security tooling",
+  "application security",
+  "cloud platforms",
+  "key management",
+  "security risk assessment",
+  "security audit",
+  "kubernetes",
+  "security automation",
+  "data protection",
+  "devsecops",
+  "penetration testing",
+  "security compliance",
+  "aws",
+  "encryption",
+  "security monitoring",
+  "security documentation",
+  "vulnerability management",
+  "security incident response",
+  "cloud infrastructure security"
+ ],
+ "teaser": "Become part of our team as a senior Security Officer / DevSecOps Engineer, providing expert security guidance and hands-on engineering contributions within Cisco Intersight. Lead security assessments, drive automation, and collaborate with cross-functional teams to ensure secure, reliable software delivery. Ideal for experienced professionals with deep security engineering expertise.",
+ "description": "Meet the Team\u00a0\n\nCisco Intersight is a cloud-native operations platform that provides unified management, automation, visibility, and lifecycle operations for infrastructure across data center, cloud, and edge environments. Its SaaS, on-premises, and mobile offerings depend on secure, reliable automation that enables engineering teams to build, test, release, and operate software at scale.\u00a0\n\nWe are looking for an experienced Security Officer / DevSecOps Engineer to provide senior security guidance and hands-on engineering contribution within the Intersight DevSecOps function. This role partners closely with engineering, architecture, product management, SRE, compliance, Cisco's Security and Trust Organization (STO), and leadership teams to help Intersight meet security, privacy, corporate, and regulatory requirements while enabling rapid and secure product delivery. \u00a0\n\nYour Impact\u00a0\n\nIn this role, you will be a senior security partner for Intersight engineering and DevSecOps. You will assess security impact, clarify requirements, prioritize risk, guide remediation, and contribute hands-on to security automation, hardening, and remediation work.\u00a0\n\nAssess and guide improvements to the security posture of Intersight applications and delivery workflows across SaaS, on-premises, and mobile offerings.\u00a0\n\nInterpret Cisco-level security mandates, policies, audit requirements, release gates, and security best practices into clear guidance, control expectations, acceptance criteria, and remediation priorities.\u00a0\n\nPartner with development teams, architects, product management, SRE, compliance, and central security teams to review new features, architecture changes, authentication flows, data handling, cloud infrastructure changes, and other security-sensitive designs.\u00a0\n\nConduct product security risk assessments for new and existing features, identifying gaps, recommending mitigations, and helping teams balance security, usability, and delivery needs.\u00a0\n\nGuide vulnerability management and remediation priorities across automated scans, penetration tests, release security reviews, and security incident response activities, ensuring issues are visible, triaged, assigned, and tracked to closure within SLA.\u00a0\n\nCoordinate annual penetration test planning, findings review, remediation tracking, and stakeholder communication with Cisco security teams and Intersight engineering stakeholders.\u00a0\n\nSupport compliance with Cisco security mandates and Build Environment Security requirements by clarifying requirements, identifying evidence needs, reviewing audit findings, and guiding remediation priorities.\u00a0\n\nSupport commercial compliance and customer security activities by maintaining security documentation, providing product security context, and helping respond to audit or customer security questions.\u00a0\n\nProvide security guidance and awareness to engineering teams on secure design, secure coding, secrets handling, access control, encryption, data protection, cloud security, and secure delivery practices.\u00a0\n\nDefine and contribute to implementation of security automation, reporting, and tooling that improve visibility, reduce manual work, and help teams follow security requirements consistently.\u00a0\n\nMinimum Qualifications\u00a0\n\nBachelors 11+ years of proven experience.\u00a0\n\nDeep security engineering experience across multiple areas such as application security, cloud infrastructure security, authentication, encryption, data protection, key management, CI/CD security, vulnerability management, or incident response.\u00a0\n\nExperience securing enterprise-scale SaaS, on-premises, or mobile offerings.\u00a0\n\nExperience conducting security reviews, architecture reviews, threat or risk assessments, and translating findings into practical guidance and remediation plans.\u00a0\n\nExperience with vulnerability triage, penetration test findings, automated security scan findings, and SLA-based remediation workflows.\u00a0\n\nExperience working with corporate security mandates, secure development lifecycle requirements, product security standards, compliance requirements, or security audit processes.\u00a0\n\nHands-on experience implementing security automation, hardening, vulnerability remediation, secure delivery improvements, or related DevSecOps capabilities.\u00a0\n\nDemonstrated ability to partner effectively across engineering, security, compliance, product, SRE, and leadership stakeholders to drive alignment and execution.\u00a0\n\nStrong written and verbal communication skills, including the ability to explain security risk, requirements, priorities, and tradeoffs to both technical and non-technical stakeholders.\u00a0\n\n\u00a0\n\nPreferred Qualifications\u00a0\n\nExperience with Cisco security mandates, policies, tooling, or product security processes.\u00a0\n\nExperience with security frameworks and compliance audits such as SOC 2, ISO 27001, or similar frameworks.\u00a0\n\nFamiliarity with privacy regulations and data protection requirements such as GDPR or similar standards.\u00a0\n\nFamiliarity with DevSecOps, secure delivery, and CI/CD security tooling.\u00a0\n\nStrong understanding of cloud platforms and cloud-native environments, including AWS, Docker, and Kubernetes.\u00a0\n\nRelevant security certifications such as CISSP, CISM, CCSP, or similar.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017474EXTERNALENGLOBAL/Software-Engineering-Technical-Leader-Security-Officer-DevSecOps-BLR-G11",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineering-Technical-Leader--Security-Officer---DevSecOps--BLR-G11-_2017474/apply"
+}

@@ -1,0 +1,47 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023443EXTERNALENGLOBAL",
+ "req_id": "2023443",
+ "title": "Memory Layout Design Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Armenia, Armenia"
+ ],
+ "country": "Armenia",
+ "city": "Armenia",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-20T00:00:00.000+0000",
+ "skills": [
+  "memory layout implementation",
+  "sram blocks",
+  "physical design",
+  "cadence",
+  "synopsys",
+  "post-layout simulation",
+  "drc",
+  "advanced node technologies",
+  "tsmc 22nm",
+  "tsmc 12nm",
+  "tsmc 7nm",
+  "tsmc 5nm",
+  "tsmc 2nm",
+  "circuit design",
+  "schematic reading",
+  "simulation",
+  "emir/erc closure",
+  "tcl",
+  "python",
+  "perl",
+  "design automation",
+  "technical support",
+  "cross-functional collaboration",
+  "english communication"
+ ],
+ "teaser": "We are expanding our team: As a Memory Layout Design Engineer, you will implement high-quality memory layout solutions for advanced networking platforms, focusing on SRAM blocks. Collaborate with international teams to translate schematics into robust designs. Ideal for candidates with strong experience in physical design or layout and expertise in EDA tools.",
+ "description": "This is a hybrid role with four days per week at Cisco\u2019s Yerevan office.\n\u00a0\n\nMeet the Team\n\nOur team is at the forefront of innovation, specializing in memory layout implementation for the Cisco Silicon One platform that powers the world\u2019s most advanced switches and routers. We are a dynamic, international team dedicated to pushing the boundaries of high-performance networking technology. We offer a unique environment where technical excellence meets real-world impact. We value transparency, clear communication, and a collaborative spirit that bridges geographical divides to deliver ground breaking silicon solutions.\n\nYour Impact\n\nImplement high-quality memory layout implementation, specifically focusing on SRAM blocks to meet rigorous performance and reliability standards. Collaborate closely with international circuit design teams to translate schematics into robust physical designs that drive our core networking products. Perform post-layout simulations and implement necessary corrections to ensure DRC cleanliness and optimal integration with neighboring modules. Optimize layout designs for quality, visibility, and velocity to accelerate the delivery of critical silicon components.\n\nMinimum Qualifications\n\nBachelor\u2019s or Master\u2019s degree in Electrical Engineering, Computer Engineering, or a related field.\n\n4+ years of total professional experience in physical design or layout.\n\nProven experience working with industry-standard EDA tools such as Cadence or Synopsys.\n\nExperience with advanced node technologies such as TSMC 22nm, 12nm, 7nm, 5nm, or 2nm.\n\nPreferred Qualifications\n\nExperience working within a mixed-signal or custom design environment.\n\nExperience in performing EMIR/ERC closure and providing technical support for successful tapeouts.\n\nBackground in circuit design, including reading schematics and running simulations.\n\nKnowledge in scripting languages (Tcl, Python, or Perl) for design automation.\n\nStrong ability to communicate effectively in English, both written and spoken, to support international collaboration.\n\nDemonstrated ability to work both independently and within a cross-functional, multi-site team environment.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023443EXTERNALENGLOBAL/Memory-Layout-Design-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Armenia/Memory-Layout-Design-Engineer_2023443/apply"
+}

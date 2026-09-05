@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021915EXTERNALENGLOBAL",
+ "req_id": "2021915",
+ "title": "Senior Software Architect & Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Tel Aviv-Yafo, Israel"
+ ],
+ "country": "Israel",
+ "city": "Tel Aviv-Yafo",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-11T00:00:00.000+0000",
+ "skills": [
+  "kubernetes",
+  "platform architecture",
+  "technical leadership",
+  "distributed systems",
+  "go development",
+  "java development",
+  "linux",
+  "containers",
+  "networking",
+  "security",
+  "ci/cd",
+  "production troubleshooting",
+  "ai-assisted development",
+  "agentic engineering",
+  "kubernetes operators",
+  "kubernetes controllers",
+  "custom platform apis",
+  "distributed databases",
+  "messaging technologies",
+  "consensus technologies",
+  "dynamic-routing technologies",
+  "identity and access management",
+  "service discovery",
+  "storage management",
+  "service lifecycle management",
+  "observability",
+  "lifecycle automation",
+  "resource governance",
+  "secure model serving",
+  "telemetry"
+ ],
+ "teaser": "Seeking a Senior Software Architect & Technical Leader to provide hands-on technical leadership in Kubernetes-based platform architecture for enterprise network applications. Lead the design and evolution of Kubernetes capabilities, collaborating with global teams. Ideal for experienced engineers with deep Kubernetes expertise and strong leadership in distributed systems.",
+ "description": "Kubernetes Platform Architecture & Distributed Systems\n\nWhat You\u2019ll Do\n\nJoin a platform engineering team at Cisco and provide hands-on technical leadership in evolving a Kubernetes-based platform for enterprise network applications, shaping how applications integrate with and operate across cloud, hybrid, edge, and customer-managed environments.\n\nDefine platform architecture, technical strategy, and multi-release roadmaps; translate product and operational needs into clear designs and implementation plans.\n\nDesign and evolve Kubernetes capabilities, including cluster lifecycle, controllers and reconciliation, custom resources, scheduling, networking, storage, service discovery, and upgrades.\n\nLead the design and development of shared platform services for connectivity, identity and access management, distributed data, observability, lifecycle automation, and administration.\n\nImprove reliability and security through high-availability design, recovery, backup and restore, capacity planning, production debugging, threat modeling, and vulnerability remediation.\n\nPrepare the platform for future AI workloads through workload isolation, resource governance, secure model serving, telemetry, and accelerator support.\n\nRaise engineering standards through hands-on development, design and code reviews, automated testing, CI/CD, incident analysis, mentoring, and AI-assisted engineering workflows.\n\nWho You\u2019ll Work With\n\nYou will join a globally distributed engineering team in Israel, the United States, and Europe. As a key platform engineering presence in Israel, you will collaborate with engineering, product, architecture, security, quality, support, and customer-facing teams. Occasional schedule flexibility is required for collaboration with U.S. colleagues.\n\nMinimum Qualifications\n\nA related bachelor\u2019s degree and 8+ years of relevant experience, or equivalent practical experience.\n\n5+ years building, operating, or extending production Kubernetes platforms.\n\nDeep Kubernetes knowledge and strong Go and/or Java development experience.\n\nProven technical leadership of complex, cross-team initiatives from architecture through production.\n\nStrong engineering expertise across distributed systems, Linux, containers, networking, security, CI/CD, and production troubleshooting.\n\nHands-on experience with AI-assisted development tools and agentic engineering workflows.\n\nPreferred Qualifications\n\nKubernetes operators, controllers, and custom platform APIs.\n\nDistributed databases, messaging, consensus, or dynamic-routing technologies.\n\nIdentity and service security in restricted-connectivity or air-gapped environments.\n\nSupporting data-intensive or AI-related workloads on Kubernetes.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021915EXTERNALENGLOBAL/Senior-Software-Architect-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Tel-Aviv-Yafo-Israel/Senior-Software-Architect---Technical-Leader_2021915/apply"
+}

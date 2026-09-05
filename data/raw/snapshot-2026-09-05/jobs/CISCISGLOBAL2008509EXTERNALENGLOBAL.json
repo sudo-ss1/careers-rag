@@ -1,0 +1,43 @@
+{
+ "job_seq_no": "CISCISGLOBAL2008509EXTERNALENGLOBAL",
+ "req_id": "2008509",
+ "title": "ASIC Physical Design Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Armenia, Armenia"
+ ],
+ "country": "Armenia",
+ "city": "Armenia",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-04-30T00:00:00.000+0000",
+ "skills": [
+  "asic design",
+  "physical implementation",
+  "rtl-to-gdsii",
+  "synthesis",
+  "floorplanning",
+  "placement",
+  "clock tree synthesis",
+  "routing",
+  "ppa optimization",
+  "static timing analysis",
+  "physical verification",
+  "formal verification",
+  "electromigration analysis",
+  "ir-drop analysis",
+  "pnr tools",
+  "scripting",
+  "automation",
+  "constraint management",
+  "team collaboration",
+  "problem solving"
+ ],
+ "teaser": "Join us as an ASIC Physical Design Engineer, where you will lead macro-level RTL-to-GDSII physical implementation and collaborate with Front-End teams to drive optimal design. Ideal candidates bring significant ASIC design experience and expertise in physical implementation and verification.",
+ "description": "This is a hybrid role with four days per week at Cisco\u2019s Yerevan office.\n\nMeet the Team\n\nOur team specializes in macro-level RTL-to-GDSII physical implementation and signoff, collaborating closely with Front-End teams to ensure optimal results. We are dedicated to delivering complex SoC and block-level projects through technical excellence and teamwork. The team is composed of highly experienced professionals who value collaboration and high standards in physical design.\n\nYour Impact\n\nLead macro-level RTL-to-GDSII physical implementation and signoff. Collaborate with Front-End teams to translate architecture into optimal physical design. Perform synthesis, floorplanning, placement, Clock Tree Synthesis (CTS), and routing. Optimize power, performance, and area (PPA) while maintaining design correctness through formal verification. Execute static timing analysis (STA), physical verification, formal checks, and signoff closure to ensure reliable, high-quality silicon. Analyze and resolve Electromigration (EM) and IR-drop issues to meet reliability and performance signoff targets.\n\nMinimum Qualifications\n\nBachelor\u2019s or Master\u2019s degree in Electrical Engineering, Computer Science, or a related field.\n\n5+ years of hands-on experience in ASIC design and physical implementation.\n\nProven track record in ASIC physical design and verification preferably in complex SoC or block-level projects.\n\nDeep knowledge of block-level synthesis, place-and-route (PnR), and timing closure.\n\nExperience with industry-standard PnR and signoff tools (e.g., Synopsys, Cadence).\n\nPreferred Qualifications\n\nBroad understanding of physical design methodologies, integration, and implementation flows.\n\nExperience in physical verification (LVS, DRC) and signoff processes.\n\nFamiliarity with physical design EDA toolchains and end-to-end workflows.\n\nAdvanced expertise in STA, timing closure, and constraint management.\n\nProficiency in scripting (Tcl, Python, or Perl) for automation and productivity improvements.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2008509EXTERNALENGLOBAL/ASIC-Physical-Design-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Armenia/ASIC-Physical-Design-Engineer_2008509/apply"
+}

@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022758EXTERNALENGLOBAL",
+ "req_id": "2022758",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Remote",
+ "posted_date": "2026-08-31T00:00:00.000+0000",
+ "skills": [
+  "salesforce devops",
+  "copado",
+  "ci/cd pipeline management",
+  "release management",
+  "git",
+  "sonarqube",
+  "pmd",
+  "github",
+  "data migration",
+  "workflow rules",
+  "custom objects",
+  "validation rules",
+  "visualforce",
+  "lightning",
+  "data loader",
+  "workbench",
+  "demand tools",
+  "code review",
+  "automated testing",
+  "continuous integration",
+  "monitoring",
+  "ai automation",
+  "data governance",
+  "security compliance",
+  "change management",
+  "jira",
+  "configuration management",
+  "compliance reporting",
+  "stakeholder communication",
+  "technical documentation"
+ ],
+ "teaser": "We are recruiting a Software Engineer to drive delivery and governance of Salesforce DevOps systems, focusing on AI automation and platform security. You will coordinate release activities and collaborate with cross-functional teams. Ideal candidates have significant DevOps experience with Salesforce and a strong background in CI/CD tools.",
+ "description": "Meet the Team\u00a0\n\nThe GTM IT\u00a0Team builds and operates the systems behind Cisco's end-to-end customer lifecycle. We own Salesforce DevOps administration and release management, governance, AI automation, and security at scale.\u00a0\n\nCisco is transforming its platforms toward AI-native development. You'll join the Engineering Excellence team and drive delivery across CRM. You'll collaborate daily with Salesforce, Copado, GitHub, and security teams to maintain code quality and third-party software compliance \u2014 while pushing the boundaries of what AI automation can do for platform governance.\u00a0\n\nYour Impact\u00a0\n\nWe're hiring an engineer who can combine deep Salesforce DevOps expertise with modern AI practices to accelerate how we build, test, and deploy.\u00a0\n\nCoordinate Salesforce release activities and end-to-end deployment planning with cross-functional teams.\u00a0\n\nSupport go-live activities and ensure change management process is adhered to.\u00a0\n\nPartner with architects and engineering teams to solve deployment and release problems using Salesforce Platform, Github, Copado and similar tools, autonomous agents, LLM/SLMs, and modern application architectures.\u00a0\n\nOwn and optimize Copado CI/CD pipelines end-to-end \u2014 including static analysis (SonarQube, Qwiet, PMD), automated testing, and environment management across dev, staging, and production.\u00a0\n\nImplement deployment best practices: redundant pipelines, rollback strategies, and governance controls aligned to org-wide security and compliance requirements.\u00a0\n\nDefine and document requirements, manage progress on Jira, and identify risks or gaps with proposed solutions while owning configuration changes and communication for CICD initiatives.\u00a0\n\nBuild AI-driven DevOps solutions: co-pilots, autonomous agents, intelligent workflows, and generative AI experiences.\u00a0\n\nCollaborate with engineers for delivering complex implementations, improving code quality, and troubleshooting defects of CICD features.\u00a0\n\nEmbed engineering excellence practices \u2014 code review, continuous integration, automated testing, monitoring, and AI-assisted automations \u2014 into every release cycle.\u00a0\n\nBuild and operate agentic solutions (Claude, custom MCP servers) that automate release notes, deployment impact analysis, regression triage, and compliance reporting.\u00a0\n\nEnsure compliance with security, data governance, and regulatory requirements across the Salesforce ecosystem.\u00a0\n\nCollaborate across the organization, build connections and relationships and foster ownership in our Salesforce CICD.\u00a0\n\nMinimum Qualifications:\n\n3+ years of DevOps experience in Copado or similar CI/CD tools for pipeline configuration, Git branching/merging strategies, and release management including metadata and data migrations.\u00a0\n\n3+ years of hands-on experience administering and delivering requirements of complex solutions on the Salesforce platform including Custom Objects, Workflow Rules, Custom Fields, Validation Rules, VisualForce, and Lightning.\u00a0\n\nFamiliarity with static code analysis with SonarQube, PMD, or equivalent tools.\u00a0\u00a0\n\nExperience using Salesforce data tools: Data Loader, Workbench, Demand Tools.\u00a0\n\nExperience creating and delivering appropriate documentation, training and communication around feature(s) and process changes.\u00a0\n\nPreferred Qualifications:\n\nSalesforce certifications: Platform Administrator, Platform Administrator II, Platform Developer II, Agentforce Specialist.\u00a0\n\nCopado certifications: Fundamentals I & II\n\nAbility to engage in detailed discussions with business stakeholders to explain technical topics in a clear, concise manner to others who may have minimal technical knowledge using oral, written and visual presentations.\u00a0\n\nComfort navigating ambiguity and solving complex cross-functional problems.\u00a0\n\nAttention to detail with a proactive mindset and the ability to work as part of a broader team.\u00a0\n\nYou have the desire to learn and apply new technologies.\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022758EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2022758-1/apply"
+}

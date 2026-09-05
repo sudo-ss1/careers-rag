@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022760EXTERNALENGLOBAL",
+ "req_id": "2022760",
+ "title": "Embedded Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-01T00:00:00.000+0000",
+ "skills": [
+  "c/c++",
+  "linux",
+  "rtos",
+  "device drivers",
+  "kernel modules",
+  "software development",
+  "networking equipment",
+  "traffic analysis",
+  "debugging",
+  "unit testing",
+  "white box testing",
+  "automating software testing",
+  "software documentation",
+  "functional specifications",
+  "root cause analysis",
+  "software bring-up",
+  "peripheral interface development",
+  "pci",
+  "pcie",
+  "i2c",
+  "spi",
+  "uart",
+  "gpio",
+  "ethernet",
+  "ai tools for software development",
+  "networking protocols",
+  "wireless protocols",
+  "security protocols",
+  "strategic planning",
+  "communication skills"
+ ],
+ "teaser": "We are recruiting a Embedded Software Engineer to design and develop IIoT hardware platforms and control plane software for Cisco IIOT Switching and Routing products. The role involves integrating hardware and software, coding, and troubleshooting. Ideal for candidates with strong C/C++ skills and experience in networking software development.",
+ "description": "Meet the Team\n\nJoin the Cisco IIOT team in product development for Industrial IOT switching and routing products that transforms industrial operations. Cisco's IIOT team provides an outstanding, unique experience for software engineers by combining the resources offered by a sizable multi-geography organization and a large campus (with an on-site gym, healthcare, caf\u00e9, social interest groups, and philanthropy) with the startup culture and breadth of growth opportunities that working in a smaller teams can provide.\n\nYour Impact\n\nDesign and development of IIoT hardware platforms, ensuring seamless integration between hardware and software layers.\n\nDesign and development of control plane and data plane software for Cisco IIOT Switching, Routing products.\n\nDesign and develop low-level software components, including BSP, device drivers and kernel modules.\n\nAnalyse requirements and problem statements to come with right software designs and solutions. To be able to write details Design documents and Functional Specifications.\n\nTo Code and Unit Test Software components and modules. It is required to have strong white box testing and automating skills\n\nTriage, debug, and root cause simulation, software bring-up, and customer failures\n\nTo be able to innovate and come up with new ideas that can lead to filing patents and creating IP value for the company\n\nMinimum Qualifications:\n\nBachelors (1- 3 years) or Master\u2019s degree(1-2 years) in Computer Science, EE/ECE or related fields.\n\nProficient in writing quality code in C/C++\n\nStrong understanding of OS (e.g. Linux, RTOS, Unix) and experience working with Linux kernel, device drivers.\n\nExperience in developing software/firmware for networking equipment.\n\nExperience using Traffic generators/Analyzers such as IXIA/Sniffer is a plus.\n\nExperience with debugging and verification methodologies\n\nExperience in using AI tools for Software Development\n\nPreferred Qualifications:\n\nPrior work experience with\u00a0control plane software or data plane software, data structures, Linux/RTOS/Networking OS internals\n\nExperience in Networking domain with strong L2/L3, Wireless or Security protocols experience OR Experience in development and validation of peripheral interfaces (e.g. PCI, PCIe, I2C, SPI, UART, GPIO, Ethernet) and ensure their reliable operations is a plus.\n\nCisco Networking certificates such as CCNA, CCNP, CCIE are desirable.\n\nExcellent communication and strategic planning skills, while being self-motivated with a focus on execution.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022760EXTERNALENGLOBAL/Embedded-Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Embedded-Software-Engineer_2022760-1/apply"
+}

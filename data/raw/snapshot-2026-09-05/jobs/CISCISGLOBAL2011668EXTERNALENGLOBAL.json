@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2011668EXTERNALENGLOBAL",
+ "req_id": "2011668",
+ "title": "Hardware Engineer (hybrid) - 2011668",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "San Jose, California, United States of America"
+ ],
+ "country": "United States of America",
+ "city": "San Jose",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-29T00:00:00.000+0000",
+ "skills": [
+  "system validation",
+  "networking fundamentals",
+  "system integration",
+  "linux",
+  "python",
+  "c/c++",
+  "debugging",
+  "test automation",
+  "ci/cd",
+  "network testing",
+  "root cause analysis",
+  "system performance analysis",
+  "cross-functional collaboration",
+  "data center networking",
+  "ethernet 25g/100g/400g",
+  "pcie",
+  "nx-os",
+  "ios-xr",
+  "traffic generator testing",
+  "network test tools",
+  "automation frameworks",
+  "large-scale testbeds",
+  "asic bring-up",
+  "platform validation",
+  "siops"
+ ],
+ "teaser": "Join our team as a Hardware Engineer (hybrid) to validate and ensure the quality of next-generation networking platforms. Drive end-to-end system validation, develop automated test frameworks, and collaborate with cross-functional teams. Ideal for candidates with strong networking fundamentals and experience in hardware/software integration.",
+ "description": "The application window is expected to close on: 09/17/2026\nHardware Engineer (hybrid) - 2011668\n\n*hybrid role requiring some on site work activity each week in San Jose CA office*\n\nMeet the Team:\n\nCisco Systems is seeking a System Level Test Engineer to validate and ensure the quality of next-generation networking platforms, including switches, routers, and data center systems.\n\nWho You Are:\n\nIn this role, you will drive end-to-end system validation across hardware, firmware, and software stacks, ensuring robust performance, scalability, and reliability under real-world and stress conditions.\n\nKey Responsibilities:\n\nSystem Validation & Integration\n\n\u2022 Define and execute system-level validation strategies for complex networking platforms\n\n\u2022 Validate end-to-end functionality across hardware, OS, and networking software stacks\n\n\u2022 Perform feature, regression, interoperability, and scale testing\n\nTest Development & Automation\n\n\u2022 Develop automated test frameworks using Python, C/C++, or similar languages\n\n\u2022 Build scalable validation environments for high-throughput networking systems\n\n\u2022 Integrate tests into CI/CD pipelines for continuous validation\n\nPerformance & Scale Testing\n\n\u2022 Design and execute tests for throughput, latency, packet loss, and scale limits\n\n\u2022 Validate system behavior under high traffic loads and real-world network conditions\n\n\u2022 Analyze system performance across L2/L3 protocols and data center workloads\n\nDebug & Root Cause Analysis\n\n\u2022 Debug complex issues spanning ASICs, firmware, drivers, and network OS\n\n\u2022 Perform root cause analysis using logs, traces, and lab instrumentation\n\n\u2022 Collaborate with design and software teams to resolve issues efficiently\n\nCross-Functional Collaboration\n\n\u2022 Partner with ASIC, hardware design, software, and architecture teams\n\n\u2022 Influence design decisions by identifying system-level risks early\n\n\u2022 Work with customers and field teams to reproduce and resolve issues\n\nRequired Qualifications:\n\n\u2022 Bachelor\u2019s or Master\u2019s degree in Electrical Engineering, Computer Engineering, Computer Science, or related field\n\n\u2022 4+ years of experience in system validation, networking test, or hardware/software integration\n\n\u2022 Strong knowledge of networking fundamentals (TCP/IP, routing, switching)\n\n\u2022 Experience with Linux systems and debugging tools\n\n\u2022 Programming/scripting experience (Python, C/C++, or similar)\n\n\u2022 Hands-on experience with system-level debugging and validation\n\nPreferred Qualifications:\n\n\u2022 Experience with data center networking (leaf-spine, VXLAN, EVPN)\n\n\u2022 Familiarity with high-speed interfaces (Ethernet 25G/100G/400G, PCIe)\n\n\u2022 Experience testing network operating systems (NX-OS, IOS-XR, or similar)\n\n\u2022 Knowledge of traffic generators (Ixia, Spirent) and network test tools\n\n\u2022 Experience with automation frameworks and large-scale testbeds\n\n\u2022 Background in ASIC bring-up or platform validation\n\nSiOps\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $138,100.00 to $196,500.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco\u2019s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks.\u00a0 Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco\u2019s policies:\n\n10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n\n1 paid day off for employee\u2019s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n\nNon-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n\nExempt employees participate in Cisco\u2019s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n\n80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of\u00a0unused sick time\u00a0carried forward\u00a0from one calendar year\u00a0to the next\n\nAdditional paid time away may be requested to deal with critical or emergency issues for family members\n\nOptional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco\u2019s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n\n.75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n\n1.5% of incentive target for each 1% of attainment between 50% and 75%;\n\n1% of incentive target for each 1% of attainment between 75% and 100%; and\n\nOnce performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$138,100.00 - $226,000.00\n\nNon-Metro New York state & Washington state:\n$124,000.00 - $201,000.00\n\n* For quota-based sales roles on Cisco\u2019s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n\n** Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011668EXTERNALENGLOBAL/Hardware-Engineer-hybrid-2011668",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer--hybrid----2011668_2011668/apply"
+}

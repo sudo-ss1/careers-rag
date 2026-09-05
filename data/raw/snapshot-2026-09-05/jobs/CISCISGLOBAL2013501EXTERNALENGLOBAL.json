@@ -1,0 +1,38 @@
+{
+ "job_seq_no": "CISCISGLOBAL2013501EXTERNALENGLOBAL",
+ "req_id": "2013501",
+ "title": "Senior Software Engineer, Wireless Radio / Firmware - 7+ yrs | BLR",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-05-21T00:00:00.000+0000",
+ "skills": [
+  "c/c++",
+  "low-level systems programming",
+  "802.11 protocols",
+  "radio firmware development",
+  "drivers development",
+  "debugging",
+  "performance optimization",
+  "rf behavior",
+  "system-level performance",
+  "subsystem design",
+  "vendor management",
+  "mentoring engineers",
+  "ai-assisted development tools",
+  "upstream driver development",
+  "large-scale wireless systems"
+ ],
+ "teaser": "We are recruiting a Senior Software Engineer to lead the development of radio firmware and driver components for wireless systems. You will design and optimise system-level features, collaborate with chipset vendors, and mentor engineers. Ideal candidates have significant experience in wireless or embedded software development and strong expertise in C/C++ and 802.11 protocols.",
+ "description": "Meet the Team\u00a0\n\nThe Cisco Wireless Feature & System Engineering team builds end-to-end wireless capabilities across access points, controllers, and cloud-managed platforms. We design features that span device software, control planes, and management systems to deliver seamless, secure, and high-performance enterprise Wi-Fi.\n\nYour Impact\u00a0\n\nAs a Senior Wireless Radio Software Engineer, you will lead development of radio firmware and driver components, driving Wi-Fi feature enablement and system-level performance across platforms\n\nLead design and development of radio firmware and driver subsystems\n\nDrive implementation of complex 802.11 features and optimizations\n\nDebug and resolve challenging cross-layer issues (RF, firmware, driver, system)\n\nWork directly with chipset vendors to influence and resolve firmware behavior\n\nOptimize performance, scalability, and reliability of wireless systems\n\nMentor engineers and guide technical direction within your domain\n\nLeverage AI-assisted development tools to improve team efficiency and workflows\n\nMinimum Qualifications -:\u00a0\n\nBE/BTech with 7+ Years of experience or ME/MTech with 5+ Years of experience in wireless or embedded software development\n\nStrong expertise in C/C++ and low-level systems programming\n\nDeep understanding of 802.11 protocols, features, and system behavior\n\nExperience with radio firmware, drivers, or data path development\n\nStrong debugging skills across firmware and system layers\n\nExperience collaborating with chipset vendors\n\nAbility to lead subsystem design and execution\n\nPreferred Qualifications :\u00a0\n\nExperience with upstream driver development\n\nStrong understanding of performance optimization and RF behavior\n\nExperience in large-scale wireless systems\n\n#wirelesshiring\n\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2013501EXTERNALENGLOBAL/Senior-Software-Engineer-Wireless-Radio-Firmware-7-yrs-BLR",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Senior-Software-Engineer--Wireless-Radio---Firmware---7--yrs---BLR_2013501-1/apply"
+}

@@ -1,0 +1,35 @@
+{
+ "job_seq_no": "CISCISGLOBAL2003521EXTERNALENGLOBAL",
+ "req_id": "2003521",
+ "title": "C++ Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Belgrade, Serbia"
+ ],
+ "country": "Serbia",
+ "city": "Belgrade",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-04-16T00:00:00.000+0000",
+ "skills": [
+  "go language",
+  "graphql",
+  "api frameworks",
+  "generative ai",
+  "python",
+  "software development",
+  "startups",
+  "node.js",
+  "react.js",
+  "ai governance",
+  "critical thinking",
+  "typescript"
+ ],
+ "teaser": "We are recruiting a C++ Software Engineer to develop software aligned with Cisco\u2019s Design Thinking Principles, focusing on simplification and user experience. You will collaborate with cross-functional teams, contribute technical documentation, and support software development processes. Ideal candidates have experience in secure coding and a strong understanding of software development best practices.",
+ "description": "Meet the Team\n\nWe are building firmware, SDK, simulator, and compiler for Cisco Silicon One\u2122 architecture and work in the development of pioneering technology.\n\nOur R&D department contributes to the evolution of the next generation of leading networking products.\n\nThis is an opportunity to work with worldwide distributed Cisco R&D centers and learn from the best engineers in the field.\n\nWe are looking for people who are in love with technology and engineering to help us push the limits of what is possible through innovation, determination, and teamwork.\n\nWe have multiple positions open within various teams working on Cisco Silicon One!\n\nYour Impact\n\nDesign, develop and program various software components using C++\n\nCollaborate with software development teams on application design and development as well as the Hardware and ASIC design teams across various Cisco locations.\n\nIdentify bottlenecks and bugs, and devise solutions to these problems\n\nOptimize software by performing maintenance, updates and upgrades\n\nHelp maintain code quality, organization and automatization\n\nParticipate in the SW/HW integration\n\nThe result of your work will be integrated into the products of world-leading companies and will have a worldwide impact.\n\nMinimum Qualifications\n\n3+ years of programming experience with C++\n\nAcademic education in computer technology (finished BSc/MSc studies)\n\nFluency in spoken and written English\n\nPreferred Qualifications\n\nGood problem-solving, debugging and analytical skills\n\nHigh level of work autonomy and sense of responsibility\n\nGood understanding the way how hardware is working\n\nExperience with Makefiles and Linux\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2003521EXTERNALENGLOBAL/C-Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Belgrade-Serbia/C---Software-Engineer_2003521/apply"
+}

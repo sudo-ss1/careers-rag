@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2011968EXTERNALENGLOBAL",
+ "req_id": "2011968",
+ "title": "SDWAN/L3 Test Engineering Technical Leader | L2/L3 security | Network automation | IPSEC and cloud security(11-15 Years)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-07-31T00:00:00.000+0000",
+ "skills": [
+  "sd-wan testing",
+  "network automation",
+  "ipsec",
+  "cloud security",
+  "nat",
+  "firewall",
+  "qos",
+  "bfd",
+  "netflow",
+  "gre",
+  "linux",
+  "python",
+  "rest apis",
+  "kvm",
+  "esxi",
+  "git",
+  "layer 2/layer 3 security",
+  "sd-wan architecture",
+  "performance debugging",
+  "ixia",
+  "spirent",
+  "wireshark",
+  "pki",
+  "certificate management",
+  "pnp",
+  "ztp",
+  "day 0/day n workflows",
+  "ai-assisted coding tools",
+  "vscode"
+ ],
+ "teaser": "Join us as an SDWAN/L3 Test Engineering Technical Leader to define and drive test strategies for Cisco SDWAN Secure Router Platforms. Lead customer demos, design scalable test frameworks, and mentor team members. Ideal for experienced professionals with deep expertise in Layer 2/L3 security and network automation.",
+ "description": "Meet the Team\n\nCisco SDWAN focuses on simplifying and securing enterprise WANs, enabling seamless cloud connectivity, automating network operations and ensuring optimal application performance through advanced SD-WAN solutions.\n\nYour Impact\n\nDefine and drive test strategy and validation architecture for software features on Cisco SDWAN\u00a0 Secure Router Platforms.\n\nEstablish end-to-end test strategies covering functional, system, scale, performance, resiliency, security and migration.\n\nLead customer demos and technical presentations to showcase product capabilities and articulate solution value.\n\nDesign and evolve scalable test frameworks, automation platforms, and validation pipelines for enterprise-grade networking.\n\nCollaborate with engineering leaders, product management, hardware, and TAC teams to define quality goals, test scope, and execution strategies.\n\nMentor team members to enhance technical depth, architectural thinking, and quality leadership.\n\nRepresent the test organization in cross-functional forums to influence release decisions, risk assessment, and quality metrics.\n\nMinimum Qualifications\n\nBachelor\u2019s or Master\u2019s Degree in CS or Equivalent or related degree with 11+ \u00a0\u00a0years in Layer 2/Layer 3 or SD-WAN product testing.\n\nStrong testing experience in NAT, Firewall, QoS, BFD, NetFlow, and GRE /IPsec .\n\nHands-on expertise in IP and IPv6, ARP, DNS, DHCP, AAA, RADIUS, SNMP, EIGRP, OSPF, and BGP.\n\nExperience with HA and redundancy protocols, PKI, certificate management, and Layer 2/Layer 3 security.\n\nGood understanding of SD-WAN architecture and operations, including PNP, ZTP, and Day 0 or Day N workflows.\n\nStrong Linux fundamentals with hands-on virtualization experience in KVM or ESXi.\n\nHands-on use of troubleshooting tools such as Ixia, Spirent, and Wireshark.\n\n8+ years of experience in Network automation experience using Python and REST APIs.\n\nProficiency with Git for code and configuration version control.\n\nStrong analytical, debugging, and end-to-end solution validation skills.\n\nClear verbal and written communication skills for complex technical topics.\n\nStrong collaboration \u00a0across engineering teams and mentoring skills.\n\nPerformance Debugging: Perform deep-dive analysis into performance bottlenecks at the kernel and hardware-abstraction layers including control plane and dataplane.\n\nModern Test Practices:\u00a0Utilize\u00a0modern Test workflows, including AI-assisted coding tools (such as GitHub Copilot, Claude, or Codex) and integrated development environments\u00a0like\u00a0VSCode, to accelerate the development lifecycle and improve code quality.\u00a0\n\nPreferred Qualifications\n\nExperience with Cisco Viptela or Meraki, VMware VeloCloud, Fortinet, or Prisma SD-WAN.\n\nFamiliarity with SD-WAN integration across AWS, Azure, and GCP.\n\nExperience with CI or CD pipelines and network automation.\n\nExperience with configuration management tools such as Ansible.\n\nExperience working in Agile development environments.\n\nExposure to AI-driven automation for network management and optimization.\n\nCCIE,CCNP or equivalent certifications.\n\n#sdwanhiring\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011968EXTERNALENGLOBAL/SDWAN-L3-Test-Engineering-Technical-Leader-L2-L3-security-Network-automation-IPSEC-and-cloud-security-11-15-Years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/SDWAN-L3-Test-Engineering-Technical-Leader---L2-L3-security---Network-automation---IPSEC-and-cloud-security-11-15-Years-_2011968/apply"
+}

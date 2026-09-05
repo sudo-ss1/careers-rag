@@ -1,0 +1,495 @@
+[
+ {
+  "query_id": "reqid-1440127",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 1440127 about?",
+  "relevant": [
+   "CISCISGLOBAL1440127EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "reqid-2010573",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 2010573 about?",
+  "relevant": [
+   "CISCISGLOBAL2010573EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "reqid-2013895",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 2013895 about?",
+  "relevant": [
+   "CISCISGLOBAL2013895EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "reqid-2015955",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 2015955 about?",
+  "relevant": [
+   "CISCISGLOBAL2015955EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "reqid-2017930",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 2017930 about?",
+  "relevant": [
+   "CISCISGLOBAL2017930EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "reqid-2018781",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 2018781 about?",
+  "relevant": [
+   "CISCISGLOBAL2018781EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "reqid-2019781",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 2019781 about?",
+  "relevant": [
+   "CISCISGLOBAL2019781EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "reqid-2020622",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 2020622 about?",
+  "relevant": [
+   "CISCISGLOBAL2020622EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "reqid-2021252",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 2021252 about?",
+  "relevant": [
+   "CISCISGLOBAL2021252EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "reqid-2021863",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 2021863 about?",
+  "relevant": [
+   "CISCISGLOBAL2021863EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "reqid-2022652",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 2022652 about?",
+  "relevant": [
+   "CISCISGLOBAL2022652EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "reqid-2023368",
+  "family": "lexical",
+  "subtype": "req_id",
+  "query": "What is requisition 2023368 about?",
+  "relevant": [
+   "CISCISGLOBAL2023368EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "tech-grpc",
+  "family": "lexical",
+  "subtype": "tech_token",
+  "query": "Which open roles work with grpc?",
+  "relevant": [
+   "CISCISGLOBAL2011045EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018322EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020800EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021854EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "tech-matlab",
+  "family": "lexical",
+  "subtype": "tech_token",
+  "query": "Which open roles work with matlab?",
+  "relevant": [
+   "CISCISGLOBAL2003531EXTERNALENGLOBAL",
+   "CISCISGLOBAL2010752EXTERNALENGLOBAL",
+   "CISCISGLOBAL2012338EXTERNALENGLOBAL",
+   "CISCISGLOBAL2014236EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018892EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018984EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020320EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020471EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023812EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "tech-selenium",
+  "family": "lexical",
+  "subtype": "tech_token",
+  "query": "Which open roles work with selenium?",
+  "relevant": [
+   "CISCISGLOBAL2021019EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021622EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021623EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021627EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "tech-spark",
+  "family": "lexical",
+  "subtype": "tech_token",
+  "query": "Which open roles work with spark?",
+  "relevant": [
+   "CISCISGLOBAL1440127EXTERNALENGLOBAL",
+   "CISCISGLOBAL2019006EXTERNALENGLOBAL",
+   "CISCISGLOBAL2019757EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020487EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021180EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021441EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021442EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021443EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022755EXTERNALENGLOBAL",
+   "CISCISGLOBAL2024459EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "tech-tensorflow",
+  "family": "lexical",
+  "subtype": "tech_token",
+  "query": "Which open roles work with tensorflow?",
+  "relevant": [
+   "CISCISGLOBAL2013833EXTERNALENGLOBAL",
+   "CISCISGLOBAL2015076EXTERNALENGLOBAL",
+   "CISCISGLOBAL2016324EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018334EXTERNALENGLOBAL",
+   "CISCISGLOBAL2019006EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021180EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021531EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021849EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022551EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-Sales-Singapore",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Sales openings in Singapore?",
+  "relevant": [
+   "CISCISGLOBAL2003652EXTERNALENGLOBAL",
+   "CISCISGLOBAL2003969EXTERNALENGLOBAL",
+   "CISCISGLOBAL2011743EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018657EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018696EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018913EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020540EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020650EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021973EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022551EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-Other-Japan",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Other openings in Japan?",
+  "relevant": [
+   "CISCISGLOBAL1448583EXTERNALENGLOBAL",
+   "CISCISGLOBAL2006339EXTERNALENGLOBAL",
+   "CISCISGLOBAL2014672EXTERNALENGLOBAL",
+   "CISCISGLOBAL2015113EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018048EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018423EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018888EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020463EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023862EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-Productand-Poland",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Product and Engineering openings in Poland?",
+  "relevant": [
+   "CISCISGLOBAL1448706EXTERNALENGLOBAL",
+   "CISCISGLOBAL1448815EXTERNALENGLOBAL",
+   "CISCISGLOBAL2012050EXTERNALENGLOBAL",
+   "CISCISGLOBAL2017464EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020241EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020243EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021196EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022100EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023815EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-Other-Singapore",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Other openings in Singapore?",
+  "relevant": [
+   "CISCISGLOBAL2002951EXTERNALENGLOBAL",
+   "CISCISGLOBAL2015508EXTERNALENGLOBAL",
+   "CISCISGLOBAL2016733EXTERNALENGLOBAL",
+   "CISCISGLOBAL2017911EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018653EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018659EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023210EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023368EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023850EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-SupplyChain-India",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Supply Chain and Manufacturing Ops openings in India?",
+  "relevant": [
+   "CISCISGLOBAL2011157EXTERNALENGLOBAL",
+   "CISCISGLOBAL2017446EXTERNALENGLOBAL",
+   "CISCISGLOBAL2017490EXTERNALENGLOBAL",
+   "CISCISGLOBAL2017938EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018059EXTERNALENGLOBAL",
+   "CISCISGLOBAL2019413EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020025EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021752EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022109EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-Sales-Netherlands",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Sales openings in Netherlands?",
+  "relevant": [
+   "CISCISGLOBAL2012031EXTERNALENGLOBAL",
+   "CISCISGLOBAL2012639EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018452EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020525EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020528EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021952EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022096EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022397EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023231EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-SupplyChain-Vietnam",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Supply Chain and Manufacturing Ops openings in Vietnam?",
+  "relevant": [
+   "CISCISGLOBAL2010410EXTERNALENGLOBAL",
+   "CISCISGLOBAL2015038EXTERNALENGLOBAL",
+   "CISCISGLOBAL2016730EXTERNALENGLOBAL",
+   "CISCISGLOBAL2017101EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018118EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018120EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022082EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023321EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-SupplyChain-Mexico",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Supply Chain and Manufacturing Ops openings in Mexico?",
+  "relevant": [
+   "CISCISGLOBAL2013739EXTERNALENGLOBAL",
+   "CISCISGLOBAL2014804EXTERNALENGLOBAL",
+   "CISCISGLOBAL2015149EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021252EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022498EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022977EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023106EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023731EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-CustomerExp-Malaysia",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Customer Experience openings in Malaysia?",
+  "relevant": [
+   "CISCISGLOBAL2015362EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018058EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018066EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018147EXTERNALENGLOBAL",
+   "CISCISGLOBAL2019793EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020640EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020648EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020659EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-CustomerExp-UnitedState",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Customer Experience openings in United States of America?",
+  "relevant": [
+   "CISCISGLOBAL2015572EXTERNALENGLOBAL",
+   "CISCISGLOBAL2019856EXTERNALENGLOBAL",
+   "CISCISGLOBAL2019858EXTERNALENGLOBAL",
+   "CISCISGLOBAL2019984EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020609EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020750EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023085EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023091EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-Sales-Germany",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Sales openings in Germany?",
+  "relevant": [
+   "CISCISGLOBAL2000609EXTERNALENGLOBAL",
+   "CISCISGLOBAL2014767EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018390EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018451EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018493EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023239EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023492EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-Sales-SaudiArabia",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Sales openings in Saudi Arabia?",
+  "relevant": [
+   "CISCISGLOBAL2012553EXTERNALENGLOBAL",
+   "CISCISGLOBAL2013895EXTERNALENGLOBAL",
+   "CISCISGLOBAL2017318EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018436EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020338EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020849EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022652EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-SupplyChain-Thailand",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Supply Chain and Manufacturing Ops openings in Thailand?",
+  "relevant": [
+   "CISCISGLOBAL2015705EXTERNALENGLOBAL",
+   "CISCISGLOBAL2016179EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022633EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022653EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022769EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022771EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023086EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-Information-India",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Information Technology openings in India?",
+  "relevant": [
+   "CISCISGLOBAL2016012EXTERNALENGLOBAL",
+   "CISCISGLOBAL2016018EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020546EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021295EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022508EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022578EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022714EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-Productand-Thailand",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Product and Engineering openings in Thailand?",
+  "relevant": [
+   "CISCISGLOBAL2007945EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022809EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023018EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023973EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023974EXTERNALENGLOBAL",
+   "CISCISGLOBAL2023975EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-Productand-Switzerland",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Product and Engineering openings in Switzerland?",
+  "relevant": [
+   "CISCISGLOBAL1448616EXTERNALENGLOBAL",
+   "CISCISGLOBAL2012314EXTERNALENGLOBAL",
+   "CISCISGLOBAL2018984EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022997EXTERNALENGLOBAL",
+   "CISCISGLOBAL2022998EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "catloc-Sales-Poland",
+  "family": "lexical",
+  "subtype": "category_location",
+  "query": "Are there Sales openings in Poland?",
+  "relevant": [
+   "CISCISGLOBAL2016398EXTERNALENGLOBAL",
+   "CISCISGLOBAL2019837EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020351EXTERNALENGLOBAL",
+   "CISCISGLOBAL2020512EXTERNALENGLOBAL",
+   "CISCISGLOBAL2021187EXTERNALENGLOBAL"
+  ]
+ },
+ {
+  "query_id": "unanswerable-0",
+  "family": "unanswerable",
+  "subtype": "out_of_corpus",
+  "query": "Do you have quantum cryptography research roles in Antarctica?",
+  "relevant": []
+ },
+ {
+  "query_id": "unanswerable-1",
+  "family": "unanswerable",
+  "subtype": "out_of_corpus",
+  "query": "I'm looking for a role as a commercial airline pilot.",
+  "relevant": []
+ },
+ {
+  "query_id": "unanswerable-2",
+  "family": "unanswerable",
+  "subtype": "out_of_corpus",
+  "query": "Are there any open positions for a professional chef?",
+  "relevant": []
+ },
+ {
+  "query_id": "unanswerable-3",
+  "family": "unanswerable",
+  "subtype": "out_of_corpus",
+  "query": "Do you hire marine biologists for coral reef research?",
+  "relevant": []
+ },
+ {
+  "query_id": "unanswerable-4",
+  "family": "unanswerable",
+  "subtype": "out_of_corpus",
+  "query": "Is there a remote role teaching high-school mathematics?",
+  "relevant": []
+ },
+ {
+  "query_id": "unanswerable-5",
+  "family": "unanswerable",
+  "subtype": "out_of_corpus",
+  "query": "What veterinary surgeon openings are available in Lisbon?",
+  "relevant": []
+ }
+]

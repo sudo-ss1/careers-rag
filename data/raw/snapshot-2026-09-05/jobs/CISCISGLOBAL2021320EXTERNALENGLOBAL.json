@@ -1,0 +1,47 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021320EXTERNALENGLOBAL",
+ "req_id": "2021320",
+ "title": "Software Engineering Technical Leader :: C/C++, Firmware & L2/L3 Networking |12-15 Years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-28T00:00:00.000+0000",
+ "skills": [
+  "kr port",
+  "stp",
+  "system design",
+  "multicast management",
+  "primary management interface",
+  "ipc/rpc mechanisms",
+  "lag",
+  "dhcp relay",
+  "vrrp",
+  "firmware",
+  "slaac",
+  "network fundamentals",
+  "c++",
+  "ecmp",
+  "static routing",
+  "qos",
+  "troubleshooting",
+  "ospf",
+  "storm control",
+  "ipv6",
+  "python",
+  "northbound connectivity",
+  "vlan",
+  "udld"
+ ],
+ "teaser": "Become part of our team as a Software Engineering Technical Leader, driving the design and development of high-performance system software for Cisco Meraki\u2019s networking products. Lead the creation of firmware for L2/L3 protocols, ensuring seamless connectivity and performance. Ideal for experienced professionals with strong C/C++ expertise and a background in networking software development.",
+ "description": "Meet the Team\n\nAre you a visionary firmware developer with a passion for computer networking? At Cisco Meraki, we\u2019re revolutionizing the world of cloud-managed devices, including switches, routers and wireless access points. Our products are beloved by customers around the globe, and our rapid growth speaks volumes about the innovation behind what we do.\n\nJoin the Network Connectivity Team at Cisco Meraki, where your expertise will breathe life into our cutting-edge systems. As a Software Engineering Technical Lead you will be at the forefront of designing and developing high-performance system software that drives the future of networking technology.\n\nYour Impact\n\nIn this pivotal role, Your work will directly enhance the connectivity and configuration of L2/L3 protocols on our switches, ensuring seamless management and impeccable performance for Meraki\u2019s switches.. You will lead significant features and play a crucial part in shaping the future of switching.\n\nResponsibilities\n\nArchitect networking components that are simple, scalable, and highly available. Design and development of \u00a0Firmware \u00a0for Cisco Meraki\u2019s Switching, products.\n\nAnalyse requirements and problem statements to come with right software designs and solutions. To be able to write details Design documents and Functional Specifications.\n\nTo Code and Unit Test Software components and modules. It is required to have strong white- box testing and automating skills. Triage, debug, and root cause simulation, software bring-up, and customer failures\n\nWork with local and remote teams to review Product Requirements Document,\u00a0\u00a0to collaborate on SW Functional and Design Specifications, Unit and Integration test plans. Also responsible for reviewing test strategy and test plans for Functional and System Test teams.\n\nTo be able to innovate and come up with new ideas that can lead to filing patents and creating IP value for the company\n\nMinimum Qualifications:\n\nBachelors (12-15 years) or Master\u2019s degree(10-12 years) in Computer Science, EE/ECE or related fields.\n\nProficient in writing quality code in C/C++.\n\nExperience in developing software/firmware for networking products.\n\nExcellent knowledge of software architecture and system design.\n\nExperience in Concurrent Programming and IPC/RPC Mechanisms\n\nExpertise in Network Fundamentals (L2/L3): Your solid understanding of network basics will be your foundation.\n\nExperience using Traffic generators/Analysers such as IXIA/Sniffer is a plus.\n\nTechnical leadership experience in leading high performance teams to provide technical leadership for designing and implementing quality features and solutions.\n\nHands on experience with Gen AI technologies (Codex, Claude etc.)\n\nPreferred Qualifications:\n\nExperience with debugging and verification methodologies in C/C++.\n\nYou have hands-on development experience on L2, L3 protocols.\n\nCisco Networking certificates such as CCNA, CCNP, CCIE are desirable.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021320EXTERNALENGLOBAL/Software-Engineering-Technical-Leader-C-C-Firmware-L2-L3-Networking-12-15-Years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineering-Technical-Leader----C-C----Firmware---L2-L3-Networking--12-15-Years_2021320-1/apply"
+}

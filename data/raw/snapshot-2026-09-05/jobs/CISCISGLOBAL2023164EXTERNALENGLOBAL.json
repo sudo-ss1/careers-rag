@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023164EXTERNALENGLOBAL",
+ "req_id": "2023164",
+ "title": "Analog/mixed-signal IC Design Engineer - Acacia (Hybrid)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "San Jose, California, United States of America"
+ ],
+ "country": "United States of America",
+ "city": "San Jose",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-20T00:00:00.000+0000",
+ "skills": [
+  "adc",
+  "phase locked loop",
+  "integrated circuit design",
+  "analog ic circuit design",
+  "serdes",
+  "mixed-signal integrated circuits",
+  "high-speed transceiver logic",
+  "opamp design",
+  "programmable gain amplifier",
+  "equalization techniques",
+  "serial link design",
+  "output driver design",
+  "phase locked loop design",
+  "clock transmission/propagation",
+  "electrical transceiver applications",
+  "finfet technologies",
+  "gaa technologies",
+  "high-frequency layout",
+  "floorplanning",
+  "inductor design",
+  "transformer design",
+  "transmission-line design",
+  "design for manufacturability",
+  "pvt characterization",
+  "electromigration analysis",
+  "self-heating analysis",
+  "ir drop analysis",
+  "esd practices",
+  "test setup construction",
+  "cadence virtuoso"
+ ],
+ "teaser": "Seeking an Analog/Mixed-Signal IC Design Engineer to develop high-speed, high-accuracy analog designs for optical communications. Collaborate with cross-functional teams to integrate advanced signal processing and photonic integration. Ideal for candidates with significant experience in high-speed IC design and a strong background in mixed-signal technologies.",
+ "description": "Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nThis is a hybrid role with three days per week at our San Jose, CA office.\n\nMeet the Team\n\nAcacia designs intelligent transceivers using advanced signal processing and photonic integration for the 100G, 400G, 800G and 1.6T+ bit speed fiber optic transmission market deployed in data center, metro, long-haul and ultra-long haul telecommunication networks.\n\nYou will work with other Acacia mixed-signal engineers to collaborate in order to provide an optimized design that will integrate into the ASIC. In addition, you will have the opportunity to interact with other Acacia groups including RF design, digital/DSP design, system design, package design, and module design. Acacia takes pride in providing and fostering a collaborate environment in order ensure success and personal growth.\n\nYour Impact\n\nAs a member of the Mixed Signal Design team, you will be a key member of a small, dynamic IC Design group that develops high speed (>25Gb/s), and high accuracy, analog designs for optical communications products. You will design, layout, measure and productize ultra-deep sub-micron-based CMOS products.\n\nYou will lead efforts for blocks on a complex chip, track deliverables, participate in peer review of complex IC designs and provide solid design methodology from conception to production.\n\nYou will also collaborate with packaging and hardware design team to ensure signal and power integrity specifications are met.\n\nYou are enthusiastic about developing high speed AMS circuits and best-in-class products that push the boundaries of what is possible. You are detail oriented, high energy with the drive to get things done and solve difficult problems.\n\nYou are capable to figure things out by yourself, but you also participate in our friendly and team-oriented collaboration approach, which means you enjoy learning from your colleagues and letting them learn from you.\n\nYou are not shy to always point out how we can be more effective as a team, and you are open to similar suggestions by your team members.\n\nMinimum qualifications\n\nBachelors + 6 years of related experience, or Masters + 4 years of related experience, or PhD + 1 years of related experience.\n\nExperience in design, simulation and measurement of high speed ICs in at least 2 of the areas listed below:\n* High Speed Serial Links utilizing serializers, deserializers, and data converters.\n* High Performance Output Drivers\n* High Performance Phase Locked Loops\n* Efficient clock transmission/propagation\n* Opamps and Programmable Gain Amplifiers\n* Equalization techniques\n\nPreferred Qualifications\n\nExperience with electrical transceiver applications including backplane and cable communications.\n* Experience in FinFET and GAA technologies.\n* High-frequency layout experience including floorplanning (power/ground, digital/analog signal routing), passives components (inductors, transformers, and transmission-lines).\n* Experience in design for manufacturability including characterization over PVT, electromigration analysis, self-heating, and IR drop analysis.\n* Experience in laboratory validation including ESD practices/methodology and construction of test setups.\n* Experience in design software including Cadence (Virtuoso), Specture/APS/SpectreX, layout validation tools (Virtuoso and Calibre), EMX, mixed-signal simulations in AMS, and Matlab.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $167,700.00 to $245,200.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco\u2019s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks.\u00a0 Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco\u2019s policies:\n\n10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n\n1 paid day off for employee\u2019s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n\nNon-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n\nExempt employees participate in Cisco\u2019s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n\n80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of\u00a0unused sick time\u00a0carried forward\u00a0from one calendar year\u00a0to the next\n\nAdditional paid time away may be requested to deal with critical or emergency issues for family members\n\nOptional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco\u2019s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n\n.75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n\n1.5% of incentive target for each 1% of attainment between 50% and 75%;\n\n1% of incentive target for each 1% of attainment between 75% and 100%; and\n\nOnce performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$167,700.00 - $282,000.00\n\nNon-Metro New York state & Washington state:\n$149,100.00 - $250,900.00\n\n* For quota-based sales roles on Cisco\u2019s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n\n** Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023164EXTERNALENGLOBAL/Analog-mixed-signal-IC-Design-Engineer-Acacia-Hybrid",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Analog-mixed-signal-IC-Design-Engineer---Acacia--Hybrid-_2023164/apply"
+}

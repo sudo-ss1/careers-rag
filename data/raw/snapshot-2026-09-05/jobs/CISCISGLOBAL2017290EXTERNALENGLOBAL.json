@@ -1,0 +1,41 @@
+{
+ "job_seq_no": "CISCISGLOBAL2017290EXTERNALENGLOBAL",
+ "req_id": "2017290",
+ "title": "Software Engineer - 8+yrs - Python, Satellite Communications, LTE/5G, Networking-TCP/IP, routing",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-17T00:00:00.000+0000",
+ "skills": [
+  "low earth orbit",
+  "starlink services",
+  "vlans",
+  "vpn technologies",
+  "cellular technologies",
+  "cellular test environments",
+  "ethernet-based network integration",
+  "tcp/ip",
+  "test suite development",
+  "wireless backhaul architectures",
+  "traffic generators",
+  "routing",
+  "test automation",
+  "ai/ml tools",
+  "ip networking fundamentals",
+  "network emulators",
+  "leo satellite communication systems",
+  "nat"
+ ],
+ "teaser": "We are recruiting a Software Engineer to design and develop tools for testing Cisco products, ensuring quality and stability in industrial networking solutions. You will evaluate and validate satellite-enabled connectivity, collaborating with teams to address customer issues. Ideal candidates have significant experience in software quality assurance and wireless communication systems.",
+ "description": "Meet the team:\n\nJoin the Cisco IIoT team to work on product development for industrial switching and routing solutions that transform industrial operations. The team builds secure, scalable technologies across industrial networking, edge computing, and IoT security, helping customers in manufacturing, energy, transportation, and smart cities improve efficiency through real-time insights. Cisco offers software engineers a unique experience that blends the scale and resources of a global organization with a startup-like culture, strong collaboration, and broad growth opportunities.\n\nWe are seeking a Systems Engineer with experience in wireless communication systems, cellular networking, and emerging LEO satellite technologies. You will be responsible for evaluating, integrating, and validating satellite-enabled connectivity solutions, including Starlink-based wireless backhaul and Direct-to-Cell architectures.\n\nAs a System Engineer, your responsibilities will include:\n\nDesigning and developing tools to test the functionality of Cisco products, ensuring quality and stability from a system/solution perspective that simulates customer environments with IIoT deployments\n\nCreating documentation (Cisco Validated Profiles) for various end-to-end solutions.\n\nAddressing customer issues related to Industrial IoT (IIoT) products, reproducing problems in-house for root cause analysis, and driving resolution.\n\nCollaborating with local and remote teams to review Product Requirements Documents, Software Functional and Design Specifications, and other relevant documentation to extract test requirements and provide feedback for testability and system automation design/execution.\n\nEnhancing test efficiency and effectiveness by analyzing customer-found issues and applying appropriate testing approaches, technologies, tools, and innovations.\n\nLeveraging Machine Learning (MI) and Artificial Intelligence (AI) techniques to improve test automation and manual testing processes.\n\nSupporting the test team in expanding their knowledge of testing technologies and networking by staying updated with the latest industry developments.\n\nContributing to the department\u2019s knowledge retention by systematically archiving meaningful documentation and equipment.\n\nMinimum Qualifications\n\nYou have 8+ years of experience in Software Quality Assurance with a focus on test automation with hands on experience in building and maintaining test suites.\n\nStrong understanding of LEO (Low Earth Orbit) satellite communication systems and satellite network architectures.\n\nKnowledge of Starlink services, user terminals, gateways, and satellite-based internet connectivity.\n\nExperience with cellular technologies including LTE, 5G NR, cellular gateways, and SIM-based connectivity solutions.\n\nUnderstanding of wireless backhaul architectures using satellite and cellular networks.\n\nExperience with IP networking fundamentals including TCP/IP, routing, VLANs, NAT, DNS, and VPN technologies.\n\nKnowledge of Ethernet-based network integration and gateway validation.\n\nFamiliarity with system-level\u00a0integration, verification, and validation methodologies.\n\nYou have deeper networking\u00a0knowledge with the hands-on experience on routers/switches.\n\nYou leverage AI/ML tools for network infrastructure support and to drive productivity improvements.\n\nYou have experience in conducting Performance and Scale testing of newer platforms and features\n\nPreferred Qualifications\u2002\u2002\n\nExperience in programming languages such as Python or any similar languages.\n\nExperience testing or integrating Starlink-based connectivity solutions.\n\nExperience with industrial routers, IoT gateways, or edge computing platforms.\n\nYou leverage AI/ML tools for network infrastructure support and to drive productivity improvements.\n\nFamiliarity with network emulators, traffic generators, and cellular test environments.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017290EXTERNALENGLOBAL/Software-Engineer-8-yrs-Python-Satellite-Communications-LTE-5G-Networking-TCP-IP-routing",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2017290-1/apply"
+}

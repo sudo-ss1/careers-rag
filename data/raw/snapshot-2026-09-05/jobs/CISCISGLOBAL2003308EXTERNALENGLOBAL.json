@@ -1,0 +1,39 @@
+{
+ "job_seq_no": "CISCISGLOBAL2003308EXTERNALENGLOBAL",
+ "req_id": "2003308",
+ "title": "Senior Physical Design Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Caesarea, Israel",
+  "Tel Aviv-Yafo, Israel"
+ ],
+ "country": "Israel",
+ "city": "Caesarea",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-04T00:00:00.000+0000",
+ "skills": [
+  "vlsi design",
+  "backend design",
+  "place & route",
+  "physical synthesis",
+  "optimization",
+  "timing closure",
+  "design floor planning",
+  "physical design verification",
+  "lvs/drc",
+  "self-learning",
+  "eda tools",
+  "team collaboration",
+  "synopsys",
+  "autonomy",
+  "cadence"
+ ],
+ "teaser": "We are currently hiring a Senior Physical Design Engineer to lead backend design and development of high-quality VLSI chips. You will oversee all aspects of chip design, including RTL to GDS, and contribute to the latest silicon technologies. Ideal candidates bring extensive VLSI design experience and a strong background in place and route flow.",
+ "description": "Cisco Silicon One is seeking a Physical Design Technical Leader.\n\nMeet the Team\n\nPhysical Design team within Cisco Silicon One is responsible for the entire backend methodology and flow development from RTL to GDS. This is a critical part of the group leading the development of high-quality VLSI designs.\n\nWe demonstrate the latest silicon technologies and processes to build the largest-scale and most complex devices, pushing the boundaries of feasibility.\n\nYour Impact\nYou'll be part of the Cisco Silicon One team, which is at the heart of Cisco\u2019s software and ASIC design efforts.\n\nYou'll handle all aspects of chip design, including Definition, Physical Synthesis, Place and Route, Optimization, Timing Closure, Design Floor Planning.\n\nMinimum Requirements \n\nA VLSI Design with extensive experience in backend design\n\nB.Sc./M.Sc. in Electrical Engineering.\n\nStrong understanding of Place & Route flow.\n\n7+ years of hands-on experience in a relevant domain\n\nPreferred/Advantageous Qualifications \n\nDeep understanding of all aspects of Physical construction and Integration.\n\nKnowledge in Physical Design Verification methodology LVS/DRC.\n\nFamiliarity with physical design EDA tools (such as Synopsys, Cadence, etc.).\n\nGreat teammate, self-learning skills, and ability to work autonomously.\n\n#li-as6\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2003308EXTERNALENGLOBAL/Senior-Physical-Design-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Caesarea-Israel/Physical-Design-Technical-Leader_2003308/apply"
+}

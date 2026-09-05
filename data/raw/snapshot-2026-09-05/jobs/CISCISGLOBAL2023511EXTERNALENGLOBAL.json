@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023511EXTERNALENGLOBAL",
+ "req_id": "2023511",
+ "title": "Customer Delivery Architect, Customer Experience - Networking, Security & AI Infrastructure",
+ "category": "Customer Experience",
+ "categories": [
+  "Customer Experience"
+ ],
+ "locations": [
+  "Singapore, Central Singapore, Singapore"
+ ],
+ "country": "Singapore",
+ "city": "Singapore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-02T00:00:00.000+0000",
+ "skills": [
+  "network architecture",
+  "security architecture",
+  "cloud networking",
+  "sd-wan",
+  "sd-access",
+  "sase",
+  "evpn",
+  "vxlan",
+  "kubernetes",
+  "ai infrastructure",
+  "data center transformation",
+  "operational readiness",
+  "lifecycle management",
+  "observability",
+  "telemetry platforms",
+  "cisco iq",
+  "cloud control",
+  "thousandeyes",
+  "aiops",
+  "python",
+  "ansible",
+  "terraform",
+  "zero trust",
+  "aws",
+  "azure",
+  "gcp",
+  "mlops",
+  "gpu platforms",
+  "splunk",
+  "control hub"
+ ],
+ "teaser": "We are recruiting a Customer Delivery Architect to lead strategic customer experience initiatives across networking, security, and AI infrastructure. Drive multi-domain architecture, guide delivery, and foster adoption for key accounts. Ideal for experienced technical leaders with deep expertise in enterprise networking and security.",
+ "description": "Meet the Team\n\nJoin Cisco's ASEAN & Korea Customer Experience (CX) architecture team. You will be the senior technical lead for our most strategic customers \u2014 designing multi-domain architectures across networking, data centre, security, cloud and AI infrastructure, guiding delivery, and driving adoption to measurable business outcomes. You will work alongside Sales, Systems Engineering, Customer Success, CX Delivery, TAC, BU/Product and partners, and use Cisco's digital lifecycle and telemetry platforms (Cisco IQ, Cloud Control, observability and automation tooling) to make architecture decisions data-driven.\n\nYour Impact\n\nAccount & architecture leadership \u2014 Lead the technical relationship for a focused portfolio of strategic accounts \u2014 from architecture and effort scoping (LOE) through delivery governance, adoption, QBRs and renewal.\n\nMulti-domain design \u2014 Design and validate solutions across enterprise networking, SD-Access, SD-WAN/SASE, ACI, EVPN/VXLAN, security, cloud connectivity, Kubernetes and AI infrastructure.\n\nLarge-scale transformation \u2014 Lead mission-critical transformations and data centre migrations, owning technical risk, cutover strategy and operational readiness.\n\nValidation to production \u2014 Run labs, PoCs and solution validations that prove customer use cases and create a clear path to production adoption.\n\nData-led lifecycle \u2014 Use telemetry, observability and lifecycle insights (Cisco IQ, Cloud Control, ThousandEyes) to drive architecture reviews, executive QBRs and risk mitigation.\n\nCloud control & governance \u2014 Advise on hybrid/multicloud governance \u2014 secure connectivity, policy, compliance, operational visibility and automation.\n\nAI & automation \u2014 Apply AI, AIOps and automation to improve resilience, accelerate adoption and make delivery repeatable \u2014 grounded in Cisco security, privacy and responsible AI principles.\n\nCritical escalations \u2014 Provide senior architecture leadership on escalations, coordinating TAC, BU engineering and partners to resolve issues and prevent recurrence.\n\nReuse & mentorship \u2014 Build reusable reference architectures, playbooks and automation assets adopted across the region; mentor architects and lead technical enablement.\n\nInfluence & presence \u2014 Feed field insight, adoption blockers and product gaps back to Cisco BU/Product and CX leadership; represent Cisco at customer briefings and events such as Cisco Live.\n\nMinimum Qualifications\n\nBachelor's degree in a relevant technical field with 15+ years of experience, or CCIE/CCDE with 12+ years, or equivalent practical experience.\n\nExpert-level technical depth in networking and/or security (CCIE, CCDE or equivalent demonstrated experience).\n\nProven experience owning both pre-sales solution design and hands-on delivery for enterprise or service provider customers.\n\nTrack record leading complex engagements through architecture, implementation governance, adoption and operational handover.\n\nExperience using telemetry, observability or lifecycle insights to guide architecture and customer outcomes.\n\nStrong executive communication \u2014 able to explain strategy, tradeoffs, risk and business impact to VP/C-level stakeholders.\n\nExperience leading large-scale network or data centre transformation in mission-critical environments (e.g. FSI).\n\nDomain familiarity in at least one regulated vertical \u2014 Financial Services, Healthcare or Public Sector.\n\nPreferred Qualifications\n\nHands-on with SD-Access, SD-WAN, ACI, EVPN/VXLAN, Zero Trust/SASE, cloud networking (AWS/Azure/GCP), containers and orchestration (Kubernetes), automation (Python, Ansible, Terraform) or AI/ML infrastructure (GPU platforms, MLOps).\n\nExperience with Cisco IQ, Cloud Control, ThousandEyes, Splunk, Control Hub or similar lifecycle, observability and AIOps platforms.\n\nAdditional certification beyond CCIE \u2014 AWS/Azure/GCP Professional Architect, CISSP, PCNSE, CKA.\n\nTrack record building PoC labs, reference architectures or automation tooling reused by other teams.\n\nExperience presenting at customer executive briefings and industry conferences, and mentoring or leading regional technical initiatives.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023511EXTERNALENGLOBAL/Customer-Delivery-Architect-Customer-Experience-Networking-Security-AI-Infrastructure",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Singapore-Singapore/Customer-Delivery-Architect_2023511-1/apply"
+}

@@ -1,0 +1,51 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023851EXTERNALENGLOBAL",
+ "req_id": "2023851",
+ "title": "Software Engineering Technical Leader - SRE + Kubernetes + Cloud + Automation + Incident Management + AI-first (10-14 Years)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-01T00:00:00.000+0000",
+ "skills": [
+  "kubernetes",
+  "site reliability engineering",
+  "cloud operations",
+  "systems engineering",
+  "ci/cd pipelines",
+  "automation",
+  "observability",
+  "linux",
+  "networking",
+  "distributed systems",
+  "python",
+  "go",
+  "bash",
+  "infrastructure as code",
+  "git",
+  "capacity planning",
+  "resource optimization",
+  "disaster recovery",
+  "root cause analysis",
+  "operational best practices",
+  "documentation standards",
+  "saas platforms",
+  "hybrid cloud environments",
+  "multi-region deployments",
+  "ai-assisted automation",
+  "operational documentation",
+  "runbook creation",
+  "written communication"
+ ],
+ "teaser": "Take on the role of Software Engineering Technical Leader to drive reliability and scalability of critical collaboration services. Lead incident response, optimise CI/CD pipelines, and ensure operational excellence. Ideal for experienced professionals in Site Reliability Engineering or Cloud Operations with strong technical expertise.",
+ "description": "Meet the Team\n\nCisco\u2019s Collaboration Business Unit empowers people and organizations worldwide to connect, communicate, and innovate seamlessly.\n\nYou will collaborate with a global team of software engineers and SREs responsible for delivering extraordinary collaboration experiences at scale. Our team supports backend services deployed worldwide and works closely with development, product, and operations partners to ensure reliability and performance.\n\nWebex is powering the shift to the hybrid workforce, helping people stay connected in a rapidly evolving digital world. We cultivate a startup-like culture that values innovation, ownership, and collaboration, while offering the scale and impact of a global technology leader.\n\nYour impact\n\nFrom a reliability standpoint, this role involves evaluating the scalability, resiliency, performance, and security properties and techniques used in production environments. It supports the uptime of production services through an On-Call rotation, which includes monitoring and alerting to meet internal Service Level Objectives (SLOs) and customer-facing Service Level Agreements (SLAs). Ensuring reliable incident processes is achieved by conducting Disaster Recovery drills.\n\nThe role also focuses on improving reliability through incident management by investigating incidents, implementing remediation strategies, and learning from past incidents to make improvements. It involves determining the reliability and security requirements of components and systems to meet the reliability objectives of the company, customers, and any relevant governmental agencies. Additionally, the role aims to reduce operational expenses through automation, by identifying and mitigating failure points, and automating repetitive and resource-intensive tasks. It also involves developing new acceleration techniques and analytical tools to ensure the early identification of potential issues with new products, packaging, processes, and overall product reliability.\n\nSpecifically:\n\nOwn the deployment and operation of critical collaboration services across cloud and hybrid environments, driving reliability and scalability.\n\nDesign, evolve, and optimize CI/CD pipelines and automation, including AI\u2011first tooling for deployment, monitoring, and incident response.\n\nLead incident response for complex production issues, perform root cause analysis, and drive systemic reliability and performance improvements.\n\nUse observability data to guide capacity planning, scaling strategies, and resource optimization across services.\n\nDefine and champion operational best practices, documentation standards, and a culture of reliability and operational excellence.\n\nMinimum Qualifications\n\nBachelor\u2019s degree in Computer Science, Engineering, or related field (or equivalent experience) with 7\u201313 years\u00a0in Site Reliability Engineering, Cloud Operations, or Systems Engineering.\n\nStrong hands-on experience operating production services using\u00a0Docker and Kubernetes\u00a0in cloud or hybrid environments.\n\nProficiency in\u00a0one or more programming or scripting languages\u00a0(e.g., Python, Go, Bash) to build automation and operational tooling.\n\nExperience with\u00a0monitoring, observability, and incident response\u00a0in production environments, including on-call participation and post-incident reviews.\n\nWorking knowledge of\u00a0Linux systems, networking, distributed systems, CI/CD pipelines, infrastructure-as-code, and Git-based workflows.\n\nPreferred Qualifications\n\nExperience operating large-scale, globally distributed SaaS platforms.\n\nFamiliarity with hybrid cloud environments and multi-region deployments.\n\nExperience applying AI-assisted or automation-first approaches to SRE tooling and workflows.\n\nStrong written communication skills for creating clear operational documentation and runbooks.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023851EXTERNALENGLOBAL/Software-Engineering-Technical-Leader-SRE-Kubernetes-Cloud-Automation-Incident-Management-AI-first-10-14-Years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineering-Technical-Leader---SRE---Kubernetes---Cloud---Automation---Incident-Management---AI-first--10-14-Years-_2023851/apply"
+}

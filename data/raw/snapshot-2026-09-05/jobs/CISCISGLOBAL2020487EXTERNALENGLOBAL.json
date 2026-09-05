@@ -1,0 +1,51 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020487EXTERNALENGLOBAL",
+ "req_id": "2020487",
+ "title": "Senior Site Reliability Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-13T00:00:00.000+0000",
+ "skills": [
+  "aws",
+  "apache airflow",
+  "amazon eks",
+  "python",
+  "spark",
+  "hadoop",
+  "aws emr",
+  "kubernetes",
+  "infrastructure automation",
+  "data pipeline orchestration",
+  "cost optimization",
+  "finops",
+  "production troubleshooting",
+  "linux",
+  "distributed systems",
+  "observability tools",
+  "root cause analysis",
+  "production support",
+  "technical leadership",
+  "mentorship",
+  "stakeholder collaboration",
+  "cloudwatch",
+  "prometheus",
+  "grafana",
+  "splunk",
+  "opensearch",
+  "datadog",
+  "aws cost explorer"
+ ],
+ "teaser": "We are expanding our team: As a Senior Site Reliability Engineer, you will lead the management and optimisation of scalable, reliable infrastructure supporting data pipelines and cloud-native services. You will drive automation and cost efficiency, collaborating with cross-functional teams. Ideal candidates bring extensive AWS and infrastructure expertise.",
+ "description": "Meet the Team\n\nThe Network Assurance Data Platform team within Cisco ThousandEyes is responsible for building, operating, and scaling the core data infrastructure that powers large-scale network assurance, analytics, and intelligence capabilities.\n\nThe team manages critical cloud infrastructure, big data workflows, ML platform components, and reliability engineering practices across AWS environments. We focus on improving platform reliability, scalability, performance, automation, and cost efficiency while enabling engineering and data teams to deliver business-critical capabilities at scale.\n\nAs a Senior Site Reliability Engineer in the NADP team, you will work on highly scalable infrastructure supporting data pipelines, ML workloads, cloud-native services, and cost-optimized AWS operations.\n\nYour Impact\n\nOwn and operate scalable, reliable, and cost-efficient infrastructure for the ThousandEyes Network Assurance Data Platform.\n\nManage, optimize, and improve large-scale data workflows using Apache Airflow, AWS EMR, Spark, and Hadoop-based processing platforms.\n\nOperate and improve Amazon EKS environments supporting containerized services, ML workloads, and production-grade platform components.\n\nBuild and maintain infrastructure automation using Terraform and other infrastructure-as-code practices.\n\nDevelop Python-based automation, integrations, operational tooling, reporting, and reliability improvements.\n\nDrive FinOps practices across NADP infrastructure, including cost visibility, cost allocation, forecasting, anomaly detection, optimization, and governance.\n\nPartner with data engineering, ML, platform, finance, and product teams to improve reliability, performance, scalability, and cost efficiency.\n\nIdentify infrastructure bottlenecks, performance issues, inefficient workloads, and cost optimization opportunities.\n\nImprove observability, alerting, incident response, and operational readiness across data and ML platforms.\n\nSupport capacity planning, right-sizing, autoscaling, storage optimization, and workload efficiency across AWS services.\n\nLead technical discussions, influence design decisions, and guide teams toward reliable and cost-conscious architecture.\n\nProvide senior-level technical leadership, mentorship, and operational guidance to engineers across the team.\n\nDrive continuous improvement in platform reliability, automation, deployment practices, and operational excellence.\n\nMinimum Qualifications\n\nBachelor\u2019s degree or higher in Engineering, Computer Science, or equivalent practical experience.\n\n8\u201310 years of relevant experience in Site Reliability Engineering, DevOps, Cloud Infrastructure, Platform Engineering, Data Infrastructure, or Production Engineering.\n\nStrong experience operating production infrastructure on AWS.\n\nStrong experience with Apache Airflow for workflow orchestration, pipeline operations, scheduling, monitoring, and troubleshooting.\n\nExperience with AWS EMR, Spark, Hadoop, or similar large-scale data processing platforms.\n\nStrong experience operating Amazon EKS or Kubernetes-based environments in production.\n\nExperience supporting containerized workloads, preferably including ML workloads or data platform services.\n\nStrong experience with Terraform and infrastructure-as-code practices.\n\nStrong Python programming or scripting experience for automation, integrations, operational tooling, and infrastructure workflows.\n\nPractical experience with cloud cost optimization, FinOps, AWS cost analysis, tagging, budgeting, forecasting, and cost governance.\n\nStrong understanding of Linux systems, networking, distributed systems, and production troubleshooting.\n\nExperience with observability tools such as CloudWatch, Prometheus, Grafana, Splunk, OpenSearch, Datadog, or similar platforms.\n\nExperience with incident management, production support, root cause analysis, reliability improvements, and operational excellence.\n\nAbility to analyze infrastructure, performance, and cost data and convert findings into clear technical recommendations.\n\nStrong communication skills with the ability to collaborate across data, ML, platform, finance, and engineering teams.\n\nAbility to operate independently, drive initiatives end to end, and provide technical leadership in a fast-paced environment.\n\nPreferred Qualifications\n\nExperience working with large-scale SaaS platforms or high-volume data infrastructure.\n\nExperience with ML infrastructure, model execution platforms, batch processing, or data pipeline reliability.\n\nExperience optimizing EMR, Spark, Airflow, EKS, storage, and compute workloads for performance and cost.\n\nExperience with AWS services such as EC2, S3, RDS, IAM, VPC, CloudWatch, OpenSearch, Lambda, ElastiCache, and related cloud-native services.\n\nExperience with AWS Savings Plans, Reserved Instances, Spot adoption, Graviton migration, storage lifecycle management, and workload right-sizing.\n\nExperience with cloud cost management tools such as AWS Cost Explorer, AWS CUR, Cloudability, CloudHealth, Kubecost, or similar platforms.\n\nExperience driving FinOps programs, cost reviews, stakeholder reporting, OKR tracking, and executive-level updates.\n\nExperience with CI/CD systems, GitHub workflows, Atlantis, or similar deployment automation platforms.\n\nExperience with Puppet, Ansible, Helm, Argo CD, or other configuration and deployment management tools.\n\nFinOps certification or equivalent cloud financial management experience is a plus.\n\nAbility to influence engineering teams toward cost-aware, scalable, and reliable design patterns.\n\nWhat Success Looks Like\n\nNADP data and ML infrastructure is reliable, scalable, performant, and cost-efficient.\n\nAirflow, EMR, Spark, and EKS workloads are operated with strong observability, automation, and production maturity.\n\nAWS cost visibility, forecasting, and governance are improved across NADP-owned infrastructure.\n\nCloud wastage is reduced through right-sizing, automation, storage optimization, and workload efficiency improvements.\n\nInfrastructure is managed through production-grade Terraform and automation practices.\n\nEngineering and data teams have better visibility into platform health, cost drivers, risks, and optimization opportunities.\n\nCross-functional stakeholders receive clear updates on reliability, performance, cost trends, and execution progress.\n\nThe team continuously improves operational excellence, incident response, and platform reliability.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020487EXTERNALENGLOBAL/Senior-Site-Reliability-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Senior-Site-Reliability-Engineer_2020487-1/apply"
+}

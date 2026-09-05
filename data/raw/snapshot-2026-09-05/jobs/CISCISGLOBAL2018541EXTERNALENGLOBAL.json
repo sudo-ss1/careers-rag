@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018541EXTERNALENGLOBAL",
+ "req_id": "2018541",
+ "title": "Software  Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-17T00:00:00.000+0000",
+ "skills": [
+  "go",
+  "python",
+  "distributed systems",
+  "software engineering",
+  "microservices",
+  "cloud technologies",
+  "data structures",
+  "algorithms",
+  "java",
+  "c++",
+  "networking concepts",
+  "software architecture",
+  "software testing",
+  "mysql",
+  "nosql",
+  "redis",
+  "http gateways",
+  "automated testing",
+  "model context protocol",
+  "ai agents",
+  "agentic ai",
+  "kubernetes",
+  "system-level testing",
+  "messaging systems",
+  "network security"
+ ],
+ "teaser": "We are expanding our team: As a Software Engineer in AI Software & Platform, you will design and maintain scalable, distributed software platforms powering next-generation AI-driven services. Collaborate with experienced engineers and contribute to real-world, large-scale systems. Ideal for early-career engineers eager to learn and grow in cloud-scale, distributed environments.",
+ "description": "Job Title:\n\u00a0\n\nSoftware Engineer \u2013 AI Software & Platform\n\nOrganization\n\nAI Software and Platform Engineering:\n\u00a0\n\nRole Overview\n\nWe are looking for a Software Engineer to join Cisco\u2019s AI Software and Platform\n\norganization. In this role, you will work on building and maintaining scalable, distributed\n\nsoftware platforms that power next-generation AI-driven services. You will collaborate\n\nwith experienced engineers, learn industry-leading technologies, and contribute to real-\n\nworld, large-scale systems used by customers globally.\n\nThis role is ideal for engineers early in their careers who are eager to learn, grow, and\n\nwork on complex, cloud-scale platforms.\n\u00a0\n\nKey Responsibilities\n\nSoftware Development & Platform Engineering\n\n\u2022\u00a0Design, develop, test, debug, and maintain AI and Platform software, including\n\ncomponents for distributed systems & microservices.\n\n\u2022\u00a0Contribute to the development of new product features and applications across\n\nmultiple platforms.\n\n\u2022\u00a0Implement software modules independently under guidance, following\n\nestablished architecture and design patterns.\n\n\u2022\u00a0Write clean, maintainable, and well-documented code in Go, Python, or other\n\nrelevant languages.\n\n\u2022\u00a0Develop stateless, scalable services for data ingestion, processing, parsing, and\n\nstorage within a distributed SaaS platform.\n\n\u2022\u00a0Develop HTTP gateways and services that interact with data stores such as\n\nMySQL, NoSQlDb, and Redis.\n\n\u2022\u00a0Develop automated test plans and participate in system-level testing.\n\nCisco Confidential\u2022\u00a0Basic knowledge of AI technologies and industry trends, including concepts\n\nsuch as Model Context Protocol (MCP), AI Agents, Agentic AI, and their\n\napplication in modern software platforms.\n\nMinimum Qualifications\n\n\u2022\u00a0Bachelor\u2019s degree in Computer Science, Engineering, or a related field (or\n\nequivalent experience).\n\n\u2022\u00a0Strong foundation in data structures, algorithms, and software engineering\n\nprinciples.\n\n\u2022\u00a0Experience with at least one programming language such as Go, Python, Java,\n\nor C++.\n\n\u2022\u00a0Basic understanding of distributed systems, networking concepts, and cloud\n\ntechnologies.\n\nPreferred Qualifications\n\n\u2022\u00a0Exposure to microservices, containers, and orchestration tools (Docker,\n\nKubernetes).\n\n\u2022\u00a0Understanding of networking protocols (HTTP/HTTPS, TCP/IP, SMTP).\n\n\u2022\u00a0Experience with databases (SQL or NoSQL) and messaging systems.\n\n\u2022\u00a0Interest in AI-driven platforms, cloud-scale systems, and network security.\n\nWhy Join Us\n\n\u2022\u00a0Work on real-world, large-scale AI and software platforms used by customers\n\nworldwide.\n\n\u2022\u00a0Learn from experienced engineers in a collaborative, growth-focused\n\nenvironment.\n\n\u2022\u00a0Gain hands-on experience with modern cloud, AI, and distributed systems\n\ntechnologies.\n\n\u2022\u00a0Build a strong foundation for a long-term engineering career at Cisco\n\nCisco Confidential\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018541EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software--Engineer_2018541-1/apply"
+}

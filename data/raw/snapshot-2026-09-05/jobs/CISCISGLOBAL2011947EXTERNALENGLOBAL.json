@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2011947EXTERNALENGLOBAL",
+ "req_id": "2011947",
+ "title": "Software Development Engineer \u2013 Routing Platforms & L2",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-04T00:00:00.000+0000",
+ "skills": [
+  "c/c++",
+  "linux",
+  "rtos/linux kernel development",
+  "device driver development",
+  "routing architectures",
+  "rommon",
+  "layer 2 networking protocols",
+  "bootloader software",
+  "layer 3 networking protocols",
+  "ethernet",
+  "vlans",
+  "stp",
+  "hardware-software integration",
+  "firmware development",
+  "performance debugging",
+  "debugging hardware interfaces",
+  "debugging software interfaces",
+  "gdb",
+  "arium",
+  "bdi",
+  "high-speed interfaces",
+  "dpdk",
+  "hardware/software integration",
+  "debugging",
+  "x86 assembly code",
+  "arm assembly code",
+  "abis",
+  "ai/ml development",
+  "code assistants",
+  "static analysis tools"
+ ],
+ "teaser": "Join our team as a Senior Software Development Engineer \u2013 Routing Platforms and help shape the future of secure, scalable SD-WAN and edge routing solutions. Collaborate with top engineers, leverage cutting-edge AI tools, and drive innovation in routing architectures for millions of users worldwide. Grow your career with us and make a global impact.",
+ "description": "Meet the Team\n\nOur Routing SD-WAN Group is at the forefront of innovation, delivering intelligent, secure, and scalable WAN edge solutions that empower enterprises to connect and protect their networks from the edge to the cloud. Within this group, the Routing Platform Software team builds industry-leading headend SD-WAN and edge routing platforms. We are a high-energy group working on next-generation routing and services at a global scale, connecting thousands of devices and millions of users.\n\u00a0\n\nYour Impact\n\nWe are looking for a software engineer to develop and evolve the forwarding and platform software that powers SD-WAN and edge routing. In this role, you will collaborate with ASIC, hardware, and cross-functional engineering teams to define new architectures, implement high-performance packet forwarding, and deliver robust, production-ready features. You will leverage modern AI tools to enhance software development practices, helping to drive greater efficiency, quality, and innovation across the team.\n\u00a0\n\nResponsibilities:\n\nHardware-Software Integration:\u00a0Collaborate closely with hardware engineering teams to bring up new platforms, develop low-level drivers, and integrate Network Interface Modules (NIMs).\n\nFirmware Development:\u00a0Design, implement, and maintain ROMMON and bootloader software to ensure secure and reliable system initialization.\n\nForwarding Plane Optimization:\u00a0Develop and tune high-performance forwarding plane software to meet the rigorous demands of modern secure routing environments.\n\nL2 Feature Development:\u00a0Implement and optimize Layer 2 networking protocols and features within the platform stack.\n\nPerformance Debugging:\u00a0Perform deep-dive analysis into performance bottlenecks at the kernel and hardware-abstraction layers, including the control plane.\n\nModern Development Practices:\u00a0Utilize modern development workflows, including AI-assisted coding tools (such as GitHub Copilot, Claude, or Codex) and integrated development environments like VSCode, to accelerate the development lifecycle.\n\nMinimum Qualifications\n\n8-12 years of industry experience with end-to-end software development in networking, including platforms, system software, kernel/user-space drivers, bootloaders, and BIOS.\n\nStrong proficiency in C/C++ with a focus on systems programming and Linux environments.\n\nProven experience in developing device drivers and working with RTOS/Linux kernels.\n\nSolid understanding of routing architectures and Layer 2/Layer 3 networking protocols (e.g., Ethernet, VLANs, STP).\n\nExperience with bootloaders (ROMMON), hardware bring-up, and board support packages (BSP).\n\nPreferred Qualifications\n\nKnowledge of high-speed interfaces (PHY, MAC, MACSEC) and DPDK.\n\nDebugging experience with hardware interfaces (i2c, PCIe) and hardware/software debuggers (e.g., GDB, Arium, BDI).\n\nKnowledge of x86 or ARM assembly code, instruction sets, and ABIs.\n\nExperience with AI/ML techniques and tools for development (e.g., code assistants, static analysis tools, test automation platforms).\n\nStrong collaborative skills and the ability to debug complex issues spanning hardware, firmware, and software layers.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011947EXTERNALENGLOBAL/Software-Development-Engineer-Routing-Platforms-L2",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Development-Engineer---Routing-Platforms---L2_2011947/apply"
+}

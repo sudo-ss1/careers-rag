@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2024367EXTERNALENGLOBAL",
+ "req_id": "2024367",
+ "title": "Customer Delivery Architect | 10+ years, SOC transformation",
+ "category": "Other",
+ "categories": [
+  "Other"
+ ],
+ "locations": [
+  "Pune, India",
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Pune",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-03T00:00:00.000+0000",
+ "skills": [
+  "ai/ml platforms",
+  "data architectures",
+  "ethical ai",
+  "consulting engineering",
+  "technical leadership",
+  "data science",
+  "data governance",
+  "automation",
+  "ai-driven workflows",
+  "project management",
+  "risk analysis",
+  "solution design",
+  "stakeholder management",
+  "cross-functional team leadership",
+  "mentoring",
+  "training delivery",
+  "customer relationship management",
+  "business impact analysis",
+  "solution implementation",
+  "vendor management",
+  "strategic planning",
+  "ai integration",
+  "customer adoption",
+  "solution scaling"
+ ],
+ "teaser": "Join our team as a Customer Delivery Architect, bridging Cisco technology and customer needs to design and develop customised solutions. Lead cross-functional teams, deliver optimised outcomes using AI-powered insights, and provide strategic technical guidance. Ideal for experienced professionals with deep expertise in AI/ML platforms and customer-focused architecture.",
+ "description": "Meet the Team\n\nCisco Customer Experience (CX) Security Services is a global team of elite security practitioners, architects, and trusted advisors who help our largest enterprise and service provider customers defend against sophisticated threats, achieve operational cyber resilience, and accelerate digital transformation. As part of our specialized Security Operations Center (SOC) Transformation & Advanced Analytics practice, you will work alongside top-tier consulting engineers, automation developers, and solution architects to design and deliver next-generation SOC architectures, SIEM modernization, behavioral analytics, and end-to-end security automation.\n\nYour Impact\n\nAs a Security Consulting Architect for SOC Transformation & Splunk, you will be the chief technical authority and visionary guiding our enterprise customers through complex SOC modernization journeys. You will translate customer business outcomes, risk profiles, and operational strategies into scalable, high-fidelity security architectures powered by Splunk Cloud, Splunk Enterprise Security (ES), Splunk SOAR, User & Entity Behavior Analytics (UEBA), Cribl Stream, and modern object storage (MinIO).\n\nThis is a high-impact, hands-on leadership role. You will engage with customer CISOs, SOC Directors, and Enterprise Architects to define target operating models and modernization roadmaps, while also leading implementation pods, troubleshooting deep technical roadblocks, optimizing search pipelines, and setting the engineering standards for multi-terabyte security analytics.\n\nTarget SOC Architecture & Transformation Strategy: Lead the architectural design, Target Operating Model (TOM), and delivery strategy for multi-tier enterprise SOCs, SIEM modernizations, and security automation frameworks aligned with MITRE ATT&CK and Cisco Validated Designs.\n\nSplunk Cloud & Enterprise Security (ES) Mastery: Architect enterprise-scale Splunk Cloud deployments; design Risk-Based Alerting (RBA) frameworks, Data Model Acceleration (DMA) strategies, optimized | tstats search pipelines, Asset & Identity (A&I) contextual enrichment, and ESCU detection updates to eliminate alert fatigue.\n\nModern Telemetry Ingestion & Storage Architecture: Architect high-throughput, resilient security data collection pipelines leveraging Cribl Stream for edge transformation, filtering, and routing, combined with MinIO / S3-compatible object storage for high-performance SmartStore tiering and compliance data archiving.\n\nSecurity Automation & SOAR Engineering: Define incident triage and response workflows, designing modular, production-grade Python playbooks in Splunk SOAR for automated threat enrichment (Talos, VirusTotal), endpoint containment (EDR isolation), firewall mitigation, and bidirectional ITSM (ServiceNow) synchronization.\n\nTechnical Pod Leadership & Governance: Provide technical direction, architectural governance, and mentorship to specialized engineering execution pods (Data Ingestion/GDI, Detection Engineering, UEBA, SOAR); serve as the hands-on escalation authority for complex SPL optimization, CIM normalization, and API integrations.\n\nMinimum Qualifications \n\n10+ years of technical cybersecurity engineering and architecture experience designing and deploying enterprise Security Operations Center (SOC) environments and SIEM/SOAR platforms.\n\n5+ years of dedicated, hands-on architecture and engineering experience with Splunk Enterprise, Splunk Cloud, and Splunk Enterprise Security (ES), including correlation search engineering, Data Model Acceleration, and Risk-Based Alerting (RBA).\n\n3+ years of hands-on experience in security telemetry pipeline engineering, including log routing and normalization with Cribl Stream, data parsing (props.conf / transforms.conf), and object storage/SmartStore tiering with MinIO or S3-compatible cloud storage.\n\n3+ years of security orchestration and automation experience designing and building automated response playbooks using Splunk SOAR (Phantom), REST APIs, and Python\n\nEducation: Bachelor\u2019s degree in Computer Science, Cybersecurity, Information Technology, or equivalent practical industry engineering experience.\n\nPreferred Qualifications \n\nSplunk & Pipeline Certifications: Splunk Enterprise Certified Architect, Splunk Enterprise Security Certified Admin, Splunk SOAR Certified Automation Developer, or Cribl Certified Observability Engineer (CCOE).\n\nIndustry Security Credentials: CISSP, CCIE Security, CISM, or GIAC certifications (GCIH, GCIA, GDSA, GMON).\n\nAdvanced Behavioral Analytics & Threat Modeling: Practical experience deploying Splunk UEBA, implementing machine learning models for anomaly detection, and conducting atomic detection testing against the MITRE ATT&CK matrix.\n\nExecutive Advisory & Technical Consulting: Exceptional C-suite consulting, presentation, and technical leadership skills with a proven track record of advising CISOs, leading technical workshops, and driving organizational change.\n\nHybrid Cloud & Multi-Vendor Ecosystem Integration: Deep knowledge of multi-cloud security logging, Next-Gen Firewalls (Palo Alto, Cisco Secure Firewall), EDR platforms (CrowdStrike, Microsoft Defender), and Cisco Security Cloud integrations.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024367EXTERNALENGLOBAL/Customer-Delivery-Architect-10-years-SOC-transformation",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Pune-India/Customer-Delivery-Architect---10--years--SOC-transformation_2024367/apply"
+}

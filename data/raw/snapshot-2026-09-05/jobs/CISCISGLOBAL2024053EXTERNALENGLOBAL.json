@@ -1,0 +1,49 @@
+{
+ "job_seq_no": "CISCISGLOBAL2024053EXTERNALENGLOBAL",
+ "req_id": "2024053",
+ "title": "Software Engineer (Platform Services)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Galway, Ireland"
+ ],
+ "country": "Ireland",
+ "city": "Galway",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-04T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "go",
+  "terraform",
+  "ansible",
+  "hashicorp vault",
+  "identity federation",
+  "oauth 2.0",
+  "openid connect",
+  "saml",
+  "jwt",
+  "identity management",
+  "aws",
+  "kubernetes",
+  "gcp",
+  "access control",
+  "least privilege access",
+  "secrets lifecycle automation",
+  "role-based access control",
+  "policy enforcement",
+  "access provisioning",
+  "validation",
+  "recovery",
+  "ai tools",
+  "ci/cd pipelines",
+  "agile development",
+  "team collaboration"
+ ],
+ "teaser": "Join us as a Software Engineer (Platform Services) to design and implement authentication, authorisation, and identity management solutions for Cisco\u2019s internal cloud platform. You will contribute to secure application delivery and automation of identity lifecycle. Ideal candidates have experience in software development and cloud technologies.",
+ "description": "Software Engineer\n\nMeet the Team\n\nThe Cisco Common Platform Services (CCPS) organization is transforming how Cisco delivers software-as-a-service through a modern, consistent, and secure internal cloud platform. Our global team builds and operates hybrid cloud services that enable rapid, reliable, and secure application delivery.\n\nWithin CCPS, the Cloud Software & Solutions (CSS) group develops cloud platforms focused on quality, stability, scalability, security, and user experience. We are looking for a software engineer to build, and automate authentication, authorization, identity management, and auditing capabilities for our internal cloud platform.\n\nKey Responsibilities\n\nParticipate in the design and evolve platform capabilities for authentication, authorization, identity federation, and auditing.\n\nParticipate in design, build, and operate HashiCorp Vault capabilities for secrets management, secure credential distribution, dynamic credentials, access policies, and secrets lifecycle automation.\n\nImplement role- and policy-based access control, service identities, and least-privilege access models.\n\nAutomate identity lifecycle, access provisioning, policy enforcement, validation, and recovery using Go, Ansible, and Terraform.\n\nParticipate in global Tier3 support.\n\nRequired Qualifications\n\nBS or MS in Computer Science or a related field, or equivalent practical experience.\u00a0\n\n4+ years (BS) or 2+ years (MS) of experience in software development.\n\nAutomation and development experience using Python, Go, Ansible, Terraform, or similar tools.\n\nKnowledge of SSO, OAuth 2.0, OpenID Connect, SAML, JWT, and identity federation.\n\n\u00a0\u00a0Knowledge of cloud-native technologies (e.g., Kubernetes, AWS/GCP).\n\n\u00a0\u00a0Experience with leveraging AI tools to improve productivity, automate routine tasks, accelerate problem-solving, and enhance the quality of day-to-day work and decision-making.\n\nPreferred Qualifications\n\nExperience with HashiCorp Vault architecture, including authentication methods, secrets engines, policies, namespaces, tokens, leases, and high-availability deployment.\n\n\u00a0\u00a0Familiarity with CI/CD pipelines and agile development methodologies.\n\n\u00a0\u00a0Problem-solving skills and the ability to work effectively in a team-oriented environment.\n\nCollabHiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024053EXTERNALENGLOBAL/Software-Engineer-Platform-Services",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Software-Engineer--Platform-Services-_2024053-1/apply"
+}

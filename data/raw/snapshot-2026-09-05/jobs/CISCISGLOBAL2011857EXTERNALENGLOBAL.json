@@ -1,0 +1,45 @@
+{
+ "job_seq_no": "CISCISGLOBAL2011857EXTERNALENGLOBAL",
+ "req_id": "2011857",
+ "title": "Senior Software Engineer - C/C++ Networking & Security",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-03T00:00:00.000+0000",
+ "skills": [
+  "c/c++",
+  "networking",
+  "network security",
+  "tcp/ip",
+  "distributed systems",
+  "system design",
+  "embedded linux",
+  "ipsec",
+  "vpn",
+  "pki",
+  "cryptography",
+  "sd-wan",
+  "cloud platform integration",
+  "yocto",
+  "ai-assisted development",
+  "ai-driven engineering",
+  "post-quantum security",
+  "certificate lifecycle management",
+  "network security standards",
+  "stakeholder management",
+  "technical leadership",
+  "mentoring"
+ ],
+ "teaser": "We are currently hiring a Senior Software Engineer to lead the design and development of secure networking solutions, focusing on VPN, PKI, and SD-WAN platforms. You will drive critical projects and mentor team members, ideal for candidates with extensive technical experience in networking and security.",
+ "description": "We, Security, Solutions and SDWAN Platform Infra, are a team passionate about building next-generation secure connectivity solutions across VPN, cryptography, PKI, and SD-WAN. Across on-prem, cloud, and SSE/SIG environments, we deliver secure, scalable systems and apply AI intelligence to improve security posture, automate certificate lifecycle management, optimize performance, and enable predictive monitoring at scale. Our work spans SDWAN Platform Infrastructure, crypto infrastructure, PKI systems, VPN technologies, SD-WAN secure fabric, and post-quantum security, powering millions of secure connections globally.\n\nWe are looking for Technical Lead to join team. You will be part of team building secure networking solutions in a high-impact, fast-paced environment. Your work will help build scalable, secure systems that enable site-to-site and remote access VPNs, certificate-driven trust models, cloud connectivity, and AI-enhanced secure SD-WAN architectures including initiatives in post-quantum security.\n\nYour Impact\n\nLead the design and development of secure networking solutions across VPN (IPSec/IKEv2), PKI, cryptography, and SD-WAN Platform Infra\n\nArchitect systems that ensure high scalability, resiliency, and security posture\n\nDrive multi-functional teamwork to deliver critically significant features\n\nImprove performance, reliability, and operational excellence of distributed systems at scale\n\nInfluence technical direction and execution for high-impact projects that improve scalability, resiliency, security posture, and customer experience\n\nDrive innovation in next-generation secure networking initiatives\n\nTake complete ownership from conception to production release by demonstrating your ability to influence, facilitate, and work multi-functionally across teams\n\nDrive the adoption of AI-assisted tools such as Codex to improve engineering productivity, automate development workflows, accelerate debugging, and enhance software quality across the team\n\nLead, mentor, and spread standard processes to other specialists on the team\n\nMinimum Qualifications\n\n9+ years of deep technical experience across networking and security domains, large-scale, production-grade systems\n\nStrong programming expertise in C/C++\n\nDeep understanding of networking concepts (TCP/IP, routing, distributed systems)\n\nValidated experience in system design and architecture for scalable, reliable systems\n\nTrack record of leading critical projects end-to-end\n\nExperience in embedded Linux software development\n\nAbility to influence technical direction across teams\n\nGood communication skills with the ability to simplify complex technical concepts\n\nPreferred Qualifications\n\nExperience with IPSec VPN technologies\n\nEmbedded Linux system development, Yocto-based build system expertise, and cloud platform integration skills.\n\nUnderstanding of PKI systems and certificate lifecycle management\n\nBackground in network security, SD-WAN, or secure connectivity\n\nExposure to cryptographic systems and protocols\n\nExperience demonstrating AI-assisted development tools to improve team productivity\n\nExposure to post-quantum cryptography (PQC) or cryptographic agility\n\nExperience chipping in to networking/security standards (RFCs)\n\n#sdwanhiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011857EXTERNALENGLOBAL/Senior-Software-Engineer-C-C-Networking-Security",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Senior-Software-Engineer---SD-WAN-Security_2011857/apply"
+}

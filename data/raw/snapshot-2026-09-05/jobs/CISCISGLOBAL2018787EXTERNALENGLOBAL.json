@@ -1,0 +1,35 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018787EXTERNALENGLOBAL",
+ "req_id": "2018787",
+ "title": "Software Development in Test (Python, OOPS, networking, system design | 7-13 years)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-14T00:00:00.000+0000",
+ "skills": [
+  "test automation",
+  "networking fundamentals",
+  "pytest",
+  "ci",
+  "python",
+  "software architecture",
+  "system-level debugging",
+  "l2/l3",
+  "system design",
+  "jenkins",
+  "validation frameworks",
+  "system design patterns"
+ ],
+ "teaser": "Take on the role of Software Development in Test, contributing to the design and automation of hardware validation frameworks for Cisco Silicon One ASICs. You will develop scalable test frameworks and collaborate with cross-functional teams to ensure robust, high-quality network solutions. Ideal for experienced professionals with strong Python, OOPS, and networking expertise.",
+ "description": "Meet the team\n\nThe Cisco Silicon One Bangalore team is at the heart of Cisco's next-generation networking innovation, developing the software, ASICs, and validation systems that power the industry's most advanced networking silicon. The team is building a unified, programmable silicon architecture that serves as the foundation for Cisco's future routing, switching, and AI/ML network infrastructure. Operating with the agility of a startup within Cisco's global ecosystem, the team designs, validates, and delivers high-performance, multi-terabit silicon solutions that enable faster, more scalable, power-efficient, and secure networks for service providers and web-scale customers worldwide.\n\nYour Impact\n\nDevelop and enhance the core hardware validation framework for Cisco Silicon One ASICs.\n\nDesign and automate end-to-end validation tests across hardware, simulation, and CI/CD environments.\n\nBuild scalable, reliable test frameworks using modern software design principles.\n\nValidate next-generation networking features including packet processing, QoS, ACLs, warm boot, and multi-device topologies.\n\nCollaborate with silicon, SDK, and architecture teams to ensure comprehensive test coverage and early defect detection.\n\nOwn hardware smoke and regression testing to maintain high product quality across releases.\n\nDebug complex hardware and software issues, driving root cause analysis and resolution.\n\nSupport bring-up and validation of new Silicon One ASICs and networking platforms.\n\nMinimum Qualification\n\nStrong Python and test-automation skills (pytest, CI, large test matrices) along with OOPS \n\n7-12 years of experience in Software Development and testing.\n\nUnderstands networking fundamentals \u2014 L2/L3, ACLs, QoS/meters, tunnels, multicast, and packet forwarding concepts\n\nSystem design expertise \u2014 ability to architect large, evolving validation platforms with clear boundaries, interfaces, and ownership\n\nProficiency in system design patterns \u2014 Demonstrated expertise in system design, software architecture, and design patterns, with the ability to evaluate design trade-offs and develop scalable, modular, and reusable software components.\n\nComfort working close to hardware \u2014 lab boards, SerDes, port bring-up, and long-running HW regressions\n\nExperience with complex systems \u2014 build/test pipelines, distributed testing, or large-scale validation frameworks\n\nA mindset for quality and ownership \u2014 you care that silicon actually works at line rate, not just that code compiles\n\nPreferred Qualification\n\nExperience with Cisco Silicon One SDK, NPL, SAI, traffic generators (TGEN), or carrier/web-scale networking platforms\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018787EXTERNALENGLOBAL/Software-Development-in-Test-Python-OOPS-networking-system-design-7-13-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer--Python--networking--system-design---7--years-_2018787-1/apply"
+}

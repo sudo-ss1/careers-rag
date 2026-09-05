@@ -1,0 +1,44 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020023EXTERNALENGLOBAL",
+ "req_id": "2020023",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India",
+  "Chennai, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-27T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "bgp",
+  "vxlan",
+  "evpn",
+  "multicast",
+  "trm",
+  "automation framework development",
+  "system testing",
+  "manual testing",
+  "test case design",
+  "code review",
+  "networking fundamentals",
+  "linux",
+  "software development lifecycle",
+  "ci/cd",
+  "vmware esxi",
+  "kvm",
+  "genai tools",
+  "mentorship",
+  "teamwork"
+ ],
+ "teaser": "We are expanding our team: As a Software Engineer, you will test and automate platform-independent features for the Data Centre Business Unit, ensuring high-quality solutions. You will lead manual and automated testing, provide technical mentorship, and collaborate with cross-functional teams. Ideal candidates have significant experience in networking protocols and automation.",
+ "description": "Meet the Team\u00a0\n\nWe are DSE PI common (PI NeXT) team handling platform independent components like BGP, VXLAN, L2/L3 Multicast, TRM, BGP-EVPN for Data center Business Unit. Our responsibility is to test and automate the features with high quality. We are responsible for end-to-end solutions testing for any customer requirements. We own the Programmability, Telemetry and regressions for BGP, VXLAN, L2/L3 Multicast, TRM, BGP-EVPN components.\n\nYour Impact\u00a0\n\nCandidate responsible for Manual testing and automating the given features.\n\nDeliver the features with high quality as per given timelines.\n\nProviding technical expertise and mentorship to the team regarding proper test methodologies.\n\nEstimating, prioritizing, planning and coordinating test activities.\n\nDesigning, developing, and implementing automation and enhancing test automation framework as necessary.\n\nPartnering with architects, technical marketing, product management, development teams to define and implement comprehensive test plans.\n\nConducting test case and code reviews to validate test scenario accuracy and coverage.\n\nModernizing and automating testing to improve overall code quality and automation code base.\n\nAdapt to the newer technologies (AI/ML)\n\nMinimum Qualifications\n\nMS EE/CS combined with 6+ years of related experience, or BSEE/CS combined. Good experience in feature level testing and system level understanding of switching and routing platforms Good understanding of networking fundamentals and protocols and different L2 to L7 technologies. Automation experience with Python or equivalent programming language Deep technical knowledge in BGP, VXLAN, EVPN, Multicast, TRM protocols Vision to lead and solve sophisticated problems Excellent teamwork and communication skills Self-motivated and highly ambitious\n\nPreferred Qualifications\n\nUnderstanding of DC customer deployments and good networking skills. Familiarity with the SW development cycle and software engineering Familiarity with Linux and modern software tools and techniques for development/debugging.\n\nUnderstanding of CI/CD integrations\n\nExcellent problem-solving skills\n\nFamiliarity with GenAI tools is a plus\n\nFamiliarity with virtualization VMWare ESXI, KVM is a plus\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020023EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2020023/apply"
+}

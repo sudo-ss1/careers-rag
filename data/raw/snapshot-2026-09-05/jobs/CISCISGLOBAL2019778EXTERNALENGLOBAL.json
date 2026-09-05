@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL2019778EXTERNALENGLOBAL",
+ "req_id": "2019778",
+ "title": "FA Engineering Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Taipei, New Taipei, Taiwan"
+ ],
+ "country": "Taiwan",
+ "city": "Taipei",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-06T00:00:00.000+0000",
+ "skills": [
+  "asic design",
+  "asic subsystems",
+  "asic verification",
+  "asic architecture",
+  "system-level debugging",
+  "reusable code development",
+  "design methodology",
+  "verification strategy definition",
+  "electrical planning",
+  "full chip timing closure",
+  "pi and pv management",
+  "stakeholder coordination",
+  "vendor management",
+  "technical leadership",
+  "process improvement",
+  "requirements specification",
+  "test vehicle development",
+  "verification and validation",
+  "documentation"
+ ],
+ "teaser": "We are currently hiring a FA Engineering Technical Leader to lead failure analysis of ASIC products, focusing on root cause analysis and process development. The role involves collaborating with cross-functional teams and requires significant expertise in semiconductor failure analysis and technical problem-solving.",
+ "description": "Meet the Team\n\nAs a \u00a0Failure Analysis Engineer, you will be part of the Quality and Reliability group, performing failure analysis of ASIC products. Should have a passion for problem solving and a strong technical background in semiconductor failure analysis techniques and root cause analysis.\n\nYou have experience with a variety of semiconductor failure analysis\u00a0 techniques and test equipment is required, along with the ability to interpret results and provide clear guidance on causes of failure.\n\nYour role will require high level of collaboration and interaction with Product Test Engineering, Design Engineering, Quality Engineering, Assembly Engineering and Foundry Engineering teams.\n\nAs a \u00a0successful candidate, you must be able to work well within a team and have excellent communication and organizational skills.\n\nYour Impact (Responsibilities)\n\nConduct root cause failure analysis of silicon product reliability test and field failures and propose corrective actions.\n\nDevelop and implement standard processes for failure analysis using all types of FA techniques and equipment.\n\nCoordinate all the logistics and instructions to direct the failure analysis process and carry out FA function in a systematic way.\n\nDocument and report failure analysis results to management.\n\nFunction as a technical resource for failure analysis questions.\n\nDevelop and maintain relationships with FA service and equipment vendors.\n\nMinimum Qualifications\n\nBachelors degree in Electrical/Electronics Engineering or related required. Masters preferred.\n\n10+ years of experience in semiconductor failure analysis field.\n\nProven ability to write and execute FA plans and interpret results from FA techniques such as cross section, X-ray, CSAM, TDR, FIB, SEM, and TEM, IR/EMMI/OBIRCH.\n\nProven ability to specify hardware and implement set up for dynamic FA using SIL (Solid Immersion Lens) and LSM (Laser Scanning Microscopy).\n\nWorking knowledge of fault isolation techniques using ATE, Scan/ATPG, MBIST to identify, isolate and characterize device-level faults.\n\nPreferred Qualifications\n\nSemiconductor technology and process knowledge (Fab, Assembly, and Advanced Packaging).\n\nGood understanding of transistor function/basic electronics, semiconductor device physics and behavior under various operating conditions\n\nKnowledge of JEDEC IC Qualification tests and requirements is beneficial.\n\nExperience with semiconductor frontend fabrication, backend assembly, ASIC testing, and discrete component failure analysis.\n\nProven experience driving physical failure analysis with suppliers.\n\nSoft Skills\n\nInterface with product, test, and design engineering groups to identify and characterize faults on emerging technologies, while providing fault isolation, identification, and characterization for yield/reliability failures.\n\nEnjoy hands-on work and working in a lab environment.\n\nGood customer and vendor management skills.\n\nAbility to work well in cross-functional teams in a fast-paced, collaborative team environment.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019778EXTERNALENGLOBAL/FA-Engineering-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Taipei-Taiwan/FA-Engineering-Technical-Leader_2019778/apply"
+}

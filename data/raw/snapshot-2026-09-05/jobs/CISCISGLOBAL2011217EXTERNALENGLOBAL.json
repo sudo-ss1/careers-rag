@@ -1,0 +1,38 @@
+{
+ "job_seq_no": "CISCISGLOBAL2011217EXTERNALENGLOBAL",
+ "req_id": "2011217",
+ "title": "EMIR/ESD Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Armenia, Armenia"
+ ],
+ "country": "Armenia",
+ "city": "Armenia",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-04-02T00:00:00.000+0000",
+ "skills": [
+  "asic design",
+  "emir/esd analysis",
+  "finfet layout",
+  "cmos technologies",
+  "rtl to gdsii flow",
+  "floorplanning",
+  "power planning",
+  "esd protection",
+  "synopsys",
+  "cadence",
+  "siemens",
+  "phyton",
+  "tcl",
+  "bash",
+  "stakeholder management"
+ ],
+ "teaser": "Become part of our team as a EMIR/ESD Engineer, driving innovation in chip design from RTL to GDSII. Lead top-level RTL to GDS implementation, collaborate with Front-End teams, and optimise designs for power, performance, and reliability. Ideal for experienced engineers with expertise in ASIC design and EMIR/ESD analysis.",
+ "description": "Meet the Team\n\nStep into Cisco's ASIC Physical Design Team, where innovation meets collaboration. As a group of highly skilled engineers, we're redefining what's possible in silicon technology. Our mission is to drive the future of chip design, managing full chip physical implementation from RTL to GDSII and beyond. Working hand-in-hand with Front-End teams, we transform cutting-edge designs into industry-leading silicon solutions. Here, you'll have the opportunity to shape tomorrow's technology, driving advancements in power, performance, and reliability with every project. Together, we're building the foundation for the future of connectivity.\n\nYour Impact\n\nDrive Cisco's silicon innovation by performing comprehensive chip-level EMIR and ESD analysis to ensure the reliability of our next-generation designs. Investigate complex EMIR and ESD results to propose and implement effective optimizations that maintain design integrity. Collaborate with package teams and block owners to guide design fixes and ensure robust power grid performance. Coordinate with EDA tool vendors and flow teams to enhance the accuracy and scalability of our sign-off methodologies. Contribute to the end-to-end physical implementation process to ensure our silicon solutions meet the highest standards for performance and reliability before tape-out.\n\n\u00a0Minimum Qualifications\n\nBachelor's or Master's degree in Electrical Engineering or Computer Science.\n\nMinimum of 3 years of hands-on experience in ASIC design and verification.\n\nStrong understanding of schematics and layout in FinFET technologies.\n\nExperience in deep submicron CMOS technologies.\n\nHands-on experience in RTL-to-GDSII flow, floorplanning, and power planning.\n\n\u00a0Preferred Qualifications\n\nGood knowledge of ESD protection concepts and implementation.\n\nFamiliarity with PnR and verification tools such as Synopsys, Cadence, or Siemens.\n\nStrong scripting skills in Python, TCL, or Bash.\n\nAbility to collaborate effectively with cross-functional teams and external vendors.\n\nExperience in full-chip physical design and tape-out processes.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011217EXTERNALENGLOBAL/EMIR-ESD-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Armenia/EMIR-ESD-Engineer_2011217/apply"
+}

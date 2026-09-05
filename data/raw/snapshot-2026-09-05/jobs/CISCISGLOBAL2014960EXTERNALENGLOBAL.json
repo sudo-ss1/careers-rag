@@ -1,0 +1,47 @@
+{
+ "job_seq_no": "CISCISGLOBAL2014960EXTERNALENGLOBAL",
+ "req_id": "2014960",
+ "title": "Data Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India",
+  "Hyderabad, Telang\u0101na, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-27T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "aws",
+  "data pipeline development",
+  "data modeling",
+  "data warehousing",
+  "etl",
+  "machine learning",
+  "natural language processing",
+  "text classification",
+  "tokenization",
+  "vectorization",
+  "statistical analysis",
+  "data governance",
+  "api integration",
+  "web services",
+  "microservices",
+  "data quality management",
+  "data integrity management",
+  "data availability management",
+  "problem solving",
+  "analytical skills",
+  "collaboration",
+  "communication"
+ ],
+ "teaser": "Become part of our team as a Data Engineer, where you will design and implement scalable data pipelines using AWS services and Python. You will support analytics, risk mitigation, and customer enablement, ideally suited for candidates with strong experience in data engineering and cloud platforms.",
+ "description": "Meet the Team\u00a0\n\nEnterprise Data Foundation telemetry, as part of Cisco's telemetry data offerings, enables enhanced visibility of data for product adoption, up sale and cross sell across Cisco's enterprise portfolio. It collects and streams telemetry data from various Cisco products, such as Catalyst Center, Cisco Firewall, WebEx, Data Center product to name a few to provide insights into device performance, usage, and potential risks. This telemetry data helps customers and Cisco proactively identify opportunities for sales and CX to improve overall product experience.\n\nKey aspects include:\n\nCollection of performance and operational data from customer product deployment and management platforms.\n\nEnabling analytics to understand feature utilization and customer satisfaction.\n\nSupporting proactive risk mitigation campaigns and customer enablement through targeted communications.\n\nSecure collection and handling of telemetry data with customer privacy considerations.\u00a0\n\nYour Impact\u00a0\n\nDesign, develop, and implement scalable and efficient data pipelines using AWS services (e.g., S3, EC2, ECS, Aurora).\n\nWrite high-quality, maintainable Python code for data extraction, transformation, and loading (ETL) and Machine leaning / AI (LLM) processes.\n\nDevelop and integrate with Web Services, Micro Services, and APIs to ingest and expose data from various internal and external sources.\n\nImplement robust Data Engineering solutions, including data modeling, database design, and data warehousing.\n\nOptimize data storage, retrieval, and processing for performance and cost-efficiency on AWS.\n\nMonitor and troubleshoot data pipeline issues, ensuring data quality, integrity, and availability.\n\nCollaborate with data scientists, analysts, and software engineers to understand data requirements and deliver solutions.\n\nContribute to the development and enforcement of data governance policies and standards.\n\nStay up-to-date with emerging technologies and industry trends in Data Engineering, cloud computing, and data management.\u00a0\n\nMinimum Qualifications: \n\nProven experience in Data Engineering roles, with a strong portfolio of data pipeline development.\n\nProficiency in Python for data manipulation, automation, and scripting.\n\n4 years of professional experience in data engineering or a similar role.\n\nExtensive experience with cloud platforms, particularly AWS, including services relevant to data storage, processing, and analytics.\n\nSolid understanding and practical experience with designing and consuming Web Services and APIs.\n\nFamiliarity with Micro Services architecture and its implications for data integration.\n\nExperience with relational and NoSQL databases.\n\nStrong understanding of data warehousing concepts and best practices.\n\nAbility to work independently and as part of a collaborative team.\n\nStrong communication and interpersonal skills.\n\nPreferred Qualifications:\n\nWorked on at least one Machine Learning data pipeline\n\nWorked on at least one LLM based project\n\nUsage of large language models for development\n\nUnderstanding Text Classification/NLP\n\nUnderstanding of Tokenization and vectorization\n\nUnderstanding of Statistical analysis of data\n\nExcellent problem-solving and analytical skills.\n\n#WeAreCisco\u00a0(This is the Standard and cannot be changed)\n\n#WeAreCisco where every individual brings their unique skills and perspectives together to pursue our purpose of powering an inclusive future for all.\u00a0\n\nOur passion is connection\u2014we celebrate our employees\u2019 diverse set of backgrounds and focus on unlocking potential. Cisconians often experience one company, many careers where learning and development are encouraged and supported at every stage. Our technology, tools, and culture pioneered hybrid work trends, allowing all to not only give their best, but be their best.\u00a0\n\nWe understand our outstanding opportunity to bring communities together and at the heart of that is our people. One-third of Cisconians collaborate in our 30 employee resource organizations, called Inclusive Communities, to connect, foster belonging, learn to be informed allies, and make a difference. Dedicated paid time off to volunteer\u201480 hours each year\u2014allows us to give back to causes we are passionate about, and nearly 86% do!\u00a0\n\nOur purpose, driven by our people, is what makes us the worldwide leader in technology that powers the internet. Helping our customers reimagine their applications, secure their enterprise, transform their infrastructure, and meet their sustainability goals is what we do best. We ensure that every step we take is a step towards a more inclusive future for all. Take your next step and be you, with us!\u00a0\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014960EXTERNALENGLOBAL/Data-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Data-Engineer_2014960-1/apply"
+}

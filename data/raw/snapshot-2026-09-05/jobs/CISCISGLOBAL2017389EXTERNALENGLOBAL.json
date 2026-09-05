@@ -1,0 +1,43 @@
+{
+ "job_seq_no": "CISCISGLOBAL2017389EXTERNALENGLOBAL",
+ "req_id": "2017389",
+ "title": "Software Engineer - 8+yrs - C/C++, Cellular/Wireless/Satellite Communications",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-07-31T00:00:00.000+0000",
+ "skills": [
+  "wireless networking",
+  "openai",
+  "control plane software",
+  "cellular gateways",
+  "linux/rtos/networking os internals",
+  "gen ai assistant technologies",
+  "system design",
+  "gemini",
+  "mcp",
+  "traffix generators/analyzers(ixia/spirent)",
+  "bsps",
+  "data plane software",
+  "agentic ai",
+  "c/c++ programming",
+  "natural language processing",
+  "technical leadership",
+  "kernel software",
+  "device drivers",
+  "software architecture",
+  "l2/l3 protocols"
+ ],
+ "teaser": "We are looking for a Software Engineer to drive the design and development of next-generation Control Plane and Data Plane software for Cisco's IIOT Switching and Routing products. Lead innovative features, shape secure networking solutions, and collaborate with global teams. Ideal for experienced engineers with expertise in C/C++ and wireless communication systems.",
+ "description": "Meet the Team\n\nJoin the Cisco IIOT team in product development for Industrial IOT switching and routing products that transforms industrial operations. Cisco's IIOT team provides an outstanding, unique experience for software engineers by combining the resources offered by a sizable multi-geography organization and a large campus (with an on-site gym, healthcare, caf\u00e9, social interest groups, and philanthropy) with the startup culture and breadth of growth opportunities that working in a smaller teams can provide.\n\nYour Impact\n\nIn this pivotal role, you will drive the design and development of next-generation Control Plane and Data Plane software for Cisco's groundbreaking Networking and Network Security Platforms. Demonstrating AI and AI assist technologies, you will translate complex requirements into robust, scalable solutions, directly influencing the security and performance of Cisco's global infrastructure. You will lead significant features, innovate new intellectual property, and play a crucial part in shaping the future of secure networking.\n\n\u00a0\n\nResponsibilities\n\nDesign and development of IIoT hardware platforms, ensuring seamless integration between hardware and software layers.\n\nDesign and development of control plane and data plane software for Cisco IIOT Switching, Routing products.\n\nDesign and develop low-level software components, including BSP, device drivers and kernel modules.\n\nAnalyse requirements and problem statements to come with right software designs and solutions. To be able to write details Design documents and Functional Specifications.\n\nTo Code and Unit Test Software components and modules. It is required to have strong white- box testing and automating skills. Triage, debug, and root cause simulation, software bring-up, and customer failures\n\nWork with local and remote teams to review Product Requirements Document,\u00a0\u00a0to collaborate on SW Functional and Design Specifications, Unit and Integration test plans. Also responsible for reviewing test strategy and test plans for Functional and System Test teams.\n\nTo be able to innovate and come up with new ideas that can lead to filing patents and creating IP value for the company\n\nMinimum Qualifications:\n\nBachelors (8-12 years) or Master\u2019s degree(6-10 years) in Computer Science, EE/ECE or related fields.\n\nPrior work experience with\u00a0control plane software or data plane software, data structures, Wireless experience (802.11ac/ax/be), Linux/RTOS/Networking OS internals\n\nStrong understanding and development experience in LEO (Low Earth Orbit) satellite communication systems and architectures.\n\nKnowledge of Starlink services, user terminals, gateways, and satellite internet connectivity.\n\nExperience with LTE, 5G NR, cellular gateways, SIM-based connectivity, and wireless communication systems.\n\nUnderstanding of satellite-based wireless backhaul architectures.\n\nStrong understanding of OS (e.g. Linux, RTOS, Unix) and experience working with Linux kernel, device drivers, and BSPs.\n\nProficient in writing quality code in C/C++.\n\nExperience in developing software/firmware for networking products.\n\nExcellent knowledge of software architecture and system design.\n\nExperience using Traffic generators/Analyzers such as IXIA/Sniffer is a plus.\n\nTechnical leadership experience in leading high performance teams to provide technical leadership for designing and implementing quality features and solutions.\n\nHands on experience with Gen AI assistant technologies, natural language processing (NLP) or Gen AI technologies (OpenAI, Gemini, MCP, Agentic AI etc..)\n\nPreferred Qualifications:\n\nExperience with debugging and verification methodologies\n\nYou have hands-on development experience on L2, L3 protocols.\n\nCisco Networking certificates such as CCNA, CCNP, CCIE are desirable.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017389EXTERNALENGLOBAL/Software-Engineer-8-yrs-C-C-Cellular-Wireless-Satellite-Communications",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer---8-yrs---C-C----Cellular-Wireless-Satellite-Communications_2017389-1/apply"
+}

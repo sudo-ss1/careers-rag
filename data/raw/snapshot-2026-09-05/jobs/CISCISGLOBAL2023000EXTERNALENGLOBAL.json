@@ -1,0 +1,33 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023000EXTERNALENGLOBAL",
+ "req_id": "2023000",
+ "title": "Principal Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "London, United Kingdom"
+ ],
+ "country": "United Kingdom",
+ "city": "London",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-01T00:00:00.000+0000",
+ "skills": [
+  "kotlin",
+  "spring boot",
+  "technical leadership",
+  "amazon web services",
+  "java",
+  "c++",
+  "c   language",
+  "kubernetes",
+  "apache kafka",
+  "operational excellence"
+ ],
+ "teaser": "Exciting opportunity for a Principal Software Engineer to drive innovation in digital experience assurance. Lead the evolution of ThousandEyes technologies, collaborating with engineering and product leaders. Ideal for a highly experienced software engineer with a strong background in computer science and a passion for developer productivity.",
+ "description": "Meet the Team\n\nCisco ThousandEyes is a Digital Experience Assurance platform that empowers organizations to deliver flawless digital experiences across every network - even the ones they don\u2019t own. Powered by AI and an unmatched set of cloud, internet and enterprise network telemetry data, ThousandEyes enables IT teams to proactively detect, diagnose, and remediate issues - before they impact end- user experiences.\n\nThousandEyes is deeply integrated across the entire Cisco technology portfolio and beyond, helping customers deploy at scale while also delivering AI-powered assurance insights within Cisco\u2019s leading Networking, Security, Collaboration, and Observability portfolios.\n\nThe Endpoint Engineering team is leading this charge, competing to dominate its market segment as well as becoming part of the fabric of Cisco\u2019s wireless, security and collaboration systems. We are a small team where every engineer is hands-on and has a voice in where the product and technology goes. This creates a rare opportunity for you to work with one eye on the future, while staying closely rooted in delivering exciting new innovations today.\n\nYour Impact\n\nYou will partner with product and engineering leaders across ThousandEyes to determine how best to evolve our technologies, and then roll your sleeves up and help ship these new features. Critical initiatives include bringing our technology into Cisco wireless and security product portfolios and pragmatically leveraging AI to deliver capabilities such as self-service issue diagnosis for users and automated remediation of network issues.\n\nYou will be an effective voice for the engineering team as we work across the company, and an enthusiastic team mate in the build and operation of complex systems. You should also be passionate about developer productivity and how we can constantly improve on this.\u00a0\n\nMinimum Qualifications\n\nProfessional software engineering experience building and maintaining production-grade applications using Java, Kotlin, or C++.\n\n4+ years of experience in technical leadership capacity while designing, developing and maintaining large-scale distributed production systems.\n\nProven experience delivering large-scale internet products while collaborating with cross-functional teams outside of your direct line.\n\nDemonstrated experience of having mentored software engineers at various levels of experience.\n\nDemonstrated experience of having made measurable improvements in developer productivity.\n\nPreferred Qualifications\n\nBachelor\u2019s degree in Computer Science or similar.\n\nFamiliar with Docker, Kubernetes and cloud technologies such as AWS.\n\nExperience with processing large data sets on Elasticsearch or similar data stores.\n\nExperience with event-driven architectures (CQRS, Kafka Streams etc).\n\nExcellent knowledge of computer science and networking fundamentals.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023000EXTERNALENGLOBAL/Principal-Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/London-United-Kingdom/Principal-Software-Engineer_2023000/apply"
+}

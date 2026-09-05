@@ -1,0 +1,45 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020981EXTERNALENGLOBAL",
+ "req_id": "2020981",
+ "title": "Software Engineering Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Galway, Ireland"
+ ],
+ "country": "Ireland",
+ "city": "Galway",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-14T00:00:00.000+0000",
+ "skills": [
+  "collaboration platform development",
+  "agentic developer experience",
+  "security posture definition",
+  "ci/cd pipelines",
+  "github",
+  "version control",
+  "javascript",
+  "typescript",
+  "github actions",
+  "kubernetes",
+  "aws",
+  "azure",
+  "gcp",
+  "infrastructure as code",
+  "terraform",
+  "ansible",
+  "developer experience initiatives",
+  "platform engineering",
+  "workflow improvement",
+  "user experience improvement",
+  "collaborative workflows",
+  "backstage"
+ ],
+ "teaser": "Become part of our team as a Software Engineering Technical Leader, driving the definition of the Agentic Developer Experience and shaping security posture for Cisco Collaboration. Collaborate with engineering teams to enhance workflows and user experience. Ideal for experienced professionals with a strong background in modern development practices.",
+ "description": "This position offers hybrid work requiring three days of in-office attendance per week.\n\nMEET THE TEAM\n\nThe Engineering Systems team serves as the backbone of Cisco\u2019s Collaboration organization, empowering engineering teams to build, secure, test, and release software at an enterprise scale. Our work directly supports the development of workplaces of tomorrow, ensuring that millions of daily users experience reliable, secure, and scalable connections. We are a collaborative group of engineers who thrive on technical depth and a high-energy, supportive atmosphere. We are particularly excited about our ongoing work in modernizing deployment workflows and implementing AI-assisted engineering to revolutionize our development practices.\n\nYOUR IMPACT\n\nLead high-impact engineering systems initiatives across GitHub migration, CI/CD, and secure delivery to modernize our software development lifecycle. Mentor fellow engineers and guide design decisions to build resilient team capability and ensure long-term system health. Drive practical security improvements within our pipelines and artifacts to protect our software delivery processes. Improve developer productivity by reducing build and deployment friction while using performance metrics to measure and drive continuous quality. Partner with cross-functional teams to translate broad technical requirements into clear, adopted solutions that define our future operating models.\n\nMINIMUM QUALIFICATIONS\n\n8+ years of experience in software engineering, platform engineering, DevOps/SRE, build and release engineering, security engineering, developer tooling, or related roles.\n\nDemonstrated ownership of complex technical problems from discovery through delivery, adoption, measurement, and operational follow-through.\n\nStrong technical depth in at least one relevant domain such as GitHub, CI/CD, modern deployment, secure software delivery, or pipeline and artifact security.\n\nExperience in developer platforms, build systems, or large-scale engineering operations.\n\u00a0\n\nPREFERRED QUALIFICATIONS\n\nExperience leading work across teams where success depended on influence, stakeholder alignment, adoption, documentation, support readiness, and guiding other engineers through technical decisions.\n\nGitHub Enterprise, GitHub Actions, repository and organization migration, repository governance, organization policies, GitHub Apps, or large-scale repository management.\n\nCI/CD and deployment systems such as GitHub Actions, Jenkins, Harness, or similar platforms, including release orchestration, rollback patterns, environment management, artifact workflows, or release readiness.\n\nSecurity automation or secure delivery workflows, especially pipeline and artifact security, including SAST, dependency scanning, container scanning, secret scanning and similar.\n\nDeveloper experience, internal developer platforms, software catalogs, documentation, workflows, or related implementation experience with Java/TypeScript, Node.js, Cloud-native platforms, Kubernetes, containers, AWS, Azure, GCP, Terraform, Ansible, Observability, operational monitoring, dashboards, alerting, on-call workflows, runbooks, incident response, support operations, reliability improvement, metrics-driven prioritization, and experience balancing strong technical opinions with practical delivery in a large organization.\n\nNote: We understand that candidates may not meet every qualification listed.\n\nWe encourage you to apply if you have deep experience in one or more relevant\n\nareas, strong ownership, and a track record of making complex engineering\n\nsystems better at scale.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020981EXTERNALENGLOBAL/Software-Engineering-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Software-Engineering-Technical-Leader_2020981/apply"
+}

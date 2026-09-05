@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021257EXTERNALENGLOBAL",
+ "req_id": "2021257",
+ "title": "Senior Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Milpitas, California, United States of America"
+ ],
+ "country": "United States of America",
+ "city": "Milpitas",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-03T00:00:00.000+0000",
+ "skills": [
+  "software development",
+  "linux-based systems",
+  "c/c++",
+  "python",
+  "system-level programming",
+  "debugging tools",
+  "distributed systems",
+  "embedded systems",
+  "optics monitoring",
+  "optics configuration",
+  "optics lifecycle management",
+  "telemetry",
+  "diagnostics",
+  "unit testing",
+  "system testing",
+  "automation",
+  "ci/cd pipelines",
+  "automated testing",
+  "networking protocols",
+  "hardware-software interface",
+  "open source collaboration",
+  "containerization",
+  "docker",
+  "kubernetes",
+  "qsfp",
+  "osfp",
+  "cpo",
+  "sdk",
+  "platform abstraction layers",
+  "telemetry systems"
+ ],
+ "teaser": "We are looking for a Senior Software Engineer to develop and enhance software modules supporting SONiC-based optical subsystems. You will contribute to platform adaptation, integration of CPO technologies, and collaborate with hardware and optics teams. Ideal candidates have significant experience in software development and Linux systems.",
+ "description": "The application window is expected to close on: 10/29/2026\nJob posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nThis is a Hybrid role with 3 day/ week in Milpitas, CA office.\n\nMeet the Team\n\nThe Cisco Distributed System Engineering (DSE) group is at the forefront of building next-generation networking systems that power the largest and most demanding infrastructures in the world. As the industry evolves to support AI/ML workloads and ever-increasing bandwidth demands, innovations such as Co-Packaged Optics (CPO) are becoming critical to scaling performance, efficiency, and power optimization.\n\nThe SONiC Optics team is passionate about enabling and productizing optics solutions\u2014including CPO\u2014within Cisco\u2019s network operating systems. We work at the intersection of hardware, optics, and software, integrating innovative optical technologies into SONiC-based platforms.\n\nYou will join a team of engineers passionate about distributed systems, open-source networking, and next-generation optical architectures. This is a fast-paced environment where you will contribute to product development and help bring CPO-based solutions to production.\n\nYour Impact\n\nSoftware Development & Integration\n\nDevelop and improve software modules within SONiC to support optical subsystems, including pluggable optics and Co-Packaged Optics (CPO).\n\nContribute to platform adaptation layers that interface SONiC with hardware components such as ASICs, optical engines, and BMCs.\n\nImplement and maintain drivers, APIs, and services for optics monitoring, configuration, and lifecycle management.\n\nParticipate in debugging and resolving system-level issues across software and hardware boundaries.\n\nOptics & Platform Enablement\n\nSupport integration of CPO technologies into SONiC-based platforms, including telemetry, diagnostics, and control-plane interactions.\n\nWork closely with hardware and optics teams to understand device capabilities and expose them through software interfaces.\n\nAssist in validating performance, reliability, and thermal/power characteristics of optics solutions.\n\nSystem Design & Quality\n\nContribute to the design of scalable and maintainable software components for optics management.\n\nHelp implement telemetry and monitoring solutions for optical modules and CPO subsystems.\n\nParticipate in unit testing, system testing, and automation efforts to ensure high-quality work.\n\nCollaboration & Open Source\n\nCollaborate with multi-functional teams including hardware, QA, and system integration.\n\nEngage with the SONiC open-source community, contributing to optics-related features and improvements where applicable.\n\nSupport CI/CD workflows and participate in improving development and test processes.\n\nMinimum Qualifications\n\nBachelors + 7 years of related experience OR Masters + 4 years of related experience OR PhD + 1 year of related experience.\n\n5 years of experience in software development\n\nMinimum 3 years of experience with Linux-based systems and system-level programming (C/C++/Python)\n\n3+ years of experience with debugging tools and development in distributed or embedded systems environments\n\nPreferred Qualifications\n\nExperience with networking protocols (L2/L3, switching, routing)\n\nExposure to network operating systems such as SONiC or similar platforms\n\nUnderstanding of optics technologies (e.g., QSFP, OSFP, or CPO concepts)\n\nExperience with hardware-software interfaces (drivers, SDKs, or platform abstraction layers)\n\nFamiliarity with containerization technologies (Docker, Kubernetes)\n\nKnowledge of telemetry, monitoring systems, or data plane/control plane interactions\n\nExperience with CI/CD pipelines and automated testing\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $167,700.00 to $245,200.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco\u2019s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks.\u00a0 Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco\u2019s policies:\n\n10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n\n1 paid day off for employee\u2019s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n\nNon-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n\nExempt employees participate in Cisco\u2019s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n\n80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of\u00a0unused sick time\u00a0carried forward\u00a0from one calendar year\u00a0to the next\n\nAdditional paid time away may be requested to deal with critical or emergency issues for family members\n\nOptional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco\u2019s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n\n.75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n\n1.5% of incentive target for each 1% of attainment between 50% and 75%;\n\n1% of incentive target for each 1% of attainment between 75% and 100%; and\n\nOnce performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$167,700.00 - $282,000.00\n\nNon-Metro New York state & Washington state:\n$149,100.00 - $250,900.00\n\n* For quota-based sales roles on Cisco\u2019s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n\n** Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021257EXTERNALENGLOBAL/Senior-Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Senior-Software-Engineer_2021257/apply"
+}

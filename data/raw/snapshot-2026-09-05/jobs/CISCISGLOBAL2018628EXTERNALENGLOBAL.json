@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018628EXTERNALENGLOBAL",
+ "req_id": "2018628",
+ "title": "Software Engineer (Shared Components)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Galway, Ireland"
+ ],
+ "country": "Ireland",
+ "city": "Galway",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-07T00:00:00.000+0000",
+ "skills": [
+  "automated testing",
+  "devops",
+  "software development",
+  "agile",
+  "prometheus",
+  "c++",
+  "data access",
+  "splunk",
+  "grafana",
+  "sbom generation",
+  "ai coding agents",
+  "java",
+  "service infrastructure",
+  "shared libraries",
+  "observability tools",
+  "static analysis",
+  "microservices",
+  "jdk",
+  "mentoring"
+ ],
+ "teaser": "We are currently hiring a Software Engineer to drive hands-on development for a core foundational architecture component supporting over 90% of Webex Platform services. You will design, implement, and maintain shared Java libraries, contributing to agile product delivery. Ideal candidates have strong software development experience and a background in analytical subjects.",
+ "description": "Meet the Team\n\nCisco's Webex Engineering Group is redefining the future of collaboration. We're building a world where people connect effortlessly to enjoy modern, uncompromised collaboration across every room, desk, pocket, and application.\n\nOur technology powers industry-leading products like Webex Meetings, Webex Calling, and Webex Contact Center. As a member of our team, your work will ensure every user gets a truly immersive experience regardless of device or location, empowering the hybrid working patterns of the future.\u00a0\n\nWe are looking for a highly skilled Software Engineer to drive hands-on development for\u00a0 a core foundational architecture component implemented as a shared java library that powers over 90% of services across the Webex Platform.\n\nOur team is based in Galway. We operate a hybrid working model.\u00a0\n\nYour Impact\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Full Lifecycle Development: being part of an agile team to design, develop, test, and deliver new features and improvements to our products.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 DevOps & Microservices: Help lead the operational side of our highly available microservice architecture.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Shared Components: design, implement, test, and maintain core features in the shared java library. Specifically develop highly reliable shared components for HTTP clients, service infrastructure, data access, messaging, metrics, logging, secrets, rate limiting, health checks, and build tooling.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Embrace AI technology: Leveraging these transformative technologies to accelerate the team\u2019s productivity and the delivery of customer features.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Adaptable & Problem-Solver: Tackle varied and challenging problems daily, showing flexibility, a data-driven focus on quality, and an ability to learn new skills quickly.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Ownership & Quality: Take responsibility for tasks, from building new functionality to developing automated tests and investigating issues, all with a level of high attention to detail.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Support & Growth: Receive dedicated mentorship and formal training from a supportive team of fellow engineers to help you get up to speed and grow your skills.\n\nMinimum Qualifications\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 3rd Level Qualification: Bachelor's or higher degree in an analytical subject (e.g. Computer Science, Electronic/Software Engineering).\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Work experience: Demonstrated 3+ years experience in software development.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Coding Aptitude: Extensive architecture and programming experience and the willingness to learn new technologies quickly.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Problem Solver: Ability to apply and lead a scientific approach and creative skills to complex problems.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Adaptable & Collaborative: Flexible, thrives in diverse team environments, and communicates clearly and precisely.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Quality Focus: Strong attention to detail and a commitment to continuous learning and quality results.\n\n\u00a0\n\nPreferred Qualifications\n\nKnowledge of programming in one or more of the following languages: Java, Python, C++, JavaScript\n\nExperience owning internal platform libraries or frameworks used by hundreds or thousands of services.\n\nExperience modernizing legacy Java components while preserving compatibility.\n\nExperience with observability tools such as Splunk, Prometheus, Micrometer, InfluxDB, Grafana, or similar systems.\n\nExperience with security scanning, SBOM generation, dependency vulnerability management, and static analysis.\n\nHands-on use of Codex or similar AI coding agents in real software development workflows.\u00a0\n\nWe provide training and mentoring for all new team members to fill in any gaps.\n\nCollabHiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018628EXTERNALENGLOBAL/Software-Engineer-Shared-Components",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Software-Engineer--Shared-Components-_2018628/apply"
+}

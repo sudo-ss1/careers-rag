@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2015509EXTERNALENGLOBAL",
+ "req_id": "2015509",
+ "title": "Senior Site Reliability Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-26T00:00:00.000+0000",
+ "skills": [
+  "aws",
+  "site reliability engineering",
+  "cloud cost optimization",
+  "finops",
+  "cloud infrastructure",
+  "cloud billing analysis",
+  "capacity planning",
+  "infrastructure automation",
+  "cloudformation",
+  "puppet",
+  "ansible",
+  "python",
+  "go",
+  "shell scripting",
+  "observability",
+  "monitoring platforms",
+  "linux",
+  "distributed systems",
+  "production support",
+  "reliability engineering",
+  "operational excellence",
+  "performance analysis",
+  "infrastructure optimization",
+  "aws billing analysis",
+  "tagging hygiene"
+ ],
+ "teaser": "Become part of our team as a Senior Site Reliability Engineer, driving AWS cost optimisation and infrastructure efficiency for the ThousandEyes cloud platform. Lead initiatives to improve performance, reduce cloud wastage, and support engineering teams with data-driven insights. Ideal for experienced professionals with strong AWS expertise and a background in large-scale cloud environments.",
+ "description": "Meet the Team\n\nThe ThousandEyes Efficiency & Performance team is responsible for improving the reliability, scalability, performance, and cost efficiency of the ThousandEyes cloud platform. The team partners closely with engineering, platform, finance, product, and leadership team members to drive infrastructure optimization, cloud cost governance, performance improvements, and operational excellence across AWS environments.\n\nAs a Senior Site Reliability Engineer in the Efficiency & Performance team, you will play a key role in managing and optimizing ThousandEyes cloud infrastructure cost, improving AWS efficiency, driving FinOps practices, and helping engineering teams make data-driven decisions around cost, performance, and scalability.\n\nYour Impact\n\nOwn and drive AWS cost optimization and efficiency initiatives across ThousandEyes infrastructure.\n\nAnalyze cloud usage across compute, storage, databases, observability, networking, and data platform workloads to identify savings opportunities.\n\nPartner with engineering teams to improve application and infrastructure performance while reducing cloud wastage.\n\nDrive FinOps practices including cost visibility, tagging hygiene, showback/chargeback, budgeting, forecasting, anomaly detection, and cost allocation.\n\nImprove infrastructure efficiency through better resource utilization, autoscaling, right-sizing, and capacity planning.\n\nBuild automation, dashboards, reports, and guardrails to improve cost governance and operational visibility.\n\nSupport ThousandEyes cost reviews, OKR tracking, leadership updates, and stakeholder communications.\n\nCollaborate with product, finance, engineering, and platform teams to align cost optimization with business priorities.\n\nIdentify and reduce underutilized infrastructure, idle resources, over-provisioned workloads, and inefficient service usage.\n\nImprove observability, alerting, and monitoring for cost, performance, and platform health indicators.\n\nInfluence engineering teams to adopt cost-aware architecture, reliable design patterns, and performance-efficient implementation practices.\n\nProvide senior-level technical leadership, mentor engineers, and independently drive cross-functional initiatives to closure.\n\nBalance reliability, scalability, performance, and cost efficiency in all platform decisions.\n\nMinimum Qualifications\n\nBachelor\u2019s degree or higher in Engineering, Computer Science, or equivalent practical experience.\n\n8\u201312 years of relevant experience in Site Reliability Engineering, Cloud Infrastructure, Platform Engineering, DevOps, Production Engineering, or Performance Engineering.\n\nStrong experience with AWS services such as EC2, S3, RDS, EMR, Lambda, CloudWatch, OpenSearch, ElastiCache, IAM, VPC, and related cloud-native services.\n\nPractical experience in cloud cost optimization, FinOps, AWS billing analysis, cost allocation, tagging, budget tracking, forecasting, and cost governance.\n\nExperience with performance analysis, capacity planning, infrastructure optimization, and reliability improvements for large-scale cloud platforms.\n\nExperience with infrastructure-as-code and automation tools such as Terraform, CloudFormation, Puppet, Ansible, or similar.\n\nStrong scripting or programming skills in Python, Go, Shell, or similar languages for automation, reporting, and operational tooling.\n\nExperience with observability and monitoring platforms such as ThousandEyes, CloudWatch, Prometheus, Grafana, Splunk, OpenSearch, Datadog, or similar.\n\nStrong Linux systems knowledge and understanding of distributed systems.\n\nExperience in incident management, production support, reliability engineering, and operational excellence.\n\nAbility to analyze large-scale infrastructure, performance, and cost data and convert findings into actionable engineering recommendations.\n\nStrong communication skills with the ability to present technical, performance, and cost insights to engineering teams, finance, leadership, and multi-functional stakeholders.\n\nExperience working in Agile/Scrum environments and managing priorities across multiple teams.\n\nPreferred Qualifications\n\nExperience supporting or optimizing large-scale SaaS platforms in AWS.\n\nFinOps certification or equivalent experience with cloud financial management practices.\n\nExperience with AWS Savings Plans, Reserved Instances, Spot adoption, Graviton migration, storage lifecycle optimization, workload right-sizing, and commitment planning.\n\nExperience with cloud cost management tools such as AWS Cost Explorer, AWS CUR, Cloud-ability, Cloud-Health, or similar platforms.\n\nExperience with performance tuning of cloud infrastructure, distributed systems, databases, data pipelines, and high-scale services.\n\nExperience with data platforms or large-scale infrastructure components such as EMR, Kafka, OpenSearch, RDS, Airflow, Spark, Redis, Cassandra, or similar.\n\nExperience driving cross-team cost optimization programs, efficiency OKRs, governance reviews, executive reporting, and measurable savings outcomes.\n\nAbility to influence engineering teams toward cost-conscious architecture, performance-aware design, and operational standard methodologies.\n\nExposure to AI/ML infrastructure cost optimization, capacity planning, GPU/accelerator cost governance, or AI-driven efficiency tooling is a plus.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015509EXTERNALENGLOBAL/Senior-Site-Reliability-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Senior-Site-Reliability-Engineer_2015509-1/apply"
+}

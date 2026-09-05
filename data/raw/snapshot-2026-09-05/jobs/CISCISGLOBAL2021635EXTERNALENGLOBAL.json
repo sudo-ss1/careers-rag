@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021635EXTERNALENGLOBAL",
+ "req_id": "2021635",
+ "title": "AI Operations Engineer",
+ "category": "Other",
+ "categories": [
+  "Other"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-04T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "sql",
+  "snowflake cortex",
+  "langchain",
+  "langgraph",
+  "autogen",
+  "crewai",
+  "openai sdks",
+  "api integration",
+  "rest",
+  "graphql",
+  "ci/cd",
+  "git",
+  "automated testing",
+  "retrieval-augmented generation",
+  "vector databases",
+  "semantic search",
+  "event-driven services",
+  "authentication",
+  "rate limiting",
+  "error handling",
+  "model deployment",
+  "model fine-tuning",
+  "version control",
+  "automated monitoring",
+  "prompt engineering",
+  "context engineering",
+  "ai/ml ci/cd pipeline",
+  "cross-functional collaboration",
+  "technical delivery"
+ ],
+ "teaser": "Join our team as a AI Operations Engineer to design and operate autonomous AI agents that drive commerce operations. You will architect production-grade AI workflows, integrate with enterprise systems, and collaborate across teams. Ideal for candidates with advanced Python, SQL, and LLM expertise, and experience in AI/ML deployment.",
+ "description": "Meet the Team\n\nJoin Cisco's Commerce Intelligence Data & Analytics team, a pivotal group delivering seamless intelligence, advanced analytics, and cutting-edge agentic experiences across our business operations. Our mission is to build a scalable, unified, and AI-ready data foundation that drives high-impact business decisions and automated Agentic actions . As a specialized team of engineers and operational experts, we move beyond traditional maintenance to solve complex, large-scale commerce challenges with agentic AI. We achieve this by blending innovation, deep process knowledge, technical expertise, and a relentless focus on business impact, ultimately enhancing operational efficiency and data-driven decision-making at scale.\n\n\u00a0\n\nYour Impact\n\nAs an AI Engineer, you will design, build, and operate the autonomous and semi-autonomous agents that power Cisco's commerce operations. You will translate ambiguous operational requirements into reliable multi-step agent workflows \u2014 orchestrating LLM reasoning, tool and function calling, retrieval, and integrations into commerce platforms and operational systems. You will be responsible for the full lifecycle: designing the agent and its guardrails, grounding it with retrieval, connecting it to enterprise systems through robust API and agent-to-agent (A2A) integrations, evaluating its behavior, and deploying and monitoring it in production by collaborating with extended team across various time zones. You will partner with cross-functional AI teams to identify high-value opportunities and deliver intelligent, automated workflows that optimize performance and drive durable growth. This role is a pillar to our operational strategy and to Cisco's AI-first vision.\n\nResponsibilities\n\nArchitect and build production\u00a0AI agents\u00a0\u2014 including multi-agent and human-in-the-loop workflows \u2014 that automate commerce operations. Work in partnership and guidance from the core team at onsite\n\nImplement\u00a0agent orchestration\u00a0with modern frameworks (e.g., LangGraph, LangChain, AutoGen, CrewAI, or equivalent), designing robust tool/function-calling, planning, and state management.\n\nBuild\u00a0agent-to-agent (A2A) integrations\u00a0and interoperability using emerging standards and protocols (e.g., A2A, MCP), enabling agents to delegate, coordinate, and hand off work reliably.\n\nDesign and implement\u00a0API integrations\u00a0\u2014 REST/GraphQL, event-driven and webhook-based services, authentication, rate limiting, and resilient error handling \u2014 to connect agents with commerce platforms and enterprise data sources.\n\nManage the end-to-end lifecycle of LLM-powered applications using Snowflake Cortex, from model selection and fine-tuning to deployment, versioning, and decommissioning.\n\nArchitect robust agentic workflows using Snowflake Native Apps and Stored Procedures, implementing sophisticated tool-calling, planning, and state management that ensures seamless execution across complex operational tasks.\n\nBuild and tune\u00a0retrieval-augmented generation (RAG)\u00a0pipelines over documents, structured data, and knowledge repositories. Implement and maintain low-latency vector databases, semantic search architectures, and Retrieval-Augmented Generation (RAG) pipelines using native vector data types and search functions.\n\nBuild automated monitoring mechanisms to track LLM drift, hallucination rates, and token usage, triggering self-healing alerts and automated model retraining or routing workflows.\n\nProactively manage and optimize Snowflake credit consumption for AI workloads; implement warehouse auto-scaling, query profiling, and multi-cluster strategies to ensure cost-efficiency at scale.\n\nDesign\u00a0guardrails and human-in-the-loop gates\u00a0for sensitive actions, and implement LLM routing and failover for reliability and cost control.\n\nApply\u00a0prompt engineering\u00a0and context engineering to make agent behavior accurate, safe, and consistent under real operational conditions.\n\nOwn the AI/ML CI/CD pipeline, ensuring rigorous version control, automated testing, and progressive rollout of AI models and agentic workflows across development, staging, and production environments.\n\nA self-starter with proven expertise to deliver outcomes with minimal supervision\n\nMinimum Qualifications\n\nBachelor\u2019s degree in Computer Science, Data Engineering, AI/ML, or a related technical field, equivalent practical experience.\n\n5+ Years of Advanced proficiency in Python and SQL, with proven experience building, testing, and deploying production-grade data and AI solutions.\n\nDeep technical understanding of the Snowflake Data Cloud especially Cortex AI functions and secure data sharing.\n\n2+ years of Proven experience building and deploying\u00a0LLM-powered or agentic AI applications\u00a0in production.\n\nStrong proficiency in\u00a0Python\u00a0and hands-on experience with LLM/agent frameworks (e.g., LangChain, LangGraph, AutoGen, CrewAI, or the OpenAI/Anthropic SDKs).\n\nExperience with CI/CD practices, version control (Git), and automated testing frameworks in an enterprise environment.\n\n2+ years of Practical experience with\u00a0RAG, prompt engineering, and tool/function calling.\n\nDemonstrated experience in\u00a0API integrations and systems integration\u00a0(REST/GraphQL, event-driven services, authentication, enterprise data sources).\n\nExperience designing or implementing\u00a0agent-to-agent (A2A) integrations\u00a0or multi-agent communication and orchestration.\n\nAbility to drive technical delivery and collaborate effectively across cross-functional teams.\n\nPreferred Qualifications\n\nExperience with\u00a0agent interoperability standards and protocols\u00a0(e.g., A2A, Model Context Protocol (MCP), OpenAPI-driven tool integration).\n\nExperience designing\u00a0multi-agent systems, human-in-the-loop workflows, and agent guardrails\u00a0for enterprise use.\n\nExperience with\u00a0agent evaluation and observability\u00a0(eval harnesses, tracing, LLMOps/AgentOps tooling such as LangSmith, Langfuse, or equivalent).\n\nExperience with\u00a0vector databases and advanced/multimodal retrieval\u00a0(e.g., hybrid search, reranking, knowledge-graph grounding).\n\nExperience with\u00a0cloud platforms\u00a0(Snowflake, AWS, GCP, or Azure) and MLOps/LLMOps practices, including cost-aware LLM routing and FinOps.\n\nUnderstanding of\u00a0commerce platforms or supply chain operations.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021635EXTERNALENGLOBAL/AI-Operations-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/AI-Operations-Engineer_2021635/apply"
+}

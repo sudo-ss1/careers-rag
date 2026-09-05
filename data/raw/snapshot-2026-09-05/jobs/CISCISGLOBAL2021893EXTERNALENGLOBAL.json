@@ -1,0 +1,51 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021893EXTERNALENGLOBAL",
+ "req_id": "2021893",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Slovakia"
+ ],
+ "country": "Slovakia",
+ "city": "",
+ "employment_type": "Full time",
+ "remote_type": "Remote",
+ "posted_date": "2026-08-13T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "microservices",
+  "api development",
+  "kubernetes",
+  "secure coding",
+  "react",
+  "typescript",
+  "ci/cd",
+  "unit testing",
+  "integration testing",
+  "performance analysis",
+  "source control",
+  "code review",
+  "debugging",
+  "cloud-native environments",
+  "vulnerability remediation",
+  "threat modeling",
+  "dependency management",
+  "ai-assisted software development",
+  "agentic workflows",
+  "network protocols",
+  "optical transport networks",
+  "sdn controllers",
+  "web application development",
+  "automation workflows",
+  "shared frameworks",
+  "webgl",
+  "3d topology"
+ ],
+ "teaser": "Join our team as a Software Engineer to develop and maintain full-stack applications supporting network visibility, analytics, and service provisioning. Collaborate with cross-functional teams to deliver secure, scalable software. Ideal for candidates with hands-on experience in Python, TypeScript, and React, and a background in software engineering.",
+ "description": "What You\u2019ll Do\n\nAs a Software Engineer in the Cisco Crosswork Hierarchical Controller (HCO) team, you will help evolve a network controller that provides visibility, assurance, analytics, and service provisioning across complex IP and optical networks. You will collaborate with engineers and cross-functional partners to translate service providers\u2019 needs into secure, scalable, and reliable software.\n\nDevelop and maintain shared frameworks, backend services, APIs, and web applications for network observability and management.\n\nImprove application scalability and performance across services and user interfaces.\n\nApply security, privacy, and resilience practices throughout the software development lifecycle.\n\nBuild agentic workflows and incorporate AI-powered capabilities into product experiences.\n\nWho You\u2019ll Work With\n\nYou will join a globally distributed engineering team and collaborate with Product Management, Design/UX, system and network architects, technical support, and customer-facing teams.\n\nMinimum Qualifications\n\nA related bachelor\u2019s degree and 3+ years of relevant software engineering experience, or equivalent practical experience.\n\nHands-on Python or Go development experience for backend services, with TypeScript and React experience building modern web applications.\n\nFamiliarity with API development and integration using REST or RESTCONF, and API specifications such as OpenAPI.\n\nExperience with Linux and distributed services in Kubernetes-based environments.\n\nExperience with agentic engineering workflows using AI-assisted development tools such as Codex, Cursor, GitHub Copilot, or equivalent platforms.\n\nPreferred Qualifications\n\nExperience analyzing application performance, reliability, and scalability issues.\n\nUnderstanding of networking technologies such as IP, MPLS, SR-TE, SRv6, IS-IS, BGP, Ethernet services, or optical transport.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021893EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bratislava-Slovakia/Software-Engineer_2021893/apply"
+}

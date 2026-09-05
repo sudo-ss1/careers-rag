@@ -1,0 +1,49 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018984EXTERNALENGLOBAL",
+ "req_id": "2018984",
+ "title": "ASIC Engineering Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Thalwil, Switzerland"
+ ],
+ "country": "Switzerland",
+ "city": "Thalwil",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-16T00:00:00.000+0000",
+ "skills": [
+  "cmos circuit design",
+  "analog circuit design",
+  "mixed-signal circuit design",
+  "cadence virtuoso",
+  "drc",
+  "lvs",
+  "parasitic extraction",
+  "skill",
+  "veriloga",
+  "tcl",
+  "perl",
+  "python",
+  "matlab",
+  "c",
+  "high-speed wireline serdes design",
+  "team collaboration",
+  "signal processing",
+  "communication systems",
+  "mentoring",
+  "digital design flow",
+  "synthesis",
+  "p&r",
+  "em field simulators",
+  "measurement equipment",
+  "version management tools",
+  "project management tools"
+ ],
+ "teaser": "Seeking an ASIC Engineering Technical Leader to define, design, and verify high-performance ASIC subsystems for Cisco platforms. Oversee complex analog and mixed-signal circuit architecture, collaborating with cross-functional teams. Ideal for experienced engineers with deep expertise in high-frequency CMOS and custom circuit design.",
+ "description": "Meet the Team\n\nAt Cisco, our Silicon and Optics teams are redefining the economics and architecture of the internet. The IP&COT team in Thalwil, Switzerland, is at the forefront of this innovation, developing cutting-edge ASIC technologies that power Cisco's next-generation platforms. We are a dynamic, multi-disciplined engineering group dedicated to pushing the boundaries of power, performance, and area (PPA) optimization. By joining us, you will collaborate with industry-leading experts to design and deliver high-volume, premium-quality ASIC subsystems. Here, your work will directly influence the future of networking silicon, driving solutions that connect and empower the world.\n\nYour Impact\n\nAs an ASIC Engineering Technical Leader, you will define, design, and verify high-performance ASIC subsystems deployed across a range of Cisco platforms. You will oversee the architecture and design of complex analog and mixed-signal circuits, driving innovative solutions and establishing robust verification strategies. By collaborating with cross-functional teams, you will influence packaging and hardware requirements to ensure all power, performance, and area goals are met. Your technical expertise will guide the development of reusable code methodologies, physical design functions, and advanced digital design flows, ultimately shaping the future of our high-volume ASIC releases.\n\nMinimum Qualifications\n\nBachelors + 12 years of related experience, or Masters + 8 years of related experience, or PhD + 5 years of related experience, or equivalent related work experience\n\nExtensive experience in high-frequency CMOS circuit design and custom analog and mixed-signal circuit design.\n\nProficiency with the Cadence Virtuoso CAD design environment, including custom layout, DRC, LVS, and parasitic extraction.\n\nStrong programming skills utilizing languages such as Skill, VerilogA, Tcl, Perl, Python, Matlab, or C.\n\nPreferred Qualifications\n\nExperience in high-speed wireline SerDes design, signal processing, and communication systems.\n\nFamiliarity with digital design flow (synthesis and P&R) and additional CAD tools (Siemens/Mentor, Synopsys).\n\nExperience with coil design using EM field simulators (EMX, Momentum, HFSS) and knowledge of packaging technology.\n\nHands-on experience with measurement equipment and in-depth knowledge of version and project management tools (e.g., SOS, Jira).\n\nA strong portfolio of publications and patents, with a proven ability to collaborate effectively within a multi-disciplined engineering team.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018984EXTERNALENGLOBAL/ASIC-Engineering-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Thalwil-Switzerland/ASIC-Engineering-Technical-Leader_2018984/apply"
+}

@@ -1,0 +1,41 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018284EXTERNALENGLOBAL",
+ "req_id": "2018284",
+ "title": "Security Software Engineering Tech Lead (ISE)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "South Netanya, Israel"
+ ],
+ "country": "Israel",
+ "city": "South Netanya",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-02T00:00:00.000+0000",
+ "skills": [
+  "c programming",
+  "c++ programming",
+  "java programming",
+  "systems programming",
+  "software architecture",
+  "technical leadership",
+  "automation",
+  "orchestration",
+  "network security",
+  "certificate validation",
+  "threat modeling",
+  "cryptography",
+  "tls internals",
+  "post quantum cryptography",
+  "ai coding",
+  "attack analysis",
+  "mentoring",
+  "cross-functional communication"
+ ],
+ "teaser": "We are seeking a Software Engineer Technical Leader to drive the technical vision and execution of secure, scalable security policy and access solutions for enterprise networks. Lead technical initiatives, mentor engineering teams, and ensure robust software architecture. Ideal for experienced professionals with deep expertise in systems programming and technical leadership.",
+ "description": "Meet the Team\n\nThe Enterprise Networking Security Policy Access Dev team in Israel is at the forefront of securing Cisco's next-generation enterprise networks. We build innovative, scalable security policy and access solutions that protect organizations worldwide. By combining deep technical expertise with a passion for problem-solving, our team ensures that network access is both seamless and highly secure. We operate in a dynamic, collaborative environment where every engineer's contribution directly impacts the safety of global digital infrastructure. Join us to shape the future of enterprise networking security and empower businesses to connect with confidence.\n\nYour Impact\n\nAs a Software Engineering Technical Leader, you will drive the technical vision and execution for complex security policy and access solutions that safeguard enterprise networks globally. You will leverage your deep expertise in systems programming using C, C++, and Java to architect and develop robust, scalable software. By providing technical leadership, you will mentor peers, guide architectural decisions, and foster a culture of innovation and continuous improvement within the team. Your work will directly contribute to Cisco's mission by ensuring our network access solutions are secure, programmable, and highly reliable. You will also champion software programmability and integrate automation and orchestration practices to streamline development and enhance product performance, ultimately empowering our customers to connect with confidence.\n\nMinimum Qualifications\n\nBA in Computer Science or related field\n\n8+ years of software engineering experience in systems programming with complex codebases using C, C++, or Java\n\n3+ years of experience providing technical leadership and mentoring engineering teams Experience in software programmability and developing scalable software architectures\n\nExperience implementing automation and orchestration within the software development lifecycle\n\nPreferred Qualifications\n\nUnderstanding of network security, certificate validation, and threat modeling\n\nHands-on experience with cryptography, TLS internals, or Post Quantum Cryptography (PQC)\n\nHands-on experience with AI coding\n\nUnderstanding of modern attack methods\n\nExcellent communication skills with the ability to articulate design choices to cross-functional partners\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018284EXTERNALENGLOBAL/Software-Engineering-Tech-Lead-Identity-Security-Platforms",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/South-Netanya-Israel/Software-Engineering-Technical-Leader_2018284/apply"
+}

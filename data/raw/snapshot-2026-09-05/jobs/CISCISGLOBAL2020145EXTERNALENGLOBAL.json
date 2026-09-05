@@ -1,0 +1,39 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020145EXTERNALENGLOBAL",
+ "req_id": "2020145",
+ "title": "ASIC Engineering Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-10T00:00:00.000+0000",
+ "skills": [
+  "silicon bring-up",
+  "data automation",
+  "communication skills",
+  "high-speed i/o",
+  "test program development",
+  "advantest v93000",
+  "perl",
+  "python",
+  "yield optimization",
+  "problem solving",
+  "mentorship",
+  "debugging",
+  "automated test equipment",
+  "ate",
+  "dft",
+  "c/c++"
+ ],
+ "teaser": "We are looking for an ASIC Engineering Technical Leader to architect and develop advanced Automated Test Equipment (ATE) solutions for complex ASICs and SoCs. Lead the full test development lifecycle, from pre-silicon to post-silicon release, and mentor junior engineers. Ideal for experienced test engineering experts with deep ASIC and ATE expertise.",
+ "description": "What You'll Do \n\nYou will take on a technical leadership role within the Test Development Engineering team, responsible for architecting, developing, and deploying Automated Test Equipment (ATE) solutions for modern, highly complex ASICs and SoCs. You will own the end-to-end test development lifecycle from pre-silicon DFT engagement to post-silicon bring-up and high-volume manufacturing (HVM) release.\nAs a senior technical driver, your responsibilities will include:\n\u2022 Test Architecture & Development: Architect, write, and debug complex ATE test programs for wafer sort and final test\n\u2022 Silicon Bring-Up: Lead first-silicon ATE bring-up, characterization, and validation of complex networking processors and multi-die packages.\n\u2022 DFT Collaboration: Partner closely with Design for Test (DFT) and ASIC design teams during the pre-silicon phase to define testability requirements, evaluate test coverage, and simulate test vectors (SCAN, MBIST, JTAG, High-Speed I/O).\n\u2022 Yield & Test Time Optimization: Drive pivotal initiatives for Test Time Reduction (TTR) and yield optimization without compromising test coverage or product quality.\n\u2022 Manufacturing Deployment: Lead the seamless transfer and release of robust test programs to offshore assembly and test (OSAT) partners. Resolve complex test-related issues in high-volume manufacturing.\n\u2022 Mentorship & Leadership: Serve as a domain expert and technical escalation point. Mentor junior engineers and drive continuous improvement in test methodologies and automation.\n\nWho You'll Work With \n\nYou will collaborate with ASIC design / DFT teams in the Central Hardware Group, peer Product Development Engineers & Test Engineers in Silicon Operations and with\u00a0 Project Managements, Test engineering, Quality & Reliability, Supply Chain Planning. You will also work with Cisco\u2019s manufacturing partners to triage any failures and manage the OSAT production test activities.\n\nWho You Are \n\nYou are a highly analytical, self-directed test engineering expert with a deep understanding of ATE hardware and software. You excel in debugging complex silicon issues and have a proven track record of delivering robust test solutions for high-performance ASICs.\n\nMinimum Qualifications:\n\u2022 Education & Experience: BSEE or MSEE in Electrical Engineering, Computer Engineering, or a related field, combined with 8-12+ years of direct experience in ATE test development.\n\u2022 ATE Expertise: Expert-level proficiency in developing test programs on advanced ATE platforms, specifically Advantest V93000 (SmarTest).\n\u2022 Programming Skills: Strong coding and scripting skills in C/C++, Python, and/or Perl for test program development and data automation.\n\u2022 Technical Knowledge: Deep understanding of semiconductor testing fundamentals, including DC/AC parametric testing, digital vector execution, and mixed-signal testing.\n\u2022 High-Speed I/O: Experience testing high-speed SerDes and familiarity with advanced packaging technologies (2.5D/3D, chiplets).\n\u2022 DFT Fluency: Strong working knowledge of DFT architectures (ATPG, Logic BIST, Memory BIST, Boundary Scan/JTAG).\n\u2022 Problem Solving: Exceptional debugging skills and experience using lab equipment (oscilloscopes, BERTs, logic analyzers) in conjunction with ATE.\n\u2022 Communication & Leadership: Excellent verbal and written communication skills, with the ability to lead cross-functional technical initiatives and present complex data to leadership.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020145EXTERNALENGLOBAL/ASIC-Engineering-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-Engineering-Technical-Leader_2020145-1/apply"
+}

@@ -1,0 +1,39 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021804EXTERNALENGLOBAL",
+ "req_id": "2021804",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-27T00:00:00.000+0000",
+ "skills": [
+  "secure coding",
+  "software development lifecycle",
+  "agile engineering",
+  "technical design documentation",
+  "debugging",
+  "unit testing",
+  "code review",
+  "incident management",
+  "product innovation",
+  "user experience design",
+  "requirements analysis",
+  "collaboration",
+  "problem solving",
+  "time estimation",
+  "stakeholder communication",
+  "process improvement"
+ ],
+ "teaser": "Become part of our team as a Software Engineer, contributing to the design and delivery of AI-driven backend systems for Cisco IQ. Collaborate with cross-functional teams to build scalable, data-integrated solutions. Ideal for candidates with strong Python and backend development expertise, and experience in AI, cloud, and data integration.",
+ "description": "About the Role\n\nJoin our Backend Team to design and deliver the AI-driven backbone of Cisco IQ.\n\nYou will work across multiple stacks and domains to build data-intensive integrations and scalable features that power the next generation of Cisco's global platform.\n\u00a0\n\nMeet the Team\n\nAt Cisco, we believe technology has the power to connect, empower, and move us forward. The AAA (Automation and Advanced Analytics) team drives highly visible transformation initiatives, including acquired company integrations and modern platform evolution. The Engineering team within AAA builds cloud-native and AI-driven capabilities that help customers and partners realize value faster through a unified Cisco experience.\n\nYour Impact\n\nIn this role, you will design and build scalable backend systems, AI-enabled services, and data pipelines that transform raw data into actionable insights. You will help productionize AI solutions, optimize performance, and ensure high standards of reliability, data quality, and customer experience.\n\nKey Responsibilities\n\nPartner with product owners and engineers to align solution designs with business goals and architecture principles.\n\nTranslate product requirements into scalable technical solutions and implementation plans.\n\nBuild and maintain robust backend services, APIs, and AI-enabled application engines.\n\nDesign and optimize ETL/ELT workflows for ingestion, transformation, validation, and enrichment of diverse datasets.\n\nDevelop and operationalize AI/ML and LLM-based capabilities, including agentic workflows and prompt-driven automation.\n\nDesign and deploy LangGraph-based workflows for reliable orchestration, tool routing, and stateful execution in production.\n\nBuild and maintain multi-agent architectures with clear role boundaries, handoff protocols, and guardrails.\n\nEstablish software and system design standards, quality gates, and engineering best practices.\n\nDeliver end-to-end solutions with strong observability, performance, and security.\n\nCreate technical documentation, architecture diagrams, and stakeholder presentations for technical and non-technical audiences.\n\nMinimum Qualifications\n\nStrong hands-on experience with Python and backend development.\n\nExperience with FastAPI, Flask, or similar Python frameworks.\n\nHands-on experience with RAG, LLM applications and Agentic AI, preferably LangGraph.\n\nStrong knowledge of SQL/PostgreSQL and REST/GraphQL APIs.\n\nHands-on experience with AWS, Docker, and Kubernetes.\n\nPreferred Qualifications\n\nBachelor\u2019s degree with 3 years of related experience.\n\nExperience with enterprise CI/CD and DevOps practices.\n\nFamiliarity with networking fundamentals and distributed systems.\n\nExperience working in Agile development environments.\n\nStrong cross-functional collaboration and stakeholder communication.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021804EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2021804/apply"
+}

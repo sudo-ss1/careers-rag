@@ -1,0 +1,46 @@
+{
+ "job_seq_no": "CISCISGLOBAL2014796EXTERNALENGLOBAL",
+ "req_id": "2014796",
+ "title": "Electrical Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-31T00:00:00.000+0000",
+ "skills": [
+  "electrical engineering",
+  "pcb assembly",
+  "new product introduction",
+  "product lifecycle management",
+  "fmea",
+  "design of experiments",
+  "board level debugging",
+  "component selection",
+  "process improvement",
+  "technical documentation",
+  "team leadership",
+  "allegro",
+  "valor",
+  "schematic capture",
+  "cad",
+  "cae tools",
+  "optical assembly",
+  "supply chain capability assessment",
+  "yield improvement",
+  "board bring up",
+  "technical problem solving",
+  "stakeholder collaboration",
+  "manufacturing process"
+ ],
+ "teaser": "We are expanding our team: As an Electrical Product Engineer, you will support new and sustaining Cisco products, ensuring cost and quality from NPI to EOL. Collaborate with cross-functional teams and leverage your expertise in electrical engineering and manufacturing processes. Ideal for experienced professionals with a strong background in hardware and PCB assembly.",
+ "description": "NOTE: Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\u00a0\u00a0\n\nMeet the Team\u00a0\n\nThe Product Operations team within the Core Routing Business Unit (CRBU) plays a critical role in delivering Cisco\u2019s next-generation hardware products at scale. Working at the intersection of engineering, supply chain, and manufacturing, the team ensures seamless product lifecycle execution\u2014from new product introduction to high-volume production and customer delivery. With a strong focus on reliability, efficiency, and operational excellence, the team drives impact across global operations and enables successful product outcomes.\n\nYour Impact\u00a0\n\nThe Cisco 8000 product Ops team is looking for a motivated and experienced individual to provide electrical product engineering support for new and sustaining products. You'll be responsible for products\u2019 cost and quality from New Product Introduction (NPI) to End of Life (EOL).\n\nAs the Electrical Product Engineer you will provide new product and on-going engineering (including DFM) for a specific product or group of products from pre-concept commit through EOL. For new products, you will collaborate with design (hardware and mechanical), process, test and reliability engineering to tackle problems and ensure cost avoidance and quality at FCS. For sustaining products, you will focus on cost reduction and design related yield improvements.\n\nYou will be working very closely with HW Engineering, Product Ops team, GSM, Mfg Ops and EMS partners.\n\nHigh Level Responsibilities:\n\nProvide new product introduction support for on-going engineering from pre-concept commit through EOL.\n\nWork collaboratively with stakeholders in development of processes, technology to support new product development\n\nBOM structuring and BOM risk Management.\n\ncollaborate with design (hardware and mechanical) team for Dfx issues and ensure that they are resolved prior to release of the product.\n\nDrive and participate in design and manufacturing FMEA\n\nProvide leadership in driving the product quality issues in NPI and sustaining\n\nValue engineering and cost avoidance ( pre-production release) - Engage early with Component Engineering, T&Q, GSM and Hardware engineering and influence on component selection, process efficiency, and design changes\n\nDesign lab experimentation / debug (proficiency continuum) / DOE/EFA\n\nAssessing CM and supply chain technical capability gaps\n\nCrafting, analyzing, and releasing product documentation\n\nTechnical lifecycle management (defect reduction team participation, new component qualification, etc)\n\nDesign diagnostic analysis and input / influence\n\nDebug and board bring up\n\nLeadership and direction of complex issue resolution\n\nMinimum Qualifications \n\nBS degree in Electrical Engineering or equivalent plus 15+ years related experience\n\nUnderstanding of system hardware architectures, design concepts and engineering development practices. Using various diagnostic tools, debug and trouble-shoot failing system down to board level and also boards down to component level. Characterize timing interface using scope, logic analyzers, TDR and various other equipment. Test, debug and bring-up proto boards\n\nExperiences with Allegro, Valor and other manufacturing tools used in the job\n\nDeep understanding of PCB fabrication and PCB assembly process and technology.\n\nProven ability to work in a team setting and multi-task.\n\nGood written, verbal communication and interpersonal skills\n\nDesign tools proficiency (Valor, schematic, CAD, other CAE tools)\n\nDeep understanding of the end-to-end process for optical and regular Printed Circuit Board Assembly.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014796EXTERNALENGLOBAL/Electrical-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Electrical-Engineer_2014796-1/apply"
+}

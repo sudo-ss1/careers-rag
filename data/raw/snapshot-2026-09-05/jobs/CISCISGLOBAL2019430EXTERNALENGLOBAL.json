@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL2019430EXTERNALENGLOBAL",
+ "req_id": "2019430",
+ "title": "Software Engineer - Kubernetes (K8s) Go (Golang) Python Microservices,Linux,AI-assisted development - 8 to 10 years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-14T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "microservices",
+  "threat modeling",
+  "production systems troubleshooting",
+  "root cause analysis",
+  "milestone tracking",
+  "process improvement",
+  "linux",
+  "cross-functional collaboration",
+  "ci/cd",
+  "docker",
+  "distributed systems",
+  "mentoring",
+  "go (golang)",
+  "stakeholder management",
+  "kubernetes (k8s) go (golang) python microservices linux docker / containers distributed systems ci/cd (jenkins, gitlab ci, github actions, argocd) rest apis",
+  "technical guidance",
+  "kubernetes",
+  "product innovation"
+ ],
+ "teaser": "Seeking a Software Engineer to architect and maintain Kubernetes-based microservices for Cisco Nexus Dashboard. Lead platform engineering, oversee cluster lifecycle management, and ensure security and reliability. Ideal for experienced engineers with strong Go, Python, and microservices expertise.",
+ "description": "Meet the Team\n\nCisco Nexus Dashboard is the unified operations platform designed to simplify and accelerate data center management. Built on a robust, Kubernetes-based microservices architecture, it serves as a single pane of glass for the Cisco data center portfolio, including ACI and Nexus Dashboard Fabric Controller (NDFC). By integrating advanced telemetry, orchestration, and policy management services, the platform empowers organizations to streamline their operational workflows, enhance visibility, and ensure consistent configuration and security across diverse physical and virtual environments.\n\nThe Nexus Dashboard infrastructure team serves as the backbone of our platform, engineering the critical services that ensure stability, security, and seamless lifecycle management for our global data center customers. By managing the core Kubernetes-based architecture, our team provides the essential foundation upon which advanced orchestration, telemetry, and policy services are built and scaled. We are a fast-paced, dynamic group of engineers who thrive on collaboration and constant innovation, working closely with cross-functional teams to solve complex infrastructure challenges in real-time. We foster a culture of continuous learning and technical excellence, making this the ideal environment for engineers who are passionate about building robust, high-scale infrastructure.\n\nYour Impact\n\nJoining Nexus Dashboard infrastructure team means operating at the cutting edge of platform technologies, where you will have the opportunity to directly influence the future of data center automation and platform reliability.\n\n-\u00a0Core Platform Engineering: Architect and maintain the core infrastructure of the Nexus Dashboard, a Kubernetes-based platform, ensuring high availability and performance across its integrated data stack, including PostgreSQL, OpenSearch, and Kafka.\n\n-\u00a0Cluster Lifecycle Management: Oversee the full deployment lifecycle of multi-node clusters, including automated installation, configuration, and seamless inline software upgrades across diverse physical and virtual form factors.\n\n-\u00a0System Reliability & Observability: Develop and support critical infrastructure services, including robust backup and restore frameworks, automated anomaly detection, and comprehensive audit logging to ensure platform reliability and operational transparency.\n\n-\u00a0Security & Identity Infrastructure: Implement and manage enterprise-grade security protocols, focusing on centralized Authentication and Authorization (AAA) and end-to-end certificate lifecycle management for both cluster-level and microservice-level communications.\n\n-\u00a0Scalability & Performance Optimization: Collaborate with cross-functional engineering teams to optimize platform scalability and resource efficiency, ensuring the Nexus Dashboard remains a resilient and performant foundation for data center telemetry and orchestration services.\n\n\u00a0Minimum Qualifications\n\n-\u00a0Bachelors 8+ years related experience or Masters +4 years of related experience.\n\n-\u00a0Experience programming in languages such as Go and Python, including leveraging AI-assisted development tools to write, test, and optimize code.\n\n-\u00a0Experience with rapid prototyping of AI solutions and AI workflow/agent engineering.\n\n-\u00a0Proven experience in developing, deploying, and managing microservices on Kubernetes-based orchestration platforms.\n\n-\u00a0Experience designing and implementing robust test plans to ensure software quality, reliability, and coverage across all use cases.\n\n-\u00a0Solid understanding of computer science fundamentals and software engineering, with an aptitude for learning new technologies.\n\nPreferred Qualifications\n\n-\u00a0Proficiency in Linux system internals, including process management, file systems, and networking.\n\n-\u00a0Understanding of distributed databases and messaging systems, such as PostgreSQL, OpenSearch, Kafka.\n\n-\u00a0Hands-on experience with CI/CD pipelines.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019430EXTERNALENGLOBAL/Software-Engineer-Kubernetes-K8s-Go-Golang-Python-Microservices-Linux-AI-assisted-development-8-to-10-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer---Kubernetes--K8s--Go--Golang--Python-Microservices-Linux-AI-assisted-development---8-to-10-years_2019430-1/apply"
+}

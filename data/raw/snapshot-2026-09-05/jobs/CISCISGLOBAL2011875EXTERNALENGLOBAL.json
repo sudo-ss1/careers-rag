@@ -1,0 +1,43 @@
+{
+ "job_seq_no": "CISCISGLOBAL2011875EXTERNALENGLOBAL",
+ "req_id": "2011875",
+ "title": "Senior Technical Lead \u2013 Full Stack (Java, React/Angular, Cloud) | 12+ Years Experience*",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-31T00:00:00.000+0000",
+ "skills": [
+  "java",
+  "react",
+  "angular",
+  "rest apis",
+  "cloud architecture",
+  "backend development",
+  "ci/cd pipelines",
+  "ai-powered developer tools",
+  "python",
+  "scripting",
+  "networking domain knowledge",
+  "network management systems",
+  "public cloud platforms",
+  "automated testing",
+  "quality practices",
+  "root cause analysis",
+  "system optimization",
+  "production issue resolution",
+  "mentoring engineers",
+  "stakeholder management"
+ ],
+ "teaser": "We are looking for a Senior Technical Lead to drive the design and delivery of scalable SD-WAN management workflows, focusing on backend services, APIs, and UI workflows. Lead end-to-end product delivery and architect high-performance Java-based systems. Ideal for experienced full-stack engineers with expertise in Java, React/Angular, and cloud technologies.",
+ "description": "Meet the team\nCisco, a global leader in networking and IT, is driving the future of connectivity through innovation, collaboration, and a people-first culture. Within its cutting-edge Routing SD-WAN Group, the SDWAN Manager team builds powerful, scalable platforms that help enterprises seamlessly manage, secure, and optimize their networks from edge to cloud. Now, Cisco is seeking a talented Full Stack Software Engineer to develop high-impact features across modern web applications and Java-based backend systems\u2014playing a key role in delivering intelligent, AI-powered solutions that enhance network performance, automation, and user experience at scale.\n\nYour impact:\n\nAs a Tech Lead in the Full Stack area, you will own major product areas spanning backend services, APIs, and UI workflows.\n\nOwn End-to-End Product Delivery: Lead the design and delivery of SD-WAN management workflows across UI and backend, including configuration, policy management, observability, and troubleshooting features.\n\nArchitect Scalable Systems: Design and build high-performance Java-based services and REST APIs, along with responsive React/Angular frontends for large-scale, real-time network operations.\n\nDrive Modernization & Reliability: Break down monolithic systems into cloud-ready modular architectures, while improving API contracts, data flows, and system performance across distributed environments.\n\nLead Technical Excellence: Drive production issue resolution, root cause analysis, and system optimization while mentoring engineers through design reviews and code reviews.\n\nCollaborate & Innovate: Partner with Product, UX, and Platform teams to deliver customer-centric solutions and enhance engineering efficiency using CI/CD best practices and AI-powered development tools (e.g., Copilot, Codex).\n\nMinimum qualifications:\n\nAn ideal candidate with 12+ years of full-stack development experience, along with a degree in Computer Science (BE/BTech/MS/MCA or equivalent) or relevant practical experience\u2014we value diverse backgrounds and career paths.\n\nExperience\u00a0in\u00a0Java-based backend development, including designing and operating services that handle high request volume and concurrent workflows.\u00a0\n\nExperience in frontend applications using Angular or React, delivering complex user workflows such as dashboards and configuration interfaces.\u00a0\n\nExpertise in\u00a0design and delivery of features spanning multiple services or teams, including defining APIs and system interactions.\u00a0\n\nExperience in debugging production issues tracing failures across services, and resolving performance bottlenecks.\u00a0\n\nActively use of\u00a0AI-powered developer tools (e.g., Copilot, Codex, or similar)\u00a0to improve development speed, debugging, and test generation.\u00a0\n\nPreferred qualifications (Optional Skills)\n\nExposure to networking domains, especially network management systems.\n\nFamiliarity with cloud-native architectures and public cloud platforms.\n\nUnderstanding of CI/CD pipelines, automated testing, and modern quality practices.\n\nExperience with Python or scripting for automation and tooling.\n\n\u00a0\n\n#sdwanhiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011875EXTERNALENGLOBAL/Senior-Technical-Lead-Full-Stack-Java-React-Angular-Cloud-12-Years-Experience",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Senior-Technical-Lead---Full-Stack--Java--React-Angular--Cloud----12--Years-Experience-_2011875/apply"
+}

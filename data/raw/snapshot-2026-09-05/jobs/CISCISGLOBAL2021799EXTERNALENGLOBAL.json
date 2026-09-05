@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021799EXTERNALENGLOBAL",
+ "req_id": "2021799",
+ "title": "QA Engineer - Automation, Proxy, Networking | 8 - 12 yrs",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-27T00:00:00.000+0000",
+ "skills": [
+  "golang test automation",
+  "python test automation",
+  "distributed systems",
+  "networking",
+  "security",
+  "proxy testing",
+  "cloud services",
+  "ci/cd integration",
+  "linux diagnostics",
+  "container diagnostics",
+  "tcp/ip",
+  "tls/mtls",
+  "dns",
+  "load balancing",
+  "oauth 2.0",
+  "oidc",
+  "saml",
+  "ztna",
+  "sse",
+  "tenant isolation",
+  "policy enforcement",
+  "envoy",
+  "h2o",
+  "xds",
+  "service mesh",
+  "kubernetes",
+  "aws",
+  "opentelemetry",
+  "prometheus",
+  "grafana"
+ ],
+ "teaser": "Seeking a QA Engineer to lead quality assurance for secure Agent Gateway services, focusing on automation, networking, and security. Responsible for end-to-end testing, risk-based planning, and deployment validation. Ideal for candidates with significant experience in distributed systems, networking, and automation within software engineering.",
+ "description": "Meet the Team\u00a0\n\nJoin the Cisco Secure Access team building the Cisco AI Agent Gateway, a distributed, highly available platform that enables AI agents to securely connect to MCP servers, LLM providers, and enterprise tool APIs. We combine distributed systems, network security, proxy, cloud, and AI expertise to deliver identity-aware access, policy enforcement, observability, and auditability at scale.\n\nYour Impact\u00a0\n\nOwn quality end to end for secure Agent Gateway services, from test strategy and automation through release validation and post-deployment verification. You will test application, proxy, network, container, and dependency boundaries, diagnose complex failures, and improve release confidence using strong networking, security, LLM, and MCP knowledge.\n\nOwn risk-based quality planning, end-to-end coverage, automation strategy, exit criteria, deployment validation, release readiness, and communication of residual risk.\n\nDesign and automate component, API, integration, end-to-end, performance, security, resilience, and production-readiness tests in GitHub and Jenkins pipelines.\n\nValidate control-plane and data-plane behavior under latency, concurrency, retries, timeouts, backpressure, dependency degradation, failover, recovery, capacity, and rollback.\n\nTest TCP, UDP, TLS/mTLS, DNS, routing, load balancing, policy enforcement, HTTP/1.1, HTTP/2, HTTP/3, and QUIC using protocol-level and packet-level diagnostics.\n\nValidate MCP clients and servers, authentication, authorization, tool invocation, streaming, sessions, and safe agent workflows; drive cross-component defects through verified closure.\n\nMinimum Qualifications:\n\nBachelor's or master's degree in Computer Science, Engineering, or a related field, or equivalent practical experience.\n\n8 to 12 years of quality or software engineering experience, including end-to-end testing and automation ownership for distributed, networking, security, proxy, or cloud services.\n\nHands-on Golang and/or Python test automation for APIs, services, and end-to-end workflows, including CI/CD integration and Linux or container diagnostics.\n\nExperience testing L4/L7 proxy behavior, TCP/IP, DNS, TLS/mTLS, HTTP/1.1, HTTP/2, status codes, load balancing, packet analysis, and connection troubleshooting.\n\nExperience testing secure-access, ZTNA, SSE, or comparable products and validating OAuth 2.0, OIDC, SAML, tenant isolation, authorization, and policy enforcement.\n\nPreferred Qualifications:\n\nExperience validating Envoy, H2O, xDS, custom filters, API gateways, service meshes, or comparable high-performance proxy platforms.\n\nExperience testing Kubernetes services and AWS deployments, including diagnostics, connectivity, scaling, deployment safety, and recovery.\n\nExperience with traffic generation, OpenTelemetry, Prometheus, Grafana, Splunk, tracing, chaos testing, load testing, or production traffic analysis.\n\nPractical knowledge of LLM workflows and MCP clients, servers, tools, transports, authentication, authorization, and secure tool execution.\n\nProactive ownership and cross-functional collaboration when driving ambiguous quality issues through verified end-to-end resolution.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021799EXTERNALENGLOBAL/QA-Engineer-Automation-Proxy-Networking-8-12-yrs",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/QA-Engineer---Automation--Proxy--Networking---8---12-yrs_2021799/apply"
+}

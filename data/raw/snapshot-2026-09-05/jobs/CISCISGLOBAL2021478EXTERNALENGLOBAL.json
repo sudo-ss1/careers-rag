@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021478EXTERNALENGLOBAL",
+ "req_id": "2021478",
+ "title": "Software Engineering Technical Leader - SRE | Security Architect, Kubernetes,AWS,Terraform | 13+ years | Bangalore",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Remote",
+ "posted_date": "2026-09-02T00:00:00.000+0000",
+ "skills": [
+  "kubernetes",
+  "aws",
+  "security architecture",
+  "terraform",
+  "ci/cd security",
+  "gitops",
+  "zero trust",
+  "iam governance",
+  "secrets management",
+  "python",
+  "go",
+  "security fundamentals",
+  "threat modeling",
+  "vulnerability management",
+  "kms",
+  "cspm",
+  "network controls",
+  "slis/slos",
+  "error budget management",
+  "post-mortem analysis",
+  "policy-as-code",
+  "observability",
+  "ai/ml security",
+  "mlops security",
+  "service mesh",
+  "mtls",
+  "argocd",
+  "flux",
+  "sast"
+ ],
+ "teaser": "We are seeking a Software Engineering Technical Leader - SRE to set the technical direction for secure, resilient infrastructure and developer platforms. Lead the design and implementation of security controls, drive Zero Trust adoption, and advise engineering leadership. Ideal for experienced professionals with deep expertise in cloud security, automation, and SRE practices.",
+ "description": "Meet the Team\n\nThe Site Reliability Engineering \u2013 Security team makes Cisco CX Engineering's software systems secure, resilient, and fast to build on. We own the security posture of production infrastructure and of the internal platforms engineers depend on every day \u2014 Kubernetes control planes, GitOps and CI/CD pipelines, observability stacks, and AI/ML operations. We sit at the intersection of Platform, Security, Compliance, and Operations, so our work shapes how hundreds of engineers ship software. We are a small, senior, high-autonomy team that values deep technical ownership, blameless learning, and automating our way out of toil. Our largest and newest platform is Cisco IQ, the AI-powered front door to all of Cisco's Customer Experience services, so the systems you secure carry customer inventory, vulnerability detection, and support data at Cisco scale.\n\nYour Impact\n\nAs a Software Engineer on the Site Reliability Engineering \u2013 Security team, you set the technical direction for how Cisco CX Engineering builds and operates secure infrastructure and developer platforms. You will design systems that are secure by default, drive Zero Trust adoption across infrastructure and internal tooling, and embed security signals into SRE observability and incident response so threats surface as quickly as outages do. You will advise engineering leadership and negotiate the trade-offs between security, velocity, and reliability on decisions that affect the entire organization. Success looks like measurably reduced attack surface, faster vulnerability remediation, and platforms that engineers can use safely by default without slowing down. This is a role for someone who wants their architectural decisions to outlive any single project.\n\nDesign and build secure, scalable infrastructure and developer platforms so that security controls are embedded by default rather than bolted on later.\n\nHarden the platforms themselves \u2014 Kubernetes control planes, GitOps systems, CI/CD pipelines, and observability stacks \u2014 treating internal tooling as the high-value target it is.\n\nDrive Zero Trust at scale through workload identity, continuous verification, and micro-segmentation so access is earned rather than assumed.\n\nOwn the reliability and security posture of critical services including secrets management, PKI, and IAM governance to keep the foundations of the environment trustworthy.\n\nLead cross-team incident response and blameless post-mortems that convert both reliability and security failures into permanent fixes.\n\nAutomate security and compliance through policy-as-code and automated evidence collection to reduce toil and shorten remediation time.\n\nMinimum Qualifications\n\nBachelor's degree + 12 years of related experience, or Master's degree + 8 years of related experience, or PhD + 5 years of related experience.\n\n5+ years of hands-on production experience operating and scaling at least one major cloud (AWS, Azure, or GCP), including direct ownership of cloud security posture: advanced IAM, KMS/secrets management, network controls, and CSPM or equivalent tooling.\n\n3+ years building production automation and tooling in Python and/or Go applied to security use cases such as vulnerability management, secrets orchestration, compliance evidence collection, or detection integration.\n\n5+ years applying SRE practices in production, including defining SLIs/SLOs, managing error budgets, serving as incident commander, and running post-mortems that drive follow-up engineering work.\n\n5+ years applying security fundamentals in production environments: threat modeling, secure-by-default architecture, least-privilege and workload identity, secrets and certificate lifecycle management, and vulnerability management at scale.\n\nPreferred Qualifications\n\nHands-on production Kubernetes security experience: RBAC at scale, NetworkPolicies, Pod Security Standards, admission controllers, image signing and verification, control-plane hardening, and service mesh mTLS.\n\nInfrastructure-as-Code (Terraform) with policy-as-code (OPA, Kyverno, Checkov, tfsec), GitOps delivery (ArgoCD or Flux), and CI/CD security gates including SAST, SCA, image and secret scanning, SBOM generation, and artifact signing.\n\nDeep experience with security observability and runtime detection tooling (Falco, eBPF-based detection, SIEM, CSPM/CNAPP platforms) integrated with Prometheus, Grafana, or OpenTelemetry.\n\nExperience securing AI/ML workloads and MLOps pipelines, including training and inference pipeline security and model security, and applying AI/LLM capabilities to security automation with human-in-the-loop guardrails.\n\nSecurity certifications such as CISSP, CCSP, or AWS Certified Security \u2013 Specialty, paired with strong communication and influence skills and a track record of driving security and architectural decisions across organizational levels.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021478EXTERNALENGLOBAL/Software-Engineering-Technical-Leader-SRE-Security-Architect-Kubernetes-AWS-Terraform-13-years-Bangalore",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Siftware-Engineering-Technical-Leader---SRE---Security-Architect--Kubernetes-AWS-Terraform---13--years---Bangalore_2021478/apply"
+}

@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023876EXTERNALENGLOBAL",
+ "req_id": "2023876",
+ "title": "Software Engineer - Mobile",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Slovakia"
+ ],
+ "country": "Slovakia",
+ "city": "",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-27T00:00:00.000+0000",
+ "skills": [
+  "ios development",
+  "android development",
+  "swift",
+  "kotlin",
+  "swiftui",
+  "uikit",
+  "jetpack compose",
+  "android jetpack",
+  "rest apis",
+  "mvvm",
+  "modularization",
+  "asynchronous programming",
+  "networking",
+  "unit testing",
+  "ui testing",
+  "integration testing",
+  "xctest",
+  "espresso",
+  "junit",
+  "mockito",
+  "xcode instruments",
+  "android studio profiler",
+  "logcat",
+  "firebase crashlytics",
+  "datadog",
+  "splunk",
+  "mobile ci/cd pipelines",
+  "git",
+  "continuous integration",
+  "continuous delivery"
+ ],
+ "teaser": "Join our team as a Software Engineer to design, implement, and maintain high-quality mobile applications for Cisco's Webex Engineering Group. You will contribute to application architecture and collaborate with cross-functional teams. Ideal candidates have significant experience in iOS or Android development and a strong understanding of software fundamentals.",
+ "description": "Meet the Team\u00a0\n\nCisco's Webex Engineering Group is redefining the future of collaboration. We're building a world where people connect effortlessly to enjoy modern, uncompromised collaboration across every room, desk, pocket, and application.\u00a0\n\nOur technology powers industry-leading products like Webex Meetings, Webex Calling, and Webex Contact Center. As a member of our team, your work will ensure every user gets a truly immersive experience regardless of device or location, empowering the hybrid working patterns of the future.\u00a0\n\nOur team is based in Bratislava. We operate a hybrid working model.\u00a0\n\nYour Impact\u00a0\n\nDesign, implement, deliver, and maintain mobile application features and product improvements end to end with minimal supervision.\u00a0\n\nBuild high-quality, reliable, and scalable mobile experiences used by millions of customers.\u00a0\n\nContribute to mobile application architecture, shared mobile components, SDK integrations, and reusable libraries.\u00a0\n\nDrive technical decisions within the scope of owned iOS or Android features, modules, or platform components.\u00a0\n\nImprove application performance, startup time, responsiveness, battery usage, reliability, accessibility, and observability.\u00a0\n\nLead by example in code quality, automated testing, maintainability, and operational excellence.\u00a0\n\nDebug complex mobile issues, including crashes, memory leaks, performance regressions, networking problems, and production incidents.\u00a0\n\nCollaborate with backend engineers, product managers, UX designers, QA, SRE/DevOps, and fellow mobile engineers to deliver seamless user experiences.\u00a0\n\nHelp improve mobile release quality through monitoring, telemetry, crash analytics, feature flags, and post-release analysis.\u00a0\n\nLeverage AI technologies to accelerate development, improve code quality, and support faster delivery of customer-facing features.\u00a0\n\nMinimum Qualifications:\u00a0\n\nDemonstrated 3+ years of professional experience in iOS or Android application development.\u00a0\n\nExperience in building, maintaining and shipping mobile applications in production environments.\u00a0\n\nStrong knowledge of iOS or Android development tools and frameworks, such as Swift/Xcode or Kotlin/Java/Android Studio/Gradle.\u00a0\n\nStrong understanding of software development fundamentals and architecture concepts and willingness to learn new technologies quickly.\u00a0\n\nAbility to apply creative skills to complex problems.\u00a0\n\nFlexibility to thrive in diverse team environments and communicate clearly and precisely.\u00a0\n\nStrong attention to detail and a commitment to continuous learning and quality results.\u00a0\n\nPreferred Qualifications:\u00a0\n\nStrong experience in Swift and/or Kotlin. Experience with Java, Objective-C, or C++ is a plus.\u00a0\n\nExperience with modern mobile technologies and frameworks, such as SwiftUI, UIKit, Jetpack Compose, Android Jetpack, Coroutines, Flow, or similar platform-native frameworks.\u00a0\n\nExperience with application architecture concepts such as MVVM, modularization, or similar design patterns.\u00a0\n\nExperience working with REST APIs, asynchronous programming, networking, data persistence, and mobile application lifecycle management.\u00a0\n\nExperience with mobile testing frameworks and practices, including unit testing, UI testing, integration testing, XCTest, Espresso, JUnit, Mockito, or similar tools.\u00a0\n\nExperience debugging and resolving complex production issues using tools such as Xcode Instruments, Android Studio Profiler, Logcat, Firebase Crashlytics, Datadog, Splunk, or similar observability platforms.\u00a0\n\nFamiliarity with mobile CI/CD pipelines, Git, automated builds, continuous integration, continuous delivery, and release management.\u00a0\n\nExperience with app performance optimization, memory management, offline support, caching, push notifications, and secure mobile development practices.\u00a0\n\nFamiliarity with publishing and maintaining applications through the Apple App Store, Google Play, or enterprise distribution channels.\u00a0\n\nExperience collaborating closely with UX and design teams to deliver polished, accessible, and user-friendly mobile experiences.\u00a0\n\nPractical experience in AI assisted development with clear ownership of validated and production ready code.\u00a0\n\nExperience with Microsoft InTune or MDM is a plus.\u00a0\n\nStrong attention to detail and a commitment to continuous learning, high-quality results, and excellent user experiences.\u00a0\n\nWe provide training and mentoring for all new team members to fill in any gaps.\n\nCollabHiring\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023876EXTERNALENGLOBAL/Software-Engineer-Mobile",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bratislava-Slovakia/Software-Engineer---Mobile_2023876/apply"
+}

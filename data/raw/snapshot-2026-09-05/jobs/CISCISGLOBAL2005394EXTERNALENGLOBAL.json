@@ -1,0 +1,38 @@
+{
+ "job_seq_no": "CISCISGLOBAL2005394EXTERNALENGLOBAL",
+ "req_id": "2005394",
+ "title": "Senior STA Timing Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Armenia, Armenia"
+ ],
+ "country": "Armenia",
+ "city": "Armenia",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-04-13T00:00:00.000+0000",
+ "skills": [
+  "sdc validation",
+  "timing exception handling",
+  "primetime",
+  "perl",
+  "tcl",
+  "python",
+  "makefile",
+  "dft modes",
+  "synopsys fusion compiler",
+  "tessent dft insertion",
+  "cross-functional collaboration",
+  "problem solving",
+  "communication skills",
+  "static timing analysis",
+  "system on a chip (soc)"
+ ],
+ "teaser": "Join us as a Senior STA Timing Engineer, where you will develop and validate timing constraints for advanced chip designs. Take ownership of timing analysis at block, sub-chip, and full-chip levels, collaborating with cross-functional teams. Ideal for experienced engineers with expertise in SDC, STA, and scripting languages.",
+ "description": "Meet the team\n\nJoin our dynamic Test Timing Engineering team, a group of passionate experts dedicated to ensuring robust and accurate timing constraints for advanced chip designs. Our work is critical to the success of the broader silicon design process, enabling efficient test and verification of complex integrated circuits. The team is mid-sized, blending seasoned engineers with fresh perspectives, fostering a collaborative and supportive environment. You\u2019ll find an atmosphere of innovation, continuous learning, and strong cross-functional collaboration, all driven by a commitment to technical excellence. If you thrive on solving challenging problems and making a tangible impact on product quality, you\u2019ll feel right at home here.\n\nYour impact\n\nAs a Test Timing Engineer, you will play a pivotal role in developing and validating timing constraints that ensure the accuracy and reliability of advanced chip designs.\n\nOwn the creation and validation of timing constraints at block, sub-chip, and full-chip levels in various test modes.\n\nPerform quality checks, including identifying duplicated constraints and verifying unconstrained endpoints, to drive robust timing analysis.\n\nDevelop and enhance methodologies, guidelines, and checklists to streamline static timing analysis (STA) workflows.\n\nCollaborate with cross-functional teams to resolve timing and design flow issues, accelerating project execution.\n\nImplement and maintain SDC flows and validation processes to ensure compliance and accuracy across all design stages.\n\nMinimum qualifications\n\nBachelor\u2019s degree in electrical or computer engineering (or equivalent field) with 8+ years of relevant work experience or Master\u2019s degree in electrical or computer engineering (or equivalent) with 6+ years of relevant experience.\n\nDemonstrated experience developing block/full-chip SDC in test modes (scan shift, scan capture, ATPG capture).\n\nProficiency in Static Timing Analysis (STA) and hands-on experience with tools such as PrimeTime.\n\nProgramming proficiency in at least two scripting languages (e.g., Perl, TCL, Python, Makefile).\n\nProven track record in SDC validation, timing exception handling, and STA flow development.\n\nPreferred qualifications\n\nMaster\u2019s degree in electrical or computer engineering (or equivalent) with 6+ years of relevant experience.\n\nExperience debugging and analyzing timing constraints for DFT modes (scan shift/capture, BIST)\n\nPrior hands-on experience with SDC debugging and STA tools (Synopsys GCA/TCM/PrimeTime)\n\nExperience with synthesis tools, especially Synopsys Fusion Compiler, and Tessent DFT insertion\n\nStrong communication skills and proven ability to work collaboratively within cross-functional teams\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2005394EXTERNALENGLOBAL/Senior-STA-Timing-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Armenia/Test-Timing-Engineer-Technical-Leader_2005394/apply"
+}

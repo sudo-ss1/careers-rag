@@ -1,0 +1,36 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023398EXTERNALENGLOBAL",
+ "req_id": "2023398",
+ "title": "ASIC Verification Technical Leader || Verilog, System Verilog, Testbench, UVM || Exp - 10+ years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-09-03T00:00:00.000+0000",
+ "skills": [
+  "asic verification",
+  "uvm",
+  "system verilog",
+  "test bench development",
+  "rtl quality assurance",
+  "gate-level simulation",
+  "block diagram development",
+  "cluster diagram development",
+  "dv infrastructure development",
+  "test plan development",
+  "test plan implementation",
+  "test plan review",
+  "test plan implementation and review"
+ ],
+ "teaser": "We are recruiting a ASIC Verification Technical Leader to architect and manage the full lifecycle verification of advanced ASICs for Cisco\u2019s core networking platforms. Lead dynamic collaboration with verification teams, ensuring robust design and integration. Ideal for experienced ASIC design and verification professionals with strong expertise in UVM/System Verilog and related tools.",
+ "description": "Meet the Team\n\nThe Common Hardware Group (CHG) delivers the silicon, optics, and hardware platforms for Cisco's core Switching, Routing, and Wireless products. We craft the networking hardware for Enterprises and Service Providers, the Public Sector, and Non-Profit Organizations across the world. Cisco Silicon One (#CiscoSiliconOne) is the only unifying silicon architecture in the market that enables customers to deploy the best-of-breed silicon from Top of Rack (TOR) switches all the way through web scale data centers and across service provider, enterprise networks, and data centers with a fully unified routing and switching portfolio. Come join us and take part in shaping Cisco's ground-breaking solutions by crafting, developing and testing some of the most sophisticated ASICs being developed in the industry. You will engage in dynamic collaboration with verification engineers, designers, and multi-functional teams, working together to ensure the successful verification of the ASIC throughout its lifecycle.\n\nYour Impact\n\nYou will contribute to developing Cisco\u2019s progressive data center solutions by crafting industry-leading sophisticated chips, with full exposure to all aspects of our systems and applications, including silicon, hardware, software, telemetry, and security. Specific responsibilities include:\n\n\u2022 Architect block, cluster and top-level DV environment infrastructure.\n\n\u2022 Develop DV infrastructure from scratch.\n\n\u2022 Maintain and improve existing DV environments.\n\n\u2022 Develop test plans and tests for qualifying design at block, cluster and higher-level environments with mix of constraint random and advised stimulus.\n\n\u2022 Ensure complete verification coverage through implementation and review of code and functional coverage.\n\n\u2022 Ensure RTL quality with qualifying the design with Gate Level Simulations on netlist.\n\n\u2022 Collaborate closely with designers, architects, and software teams to address and debug issues during post-silicon bring-up, ensuring seamless integration and efficient performance.\n\n\u2022 Support testing of design in emulation.\n\n\u2022 Lead all aspects of and manage the ASIC bring-up process.\n\nMinimum Qualifications\n\n\u2022 Bachelor\u2019s degree or master\u2019s Degree in equivalent experience in EE, CE, or other related field.\n\n\u2022 10+ years of related ASIC design verification experience.\n\n\u2022 Proficient in ASIC verification using UVM/System Verilog.\n\n\u2022 Proficient in verifying sophisticated blocks, clusters and top level for ASIC.\n\n\u2022 Experience building test benches from scratch, hands on experience with System Verilog constraints, structures and classes.\n\n\u2022 Scripting experience with Perl and/or Python.\n\nPreferred Qualifications\n\n\u2022 Experience with Networking ASICs would be an advantage\n\n\u2022 Experience with Forwarding logic/Parsers/Buffer management/Arbitration and scheduling\n\n\u2022 Experience with Veloce/Palladium/Zebu/HAPS.\n\n\u2022 Formal verification (iev/vc formal) knowledge.\n\n\u2022 Demonstrated ability on one or more protocols (PCIe, Ethernet, RDMA, IPv4/6, TCP).\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023398EXTERNALENGLOBAL/ASIC-Verification-Technical-Leader-Verilog-System-Verilog-Testbench-UVM-Exp-10-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-Verification-Technical-Leader_2023398/apply"
+}

@@ -1,0 +1,49 @@
+{
+ "job_seq_no": "CISCISGLOBAL2017428EXTERNALENGLOBAL",
+ "req_id": "2017428",
+ "title": "Software Engineering Technical Leader | Golang & networking (12-15 years)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-05T00:00:00.000+0000",
+ "skills": [
+  "iam protocols",
+  "api design",
+  "oidc",
+  "automated testing",
+  "ci/cd pipelines",
+  "aws",
+  "sso protocols",
+  "golang",
+  "postgresql",
+  "quality assurance methodologies",
+  "secure software development lifecycle",
+  "gcp",
+  "oauth2",
+  "stakeholder management",
+  "docker",
+  "networking",
+  "backend development",
+  "sql",
+  "microservices architecture",
+  "scripting languages",
+  "cybersecurity",
+  "kubernetes",
+  "saml",
+  "distributed systems",
+  "python",
+  "ai-assisted coding tools"
+ ],
+ "teaser": "Join our team as a Software Engineering Technical Leader to architect and deliver robust, cloud-native industrial security solutions. Lead the design and deployment of high-performance software using Golang and networking technologies. Ideal for experienced professionals with deep expertise in backend development and cloud security.",
+ "description": "Meet the team\n\nCisco is redefining the landscape of industrial security. Within the Cyber Vision team, we provide critical visibility into OT (Operational Technology) and IoT assets, enabling security and operations teams to detect threats and ensure compliance across complex industrial\n\nenvironments. We are looking for a visionary Technical Leader to architect the future of our cloud-native industrial security solution. You will play a pivotal role in bridging the gap between industrial operations and cloud-scale security.\n\nYour impact\n\nThis pivotal role involves in lead, design and deployment of high-performance, scalable, and robust software solutions using the Golang, micro services, networking and cloud technologies\n\nSet the technical direction for development of both cloud-native/cloud-agnostic and onprem IIoT security products, ensuring high availability, security, and performance across distributed environments.\n\nPartner with cross-functional teams, including Product Management, Security Architecture, and Cloud Platform teams, to deliver customer-centric solutions.\n\nDrive technical rigor through design reviews, code review and code quality initiatives, while leveraging AI-powered development tools to accelerate engineering velocity.\n\nTroubleshoot and resolve complex technical issues related to software functionality, performance, and integration in a timely manner.\n\nYou grow with working in a highly collaborative, inclusive, and agile atmosphere with multi-functional teams across geographies\n\nStay abreast of the latest industry trends, Go language updates, and best practices in cloud to continuously enhance development processes and introduce innovative solutions\n\nMinimum qualifications\n\nAn ideal candidate with 12+ years of software engineering experience, with a focus on Golang, cloud and security domains, and a degree in Computer\n\nScience (BE/BTech/MS/MCA or equivalent).\n\nDeep expertise in backend development using Golang, with a strong ability to write clean, maintainable, and performant code for distributed systems.\n\nExtensive experience designing and operating services within public cloud environments (AWS, Azure, or GCP).\n\nSolid understanding of data storage solutions, including experience with SQL (e.g., PostgreSQL) and efficient query optimization.\n\nDeep technical expertise in implementing IAM and SSO protocols (SAML, OIDC, OAuth2) for large-scale enterprise applications.\n\nExperience with Kubernetes and Docker.\n\nProven track record of leading the design and delivery of complex, multi-service features and defining system-wide API contracts.\n\nStrong understanding of secure software development lifecycles and modern security architecture.\n\nDemonstrated ability to debug complex production issues, trace failures across microservices, and resolve performance bottlenecks.\n\nActive use of AI-assisted coding tools (e.g., Codex) to improve debugging, test generation, and development speed.\n\nWell-developed written and verbal communication skills, with the ability to effectively collaborate with technical and non-technical stakeholders\n\nOrganized, attention to details, able to work both independently and as a team member\n\nPreferred qualifications\n\nPrior experience or understanding of networking and cybersecurity domains.\n\nSolid understanding of CI/CD pipelines, automated testing, and modern quality assurance methodologies.\n\nExperience with cloud-native deployment patterns.\n\nProficiency in using Python or other scripting languages for operational tooling and automation.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017428EXTERNALENGLOBAL/Software-Engineering-Technical-Leader-Golang-networking-12-15-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineering-Technical-Leader---Golang---cloud-based-technology--networking---Kubernetes-and-Docker--12-15-Years-_2017428-1/apply"
+}

@@ -1,0 +1,43 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023163EXTERNALENGLOBAL",
+ "req_id": "2023163",
+ "title": "Hardware Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-19T00:00:00.000+0000",
+ "skills": [
+  "cross-functional collaboration",
+  "evb",
+  "failure analysis",
+  "signal integrity",
+  "high speed serdes",
+  "high speed board design",
+  "asic",
+  "silicon validation board",
+  "english communication",
+  "product sustaining",
+  "product qualification",
+  "board design",
+  "ethernet",
+  "troubleshooting",
+  "firmware development",
+  "system thermal design",
+  "switch design",
+  "fpga",
+  "test automation",
+  "ddr5"
+ ],
+ "teaser": "Join us as a Hardware Engineer to drive the development of high-performance hardware systems for Service Provider routers. You will collaborate with cross-functional teams, capture schematics, and support product qualification. Ideal candidates bring extensive experience in system-level development and expertise in Ethernet, SERDES, and X86 architecture.",
+ "description": "Meet the Team\nWe are part of Cisco\u2019s Common Hardware Group, specializing in hardware system development for Service Provider routers. Our team focuses on delivering high-quality, power-efficient hardware using advanced SERDES technology at industry-leading bit rates. We manage the entire hardware lifecycle\u2014from definition and design to qualification, release, and sustaining\u2014collaborating with internal teams and vendors to address complex challenges.\n\nYour Impact\n\nCapture schematics using Cadence/Allegro\n\nCollaborate with ASIC, FPGA, and Software teams for hardware bring-up\n\nSupport for product qualification\n\nDebug issues in the lab and analyse system logs\n\nSupport cross-functional teams for product sustaining\n\nMinimum Qualifications\n\nBachelors/master\u2019s in Electrical or Electronics Engineering\n\n8-12 years\u2019 experience in system level development preferably in the server/computer/network industry\n\nExperience in Ethernet, high speed SERDES (>25G) interfaces, high speed design and signal integrity\n\nExperience in X86 architecture, and a very good understanding of control interfaces such as PCIe, MDIO, SPI, I2C\n\nExperience in designing with DDR5 and SSD memory devices\n\nHands on board design knowledge, familiar with design tools including Cadence Concept and Allegro\n\nExperience with hardware bring up and design validation of products\n\nPrior experience with shipping products in troubleshooting field issues and Failure Analysis\n\nPreferred Qualifications\n\nKnowledge on the signal integrity and system thermal design\n\nBasic scripting skill for test automation\n\nGood English written and verbal communications.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFuelled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023163EXTERNALENGLOBAL/Hardware-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Hardware-Engineer_2023163/apply"
+}

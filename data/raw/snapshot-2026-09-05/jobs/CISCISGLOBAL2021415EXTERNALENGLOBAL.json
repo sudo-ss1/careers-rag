@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021415EXTERNALENGLOBAL",
+ "req_id": "2021415",
+ "title": "Software Engineer- Backend (Golang, Python)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-13T00:00:00.000+0000",
+ "skills": [
+  "data modeling",
+  "minio",
+  "cloud platforms",
+  "hashicorp vault",
+  "real-time data pipelines",
+  "postgresql",
+  "testing",
+  "sql",
+  "ai integration",
+  "microservices",
+  "api security",
+  "golang",
+  "secrets management",
+  "kubernetes",
+  "containerization",
+  "jenkins",
+  "system design",
+  "event-driven architecture",
+  "python",
+  "typescript",
+  "angular",
+  "javascript",
+  "apache kafka",
+  "restful api design",
+  "git",
+  "application performance optimization",
+  "debugging",
+  "github actions",
+  "technical documentation",
+  "devops"
+ ],
+ "teaser": "We are currently hiring a Software Engineer- Backend (Golang, Python) to design and enhance scalable, cloud-native applications for Cisco\u2019s Customer Experience platform. You will collaborate with cross-functional teams to deliver secure, high-quality solutions. Ideal candidates have strong backend expertise and experience with modern programming languages and cloud technologies.",
+ "description": "Meet the Team\n\nCisco\u2019s Customer Experience (CX) organization is one of the company's fastest-growing and most innovative teams, crafting a first-in-class digital experience for customers and partners wherever they connect with Cisco. CX Platform supports the diverse needs of the CX organization through a platform-centric approach and is being built with emerging technologies, including predictive AI and generative AI, to drive greater customer success. The team sits at the center of developing modern, cloud-native technologies that help Cisco stay agile and adaptable in a rapidly evolving market. As pioneers in this space, the team helps customers maximize value through a simple, unified Cisco experience that accelerates time to impact. The culture is fast-moving, highly collaborative, data-driven, and grounded in ownership, accountability, quality, and urgency.\n\nYour Impact\n\nBuild and enhance scalable full-stack applications that solve important customer and business challenges across the CX Platform. Design reliable, high-performing systems and integrate AI/ML-driven capabilities to improve real-world product experience. Collaborate with product managers, designers, and engineers to deliver secure, high-quality solutions in an agile development environment. Contribute to architecture, development, testing, and CI/CD practices to support efficient and reliable software delivery. Succeed in this role by delivering maintainable solutions that improve customer outcomes and help advance Cisco\u2019s AI-enabled platform strategy.\n\nMinimum Qualifications:\n\nBachelor\u2019s degree with 4+ years of related experience, or Master\u2019s degree with 3+ years of related experience, or PhD with 0+ years of related experience.\n\nExperience with one or more of the following: Golang, Python, Pytest, SQL (preferably PostgreSQL), Angular, JavaScript, or TypeScript.\n\nExperience with one or more of the following: microservices, Kubernetes, containerization, virtualization, or cloud platforms such as AWS, Azure, or GCP.\n\nExperience integrating AI features (AI-assisted code generation), event-driven architecture (Apache Kafka) and real-time data pipelines.\n\nExperience with RESTful API design, API security, or hierarchical and relational data modeling.\n\nPreferred Qualifications:\n\nExperience with DevOps tools and practices such as Jenkins or GitHub Actions.\n\nExperience with Git, system design, or application performance optimization.\n\nExperience with testing, debugging, and technical documentation.\n\nExperience with secrets management tools such as HashiCorp Vault or object storage platforms such as MinIO or Amazon S3.\n\nProblem-solving, communication, and customer-facing delivery skills.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021415EXTERNALENGLOBAL/Software-Engineer-Backend-Golang-Python",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer--Backend--Golang--Python-_2021415/apply"
+}

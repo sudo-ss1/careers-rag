@@ -1,0 +1,47 @@
+{
+ "job_seq_no": "CISCISGLOBAL2013404EXTERNALENGLOBAL",
+ "req_id": "2013404",
+ "title": "ASIC Engineering Technical Leader | RTL development (Verilog, SystemVerilog, VCS, Spyglass, CDC, Formal verification) | Exp - 12+ years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-05-08T00:00:00.000+0000",
+ "skills": [
+  "asic design",
+  "rtl design",
+  "verilog",
+  "systemverilog",
+  "vcs",
+  "spyglass",
+  "cdc",
+  "formal verification",
+  "system debug",
+  "sw/hw bring-up",
+  "system validation",
+  "hardware emulation",
+  "eve",
+  "veloce",
+  "c programming",
+  "c++ programming",
+  "timing analysis",
+  "power optimization",
+  "flow automation",
+  "specification creation",
+  "architecture specification",
+  "perl programming",
+  "makefile scripting",
+  "mentoring"
+ ],
+ "teaser": "Exciting opportunity for an ASIC Engineering Technical Leader to drive the design and implementation of high-performance ASIC chips. Lead architectural decisions, oversee RTL development, and ensure best industry practices. Ideal for experienced professionals with a strong ASIC background and leadership skills.",
+ "description": "Meet the Team\n\nCome join us and be part of the Cisco SiliconOne team and take part in crafting Cisco's groundbreaking Enterprise and Service Provider solutions by crafting some of the most complex chips being developed in the industry with the opportunity to get full exposure to all aspects of the systems and applications we build (Silicon, Hardware, Software, telemetry, security, etc). Our group offers a rare combination of a startup culture with the benefits of working for the top tier networking company in the world!\n\nYour Impact\n\u00a0\n\nCisco SiliconOne team is looking for an expert and talented ASIC Engineering Technical Leader. You will have an ASIC design background with hands-on experience in RTL design with in-depth knowledge of ASIC/SoC development cycle, the best industry practices, from specification through tape-out and lab validation, and a proven track record of success in high-performance/high-volume products.\n\nArchitectural work: In-depth understanding of the architecture, and identification of problems and solutions. Oversees the definition, architecture and design, in addition to making design decisions.\n\nDrives design solutions across the business. Ensure culture of code reviews and postmortems.\n\nAll aspects of implementation: Specification, design, timing-analysis, power-optimization, flow automation, optimization of the logic for low power and area; highlighting issues and standard methodologies for power and area optimization.\n\nReview complex designs and makes recommendations for improvements.\n\nCreates guidelines and standards.\n\nDocument and improve standard methodologies to make product successful.\n\nAct as the design lead, owning and leading all the above aspects, including driving the technical decisions made at the program level with rest of the design teams, conducting weekly design meetings, sync-ups with stake holders and cross functional teams like Architecture, DV, PD, Emulation, SW, PSV and Silicon Operations. \n\nMinimum Qualifications\n\nBS/MS and 12+/10+ years respectively of hands-on experience in large-scale, high-performance ASIC.\n\nArchitecture and implementation specification creation.\n\nRTL development (Verilog, SystemVerilog, VCS, Spyglass, CDC, Formal verification)\n\nExperienced in system debug and SW/HW bring-up, system validation of silicon towards FCS.\n\nGate-level understanding of RTL and Synthesis\n\nProgramming/scripting skills (C, C++, Perl)\n\nHardware Emulation Platforms and tools (such as EVE, Veloce)\n\nGood written/verbal interpersonal skills and leadership skills.\n\nPreferred Qualifications\n\nWorked in architecture and definition of high-scale, high-performance ASICs.\n\nPlanning overall domain architecture strategy and defining the requirements.\n\nConducting & leading various architecture reviews.\n\nDriving complex debugs and system level integration aspects\n\nValid experience in implementation: specification, RTL design, lint, cdc, timing analysis, formal verification, system testing.\n\nValid experience in flow automation (scripting, Makefiles, etc), and establishing guidelines for the team.\n\nMentoring the senior resources in the team on architectural and design strategies.\n\nGood interpersonal skills, and validated leadership to accurately describe issues/improvements and lead team for on-time completion.\n\nExcellent communication skills both verbal and written\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2013404EXTERNALENGLOBAL/ASIC-Engineering-Technical-Leader-RTL-development-Verilog-SystemVerilog-VCS-Spyglass-CDC-Formal-verification-Exp-12-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-Engineering-Technical-Leader---RTL-development--Verilog--SystemVerilog--VCS--Spyglass--CDC--Formal-verification----Exp---12--years_2013404/apply"
+}

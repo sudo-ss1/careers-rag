@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018923EXTERNALENGLOBAL",
+ "req_id": "2018923",
+ "title": "Senior AI Researcher",
+ "category": "Other",
+ "categories": [
+  "Other"
+ ],
+ "locations": [
+  "San Francisco, California, United States of America"
+ ],
+ "country": "United States of America",
+ "city": "San Francisco",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-28T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "pytorch",
+  "distributed machine learning",
+  "foundation models",
+  "machine learning",
+  "reinforcement learning",
+  "agentic ai",
+  "reasoning systems",
+  "multimodal learning",
+  "efficient inference",
+  "distributed training systems",
+  "high-performance computing",
+  "cuda",
+  "nccl",
+  "fsdp2",
+  "megatron-lm",
+  "vllm",
+  "sglang",
+  "cloud-native deployment",
+  "kubernetes",
+  "mlops pipelines",
+  "ai systems for security-focused use cases",
+  "cybersecurity",
+  "mentoring",
+  "technical leadership",
+  "scientific publication",
+  "code review",
+  "architecture guidance",
+  "ai systems infrastructure"
+ ],
+ "teaser": "Become part of our team as a Senior AI Researcher, leading visionary technical initiatives to advance artificial intelligence research at Foundation AI. Drive research programmes in foundation models, agentic AI, and multimodal learning, collaborating with engineering and product teams. Ideal for experienced researchers with deep expertise in AI and a strong publication record.",
+ "description": "Meet the Team\n\nAt Foundation AI, we are leading frontier AI research across Cisco. Our mission is to advance the state of artificial intelligence through fundamental research and translate scientific breakthroughs into differentiated technologies that power the next generation of enterprise AI.\nOur research spans foundation models, agentic AI, multimodal learning, reasoning systems, scalable training algorithms, evaluation science, inference optimization, and AI systems infrastructure. We work at the intersection of cutting-edge research and real-world impact, developing technologies that influence Cisco's AI strategy while contributing meaningfully to the broader AI research community.\nWe believe impactful research should advance both science and products. Our researchers publish at top AI conferences, contribute to open-source projects, collaborate with leading academic institutions, and build production systems that solve challenging enterprise-scale problems.\n\nYour Impact\n\nAs a Senior AI Researcher you will operate as a visionary technical leader, architecting and executing frontier AI research that dictates Foundation AI's long-term technical trajectory.\n\nYou will identify emerging research opportunities, formulate original research hypotheses, and lead ambitious research programs spanning foundation models, agentic AI, reasoning, multimodal learning, and large-scale AI systems. Working closely with engineering and product team members, you will translate scientific advances into scalable technologies that differentiate Cisco's AI platform.\nWorking at the highest technical levels, you will translate scientific advances into scalable paradigms that fundamentally differentiate Cisco's AI platform. Beyond individual technical contributions, you will provide scientific leadership across multiple research initiatives, mentor junior researchers and interns, and influence executive technical strategy. You will represent Cisco externally through top-tier publications, open-source leadership, and active collaboration with the global AI research community.\n\nMinimum Qualifications\n\nPhD in Computer Science, Artificial Intelligence, Machine Learning, or a related technical field, plus 5+ years of relevant research experience, or equivalent demonstrated research impact.\n\nDemonstrated track record of sustained, high-impact publications at top-tier machine learning and AI conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP, CVPR, ICCV, or equivalent venues).\n\nDemonstrated expertise in foundation models, post-training and alignment, LLMs, agentic AI, reinforcement learning, reasoning, efficient inference, or distributed training, evidenced by 5+ years of relevant research/engineering experience and/or multiple production-scale model deployments, publications, or open-source contributions.\n\n5+ years of hands-on Python and PyTorch experience, including training and optimizing models across multi-GPU or distributed environments and working with modern ML research and production frameworks.\n\nProven ability to lead complex, ambiguous technical projects from conception to deployment as an individual contributor.\n\nPreferred Qualifications\n\nHands-on expertise in high-performance computing environments, with a track record of leading distributed training across thousands of GPUs using frameworks and communication primitives such as CUDA, NCCL, FSDP2, and Megatron-LM.\n\nExperience deploying high-performance inference engines such as vLLM and SGLang, and working with cloud-native deployment, Docker, Kubernetes, MLOps pipelines, and major cloud platforms such as AWS, GCP, or Azure.\n\nExperience designing and scaling agentic AI workflows, multi-agent frameworks, and autonomous AI systems.\n\nFamiliarity with cybersecurity principles, AI systems for security-focused use cases, safety, and robust machine learning.\n\nDemonstrated leadership within the global AI research community, specifically serving as an Area Chair or senior program committee member for top-tier AI conferences.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $216,300.00 to $280,800.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco\u2019s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks.\u00a0 Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco\u2019s policies:\n\n10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n\n1 paid day off for employee\u2019s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n\nNon-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n\nExempt employees participate in Cisco\u2019s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n\n80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of\u00a0unused sick time\u00a0carried forward\u00a0from one calendar year\u00a0to the next\n\nAdditional paid time away may be requested to deal with critical or emergency issues for family members\n\nOptional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco\u2019s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n\n.75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n\n1.5% of incentive target for each 1% of attainment between 50% and 75%;\n\n1% of incentive target for each 1% of attainment between 75% and 100%; and\n\nOnce performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$216,300.00 - $322,900.00\n\nNon-Metro New York state & Washington state:\n$197,500.00 - $287,300.00\n\n* For quota-based sales roles on Cisco\u2019s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n\n** Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018923EXTERNALENGLOBAL/Senior-AI-Researcher",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Senior-AI-Researcher_2018923/apply"
+}

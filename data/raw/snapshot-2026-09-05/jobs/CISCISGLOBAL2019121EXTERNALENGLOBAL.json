@@ -1,0 +1,49 @@
+{
+ "job_seq_no": "CISCISGLOBAL2019121EXTERNALENGLOBAL",
+ "req_id": "2019121",
+ "title": "Senior Memory Circuit Design Engineer (Project Lead)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "ZHUBEI, Hsinchu County, Taiwan"
+ ],
+ "country": "Taiwan",
+ "city": "ZHUBEI",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-02T00:00:00.000+0000",
+ "skills": [
+  "memory circuit design",
+  "semiconductor memory technologies",
+  "tcam architecture",
+  "sram architecture",
+  "circuit implementation",
+  "layout supervision",
+  "compiler automation",
+  "cadence",
+  "synopsys",
+  "cad tools",
+  "circuit simulation",
+  "project leadership",
+  "design documentation",
+  "test results analysis",
+  "prototype testing",
+  "yield analysis",
+  "optimization",
+  "cross-functional collaboration",
+  "technical communication",
+  "problem solving",
+  "memory compiler design",
+  "memory verification methodology",
+  "project milestone planning",
+  "task partitioning",
+  "progress review",
+  "design review"
+ ],
+ "teaser": "We are seeking a Senior Memory Circuit Design Engineer to lead the design, development, and testing of memory compiler projects. Oversee project teams from concept to production, ensuring high standards in performance and reliability. Ideal for candidates with extensive experience in semiconductor memory technologies and strong leadership in cross-functional environments.",
+ "description": "Meet the Team\n\nThe Senior Memory Design Engineer is responsible for designing, developing, managing and testing the memory compiler projects. This role involves collaborating with cross-functional teams to oversee the entire lifecycle of memory circuit projects from conceptualization through prototyping, testing, and production. He/she will lead the project team to ensure designs meet performance, reliability, and quality standards while maintaining detailed documentation of design processes and project progress, coordinating the technical communication with layout team, physical design team, and test team.\n\nYour Impact\n\nTCAM and SRAM architectures and circuit implementation on advanced technology nodes for Cisco\u2019s AI-scale switch/router chips\n\nExecute memory compiler flows, covering TCAM and custom SRAM design architecture, circuit implementation, layout supervision, compiler automation, characterization, model generation, and database QA\n\nLead the engineer team to define spec, make the project milestone plan, manage the task partition, perform the progress and design review, communicate with layout, CAD, PD teams\n\nConduct spec and schedule feasibility evaluation for customization cases\n\nCollaborate with manufacturing, testing, and senior engineering teams to ensure successful product development and integration\n\nMaintain comprehensive documentation of design processes, test results, and project schedules\n\nStay updated with the latest technological advancements and trends in memory circuit design\n\nSupport troubleshooting and resolution of memory-related issues in hardware products\n\nMinimum Qualifications:\n\nMaster\u2019s degree in Electrical Engineering, Electronics Engineering, or related field.\n\n8 years\u2019 relevant experience and strong knowledge of semiconductor memory technologies and circuit design principles.\n\nExperience with CAD tools for circuit design and simulation (e.g., Cadence, Synopsys).\n\nExcellent problem-solving skills and attention to details.\n\nAbility to work collaboratively in cross-functional teams.\n\nStrong documentation and communication skills.\n\nPreferred Qualifications:\n\nExperience with low-power and high-speed memory circuit design.\n\nKnowledge of memory compiler design and verification methodology.\n\nFamiliarity with prototype testing methodologies and yield analysis, optimization.\n\nWe do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019121EXTERNALENGLOBAL/Senior-Memory-Circuit-Design-Engineer-Project-Lead",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Zhubei-Taiwan/Senior-Memory-Circuit-Design-Engineer_2019121/apply"
+}

@@ -1,0 +1,45 @@
+{
+ "job_seq_no": "CISCISGLOBAL2015741EXTERNALENGLOBAL",
+ "req_id": "2015741",
+ "title": "Data Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-26T00:00:00.000+0000",
+ "skills": [
+  "snowflake",
+  "python",
+  "sql",
+  "dbt",
+  "gcp",
+  "api integration",
+  "llm api integration",
+  "power bi",
+  "pandas",
+  "requests",
+  "json payload processing",
+  "feature engineering",
+  "data pipeline automation",
+  "data quality monitoring",
+  "observability frameworks",
+  "llm orchestration frameworks",
+  "vector databases",
+  "retrieval-augmented generation",
+  "mlops",
+  "prompt versioning",
+  "structured output parsing",
+  "stakeholder management"
+ ],
+ "teaser": "Exciting opportunity for a Data Engineer to design and deliver AI-augmented data pipelines and analytical systems within Cisco\u2019s global analytics platform. Lead the integration of LLM-based insight pipelines and collaborate with US-based analytics teams. Ideal for candidates with strong data engineering expertise and a passion for AI-driven analytics.",
+ "description": "Meet the Team\n\nThe CIA with Data and Analytics organization at Cisco is at the forefront of the company\u2019s AI transformation\u2014building the analytical infrastructure, AI-augmented insight pipelines, and data products that drive customer experience strategy across Cisco\u2019s global portfolio. Our team operates where data engineering, applied AI, and business intelligence converge, and we are actively building a next-generation analytics platform that integrates LLMs, predictive models, and structured data pipelines into a cohesive intelligence layer.\n\nThe India-based engineering team plays a central role in this build. Engineers here are not supporting AI initiatives\u2014they are building them. The team works on a modern stack spanning Snowflake, dbt, Python, GCP, and Cisco\u2019s AI tooling ecosystem, with direct collaboration with US-based analytics leads and solution architects. This is an environment for engineers who are serious about AI and want to work on production systems, not pilots.\n\nYour Impact\n\nAs a Data Engineer with an AI Analytics specialization, you will own the design and delivery of AI-augmented data pipelines and analytical systems within the CIA with Data and Analytics organization. You will build the data infrastructure that feeds machine learning models and LLM-based insight pipelines, develop analytical frameworks that surface AI-generated insights to business stakeholders, and contribute to the architectural evolution of Cisco\u2019s customer analytics AI platform. This role requires both data engineering depth and genuine AI curiosity.\n\nDesign and build data pipelines in Snowflake and Python that serve as the structured data layer for LLM-based insight generation\u2014including the Dynamic NPS Forecast AI Summary pipeline and similar AI-augmented workflows.\n\nDevelop and maintain dbt models that produce clean, well-tested, AI-ready data surfaces\u2014including feature engineering tables, aggregation layers, and prompt-context data structures for generative AI use cases.\n\nWrite production-grade Python for data ingestion, API payload processing, LLM API integration, prompt construction, response parsing, and structured output storage.\n\nIntegrate with GCP services (Cloud Run, API Gateway, Vertex AI) and Cisco AI tooling to build end-to-end AI data pipelines from raw customer signals to executive-ready insight delivery.\n\nBuild and instrument data quality and observability frameworks that prevent AI pipeline failures from propagating incorrect or hallucinated insights to downstream business consumers.\n\nCollaborate with BI engineers on analytical output surfaces\u2014ensuring AI-generated insights are structured for clean consumption in Power BI or other visualization layers.\n\nStay at the frontier of AI-native data tooling\u2014Snowflake Cortex, dbt Copilot, LangChain, vector databases, embedding pipelines\u2014and bring forward-looking technical judgment to the team\u2019s architectural decisions.\n\nMinimum Qualifications\n\nObjective, gate-level requirements. All five must be demonstrably met.\n\n4+ years of professional experience in data engineering, analytics engineering, or a closely related role, with demonstrated production ownership of Snowflake environments including schema design, query optimization, and data pipeline reliability.\n\nIntermediate to advanced Python proficiency for data engineering tasks: API integration, JSON payload processing, LLM API calls (OpenAI, Anthropic, or equivalent), structured output parsing, and pipeline automation using pandas, requests, and related libraries.\n\nExpert-level SQL with demonstrated ability to write complex aggregations, window functions, and multi-level hierarchical queries in a Snowflake environment\u2014including performance profiling and optimization.\n\nWorking proficiency in dbt: authoring of incremental models, Jinja macros, test frameworks, and snapshot strategies, with demonstrated understanding of how dbt model quality directly affects downstream analytical and AI pipeline reliability.\n\nDemonstrated experience building or contributing to at least one AI-augmented data pipeline: consuming LLM API responses as structured data, building feature tables for ML models, or constructing prompt-context data layers for generative AI workflows.\n\nPreferred Qualifications\n\nHands-on experience with GCP AI and data services: Vertex AI, Cloud Run, BigQuery, API Gateway, or Pub/Sub\u2014specifically in the context of end-to-end AI pipeline construction rather than point tool familiarity.\n\nFamiliarity with LLM orchestration frameworks (LangChain, LlamaIndex), vector databases (Pinecone, Weaviate, pgvector), or retrieval-augmented generation (RAG) architecture patterns applied to structured enterprise data.\n\nExperience with Snowflake Cortex or similar in-warehouse AI capabilities\u2014including ML functions, semantic search, or Cortex Analyst\u2014and awareness of the tradeoffs between in-warehouse AI and external LLM API approaches.\n\nWorking knowledge of Power BI sufficient to understand how AI-generated outputs are consumed and displayed at the BI layer, enabling effective collaboration with BI engineers on insight surface design.\n\nFamiliarity with MLOps or AI pipeline observability practices: model output monitoring, drift detection, prompt versioning, and structured evaluation of LLM output quality in a production context.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015741EXTERNALENGLOBAL/Data-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Data-Engineer_2015741-1/apply"
+}

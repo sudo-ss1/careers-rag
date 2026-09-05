@@ -1,0 +1,51 @@
+{
+ "job_seq_no": "CISCISGLOBAL2019479EXTERNALENGLOBAL",
+ "req_id": "2019479",
+ "title": "Software Engineer - Go Lang, API Gateway, KONG, OAuth2 | 9 - 12 yrs",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-06T00:00:00.000+0000",
+ "skills": [
+  "go",
+  "api gateway",
+  "oauth2",
+  "kong",
+  "restful apis",
+  "aws",
+  "python",
+  "terraform",
+  "dynamodb",
+  "rds",
+  "lambda",
+  "ecs",
+  "s3",
+  "iam",
+  "cloudwatch",
+  "http",
+  "html",
+  "css",
+  "javascript",
+  "react",
+  "nginx",
+  "devops",
+  "continuous integration",
+  "continuous deployment",
+  "testing methodologies",
+  "monitoring tools",
+  "splunk",
+  "grafana"
+ ],
+ "teaser": "Take on the role of Software Engineer to develop and enhance cloud-delivered security solutions, focusing on API Gateway, KONG, and OAuth2. Contribute to product development and customer engagement in a dynamic environment. Ideal for experienced engineers with strong expertise in cloud-native technologies and API frameworks.",
+ "description": "Meet the Team\n\nCisco Cloud Security is a leading provider of network security services, enabling the world to connect to the Internet with confidence on any device, anywhere, anytime. The Secure Internet Gateway (SIG) team is building the next generation of firewall, proxy, and inspection services as highly-available distributed systems using cloud engineering practices. We are building the future of cloud-delivered, AI-powered, multi-dimensional security, specializing in core platforms like APIGW, Auth Service (OAuth2), resilient RESTful APIs, and Enterprise Network integrations.\n\nYour Impact\n\nWe are looking for hardworking engineers to help us launch the next generation of cloud-delivered security services and deliver a stronger offering with an outstanding customer experience. You will work in a fast-paced, technically challenging environment, involved in all stages of the product development process\u2014from solving complex engineering problems to working directly with customers. Your contributions will be critical to the success of the next wave of innovation in the security industry.\n\nBuild intuitive user interfaces, resilient RESTful APIs, and enterprise network integrations for cloud security products.\n\nLead the development of functional components.\n\nContribute to all phases of product development, operations, and maintenance.\n\nSolve important customer problems and deliver the most impactful results.\n\nContribute to a no-blame culture that values learning, transparency, accountability, trust, kindness, and mutual respect.\n\nMinimum Qualifications\n\n9+ years of professional software development experience.\n\nExperience with APIGW, NGINX, and KONG technology.\n\nExperience with OAuth2 authorization frameworks.\n\nExperience with cloud-native technologies (Docker, Go, Python, Terraform) and AWS services (DDB, RDS, EKS, Lambda, ECS, S3, IAM, CloudWatch).\n\nExperience with web application technologies (HTTP, HTML, PHP, CSS, JavaScript, React) and building RESTful APIs.\n\nPreferred Qualifications\n\nExperience with DevOps, continuous integration (CI), and continuous deployment (CD) practices.\n\nWorking knowledge of testing methodologies, monitoring, and observability tools (e.g., Splunk, Grafana).\n\nStrong understanding of microservices architecture and distributed systems.\n\nProven ability to troubleshoot system failures and outages with a growth mindset.\n\nExperience working with cross-functional teams with strong collaboration and communication skills.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019479EXTERNALENGLOBAL/Software-Engineer-Go-Lang-API-Gateway-KONG-OAuth2-9-12-yrs",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer---Go-Lang--API-Gateway--KONG--OAuth2---9---12-yrs_2019479/apply"
+}

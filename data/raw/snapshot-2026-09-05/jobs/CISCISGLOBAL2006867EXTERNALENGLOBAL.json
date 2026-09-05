@@ -1,0 +1,39 @@
+{
+ "job_seq_no": "CISCISGLOBAL2006867EXTERNALENGLOBAL",
+ "req_id": "2006867",
+ "title": "ASIC DFT DV Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Armenia, Armenia"
+ ],
+ "country": "Armenia",
+ "city": "Armenia",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-02-11T00:00:00.000+0000",
+ "skills": [
+  "dft architecture",
+  "test planning",
+  "debugging",
+  "dve/verdi tools",
+  "scripting languages",
+  "tcl",
+  "python",
+  "perl",
+  "systemverilog",
+  "jtag protocol",
+  "scan architecture",
+  "mbist",
+  "boundary scan",
+  "problem-solving",
+  "mentoring",
+  "collaboration"
+ ],
+ "teaser": "We are currently hiring a ASIC DFT DV Technical Leader to drive the development and execution of comprehensive test benches for DFT architectures. Lead cross-functional collaboration to integrate and validate test logic across all implementation stages. Ideal for experienced engineers with a strong background in ASIC design and test planning.",
+ "description": "This is a hybrid role with four days per week at Cisco\u2019s Yerevan office.\n\nMeet the Team\n\nOur team is dedicated to advancing DFT architecture to ensure robust test planning and development that supports ATE screening, in-system testing, debugging, and diagnostics. We collaborate closely with design, design-verification, and product development teams to integrate and validate test logic throughout implementation and post-silicon validation phases. Comprising experienced engineers passionate about innovation, our team fosters a collaborative and dynamic environment focused on developing reusable test and debug methodologies for new silicon device models, including bare die and stacked die. What excites us most is driving cutting-edge hardware DFT strategies and solving complex challenges that directly impact the quality and reliability of Cisco\u2019s silicon products.\n\nYour Impact\n\nLead the development and execution of comprehensive test benches to verify DFT architectures, ensuring thorough coverage of design specifications. Collaborate cross-functionally to integrate test logic and validate it across all implementation stages and post-silicon validation flows. Drive innovation in hardware DFT and test strategies for emerging silicon device models, promoting reusable methodologies and standards. Identify DFT challenges, facilitate solution brainstorming, and develop implementation plans while mentoring junior engineers to meet project timelines. Your work will directly enhance test coverage, debug efficiency, and product quality, making a significant impact on Cisco\u2019s silicon design and validation processes.\n\nMinimum qualifications\n\nBachelor\u2019s or Master\u2019s Degree in Electrical, Computer Engineering or any relevant field.\n\n10+ years of experience in design verification or ASIC design.\n\nProven experience in test planning based on complex design specifications.\n\nProficiency in debugging using DVE/Verdi tools.\n\nExperience in scripting languages like Tcl, Python, or Perl.\n\nPreferred qualifications\n\nExperience in testbench development using SystemVerilog.\n\nKnowledge of JTAG protocol, scan architecture, MBIST, and boundary scan.\n\nFamiliarity with innovative hardware DFT and test strategy development.\n\nAbility to lead and mentor engineers.\n\nStrong problem-solving skills with minimal mentorship.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2006867EXTERNALENGLOBAL/ASIC-DFT-DV-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Armenia/ASIC-DFT-DV-Technical-Leader_2006867/apply"
+}

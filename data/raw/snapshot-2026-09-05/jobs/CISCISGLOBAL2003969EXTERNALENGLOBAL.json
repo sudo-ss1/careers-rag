@@ -1,0 +1,40 @@
+{
+ "job_seq_no": "CISCISGLOBAL2003969EXTERNALENGLOBAL",
+ "req_id": "2003969",
+ "title": "Observability Solutions Architect",
+ "category": "Sales",
+ "categories": [
+  "Sales"
+ ],
+ "locations": [
+  "Singapore, Central Singapore, Singapore"
+ ],
+ "country": "Singapore",
+ "city": "Singapore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-01-23T00:00:00.000+0000",
+ "skills": [
+  "observability",
+  "apm solutions",
+  "splunk",
+  "aws",
+  "gcp",
+  "azure",
+  "terraform",
+  "datadog",
+  "rfps",
+  "rfis",
+  "problem solving",
+  "customer satisfaction",
+  "presentation skills",
+  "interpersonal skills",
+  "analytical skills",
+  "decision making",
+  "technical acumen"
+ ],
+ "teaser": "Become part of our team as an Observability Solutions Architect, where you will lead the evaluation stage of the sales process and serve as a trusted advisor for Splunk\u2019s innovative offerings. Ideal candidates have proven presales or technical sales experience in software vendor environments and strong technical acumen.",
+ "description": "Meet the team\n\nJoin our team as a Observability Solutions Architect, where you'll help redefine\n\nhow businesses use information in decision-making. This is your chance to lead\n\nthe evaluation stage of the sales process, serving as the key advisor for\n\nSplunk\u2019s innovative offerings alongside our sales team, customers, and partners!\n\nYour Impact\n\n\u00a0* Competent in showcasing and promote Splunk\u2019s products and services through\n\n\u00a0\u00a0 presentations and engaging webinars, both onsite and at industry events.\n\n\u00a0* Serve as a trusted Functional Specialist, conveying the value of Splunk's\n\n\u00a0\u00a0 technology and applications to both technical and business customers.\n\n\u00a0* Develop tailored solutions by understanding and addressing each customer's\n\n\u00a0\u00a0 outstanding needs and challenges.\n\n\u00a0* Build and maintain strong, collaborative relationships with a diverse range\n\n\u00a0\u00a0 of customer from technical staff to senior management, throughout the sales\n\n\u00a0\u00a0 cycle.\n\n\u00a0* Lead the technology evaluation phase, independently guiding prospects and\n\n\u00a0\u00a0 customers through technical queries and solution exploration.\n\n\u00a0* Respond efficiently and with competence to functional and technical elements\n\n\u00a0\u00a0 of RFPs and RFIs, driving comprehensive and customer-centric solutions.\n\n\u00a0* Participate in complicated proof-of-concept /proof-of-value events,\n\n\u00a0\u00a0 collaborate with a team with varied strengths to establish success criteria\n\n\u00a0\u00a0 and communicate valuable outcomes.\n\n\u00a0* Quickly adapt to new tools and processes, making valuable contributions to\n\n\u00a0\u00a0 the continuous improvement of our Solutions Engineering team.\n\n\u00a0* Competent participation and/or working with a wider team in Unified\n\n\u00a0\u00a0 Engagement Model (UEM) on moderately complicated accounts.\n\n\u00a0* Drive overall customer satisfaction through all the stages of the sales\n\n\u00a0\u00a0 lifecycle.\n\n\u00a0* Partner with marketing to build impactful content and showcase Splunk's value\n\n\u00a0\u00a0 in marketing and industry events.\n\nMust-Have Qualifications\n\n\u00a0* A competent Presales / Technical Sales experience in a software vendor\n\n\u00a0\u00a0 environment with validated results in technical software vendor sales.\n\n\u00a0*\u00a0 Able to conduct discovery sessions to understand customer business goals and\n\n\u00a0\u00a0 demonstrate how Splunk can deliver targeted solutions.\n\n\u00a0*\u00a0 Experience in crafting detailed responses to RFIs/RFPs, showcasing\n\n\u00a0\u00a0 reliability and technical acuity.\n\n\u00a0*\u00a0 A strong teammate who thrives in the technology assessment phase, actively\n\n\u00a0\u00a0 contributing as a crucial technical advisor.\n\n\u00a0*\u00a0 Excellent knowledge of Company's overall IT technology. Ability to\n\n\u00a0\u00a0 investigate technicalities when needed to provide hands-on demonstrations.\n\n\u00a0*\u00a0 Great analytical problem solving and decision making skills and competent to\n\n\u00a0\u00a0 work independently to resolve, identify issues, risks and suggest mitigations\n\n\u00a0\u00a0 strategies.\n\n\u00a0* Competent to identify all technical issues of your assigned accounts to\n\n\u00a0\u00a0 assure customer satisfaction throughout the UEM process. Establish and\n\n\u00a0\u00a0 maintain positive relationships with your customer technical decision makers\n\n\u00a0\u00a0 and staff.\n\n\u00a0*\u00a0 Strong communications, presentation and interpersonal skills.\n\n\u00a0* Willingness to travel where required.\n\n* This role prioritises Singapore Citizens.\n\nCore Technical Prerequisites\n\nStrong command of observability fundamentals - MELT, including correlation, sampling, and high-cardinality control.\n\nHands-on expertise with OpenTelemetry across instrumentation, collectors, and context propagation.\n\nStrong architectural intuition for large-scale distributed systems and microservices failure modes.\n\nDeep practical understanding of cloud-native and Kubernetes observability.\n\nWorking knowledge of APM internals and runtime instrumentation (Java, .NET, Node.js, Python).\n\nExperience architecting high-throughput telemetry ingestion, storage, and query pipelines.\n\nStrong grasp of observability data models and query pattern based analytics.\n\nApplied use of AI/ML in observability for baselining, anomaly detection, and alert noise reduction.\n\nAdvanced familiarity with Kubernetes networking and service mesh observability.\n\nExposure to eBPF or kernel-level telemetry and zero-instrumentation techniques.\n\nCapability to map technical telemetry to business transactions and user journeys.\n\nClear understanding of security, privacy, and multi-tenant data isolation.\n\nProven integration experience with CI/CD, incident management, and ITSM ecosystems.\n\nStrong grasp of performance overhead, telemetry cost controls, and FinOps alignment.\n\nPreferred Qualifications\n\nExperience operating observability platforms at very large scale (multi-region, multi-tenant).\n\nPrior ownership of production SRE or platform incidents, including postmortems.\n\nExperience designing observability for regulated or high-compliance domains.\n\nInvolvement in customer migrations from competing observability platforms.\n\nAbility to influence product roadmap using field and customer insights.\n\nExperience correlating telemetry with SLIs, SLOs, error budgets, and business KPIs.\n\nUse of observability data for cost optimization and FinOps initiatives.\n\nContributions to open-source observability projects or public technical content.\n\nRelevant Industry Certification in Otel, Hyperscalers, Data domains.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2003969EXTERNALENGLOBAL/Observability-Solutions-Architect",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Singapore-Singapore/Observability-Solutions-Architect_2003969/apply"
+}

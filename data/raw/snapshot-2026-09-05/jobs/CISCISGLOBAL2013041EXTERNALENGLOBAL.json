@@ -1,0 +1,41 @@
+{
+ "job_seq_no": "CISCISGLOBAL2013041EXTERNALENGLOBAL",
+ "req_id": "2013041",
+ "title": "ASIC Engineering Design Verification Leader (SystemVerilog, Python, C and UVM |8-12 years| Pune)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Pune, India"
+ ],
+ "country": "India",
+ "city": "Pune",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-05-22T00:00:00.000+0000",
+ "skills": [
+  "mentor graphics",
+  "verilog",
+  "rtl design",
+  "analytical skills",
+  "c",
+  "d2d phy ip & protocols",
+  "fpga verification",
+  "synopsys",
+  "dft",
+  "hdl",
+  "asic design flow",
+  "system verilog",
+  "analog and digital verification",
+  "uvm",
+  "python",
+  "test bench development",
+  "serdes",
+  "debugging functional simulations"
+ ],
+ "teaser": "We are recruiting a ASIC Engineering Design Verification Leader to drive the design and verification of advanced optical transceivers and platforms for Cisco's data centre networking solutions. Lead verification documentation, develop testbench components, and collaborate with multidisciplinary teams. Ideal for experienced engineers with strong expertise in SystemVerilog, Python, C, and UVM.",
+ "description": "Meet the Team\n\nCisco\u2019s Client Optics Group (COG) designs & delivers the high-speed optical transceivers, and platforms that power Cisco's core data center networking solutions. We specialize in the design and integration of cutting-edge IM/DD optics and silicon photonic platforms that enable customers to deploy industry-leading optical technologies within data center with unprecedented speed, capacity, and reliability. Come join us and take part in shaping COG\u2019s ground-breaking optical solutions by designing, developing, and testing some of the most advanced pluggable, and Co-packaged Optics (CPO) being developed in the industry.\n\nYou will work with Cisco's outstanding Silicon Photonics team. Our team is responsible for driving the development and optimization of optical transceivers & modules (800G,1.6T & beyond) that seamlessly integrate with Cisco's routing, switching, and datacenter platforms, enabling customers to build scalable, high-performance networks that support emerging technologies including AI/ML workloads, and next-generation data center architectures.\n\nYour Impact\n\nAs a Verification Engineer, you will work with a diverse team of engineers spanning multiple disciplines. At the concept phase you will create verification documentation and work with senior engineers to help with defining the verification methodology and developing testbench components. During the initial design phase, you will be a part of block level verification and then you will transition to full chip verification. You will run verification at block & chip level with various high-speed IPs integrated like ODSP, D2D IP, SerDes XSR, SerDes PAM4 integrated drivers/TIA, and control functions. You will develop functional coverage models, assertions, and debug complex verification issues within a UVM-based framework. Prior to tapeout you will run functional scenarios with CPU FW loaded and verify functionality at the CPU sub-system level. You may be involved in FPGA verification. Post Silicon you will be involved in ATE test plan and test vector generation, ATE testing and release to production.\n\nDevelop testbench components for Silicon Photonics subsystems. Proven ability to build UVM components (agents, drivers, monitors, scoreboards, sequences) and implement constrained-random and directed test strategies\n\nAbility to understand coverage metrics and functional specifications\n\nUnderstand and implement verification scenarios per full chip analog and digital verification test plans\n\nAnalyse coverage, add scenarios to enhance coverage and debug functional simulations, add corner verification cases and identify and resolve functional bugs\n\nFW/C-Coding and verification of CPU sub-systems with FW\n\nMust have good knowledge of Python and C. Develop scripts for automated analysis and reports\n\nGood understanding of RTL digital design and DFT (Design for Test) principles\n\nExcellent organizational, teamwork, and communication skills\n\nMinimum Qualifications\n\nBachelor\u2019s or Masters in Electronics Engineering (or equivalent/related)\n\n8-12 years of functional verification experience\n\nStrong skills in SystemVerilog, Python, C and UVM methodology\n\nFamiliarity with UVM phases, configuration mechanisms, factory overrides, and reuse across block, subsystem, and SoC-level verification\n\nGood understanding of CPU sub-systems, FPGA, ODSP & integrated transceiver features, SerDes, Ethernet, D2D PHY IP & Protocols\n\nExperience with RTL design, simulation tools, (e.g., Synopsys, Cadence, Mentor Graphics) and ASIC design flow\n\nYou must be a team player and be able to drive decisions quickly with consensus building.\n\nStrong analytical, problem-solving and debugging skills\n\nStrong teamwork, communication, and organizational skills\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2013041EXTERNALENGLOBAL/ASIC-Engineering-Design-Verification-Leader-SystemVerilog-Python-C-and-UVM-8-12-years-Pune",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Pune-India/ASIC-Engineering-Design-Verification-Leader_2013041/apply"
+}

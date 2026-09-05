@@ -1,0 +1,50 @@
+{
+ "job_seq_no": "CISCISGLOBAL2013339EXTERNALENGLOBAL",
+ "req_id": "2013339",
+ "title": "Site Reliability Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-05-22T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "github",
+  "vault",
+  "kvm virtulisation",
+  "slo measurement",
+  "gitlab",
+  "openstack",
+  "devops",
+  "ovn",
+  "ci/cd pipelines",
+  "git",
+  "argocd",
+  "infrastructure as code",
+  "nfv",
+  "rhel kvm virtualization",
+  "software-defined storage",
+  "software development lifecycle",
+  "private cloud",
+  "openstack operations",
+  "sre mindset",
+  "helm",
+  "ovs",
+  "conjur",
+  "ansible",
+  "jenkins",
+  "ceph",
+  "monitoring and logging"
+ ],
+ "teaser": "Become part of our team as a Site Reliability Engineer, focusing on private cloud and virtualisation. Drive the development and deployment of automation tools for enterprise-grade cloud infrastructure, ensuring high availability and robust performance. Ideal for experienced professionals with strong expertise in RHEL KVM, Python, and cloud operations.",
+ "description": "Site Reliability Engineer (Private Cloud / Virtualization)\n\n\u00a0\n\nCisco is transforming its platforms to run the next generation of cloud-native and multi-cloud services. This role offers a superb opportunity to transform how infrastructure platforms are developed and managed with full software automation.\n\nThis team is responsible for building, deploying and managing a large enterprise grade private cloud infrastructure within Cisco data center, which caters to Cisco\u2019s \u201cBusiness Critical\u201d applications available both internally and externally. The platform provides a very close public cloud experience to Cisco employees and at the same time is highly available with self-healing, full lifecycle monitoring, and management capabilities.\n\n\u00a0\n\nWho you will work with\n\nYou will be working within the Cloud Infrastructure Engineering team that designs and develops Hybrid-Cloud compute platforms and capabilities that are crucial to keeping Cisco's critical business applications and processes available.\n\n\u00a0\n\nWhat you\u2019ll Do\n\n\u00a0\n\nYou will be a member of a software & site reliability engineering team that develops tools and integrations for a portfolio of cloud infrastructure services supporting Cisco\u2019s critical business operations.\n\nAs a SRE (Private Cloud / Virtualization) with extensive experience in enterprise-level private cloud setups, you will join a dynamic and agile team of talented engineers focused on developing and deploying platform automation and tools for on-premises (OpenStack/BareMetal) cloud infrastructure. Proven experience with KVM, virtualization, Python, Ansible & AI skills is essential for this role.\u00a0\n\n\u00a0\n\nResponsibilities:\n\nThe individual will develop and deliver software to enhance the functionality, reliability, availability, and manageability of applications and cloud platforms using a DevOps model for on-premise solution built on Bare Metal Servers or on OpenStack.\n\nThey will ensure the quality, performance, robustness, and scalability of services, automate development processes through CI/CD pipelines, and champion Infrastructure as Code (IaaC) practices. Additionally, they will apply global IT infrastructure knowledge to develop standard solutions, evaluate new technologies, and engage cross-functional teams to solve problems or add business value.\n\nThe role also includes setting and measuring SLOs for infrastructure, creating monitoring and logging features, and influencing technology decisions and policies.\n\nRequired Skills and Experience:\n\n8+ years of IT experience; 5+ years of relevant experience in Virtualization and Cloud Infrastructure.\n\nSolid cloud infrastructure background and operational, fixing , problem-solving experience especially in RHEL KVM environments.\n\nSoftware development lifecycle including design, development, testing, packaging, deployment, upgrade and support.\n\nExtensive experience in RHEL KVM virtualization, including configuring and optimizing virtual machines, networking, and high availability.\n\nExperience with Red Hat Enterprise Linux and/or CentOS build, development, and operations.\n\nStrong software development experience in Python, with proven experience in Ansible for configuration management.\n\nOpenStack operations experience; a\n\nbility to\u00a0 write patches for OpenStack in python and contribute to community. \n\nExperience with software-defined storage with Ceph or other cloud-based storage. Hypervisor technologies including KVM \n\nExperience in building and maintaining code distribution through automated pipelines Software-defined network technologies including OVS, OVN, NFV, etc. IaaC experience \u2013 Terraform, Ansible, Git, GitLab, GitHub, Jenkins, Helm, ArgoCD, Conjur/Vault\n\nExperience in deploying and managing (IaaS) infrastructure in Private/Public Cloud using OpenStack.\n\nNon-Technical Requirements:\n\nAgile software development practices.\n\nWork with geographically distributed teams.\n\nUnderstand IT processes, including Design, implementation, and Operations.\n\nAmbitious, able and willing to help where help is needed\n\nAble to build relationships, be culturally sensitive, have goal alignment, have learning agility\n\nReady to rock and build an amazing product\n\n\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2013339EXTERNALENGLOBAL/Site-Reliability-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Site-Reliability-Engineer_2013339-1/apply"
+}

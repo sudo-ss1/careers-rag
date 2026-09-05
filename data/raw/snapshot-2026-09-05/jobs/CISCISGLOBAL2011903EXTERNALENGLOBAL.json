@@ -1,0 +1,39 @@
+{
+ "job_seq_no": "CISCISGLOBAL2011903EXTERNALENGLOBAL",
+ "req_id": "2011903",
+ "title": "Software Development Engineer \u2013 C/C++ | Linux | Networking Protocols | Layer 2/Layer 3",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-02T00:00:00.000+0000",
+ "skills": [
+  "static analysis tools",
+  "rommon",
+  "c/c++",
+  "routing",
+  "routing protocols",
+  "debugging",
+  "x86 assembly code",
+  "bootloader software",
+  "device drivers",
+  "layer 2 networking protocols",
+  "ai/ml techniques",
+  "code review",
+  "cloud networking",
+  "system software development",
+  "linux",
+  "packet forwarding"
+ ],
+ "teaser": "Join our team as a Senior Software Development Engineer \u2013 Routing, C, Linux and help build next-generation SD-WAN and edge routing platforms. Collaborate with top engineers, leverage AI tools, and drive innovation in secure, high-performance networking. Shape the future of connectivity with Cisco and make a global impact in a dynamic, high-energy environment.",
+ "description": "Meet the Team\n\nCisco is a global leader in networking and IT, dedicated to transforming how people connect, communicate, and collaborate. We have created an unrivalled company culture that is collaborative, empathetic, and provides employees with the autonomy to develop technology that is intuitive, secure, and simple for everyone to use.\n\nOur Routing SD-WAN Group is at the forefront of innovation, delivering intelligent, secure, and scalable WAN edge solutions that empower enterprises to connect and protect their networks from the edge to the cloud. Within this group, the Routing Platform Software team builds industry-leading SD-WAN and edge routing platforms. We are reinventing the WAN with controller-based, intent-driven networking that delivers secure connectivity to users and devices across cloud, on-prem, and SaaS applications. You will join a high-energy group working on next-generation routing and services at a global scale, connecting thousands of devices and millions of users.\n\nYour Impact\n\nIn this role, you will develop and evolve the forwarding and platform software that powers our SD-WAN and edge routing solutions. You will collaborate with ASIC, hardware, and cross-functional engineering teams to define new architectures, implement high-performance packet forwarding, and deliver robust, production-ready features. You will also leverage modern AI tools to enhance software development practices, driving greater efficiency, quality, and innovation across the team.\n\nKey Responsibilities\n\nHardware-Software Integration:\u00a0Collaborate closely with hardware engineering teams to bring up new platforms, develop low-level drivers, and integrate Network Interface Modules (NIMs).\n\nFirmware Development:\u00a0Design, implement, and maintain ROMMON and bootloader software to ensure secure and reliable system initialization.\n\nForwarding Plane Optimization:\u00a0Develop and tune high-performance forwarding plane software to meet the rigorous demands of modern secure routing environments.\n\nL2 Feature Development:\u00a0Implement and optimize Layer 2 networking protocols and features within the platform stack.\n\nPerformance Debugging:\u00a0Perform deep-dive analysis into performance bottlenecks at the kernel and hardware-abstraction layers, including the control plane.\n\nModern Development Practices:\u00a0Utilize modern development workflows, including AI-assisted coding tools (such as GitHub Copilot, Claude, or Codex) and IDEs like VSCode, to accelerate the development lifecycle and improve code quality.\n\nMinimum Qualifications\n\n8-12 years of industry experience with end-to-end software development in networking.\n\nExperience across platforms, system software, kernel/user-space drivers, bootloaders, BIOS, and performance tuning spanning control-plane and data-plane.\n\nStrong proficiency in C/C++ with a focus on systems programming and Linux environments.\n\nProven experience in developing device drivers, working with RTOS/Linux kernels, and understanding hardware-software interfaces.\n\nSolid understanding of routing architectures and Layer 2 networking protocols (e.g., Ethernet, VLANs, STP).\n\nExperience with bootloaders (ROMMON), hardware bring-up, and board support packages (BSP).\n\nDemonstrated ability to debug complex issues spanning hardware, firmware, and software layers.\n\nExperience with LAN/WAN communication interfaces and Layer 2/Layer 3 technologies.\n\nExperience with AI/ML techniques and tools for development (e.g., code assistants, static analysis tools, test automation).\n\nPreferred Qualifications\n\nKnowledge of high-speed interfaces (PHY, MAC, MACSEC) and DPDK.\n\nPlatform/system expertise such as kernel bring-up, driver development, platform/network management software, and cloud networking.\n\nDebugging experience with i2c, i2c trace analysers, and PCIe.\n\nKnowledge of x86 or ARM assembly code, instruction sets, and ABIs.\n\nExperience with debugging using hardware and software debuggers (e.g., GDB, Arium, BDI).\n\n#sdwanhiring\n\n\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011903EXTERNALENGLOBAL/Software-Development-Engineer-C-C-Linux-Networking-Protocols-Layer-2-Layer-3",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Development-Engineer---Routing--C--Linux_2011903/apply"
+}

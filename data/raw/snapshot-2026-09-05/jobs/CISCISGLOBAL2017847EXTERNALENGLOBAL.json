@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL2017847EXTERNALENGLOBAL",
+ "req_id": "2017847",
+ "title": "Data Architect - 13+ years exp, Snowflake, dbt, Python",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India",
+  "Hyderabad, Telang\u0101na, India",
+  "Pune, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-27T00:00:00.000+0000",
+ "skills": [
+  "snowflake",
+  "dbt",
+  "python",
+  "data architecture",
+  "data modeling",
+  "cloud-native technologies",
+  "data lakes",
+  "data warehouses",
+  "api integration",
+  "data governance",
+  "ci/cd",
+  "kubernetes",
+  "agile",
+  "stakeholder management",
+  "mentorship",
+  "communication skills",
+  "influencing skills"
+ ],
+ "teaser": "Become part of our team as a Data Architect, leading the design and delivery of scalable, secure data architectures for Cisco's enterprise platforms. Drive strategic direction, collaborate with cross-functional teams, and shape advanced analytics solutions. Ideal for experienced professionals with deep expertise in cloud-native data platforms and enterprise data architecture.",
+ "description": "Meet the Team\n\nBe part of the Cisco IT Data team, where technology, innovation, and collaboration drive real business value. Our team is at the forefront of designing and delivering scalable, secure, and advanced solutions that enable data-driven decision-making for Cisco's global business. We believe in a culture of curiosity, creativity, and continuous learning, where team members are empowered to experiment and bring new ideas to life.\n\nAs a Data Architect, you will be the senior technical authority responsible for defining the architecture, standards, and strategic direction of Cisco's enterprise data platforms. You will design scalable, secure, and future-ready data architectures that power advanced analytics, machine learning, and real-time data products. Partnering with engineering, analytics, and business leaders, your designs will directly shape how Cisco stores, governs, integrates, and unlocks value from data across the enterprise.\n\nKey Responsibilities\n\nDefine and own the enterprise data architecture vision, standards, and multi-year roadmap across ingestion, storage, transformation, discovery, and governance.\n\nDesign scalable, secure, and highly available data architectures\u2014including data lakes, lakehouses, data warehouses, and real-time streaming systems\u2014leveraging modern cloud-native technologies.\n\nDefine and lead target-state architecture and migration strategies that modernize legacy data infrastructure onto cloud-native platforms (e.g., GCP, Snowflake) to improve scalability and reduce operational cost.\n\nEstablish architectural standards, reference patterns, and best practices for data modeling, integration, metadata management, and platform security across teams.\n\nEstablish enterprise data modeling standards and governance/lineage frameworks that improve data quality, discoverability, and compliance across multiple business domains.\n\nDesign API- and event-driven integration architectures that enable real-time data access across the enterprise, improving data delivery speed and reliability.\n\nPartner closely with data engineers, analytics teams, platform engineers, and business leaders to translate strategic priorities into robust, well-governed data solutions.\n\nLead architecture decisions for platform modernization, evaluating and selecting technologies (e.g., Snowflake, BigQuery, Airflow, DBT, Informatica, Kubernetes) to optimize efficiency, cost, and scale.\n\nDefine data governance, lineage, quality, and compliance frameworks, ensuring they are embedded across platform design and operations.\n\nProvide architectural oversight and design reviews, ensuring solutions meet reliability, scalability, performance, and security requirements.\n\nChampion conceptual, logical, and physical data modeling practices that support both operational and analytical workloads.\n\nMentor engineers and architects, fostering a culture of technical excellence, sound design thinking, and knowledge sharing.\n\nAct as a key technical advisor to leadership, influencing architecture decisions, technology investments, and strategic direction across the data organization.\n\nMinimum Qualifications\n\nBachelor's or Master's degree in Computer Science, Engineering, or related field.\n\n13+ years of professional experience in data architecture, data engineering, or large-scale data platform design.\n\nDeep expertise designing enterprise data architectures\u2014data lakes, lakehouses, and data warehouses\u2014at scale.\n\nStrong proficiency with cloud platforms (AWS, GCP, or Snowflake) and modern, cloud-native data architectures.\n\nExpert-level data modeling skills (conceptual, logical, and physical) across relational, dimensional, and NoSQL paradigms.\n\nProven experience defining data integration, ingestion, and API/microservices patterns for enterprise-scale systems.\n\nStrong knowledge of data pipeline orchestration tools (Airflow, DBT, Informatica) and cloud-native storage (Snowflake, BigQuery).\n\nHands-on understanding of CI/CD, containerization (Docker, Kubernetes), and infrastructure as code (Terraform, CloudFormation).\n\nSolid programming or scripting skills (Python, SQL, Java, or similar) to support architecture validation and prototyping.\n\nDemonstrated success leading large, complex architecture initiatives and influencing across teams in Agile/Scrum environments.\n\nPreferred Qualifications\n\nExperience designing real-time/streaming data architectures (Kafka, Pub/Sub) and large-scale ETL/ELT processes.\n\nDeep knowledge of data governance, security, lineage, and compliance frameworks.\n\nExperience architecting platforms to support AI/ML and advanced analytics workloads.\n\nProven ability to optimize cost, performance, and scalability in cloud-based data environments at scale.\n\nRelevant architecture certifications (e.g., cloud architect, data architecture).\n\nExceptional communication, influencing, stakeholder management, and mentorship abilities at the organizational level.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017847EXTERNALENGLOBAL/Data-Architect-13-years-exp-Snowflake-dbt-Python",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Data-Architect---13--years-exp--Snowflake--dBT--Python_2017847/apply"
+}

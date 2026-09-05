@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021621EXTERNALENGLOBAL",
+ "req_id": "2021621",
+ "title": "Data Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-04T00:00:00.000+0000",
+ "skills": [
+  "snowflake",
+  "dbt",
+  "sql",
+  "python",
+  "aws glue",
+  "aws lambda",
+  "aws step functions",
+  "gcp dataflow",
+  "gcp cloud composer",
+  "ci/cd",
+  "data architecture",
+  "etl/elt pipeline development",
+  "data modeling",
+  "data quality management",
+  "data governance",
+  "data visualization",
+  "agile",
+  "technical leadership",
+  "data mesh",
+  "data fabric",
+  "technical governance",
+  "observability",
+  "data lineage",
+  "access control",
+  "mentoring",
+  "stakeholder management",
+  "technical presentations",
+  "sigma",
+  "power bi",
+  "tableau"
+ ],
+ "teaser": "We are looking for a Data Engineer to architect and build scalable, AI-ready data solutions that drive business impact and operational efficiency. Lead end-to-end ETL/ELT pipeline development and collaborate with cross-functional teams. Ideal for experienced professionals with strong expertise in cloud data warehousing and advanced analytics platforms.",
+ "description": "Meet the Team\n\nJoin Cisco's Commerce Intelligence Data & Analytics team, a strategic group at the forefront of delivering seamless intelligence, advanced analytics, and cutting-edge agentic experiences across our global business operations. Our mission is to architect and build a scalable, unified, and AI-ready data foundation that not only drives high-impact business decisions but also enables automated actions at an enterprise level. We achieve this by blending innovation, deep process knowledge, technical expertise, and a relentless focus on business impact, ultimately enhancing operational efficiency and data-driven decision-making at scale\n\nYour Impact\n\nAs a Data Engineer, you will play a critical role, driving end to end solutions in alignment with AI ready Data Architecture vision. You will lead projects with deep understanding of complex operational processes, explore diverse source systems, and analyze intricate data platforms to design and implement robust, scalable data and agentic solutions that address critical commerce operational needs. Your expertise will be pivotal in designing, building solutions for long-term maintainability of our robust data ecosystem, enabling advanced analytical capabilities, AI, and agentic solutions by collaborating with extended team across various time zones. You will be responsible for end-to-end ETL/ELT pipeline development for both structured and unstructured data, ensuring optimal data threading and transformation within our Golden layer. A key aspect of your role will be collaborating extensively with team at onsite, business functions and other engineering teams to architect and own a reusable semantic layer, strategically powering consumption across AI, agentic solutions, dashboards, and various enterprise applications. You will also mentor junior engineers and champion best practices across the team.\n\n\u00a0\n\nResponsibilities\n\nLead complex exploratory data analysis initiatives to identify strategic trends and patterns within structured and unstructured datasets, informing architectural decisions.\n\nDrive the translation of highly complex business requirements into strategic, scalable, and resilient data solutions, integrating insights from diverse non-ERP sources with our Enterprise Data Warehouse (EDW).\n\nArchitect, design, and oversee the development and optimization of highly scalable ELT/ETL pipelines to ingest, transform, and publish data into the Snowflake Data Cloud, ensuring performance and reliability.\n\nDefine standards for, and oversee the development and maintenance of, high-quality, analytics-ready data models using dbt, emphasizing modular design, reusability, rigorous testing, and CI/CD integration.\n\nLead the design and implementation of a reusable semantic layer that adheres to enterprise architectural standards and supports diverse, high-volume consumption patterns (AI, agentic solutions, dashboards).\n\nDrive the integration of Snowflake Cortex and other AI/LLM capabilities directly into data pipelines, enabling advanced analytics and intelligent automation.\n\nLead the design and development of advanced data consumption layers, including sophisticated dashboards, reports, conversational analytics, and agentic solutions.\n\nApplies working knowledge of databases, relational databases, cloud services, and scripting languages\n\nContributes to data quality and compliance, including cleansing and scrubbing of data, data integrations and data quality framework\n\nEstablish and champion best practices for data quality, observability, lineage, governance, and access control across our AI-ready data architecture, ensuring data trust and compliance.\n\nServe as a technical liaison, collaborating strategically with data architects, analysts, and business stakeholders to define and execute long-term data strategies and roadmaps. Work in partnership and guidance from the core team at onsite\n\nDrive the establishment and continuous improvement of technical governance, CI/CD best practices, and rigorous version control standards to ensure the integrity, security, and scalability of our modern data stack.\n\nExperience with cloud-native services for data processing and orchestration (e.g., AWS Glue, Lambda, Step Functions, GCP Dataflow, Cloud Composer).\n\nDemonstrated experience applying Agile, Scrum, or Kanban methodologies within a data engineering environment.\n\nA self-starter with proven expertise to deliver outcomes with minimal supervision\n\nProvide technical guidance and mentorship to junior data engineers, fostering a culture of excellence and continuous learning.\n\nMinimum Qualifications\n\nBachelor\u2019s degree in Computer Science, Engineering, Information Systems, or a related technical field, or equivalent practical experience.\n\n8+ years of progressive experience in data engineering, with a proven track record in architecting and leading cloud data warehousing and modern data platform implementations.\n\n4+ years of experience leading or architecting AI and agentic solutions, specifically on platforms like Snowflake, AWS, or GCP.\n\nExpert-level proficiency and architectural leadership with the Snowflake Data Cloud, encompassing its advanced features, security model, and operational best practices.\n\nExpert-level proficiency and strategic application of dbt (Data Build Tool) for designing, developing, and maintaining complex data models, including automated testing and CI/CD integration.\n\nMastery in SQL and Python, with a focus on scalable data processing, automation, and API integration.\n\nExtensive experience (7+ years) with leading BI/reporting tools such as Sigma or Power BI, with a deep understanding of data visualization best practices.\n\nundefined\n\nPreferred Qualifications\n\nDemonstrated expertise in implementing and managing data quality, observability, and lineage frameworks and tools across enterprise data pipelines.Deep architectural understanding and practical application of advanced Snowflake capabilities (e.g., zero-copy cloning, secure data sharing, external tables, Snowpark, dynamic tables, MCP gateways).Proven track record in defining and implementing enterprise-level data and solution architectures, including experience with data mesh or data fabric principles.Comprehensive understanding of the broader analytics ecosystem, including diverse BI/reporting tools (e.g., Tableau, ThoughtSpot) and complex downstream consumption patterns.Previous experience guiding technical teams and presenting complex technical concepts to senior leadership.Snowflake Gen AI certification preferred\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021621EXTERNALENGLOBAL/Data-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Data-Engineer_2021621/apply"
+}

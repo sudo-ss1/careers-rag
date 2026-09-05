@@ -1,0 +1,45 @@
+{
+ "job_seq_no": "CISCISGLOBAL2019859EXTERNALENGLOBAL",
+ "req_id": "2019859",
+ "title": "Hardware Compliance Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Taipei, New Taipei, Taiwan"
+ ],
+ "country": "Taiwan",
+ "city": "Taipei",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-29T00:00:00.000+0000",
+ "skills": [
+  "next generation technology",
+  "ieee standards",
+  "hardware design",
+  "system/board design",
+  "circuit board layout",
+  "hardware automation",
+  "validation and test",
+  "signal integrity",
+  "power design",
+  "solution verification",
+  "cross-functional team leadership",
+  "test methodology",
+  "issue resolution",
+  "product quality assurance",
+  "hardware specification",
+  "design review",
+  "ip development",
+  "mentoring",
+  "technical documentation",
+  "code review",
+  "production installation",
+  "configuration management"
+ ],
+ "teaser": "Join our team as a Hardware Compliance Engineer, supporting regulatory approval for advanced hardware products. Collaborate with cross-functional teams to define and implement EMC/RF compliance strategies, ensuring products meet global standards. Ideal for experienced engineers with expertise in RF and EMC compliance.",
+ "description": "Meet the Team\n\nCommon Hardware Group (CHG) Compliance team supports regulatory approval across various products like Cisco wireless access points, cellular routers, sensors, and many others. As part of the central hardware power engineering group, you will collaborate with various functions like Hardware Design and Test, ASIC Design and Test, Power Engineering, Signal Integrity, EMC / EMI, and Mechanical Design, expanding the breadth of your knowledge, designing power, and delivering amazing products to the market.\n\nYour Impact\n\nAs a Hardware Regulatory Engineer, you will partner with hardware, RF/antenna, firmware/software, product security, and compliance teams to develop regulatory strategies and support EMC/RF validation.\n\nYou will work with external test laboratories to ensure products achieve certification readiness and meet global regulatory requirements.\n\nDefine EMC and RF regulatory requirements for global markets (FCC, CE, IC, RED, MIC).\n\nDefine performance monitoring metrics during EMC/EMI testing.\n\nDevelop compliance strategies early in the product design lifecycle to minimize certification risk.\n\nReview schematics and recommend filtering, shielding, grounding, and ESD protection solutions.\n\nCoordinate with JDM partner to address the design issues and come up with the EMC and RF test plan and provide PCB layout guidance on stack up, return paths, impedance control, and EMI mitigation.\n\nEnsure RF designs meet regulatory requirements for wireless technologies (WiFi, Bluetooth,5G NR, LTE, etc.).\n\nPlan and complete pre-compliance testing including radiated, conducted emissions, surge, ESD, EFT/B, Radiated immunity, Conducted immunity\n\nCollaborate with hardware, RF, mechanical, antenna design and manufacturing teams to ensure compliant product design.\n\nBuild EMC test setups including cabling, grounding, support equipment, and worst-case operating modes.\n\nConfigure traffic generators to create representative data loads and route traffic through DUT interfaces during testing.\n\nMinimum Qualifications: \n\nBachelor\u2019s degree in electrical engineering, electronics engineering, RF Engineering, or related field with 7+ years of experience; or master\u2019s degree with 4+ years of experience or PhD with one year of experience.\n\nExperience with RF regulatory test requirements such as DFS (Dynamic Frequency Selection), Adaptivity, Receiver Blocking, and AFC (Automatic Frequency Control).\n\nExperience with EMC compliance requirements and test methods for the test cases such as radiated and conducted emissions, immunity testing, and evaluation of product functional performance.\n\nExperience configuring test modes, monitoring RF performance degradation, and supporting compliance validation for Wi-Fi and other intentional radiator devices.\n\nExperience using spectrum analyzers, EMI receivers, vector network analyzers (VNA), signal generators, oscilloscopes, near-field probes, LISNs, and RF power meters.\n\nPreferred Qualifications: \n\nExperience with power electronics, power supply, or analog design, including knowledge in high-efficiency power topologies such as buck, buck-boost and flyback.\n\nKnowledge of component selection and materials affecting EMC performance.\n\nFamiliarity with environmental and reliability standards impacting EMC performance such as temperature, humidity, vibration, and aging effects.\n\nFamiliarity with system-level test automation tools such as Python, LabVIEW, MATLAB, or similar tools.\n\nFamiliarity with cybersecurity and regulatory compliance frameworks impacting connected electronic products, including EU Cyber Resilience Act (CRA), India Commsec (Communication Security) requirements, and other applicable global cybersecurity standards.\n\nExperience developing automated test scripts or traffic profiles to monitor product performance during EMC immunity testing.\n\nWe do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019859EXTERNALENGLOBAL/Hardware-Compliance-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Taipei-Taiwan/Hardware-Compliance-Engineer_2019859/apply"
+}

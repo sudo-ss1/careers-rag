@@ -1,0 +1,49 @@
+{
+ "job_seq_no": "CISCISGLOBAL2006928EXTERNALENGLOBAL",
+ "req_id": "2006928",
+ "title": "ASIC Design Verification Engineer | UVM | Exp 8+ Years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-05-14T00:00:00.000+0000",
+ "skills": [
+  "asic design verification",
+  "uvm",
+  "system verilog",
+  "asic subsystem development",
+  "test bench development",
+  "perl",
+  "python",
+  "scripting",
+  "debugging",
+  "integration testing",
+  "code review",
+  "functional coverage",
+  "block architecture",
+  "cluster environment design",
+  "top-level verification",
+  "forwarding logic",
+  "p4",
+  "veloce",
+  "palladium",
+  "zebu",
+  "haps",
+  "formal verification",
+  "pcie",
+  "ethernet",
+  "rdma",
+  "tcp"
+ ],
+ "teaser": "We are recruiting a ASIC Design Verification Engineer to define, design, and verify ASIC and subsystems for Cisco platforms. You will architect and develop DV infrastructure, develop test plans, and ensure RTL quality. Ideal for candidates with significant ASIC verification experience and expertise in UVM/System Verilog.",
+ "description": "Define, design and verify ASIC and ASIC subsystems to be deployed in a range of Cisco platforms. Contribute to a multi-disciplined engineering team to meet the power, performance, and area goals for products. Design, document, and develop ASIC subsystems for release in high volume and quality. Help define the process, methods, and tools for design and implementation of complex developments.\n\nYou will contribute to developing Cisco\u2019s product solutions by crafting industry-leading sophisticated chips, with full exposure to all aspects of our systems and applications, including silicon, hardware, software, telemetry, and security.\n\nSpecific responsibilities include:\n* Architect block, cluster and top-level DV environment infrastructure.\n* Develop DV infrastructure from scratch.\n* Maintain and improve existing DV environments.\n* Develop test plans and tests for qualifying design at block, cluster and higher-level environments with mix of constraint random and advised stimulus.\n* Ensure complete verification coverage through implementation and review of code and functional coverage.\n* Ensure RTL quality with qualifying the design with Gate Level Simulations on netlist.\n* Collaborate closely with designers, architects, and software teams to address and debug issues during post-silicon bring-up, ensuring seamless integration and efficient performance.\n* Support testing of design in emulation.\n* Lead all aspects of and manage the ASIC bring-up process.\n\nMinimum Qualifications\n* Bachelor\u2019s Degree with 7+ years of relevant ASIC design verification experience.\n* Masters Degree with 5+ years of relevant ASIC design verification experience.\n* Proficient in ASIC verification using UVM/System Verilog.\n* Proficient in verifying sophisticated blocks, clusters and top level for ASIC.\n* Experience building test benches from scratch, hands on experience with System Verilog constraints, structures and classes.\n* Scripting experience with Perl and/or Python.\n\nPreferred Qualifications\n* Experience with Forwarding logic/Parsers/P4.\n* Experience with Veloce/Palladium/Zebu/HAPS.\n* Formal verification (iev/vc formal) knowledge.\n* Demonstrated ability on one or more protocols (PCIe, Ethernet, RDMA, TCP).\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2006928EXTERNALENGLOBAL/ASIC-Design-Verification-Engineer-UVM-Exp-8-Years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-Design-Verification-Engineer---UVM---Exp-8--Years_2006928/apply"
+}

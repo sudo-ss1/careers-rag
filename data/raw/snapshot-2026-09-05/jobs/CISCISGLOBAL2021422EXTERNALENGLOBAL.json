@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021422EXTERNALENGLOBAL",
+ "req_id": "2021422",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-01T00:00:00.000+0000",
+ "skills": [
+  "golang",
+  "python",
+  "microservices",
+  "api design",
+  "ai integration",
+  "kubernetes",
+  "containerization",
+  "cloud platforms",
+  "restful api design",
+  "api security",
+  "virtualization",
+  "aws",
+  "azure",
+  "gcp",
+  "postgresql",
+  "event-driven architecture",
+  "apache kafka",
+  "real-time data pipelines",
+  "code review",
+  "automated testing",
+  "agile",
+  "ci/cd pipeline management",
+  "technical documentation",
+  "git",
+  "system design",
+  "application performance optimization",
+  "secrets management",
+  "hashicorp vault",
+  "minio",
+  "amazon s3"
+ ],
+ "teaser": "We are seeking a Software Development Engineer to drive innovation in AI and ML integration within Cisco\u2019s Customer Experience platform. You will develop scalable software applications and collaborate with cross-functional teams. Ideal candidates have strong technical expertise in network automation and full-stack development.",
+ "description": "Meet the Team\n\u00a0\n\nCisco\u2019s Customer Experience (CX) organization is one of the company's fastest-growing and most innovative teams, crafting a first-in-class digital experience for our customers and partners everywhere they connect with Cisco. CX Platform is a platform-centric to support the diverse requirements of the CX organization and is being built with emerging technologies including\u202fpredictive AI\u202fand\u202fgenerative AI\u202fto\u202fdrive additional customer success. We are at the epicenter of developing modern, cloud-native technologies that allow us to stay agile and adaptable in a constantly evolving market. Pioneers in our field, CX enables customers to maximize value with a simple, unified Cisco experience, driving accelerated time to impact. We deliver on time with high quality & urgency, and we drive decisions with data and transparency while leading with ownership & accountability.\u202f\u202f\u202f\u00a0\n\nYour Impact\n\nCisco CX Engineering is seeking a Software Development Engineer to drive innovation and develop solutions for customer\u2019s most pressing usecase with a focus on incorporating AI and ML. This role requires deep technical expertise in network automation, full-stack development, and applicable AI use-cases.\n\nKey Responsibilities:\n\u00a0\n\nApplication Development:\n\nDevelop, and maintain scalable software applications across the full stack (front-end, back-end, and integration layers).\n\nUnderstand the Architecture and develop robust systems with an emphasis on scalability, reliability, and performance.\n\nAI/ML Integration:\n\nIncorporate AI and ML-driven features into product solutions, ensuring real-world applicability and responsible AI practices.\n\nCollaboration & Process:\n\nWork closely with UX/UI designers, product managers, and fellow engineers to deliver high-quality products.\n\nParticipate in agile ceremonies, sprint planning, and CI/CD pipeline management.\n\nQuality & Security:\n\nConduct thorough code reviews, automated testing, and maintain comprehensive documentation.\n\nEnsure adherence to security best practices, code quality, and maintainability standards.\n\nMinimum Qualifications:\n\nBachelor\u2019s degree with 3 years of related experience, or Master\u2019s degree in the relevant degree program.\n\nExperience with one or more of the following: Golang, Python, Pytest, SQL (preferably PostgreSQL), Angular, JavaScript, or TypeScript.\n\nExperience with one or more of the following: microservices, Kubernetes, containerization, virtualization, or cloud platforms such as AWS, Azure, or GCP.\n\nExperience integrating AI features (AI-assisted code generation), event-driven architecture (Apache Kafka) and real-time data pipelines.\n\nExperience with RESTful API design, API security, or hierarchical and relational data modeling.\n\nPreferred Qualifications\n\nExperience with DevOps tools and practices such as Jenkins or GitHub Actions.\n\nExperience with Git, system design, or application performance optimization.\n\nExperience with testing, debugging, and technical documentation.\n\nExperience with secrets management tools such as HashiCorp Vault or object storage platforms such as MinIO or Amazon S3.\n\nProblem-solving, communication, and customer-facing delivery skills.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021422EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2021422/apply"
+}

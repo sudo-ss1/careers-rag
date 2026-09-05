@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL2016454EXTERNALENGLOBAL",
+ "req_id": "2016454",
+ "title": "Data Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Hyderabad, Telang\u0101na, India"
+ ],
+ "country": "India",
+ "city": "Hyderabad",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-03T00:00:00.000+0000",
+ "skills": [
+  "data pipeline development",
+  "programming (python)",
+  "data architecture",
+  "java",
+  "security and privacy compliance",
+  "data compliance",
+  "data validation",
+  "business analysis",
+  "feature engineering",
+  "cloud data platforms",
+  "machine learning",
+  "data lake management",
+  "code review",
+  "big data technologies",
+  "database design",
+  "stakeholder management",
+  "unit testing",
+  "data cleansing",
+  "data visualization"
+ ],
+ "teaser": "Become part of our team as a Data Engineer, supporting critical sales planning and product master data management applications. Contribute to building and supporting AI-driven data solutions and integration layers. Ideal for candidates with significant experience in data engineering and cloud technologies.",
+ "description": "Meet the Team\u00a0\n\nJoin a dynamic and impactful team responsible for the critical sales planning and product master data mgmt. applications (Sales Hierarchy Mgmt.(SHARE), Access Mgmt.(IAM), Account Team Directory (ATD), Seller to SAV and Product Master Data Mgmt.(eGenie & HMP))\u00a0 that drive Cisco's success. This team is at the forefront of leveraging data to provide unparalleled insights into sales readiness, operational efficiency, and market visibility through AI-led data management and analysis. You will collaborate with dedicated professionals who are passionate about transforming data into actionable intelligence.\n\nYour Impact\u00a0\n\nBuild & Support Applications to enable Cisco\u2019s Product Master Data Management & Strategy\n\n\u2022 Provide support for Product Master Data Management suite of Applications\n\n\u2022 Support building Agentic AI solutions for PMDM use cases\n\n\u2022 Build API Layer using Spring Reactive Framework\n\n\u2022 Build Integration layer between the UI /API/Database\n\n\u2022 Support other allied architecture and integration activities. Assist in developing documentation around system integration, data flows, data dictionary, user guides and standard processes.\n\n\u2022 Experience using tech solutions like Git, and Kubernetes to craft & deploy apps and jobs on cloud-hosted services\n\nMinimum Qualifications:\n\n\u2022 Bachelors degree or equivalent + 8 years related experience\n\n\u2022 Experience using SQL & PL/SQL\n\n\u2022 Experience with Building Data Pipelines\n\n\u2022 Experience with any Java,J2EE,Spring\u00a0\n\u00a0\n\nPreferred Qualifications:\n\n\u2022 Proficiency in data modeling, data design, SQL, and NoSQL databases\n\n\u2022 Proven background in algorithms and data structures\n\n\u2022 Experience working with AI LLM Models\n\n\u2022 Proven communication and partnership contribute to multi-functional teams.\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016454EXTERNALENGLOBAL/Data-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hyderabad-India/Data-Engineer_2016454-1/apply"
+}

@@ -1,0 +1,47 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022502EXTERNALENGLOBAL",
+ "req_id": "2022502",
+ "title": "Hardware Engineer - EDA Tool support Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-31T00:00:00.000+0000",
+ "skills": [
+  "eda tool support",
+  "linux/unix",
+  "shell scripting",
+  "license management software",
+  "python",
+  "tcl",
+  "perl",
+  "bash",
+  "flexlm",
+  "ansys",
+  "synopsys",
+  "cadence",
+  "mentor",
+  "mentor/siemens",
+  "high-performance computing",
+  "revision control systems",
+  "git",
+  "perforce",
+  "slurm",
+  "grid engine",
+  "microsoft windows administration",
+  "ai tools",
+  "debugging",
+  "technical documentation"
+ ],
+ "teaser": "We are looking for a Hardware Engineer to support EDA tool suites and libraries for Cisco's hardware design teams. You will install, configure, and maintain tools, provide technical support, and automate design processes. Ideal candidates have experience in EDA tool support and strong scripting skills.",
+ "description": "The application window is expected to close on: 12/30/2026\n\nJob posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nMeet the Team\n\nWe are the EDA Tools and Libraries team dedicated to supporting all Hardware Design teams at Cisco. Our mission is to empower our customers to deliver high-quality products within fast-paced development cycles, meeting demanding schedules and stringent performance requirements. By streamlining and optimizing the design process, we enable our customers to focus on innovation and product excellence.\n\nYour Impact\n\n\u2022 Install, configure, and maintain EDA tool suites from major vendors (e.g., Cadence, Synopsys, Mentor/Siemens, Ansys).\n\n\u2022 Administer license servers (FlexLM/FlexNet) and monitor usage to ensure compliance and optimize license availability for global teams.\n\n\u2022 Provide Tier 2 and Tier 3 support for hardware engineers, resolving issues related to tool crashes, tool installation issues, and environment configurations.\n\n\u2022 Develop and maintain scripts (Python, Tcl, Perl, or Bash) to automate repetitive tasks, integrate different tools into a unified design flow, and improve productivity.\n\n\u2022 Work closely with IT and CAD teams to optimize tool performance on Linux-based compute clusters and manage large-scale data storage requirements.\n\n\u2022 Open and track technical support cases with EDA vendors, advocating for bug fixes and feature enhancements required by our design teams.\n\n\u2022 Create and maintain \"How-To\" guides, environment setup procedures, and best practice documentation for the engineering community.\n\nMinimum Qualifications\n\n\u2022 3\u20136 years of experience in EDA tool support or a CAD/CAE engineering environment.\n\nBachelor's degree in Electrical Engineering, Computer Science, or a related technical field.\n\n\u2022 Strong proficiency in Linux/Unix operating systems and shell scripting.\n\n\u2022 Experience managing FlexLM or similar license management software.\n\n\u2022 Proficiency in using AI tools in day-to-day work, including scripting, communicatrion, and debugging.\n\n\u2022 Solid understanding of one or more scripting languages - Perl, Python, TCL, bash, etc.\n\nPreferred Qualifications\n\n\u2022 Experience with high-performance computing (HPC) workload managers like LSF (Load Sharing Facility), Slurm or Grid Engine.\n\n\u2022 Familiarity with revision control systems such as Git, Perforce, or CVS.\n\n\u2022 Windows experience: Some Microsoft Windows administration experience would be a plus.\n\nSoft Skills\n\n\u2022 Analytical Thinking: Strong diagnostic skills to identify root causes in complex software environments.\n\n\u2022 Customer Focus: A service-oriented mindset with the ability to communicate technical solutions to non-IT staff.\n\n\u2022 Adaptability: Ability to stay current with rapidly evolving EDA technologies and methodologies.\n\n\u2022 Detail Oriented: Ability to perform repetitive tasks with accuracy and speed.\n\n\u2022 Excellent English written and verbal communication skills.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022502EXTERNALENGLOBAL/Hardware-Engineer-EDA-Tool-support-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Hardware-Engineer---EDA-Tool-support-Engineer_2022502/apply"
+}

@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020241EXTERNALENGLOBAL",
+ "req_id": "2020241",
+ "title": "Senior Software Engineer - Show",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Krakow, Poland"
+ ],
+ "country": "Poland",
+ "city": "Krakow",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-17T00:00:00.000+0000",
+ "skills": [
+  "cloud-native development",
+  "distributed systems",
+  "aws",
+  "api design",
+  "ci/cd",
+  "infrastructure as code",
+  "software architecture",
+  "github copilot",
+  "claude code",
+  "codex",
+  "ai-powered engineering",
+  "llm technologies",
+  "operational excellence",
+  "observability",
+  "mentoring",
+  "technical leadership",
+  "cross-functional collaboration",
+  "javascript",
+  "typescript",
+  "react",
+  "next.js",
+  "node.js",
+  "serverless architectures",
+  "event-driven systems",
+  "aws lambda",
+  "dynamodb",
+  "sns",
+  "opensearch",
+  "rag"
+ ],
+ "teaser": "Exciting opportunity for a Senior Software Engineer to design and build scalable cloud-native services for the SHOW Platform, supporting technical workshops and hands-on demonstrations. Lead technical initiatives and collaborate with global teams. Ideal for experienced professionals with strong cloud-native and distributed systems expertise.",
+ "description": "Meet the Team\u00a0\n\nThe Forward Deployed Software Engineering (FDSE) team develops and operates SHOW Platform, which is Splunk's cloud-native solution for interactive demonstrations, technical workshops, proof-of-concepts, and hands-on lab experiences. It\u2019s used by customers, partners, and internal engineering teams worldwide, and enables thousands of technical engagements every year by playing a critical role in helping customers experience the value of Splunk solutions.\u00a0\u00a0\n\nWe are a globally distributed engineering team that values ownership, technical excellence, continuous learning, and asynchronous collaboration.\u00a0\n\nYour Impact\u00a0\n\nDesign, build, and evolve highly scalable cloud-native services that power the SHOW Platform and enable customers, partners, and internal teams to deliver interactive technical experiences.\u00a0\n\nLead technical initiatives from architecture through production, making sound engineering decisions that balance scalability, maintainability, reliability, and delivery speed.\u00a0\n\nDevelop resilient distributed systems using modern cloud-native patterns, event-driven architectures, and Infrastructure as Code while continuously improving platform observability, automation, and operational excellence.\u00a0\n\nCollaborate closely with Product Engineering, Solution Engineering, Customer Experience, and cross-functional Cisco teams to translate business needs into reusable, production-quality software.\u00a0\n\nProvide technical leadership through architecture discussions, code reviews, mentoring, and engineering best practices, helping raise the technical bar across the team.\u00a0\n\nLeverage AI-assisted engineering tools - including GitHub Copilot, Claude Code, Codex, or similar - to improve engineering productivity while maintaining full ownership of software quality, security, and production readiness. Where appropriate, contribute to AI-powered platform capabilities using modern LLM technologies and application patterns.\u00a0\n\nMinimum Qualifications\u00a0\n\nBachelor's or master's degree in computer science, Software Engineering, or a related technical field (or equivalent practical experience).\u00a0\u00a0\n\n6+ years of professional experience designing, developing, and operating production-grade software systems.\u00a0\u00a0\n\nStrong experience building cloud-native applications and distributed systems on public cloud platforms (AWS preferred).\u00a0\u00a0\n\nExperience designing scalable APIs, asynchronous workflows, and modern software delivery pipelines using CI/CD and Infrastructure as Code.\u00a0\u00a0\n\nExperience using AI-assisted software development tools and modern AI APIs as part of the engineering workflow.\u00a0\u00a0\n\nPreferred Qualifications\u00a0\n\nExperience building modern web applications and backend services using technologies such as JavaScript/TypeScript, React, Next.js, Node.js, or comparable frameworks.\u00a0\u00a0\n\nExperience with serverless architectures, event-driven systems, and cloud services such as AWS Lambda, DynamoDB, SQS, SNS, OpenSearch, or similar technologies.\u00a0\u00a0\n\nExperience designing secure, highly available distributed systems with strong observability and operational excellence.\u00a0\u00a0\n\nExperience building AI-enabled applications using LLMs, RAG, vector databases, AI agents, or Model Context Protocol (MCP).\u00a0\u00a0\n\nExperience working in customer-facing engineering organizations, Forward Deployed Engineering, or technical consulting environments, with the ability to mentor engineers and collaborate effectively across globally distributed teams.\u00a0\n\n\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020241EXTERNALENGLOBAL/Senior-Software-Engineer-Show",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Senior-Software-Engineer---Show_2020241-1/apply"
+}

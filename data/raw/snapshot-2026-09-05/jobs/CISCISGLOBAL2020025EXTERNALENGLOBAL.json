@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020025EXTERNALENGLOBAL",
+ "req_id": "2020025",
+ "title": "Software Engineer- Agentic AI Developer- 6+yrs exp",
+ "category": "Supply Chain and Manufacturing Ops",
+ "categories": [
+  "Supply Chain and Manufacturing Ops"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-10T00:00:00.000+0000",
+ "skills": [
+  "langchain",
+  "langgraph",
+  "python",
+  "kubernetes",
+  "cloud deployment",
+  "ci/cd",
+  "sql",
+  "snowflake",
+  "rag pipelines",
+  "vector databases",
+  "embedding strategies",
+  "agentic reasoning patterns",
+  "large language models",
+  "nlp techniques",
+  "prompt engineering",
+  "function calling",
+  "multi-agent coordination",
+  "fastapi",
+  "cloud platforms",
+  "azure",
+  "aws",
+  "gcp",
+  "data analysis",
+  "pandas",
+  "numpy",
+  "stakeholder communication",
+  "technical problem solving",
+  "hugging face transformers",
+  "custom chatbot development"
+ ],
+ "teaser": "Seeking a skilled Agentic AI Developer to design and deploy intelligent AI agents for enterprise workflow automation. Key responsibilities include building multi-step orchestration pipelines and integrating agents with external systems. Ideal for candidates with strong Python expertise and hands-on experience in agentic frameworks and large language models.",
+ "description": "Meet the Team\n\nJoin Cisco's Global Supply Chain Product Operations team, where innovation meets intelligent automation. Our team is transforming enterprise operations by leveraging Agentic AI, Generative AI, and cloud-native technologies to solve complex business challenges and drive operational excellence across Cisco's global supply chain.\n\nAs part of this team, you'll collaborate with AI engineers, software developers, product managers, and business stakeholders to build next-generation AI-powered solutions that redefine enterprise workflows.\n\nYour Impact\n\nAs an Agentic AI Developer, you will design, develop, and deploy intelligent AI agents that automate complex enterprise workflows using the latest Agentic AI frameworks and Large Language Models (LLMs).\n\nYou will:\n\nDesign and develop Agentic AI solutions using LangChain, LangGraph, and modern orchestration frameworks.\n\nBuild Retrieval-Augmented Generation (RAG) pipelines using vector databases, embeddings, and enterprise knowledge sources.\n\nDevelop multi-agent workflows with tool calling, reasoning, and orchestration capabilities.\n\nIntegrate AI agents with enterprise applications using Model Context Protocol (MCP) and Google Agent-to-Agent (A2A) standards.\n\nBuild scalable backend services using Python and FastAPI.\n\nDevelop AI-powered applications leveraging GPT, Claude, and open-source LLMs.\n\nIntegrate data from enterprise platforms including Snowflake and other cloud data warehouses.\n\nDeploy AI applications using Docker, Kubernetes/OpenShift, and cloud-native infrastructure.\n\nPartner with cross-functional teams to translate business problems into scalable AI solutions.\n\nDrive continuous innovation through prompt engineering, automation, and AI best practices.\n\nMinimum Qualifications\n\nBachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, or related field.\n\n6+ years of experience in Python development and AI/ML application development.\n\nStrong hands-on experience with:\nPython\n\nLangChain\n\nLangGraph\n\nFastAPI\n\nSQL\n\nExperience building RAG pipelines, embeddings, and vector database solutions.\n\nStrong understanding of Large Language Models (LLMs) including GPT, Claude, or open-source models.\n\nExperience with Docker, Kubernetes/OpenShift, and CI/CD pipelines.\n\nExcellent problem-solving, communication, and stakeholder management skills.\n\nPreferred Qualifications\n\nExperience with Agentic AI architectures, multi-agent systems, and AI orchestration frameworks.\n\nKnowledge of Model Context Protocol (MCP) and Google Agent-to-Agent (A2A) standards.\n\nExperience with Snowflake and enterprise data platforms.\n\nFamiliarity with Hugging Face Transformers, NLP, fine-tuning, and custom chatbot development.\n\nExperience with cloud platforms such as Azure, AWS, or GCP.\n\nHands-on experience with pandas, NumPy, and visualization tools such as Streamlit or Tableau.\n\nExposure to Angular or full-stack application development.\n\nPassion for innovation, continuous learning, and applying AI to solve real-world business challenges.\n\nThis version follows Cisco's latest job description style while emphasizing Agentic AI, LLMs, RAG, Python, and enterprise AI engineering, making it attractive to experienced AI developers.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020025EXTERNALENGLOBAL/Software-Engineer-Agentic-AI-Developer-6-yrs-exp",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer--Agentic-AI-Developer--6-yrs-exp_2020025/apply"
+}

@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020800EXTERNALENGLOBAL",
+ "req_id": "2020800",
+ "title": "Software Engineer :: C/C++, Python scripting, L2/L3 Networking (9-12 Years)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-09-03T00:00:00.000+0000",
+ "skills": [
+  "python scripting",
+  "board support packages",
+  "c programming",
+  "hardware architecture",
+  "network automation",
+  "gemini",
+  "ospf",
+  "code reviews",
+  "rtos",
+  "model context protocol",
+  "restconf",
+  "system design",
+  "firmware development",
+  "cisco platforms",
+  "technical leadership",
+  "netconf",
+  "linux",
+  "modular design",
+  "unix",
+  "grpc",
+  "openai",
+  "ios xe",
+  "cloud technologies",
+  "bgp",
+  "networking protocols"
+ ],
+ "teaser": "We are seeking a Software Engineer to design and develop next-generation control-plane and data-plane software for Cisco IOS XE and enterprise networking platforms. Lead complex features from architecture to deployment, applying strong C/C++ and Python scripting skills. Ideal for experienced professionals with a background in networking software engineering.",
+ "description": "Meet the Team\n\nLooking for an exciting next step in your career? The Catalyst Engineering IOS XE Platform Independent team designs and develops high-performance system software for a wide range of Cisco platforms, including enterprise switches, routers, wireless controllers, Industrial IoT devices, and service-provider routing platforms.\n\nOur team is helping lead the enterprise networking industry through continuous innovation during an exciting period of rapid market evolution. The opportunities to learn, innovate, and make an impact are boundless\u2014and your experience and perspective will add to the energy and strength of our team.\n\nYour Impact\n\nAs a Software Engineer, you will design and develop next-generation control-plane and data-plane software for Cisco IOS XE and its enterprise networking and security platforms. You will learn about groundbreaking technologies and platforms while developing software for industry-leading networking equipment.\n\nUsing AI and AI-assisted technologies, you will translate complex requirements into secure, robust, and scalable solutions. You will lead significant features from development through integration, create innovative intellectual property, and directly influence the performance, reliability, and security of Cisco\u2019s global networking infrastructure.\n\nResponsibilities\n\nLead large and complex features from requirements definition and architecture through implementation, validation, and production deployment.\n\nDrive technical decisions and system-level trade-offs for platform-independent database infrastructure, including data models and management frameworks that support switches, routers, wireless controllers, and IoT devices.\n\nEstablish standards for developing clean, secure, scalable, and maintainable software.\n\nLead architecture, design, and code reviews, as well as threat-modeling and production-readiness assessments.\n\nDevelop strategies, tools, and processes that improve software quality, reliability, performance, and engineering productivity.\n\nResolve complex customer and production issues by leading root-cause analysis and implementing sustainable corrective actions.\n\nPartner with product management and engineering leaders to establish best practices, influence product roadmaps, and contribute to strategic technology decisions related to telemetry, configuration management, and data modeling within the network operating system.\n\nNegotiate scope, architecture, timelines, and technical trade-offs with cross-functional stakeholders.\n\nMentor senior engineers, strengthen knowledge-sharing practices, and develop technical leadership across the organization.\n\nRepresent the team in technical forums and clearly communicate strategic priorities, risks, decisions, and outcomes to leadership.\n\nMinimum Qualifications\n\nBachelor\u2019s degree with 9+ years, or a Master\u2019s degree with 6+ years, of relevant experience.\n\nStrong understanding of operating systems such as Linux, Unix, or RTOS, with experience in the Linux kernel, device drivers, and board support packages (BSPs).\n\nProficiency in C programming and Python scripting for automation, tooling, code generation, and prototyping.\n\nStrong software engineering fundamentals, including modular design, clean coding, unit testing, and code reviews.\n\nExperience developing software or firmware for networking products.\n\nExcellent knowledge of software architecture and system design.\n\nProven technical leadership experience guiding high-performing teams in designing and delivering high-quality features and solutions.\n\nHands-on experience with generative AI assistants, natural language processing, and agentic AI technologies or frameworks such as OpenAI models, Gemini, and Model Context Protocol (MCP).\n\nPreferred Qualifications\n\nHands-on experience with networking protocols such as TCP/IP, BGP, and OSPF, along with complex system architectures.\n\nImplementation experience in one or more of the following areas: high availability, inter-process communication, memory management, distributed communication infrastructure, serviceability, containers, or virtualization.\n\nExperience with NETCONF, RESTCONF, gRPC, Protocol Buffers, cloud technologies, or network automation.\n\nFamiliarity with Cisco platforms, IOS XE, and hardware architecture.\n\nCisco certifications such as CCNA, CCNP, or CCIE are a plus.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020800EXTERNALENGLOBAL/Software-Engineer-C-C-Python-scripting-L2-L3-Networking-9-12-Years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer----C-C----Python-scripting--L2-L3-Networking--9-12-Years-_2020800-1/apply"
+}

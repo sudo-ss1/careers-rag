@@ -1,0 +1,43 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023762EXTERNALENGLOBAL",
+ "req_id": "2023762",
+ "title": "Internet Measurement Research Intern - BGP Research Team",
+ "category": "Internships, Apprenticeships, and Co-Ops",
+ "categories": [
+  "Internships, Apprenticeships, and Co-Ops"
+ ],
+ "locations": [
+  "London, United Kingdom"
+ ],
+ "country": "United Kingdom",
+ "city": "London",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-24T00:00:00.000+0000",
+ "skills": [
+  "bgp",
+  "python",
+  "data analysis",
+  "network measurement",
+  "routing analysis",
+  "machine learning",
+  "data science",
+  "statistics",
+  "ai methods",
+  "network protocols",
+  "tcp/ip",
+  "dns",
+  "http",
+  "route collector",
+  "mrt data",
+  "routing tables",
+  "updates",
+  "technical report writing",
+  "research publication",
+  "presentation skills"
+ ],
+ "teaser": "We are recruiting a Internet Measurement Research Intern to join our BGP Research Team, focusing on analysing large-scale BGP data and developing algorithms to enhance network understanding. Collaborate with experienced researchers and engineers, applying data science and AI/ML techniques. Ideal for candidates with a strong networking background and hands-on experience in network measurement.",
+ "description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nMeet the Team\u00a0\nWe\u2019re the Applied Research team at Cisco ThousandEyes. Our mission is simple but ambitious: use Internet-scale data to build network assurance solutions that help enterprises see, understand, and fix problems across the Internet, cloud, and enterprise networks. \u00a0We sit at the intersection of research, data science, AI/ML, and product. That means we don\u2019t just analyze data. We turn ideas into algorithms, prototypes into products, and insights into features that customers rely on when things break at 3am!\u00a0\n\nYour Impact\u00a0\nThis internship sits within the BGP research group, where we study how BGP is used in the real world and develop algorithms, analyses, and tools that improve understanding of how networks interconnect and how to better protect this critical Internet infrastructure. \u00a0\n\nAs an intern, you\u2019ll collaborate closely with experienced researchers, engineers, and product partners. You\u2019ll use statistics, data science, and AI/ML techniques to analyze large-scale BGP data, characterize routing behavior and dynamics, and prototype algorithms that advance understanding of Internet topology and interconnection. \u00a0\n\nThis internship is designed to be hands-on, impactful, and fast-moving, with a strong emphasis on learning, experimentation, and turning research ideas into practical solutions. \u00a0\n\nIn addition to influencing production systems, your work will contribute to internal research artifacts, technical reports, and research publications. ThousandEyes BGP Research team frequently presents at leading community and academic venues such as NANOG, RIPE, and IMC\u00a0\n\nMinimum Qualifications\u00a0\n\nCurrently pursuing a graduate degree in Computer Science\u00a0\n\nStrong understanding of networking and internet protocols (TCP/IP, DNS, BGP, HTTP, etc.)\u00a0\n\nHands-on experience working with BGP data or routing measurements (e.g., route collectors, MRT data, routing tables, updates)\u00a0\n\nDemonstrated portfolio of network measurement work through publications and/or course projects\u00a0\n\nStrong proficiency in Python and hands-on experience with data science and data analysis\u00a0\n\nGreat written, verbal, and persuasive communication skills\u00a0\n\nPreferred Qualifications\u00a0\n\nCurrently pursuing a PhD in Computer Science\u00a0\n\nTrack record of publications at academic and/or industry conferences\u00a0\n\nExperience applying machine learning and AI methods to networking problems\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023762EXTERNALENGLOBAL/Internet-Measurement-Research-Intern-BGP-Research-Team",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/London-United-Kingdom/Internet-Measurement-Research-Intern---BGP-Research-Team_2023762/apply"
+}

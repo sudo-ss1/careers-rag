@@ -1,0 +1,51 @@
+{
+ "job_seq_no": "CISCISGLOBAL2011394EXTERNALENGLOBAL",
+ "req_id": "2011394",
+ "title": "Sr. Component Engineer - Semiconductor Devices",
+ "category": "Supply Chain and Manufacturing Ops",
+ "categories": [
+  "Supply Chain and Manufacturing Ops"
+ ],
+ "locations": [
+  "Taipei, New Taipei, Taiwan",
+  "Hsinchu, Hsinchu City, Taiwan",
+  "Kaohsiung, Kaohsiung City, Taiwan"
+ ],
+ "country": "Taiwan",
+ "city": "Taipei",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-06T00:00:00.000+0000",
+ "skills": [
+  "semiconductor component selection",
+  "failure analysis",
+  "semiconductor testing",
+  "component qualification",
+  "asics",
+  "fpgas",
+  "npus",
+  "cpus",
+  "semiconductor fabrication",
+  "semiconductor characterization",
+  "semiconductor qualification",
+  "semiconductor reliability testing",
+  "ethernet switches",
+  "retimers",
+  "htol",
+  "elfr",
+  "lu",
+  "esd",
+  "x86 cpus",
+  "arm cpus",
+  "pcie",
+  "mdio",
+  "spi",
+  "i2c",
+  "stakeholder management",
+  "technical initiative"
+ ],
+ "teaser": "We are looking for a Sr. Component Engineer to drive technical innovation and quality solutions in semiconductor devices. Lead component selection, testing, and failure analysis, collaborating with cross-functional teams. Ideal for experienced engineers with expertise in semiconductor components and high-speed systems.",
+ "description": "Meet the Team\n\nThe Cisco Component Quality and Technology team provides outstanding customer value through technical innovation and quality solutions. We are seeking a driven and experienced technical expert in semiconductor components and their applications in high-speed systems. Devices we work with include ASICs, NPUs, CPUs, Ethernet switches, FPGAs, PHYs, retimers, etc. You will work directly with Cisco design, manufacturing, operations and quality engineering teams, as well as component vendors.\n\nYour Impact\n\nConduct semiconductor component selection, testing, and qualification to meet product specifications.\n\nLead investigations and end-to-end failure analysis for component and system issues, working with vendors to define, implement, and verify corrective and preventive actions (8D, RCCA, etc.)\n\nCollaborate with cross-functional teams on component selection, risk assessment, design reviews, and proactively drive risk mitigation.\n\nAnalyze and influence vendor technology roadmaps in support of Cisco product development requirements.\n\nMinimum Qualifications\n\nBachelor's degree in Electrical Engineering, Computer Engineering, or related fields\n\n4+ years of experience in the semiconductor/networking/server/computer/embedded industry\n\nPreferred Qualifications\n\n6+ years of experience in the semiconductor/networking/server/computer/embedded industry.\n\nExperience with semiconductor components including ASICs, XPUs, FPGAs, PHYs, SerDes retimers.\n\nStrong understanding of semiconductor design, fabrication, characterization, qualification, testing, quality, reliability, failure analysis\n\nExperience collaborating with stakeholders including hardware and software engineering, operations and manufacturing.\n\nExcellent problem-solving, communication, and collaboration skills.\n\nAbility to work independently and manage multiple priorities in a fast-paced environment.\n\nDemonstrated ability to influence cross-functional teams and drive technical initiatives.\n\nExperience with high-speed design and hardware designs with x86 or ARM CPUs.\n\nKnowledge of semiconductor device reliability testing methods, such as HTOL, ELFR, LU and ESD\n\nExperience in investigating component failures across NPI, mass production, and field returns, with knowledge of sophisticated FA techniques.\n\nUnderstanding of control interfaces such as PCIe, MDIO, SPI, I2C.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011394EXTERNALENGLOBAL/Sr-Component-Engineer-Semiconductor-Devices",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Taipei-Taiwan/Sr-Component-Engineer---Semiconductor-Devices_2011394-1/apply"
+}

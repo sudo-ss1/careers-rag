@@ -1,0 +1,41 @@
+{
+ "job_seq_no": "CISCISGLOBAL2015038EXTERNALENGLOBAL",
+ "req_id": "2015038",
+ "title": "Test Development Engineer",
+ "category": "Supply Chain and Manufacturing Ops",
+ "categories": [
+  "Supply Chain and Manufacturing Ops"
+ ],
+ "locations": [
+  "Hanoi, H\u00e0 N\u1ed9i, Vietnam",
+  "Chon Buri, Thailand"
+ ],
+ "country": "Vietnam",
+ "city": "Hanoi",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-05-26T00:00:00.000+0000",
+ "skills": [
+  "test strategy development",
+  "python scripting",
+  "design for testability (dft)",
+  "hardware development",
+  "test automation",
+  "cross-functional leadership",
+  "ethernet technology",
+  "hardware protocols",
+  "test fixture development",
+  "product failure analysis",
+  "debugging",
+  "ict test solutions",
+  "bscan test solutions",
+  "spirent",
+  "ixia",
+  "conflict resolution",
+  "data-driven decision making"
+ ],
+ "teaser": "Take on the role of Manufacturing Test Development Engineer, leading the end-to-end test strategy for Cisco's next-generation AI high-end routers. Drive automated test processes and collaborate with global teams to ensure product quality. Ideal for experienced engineers with a strong background in hardware development and test automation.",
+ "description": "Meet the Team\n\nWithin Cisco's Product Operations, we transform engineering innovation into products that power the internet \u2014 from enterprise networks to the world's most demanding hyper-scaler AI infrastructure. Our Manufacturing Test Development team sits at the critical intersection of design engineering and global manufacturing, ensuring that Cisco's most complex systems are launched with the highest standards of quality, efficiency, and scale. We are a cross-functional, globally connected team collaborating closely with Hardware, Software, and Supply Chain partners across multiple time zones to bring next-generation products to life. Our work directly impacts the reliability and performance of Cisco's high-end router portfolio, including our latest AI-optimized hyper-scaler platforms. If you thrive on solving hard problems at the edge of what's technically possible, this is the team for you.\n\nYour Impact\n\nAs a Manufacturing Test Development Engineer, you will lead the end-to-end test strategy for Cisco's next-generation hyper-scaler AI high-end routers, from Design for Testability (DFT) assessments through to mass production readiness. Drive the development and deployment of board and system-level automated functional test processes at contract manufacturing sites globally, ensuring maximum test coverage and manufacturing efficiency. Develop robust Python-based test automation scripts and leverage data analytics to continuously improve test capacity, yield, and overall product quality. Serve as the expert resource for product failure analysis and fault isolation, guiding debug processes at both component and system level to accelerate resolution. Collaborate with global cross-functional teams across Hardware, Software, and Supply Chain to coordinate proto-build support and ensure seamless production ramp.\n\nMinimum Qualifications\n\nBachelor's degree or higher in Electrical Engineering, Electronics & Communication, or Computer Science Engineering\n\n10+ years of relevant experience in product test and validation within a multinational corporate environment Solid understanding of hardware development processes from concept through end-of-life, including manufacturing test solutions such as ICT and Boundary Scan (BSCAN)\n\nProficiency in Ethernet technologies (10/100/400/800G) and hardware protocols including I2C, SPI, PCIe, and SerDes\n\nAdvanced Python scripting skills with demonstrated experience developing automated test frameworks and analytics-driven improvement processes\n\nPreferred Qualifications\n\nHands-on experience specifying, developing, and procuring test fixtures and traffic test solutions including Spirent or IXIA for high-speed interface validation\n\nProven track record to lead Design for Testability (DFT) assessments and define risk mitigation plans in partnership with hardware and software engineering teams\n\nExperience supporting proto-builds and driving mass production readiness across globally distributed contract manufacturing sites\n\nDemonstrated ability to lead cross-functional teams, resolve technical conflicts, and make data-driven decisions in a fast-paced environment\n\nDedicated and adaptable, with a track record of effective collaboration across global time zones\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015038EXTERNALENGLOBAL/Test-Development-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hanoi-Vietnam/Test-Development-Engineer_2015038/apply"
+}

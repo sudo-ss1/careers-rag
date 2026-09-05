@@ -1,0 +1,49 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022614EXTERNALENGLOBAL",
+ "req_id": "2022614",
+ "title": "Principal AI Researcher",
+ "category": "Other",
+ "categories": [
+  "Other"
+ ],
+ "locations": [
+  "Milpitas, California, United States of America",
+  "San Francisco, California, United States of America"
+ ],
+ "country": "United States of America",
+ "city": "Milpitas",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-03T00:00:00.000+0000",
+ "skills": [
+  "world models development",
+  "reinforcement learning",
+  "model-based reinforcement learning",
+  "deep learning",
+  "pytorch",
+  "jax",
+  "model optimization",
+  "simulation environments",
+  "representation learning",
+  "planning",
+  "sequential decision-making",
+  "model evaluation",
+  "network optimization",
+  "network troubleshooting",
+  "model-based rl systems",
+  "graph learning",
+  "distributed systems",
+  "robotics",
+  "autonomous systems",
+  "embodied ai",
+  "research publication",
+  "networking research",
+  "distributed systems research",
+  "research impact",
+  "collaboration with engineering"
+ ],
+ "teaser": "Seeking a Principal AI Researcher to lead research on world models and learning-based approaches for autonomous networks. Drive the development of models that predict network behaviour and optimise network operations. Ideal for experienced researchers with expertise in AI, machine learning, and network environments.",
+ "description": "Meet the Team\u00a0\n\nThe AI Software & Platform Group builds Cisco's enterprise AI platforms and models, bringing together AI with Cisco's networking, security, and observability portfolio. Our research team is working on a fundamental problem: Can we build models that understand how networks behave well enough to operate them autonomously? We are developing world models of networks that learn from topology, telemetry, configuration, traffic, events, and operational history. The goal is to build models that can understand the current state of a network, predict what happens next, simulate the impact of an action, and provide the foundation for self-driving networks.\n\nYour Impact\u00a0\n\nAs a Principal AI Researcher, you will lead research on world models and learning-based approaches for autonomous networks.\u00a0\n\nDevelop world models that learn the state and dynamics of large-scale network environments.\u00a0\n\nBuild models that predict network behavior and the impact of configuration and operational changes.\n\nDevelop model-based reinforcement learning approaches for network optimization, troubleshooting, and remediation.\u00a0\n\nBuild simulation environments for training and evaluating models and agents before they operate on production networks.\u00a0\n\nExplore new approaches to representation learning, planning, and sequential decision-making for network environments.\u00a0\n\nDevelop methods to evaluate the reliability and safety of learned policies before deployment.\u00a0\n\nWork with networking experts and engineers to evaluate research on real network data and systems. Publish research at leading AI/ML conferences and contribute to open-source projects.\n\nMinimum Qualifications\u00a0\n\nMasters in Computer Science, Machine Learning, Artificial Intelligence, Robotics, Autonomous Systems, or a related field, with 8+ years of relevant research experience, or equivalent demonstrated research impact.\n\nResearch experience in one or more of world models, reinforcement learning, model-based RL, representation learning, planning, or sequential decision-making.\n\n3+ years of hands-on experience building, training, and optimizing deep learning models using PyTorch, JAX, or comparable frameworks, including at least 2 models trained and evaluated at production or research scale.\n\nDemonstrated track record of research through publications at leading AI/ML conferences or equivalent research contributions.\n\nAbility to take a research problem from an idea through experimentation and working prototype.\n\nPreferred Qualifications\n\nExperience building world models, learned simulators, or model-based RL systems.\n\nExperience with offline or online reinforcement learning, simulation, or learning from large-scale trajectories.\n\nExperience with graph learning or modeling complex dynamic systems.\n\nExperience in networking, distributed systems, robotics, autonomous systems, or embodied AI.\n\nExperience applying research to real-world systems at scale.\n\n\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $296,300.00 to $374,800.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco\u2019s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks.\u00a0 Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco\u2019s policies:\n\n10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n\n1 paid day off for employee\u2019s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n\nNon-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n\nExempt employees participate in Cisco\u2019s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n\n80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of\u00a0unused sick time\u00a0carried forward\u00a0from one calendar year\u00a0to the next\n\nAdditional paid time away may be requested to deal with critical or emergency issues for family members\n\nOptional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco\u2019s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n\n.75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n\n1.5% of incentive target for each 1% of attainment between 50% and 75%;\n\n1% of incentive target for each 1% of attainment between 75% and 100%; and\n\nOnce performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$296,300.00 - $431,000.00\n\nNon-Metro New York state & Washington state:\n$263,700.00 - $383,500.00\n\n* For quota-based sales roles on Cisco\u2019s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n\n** Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022614EXTERNALENGLOBAL/Principal-AI-Researcher",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Principal-AI-Researcher_2022614/apply"
+}

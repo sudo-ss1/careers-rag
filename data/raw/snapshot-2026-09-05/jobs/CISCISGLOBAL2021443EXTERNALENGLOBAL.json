@@ -1,0 +1,50 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021443EXTERNALENGLOBAL",
+ "req_id": "2021443",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Slovakia"
+ ],
+ "country": "Slovakia",
+ "city": "",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-13T00:00:00.000+0000",
+ "skills": [
+  "api design",
+  "large language models",
+  "flink",
+  "prompt engineering",
+  "python",
+  "distributed systems",
+  "technical leadership",
+  "llm observability",
+  "model evaluation",
+  "cloud-native architectures",
+  "langchain",
+  "strategic thinking",
+  "mission-critical platform management",
+  "software engineering",
+  "vector databases",
+  "retrieval-augmented generation",
+  "pinecone",
+  "spark",
+  "mentoring",
+  "azure",
+  "ai/ml",
+  "gcp",
+  "agentic frameworks",
+  "milvus",
+  "aws",
+  "java",
+  "stakeholder management"
+ ],
+ "teaser": "Join our team as a Software Engineer to design and implement AI-driven features and autonomous agents within the Partner Hub. Drive the integration of advanced AI models and scalable production systems, mentoring junior engineers. Ideal for candidates with extensive software engineering experience and a strong focus on AI/ML.",
+ "description": "Meet the Team\u00a0\u00a0\n\nCisco's Webex Engineering Group is redefining the future of collaboration. We're building a world where people connect effortlessly to enjoy modern, uncompromised collaboration across every room, desk, pocket, and application.\u00a0\n\nOur technology powers industry-leading products like Slido, Webex Meetings, Webex Calling, and Webex Contact Center. As a member of our team, your work will ensure every user gets a truly immersive experience regardless of device or location, empowering the hybrid working patterns of the future.\u00a0\n\nOur team is based in Bratislava. We operate a hybrid working model.\u00a0\n\nYour Impact\u00a0\u00a0\n\nAs a Software Engineer, you will design and implement AI-driven features and autonomous agents within the Partner Hub. You will bridge the gap between AI Frameworks, complex AI models, and practical, scalable production systems. Your work will directly empower our partners by automating complex workflows, providing predictive insights, and creating a more intuitive, conversational platform experience. You will act as a technical subject matter expert, mentoring junior team members on AI best practices and ensuring our systems are robust, secure, and highly performant.\u00a0\n\nKey Responsibilities\u00a0\n\nDesign and develop autonomous agents and AI-driven workflows that integrate seamlessly into the Partner Hub ecosystem.\u00a0\n\nImplement scalable solutions using Large Language Models (LLMs), vector databases, and agentic frameworks (e.g., LangChain, or similar).\u00a0\n\nEstablish standards for model evaluation, prompt engineering, and agentic reliability.\u00a0\n\nProvide high-level technical guidance and mentorship to junior engineering team, fostering a culture of innovation in AI and machine learning.\u00a0\n\nEnsure AI features are production-ready, focusing on latency, cost-efficiency, security, and ethical AI practices.\u00a0\n\nPartner with product management and data science teams to translate business needs into cutting-edge AI solutions.\u00a0\n\nStay at the cutting edge of the AI/Agentic landscape, evaluating and integrating new frameworks and tools to maintain our competitive advantage.\u00a0\n\nMinimum Qualifications\u00a0\n\nBachelor\u2019s or Master\u2019s degree in Computer Science, Engineering, or a related technical field.\u00a0\n\nExtensive professional experience in software engineering with a strong focus on AI/ML and agentic systems.\u00a0\n\nProven track record of deploying AI-powered applications into production environments at scale.\u00a0\n\nproficiency in Python or Java, with deep experience in AI frameworks and LLM orchestration.\u00a0\n\nStrong understanding of distributed systems, API design, and cloud-native architectures.\u00a0\n\nPreferred Qualifications\u00a0\n\nHands-on experience with agentic frameworks (e.g., LangChain, CrewAI, AutoGen) and multi-agent orchestration.\u00a0\n\nExperience integrating AI with streaming/batch data platforms (e.g., Spark, Flink, or vector databases like Pinecone/Milvus).\u00a0\n\nExperience with fine-tuning, RAG (Retrieval-Augmented Generation), and LLM observability/evaluation tools.\u00a0\n\nExtensive experience architecting AI solutions within major cloud environments (AWS, GCP, or Azure).\u00a0\n\nSignificant experience managing the full lifecycle of mission-critical, high-availability AI platforms.\u00a0\n\nDemonstrated history of leading technical initiatives and mentoring engineering teams.\u00a0\n\nExceptional strategic thinking, communication, and stakeholder management skills.\u00a0\n\nCollab Hiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021443EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bratislava-Slovakia/Software-Engineer_2021443/apply"
+}

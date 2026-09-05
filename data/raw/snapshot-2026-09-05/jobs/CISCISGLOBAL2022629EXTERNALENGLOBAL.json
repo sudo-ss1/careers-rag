@@ -1,0 +1,49 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022629EXTERNALENGLOBAL",
+ "req_id": "2022629",
+ "title": "Lab Operations Manager",
+ "category": "Project and Program Management",
+ "categories": [
+  "Project and Program Management"
+ ],
+ "locations": [
+  "Caesarea, Israel"
+ ],
+ "country": "Israel",
+ "city": "Caesarea",
+ "employment_type": "Full time",
+ "remote_type": "",
+ "posted_date": "2026-08-10T00:00:00.000+0000",
+ "skills": [
+  "technical program management",
+  "hardware development lifecycle",
+  "sdlc",
+  "high-performance computing",
+  "asic development",
+  "silicon validation",
+  "project management methodologies",
+  "jira",
+  "confluence",
+  "capacity planning",
+  "stakeholder management",
+  "cross-functional team leadership",
+  "agile",
+  "waterfall",
+  "vendor management",
+  "technical specification management",
+  "hardware lifecycle management",
+  "infrastructure observability",
+  "operational excellence",
+  "high-speed networking",
+  "compute infrastructure",
+  "test automation",
+  "ci/cd pipelines",
+  "budget planning",
+  "compute infrastructure planning",
+  "traffic generation systems"
+ ],
+ "teaser": "We are looking for a Lab Operations Manager to drive the delivery of next-generation networking products by orchestrating development infrastructure. Lead cross-functional alignment, manage stakeholders, and ensure operational excellence. Ideal for experienced technical programme managers with a strong background in hardware development and infrastructure management.",
+ "description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nMeet the Team\n\nJoin the Cisco Silicon One team in accelerating the delivery of next-generation networking products through robust, scalable, and high-performance development infrastructure. Our organization serves as the backbone for silicon development, validation, and product execution, providing the essential compute, hardware, and lab ecosystems required for industry-leading innovation.\n\nThe Role\n\nWe are seeking a high-driven, results-oriented multidisciplinary orchestrator to act as the primary catalyst for our development infrastructure. In this role, you will operate at the critical intersection of product strategy, hardware engineering, and lab operations, serving as the connective tissue that aligns disparate teams under a unified goal. You will be responsible for driving cross-functional alignment across the organization, effectively managing stakeholders with differing ownership to ensure infrastructure roadmaps scale alongside product milestones. This position requires a self-starter comfortable pushing for success in ambiguous environments, where you will translate high-level strategy into the tactical execution of the physical and virtual ecosystems that power our development lifecycle.\n\nYour Impact\n\nYou will own the end-to-end lifecycle of infrastructure projects, ensuring that our Sanity Test Beds and development environments are optimized to meet aggressive product launch timelines. By bridging the gap between engineering roadmaps and infrastructure requirements, you will serve as the engine that ensures our teams have the right resources at the right time, regardless of technical or organizational complexity.\n\nKey Responsibilities\n\nStrategic Orchestration & Alignment\n\nUnified Roadmap Integration:\u00a0Translate complex product development roadmaps into long-term infrastructure requirements, driving cross-functional alignment between silicon milestones and lab availability.\n\nStakeholder Management:\u00a0Act as the primary liaison between hardware engineering, software development, procurement, and lab operations; navigate competing priorities among stakeholders with differing ownership to keep teams synchronized.\n\nAmbiguity Management:\u00a0Proactively identify project roadblocks and navigate ambiguous environments to push critical-path dependencies to resolution.\n\nOperational Velocity:\u00a0Drive continuous improvement in infrastructure processes, identifying and removing friction to increase overall engineering velocity.\n\nOperational Oversight & Execution\n\nStrategic Capacity Planning:\u00a0Lead high-stakes capacity management efforts, forecasting needs for power, rack space, and compute resources to proactively eliminate infrastructure bottlenecks.\n\nLifecycle Ownership:\u00a0Oversee the full lifecycle of infrastructure projects\u2014from initial procurement and technical specification through deployment, validation, and transition to operational readiness.\n\nVisibility & Reporting:\u00a0Drive the development of dashboards and reporting mechanisms to provide real-time visibility into infrastructure health, ensuring data-driven decision-making across the organization.\n\nVendor & Asset Optimization:\u00a0Partner with cross-functional leadership to manage technical specifications, equipment lead times, and hardware lifecycles, ensuring a high-performance, cost-effective infrastructure footprint.\n\nMinimum Qualifications\n\nBachelor\u2019s degree in Computer Science, Engineering, or a related technical field, or equivalent practical experience.\n\n7+ years of experience in Technical Program Management within hardware development, semiconductor, or complex infrastructure environments.\n\nDeep understanding of Software/Hardware Development Lifecycles (SDLC/HDLC), including ASIC development and silicon validation.\n\nCore Competency: Influencing without authority, with a proven ability to align diverse technical teams toward a singular objective.\n\nCore Competency: High-drive/Self-starter attitude, with a relentless focus on delivering results in fast-paced, high-stakes environments.\n\nProven ability to manage complex, cross-functional projects with multiple high-stakes dependencies.\n\nExceptional communication skills, with the ability to translate technical infrastructure needs for varied stakeholders.\n\nProficiency in standard project management methodologies (Agile/Waterfall) and tools (Jira, Confluence).\n\nPreferred Qualifications\n\nMaster\u2019s degree in Computer Science, Engineering, or a related technical field.\n\nDirect experience managing development labs, hardware validation environments, or large-scale test infrastructure.\n\nFamiliarity with compute infrastructure, high-speed networking, traffic generation systems, and hardware test automation/CI/CD pipelines.\n\nExperience with technical equipment procurement, vendor management, and budget planning.\n\nStrong track record of developing infrastructure observability tools and driving operational excellence across large engineering organizations.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022629EXTERNALENGLOBAL/Lab-Operations-Manager",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Caesarea-Israel/Technical-PMO---Development-Infrastructure_2022629/apply"
+}

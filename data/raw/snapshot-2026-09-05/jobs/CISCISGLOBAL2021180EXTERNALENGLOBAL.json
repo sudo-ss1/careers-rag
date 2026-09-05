@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021180EXTERNALENGLOBAL",
+ "req_id": "2021180",
+ "title": "Cloud Engineer - 8+yrs - Cloud-native SaaS applications, Java, Python, Kafka/Flink/Spark/Ice berg",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-17T00:00:00.000+0000",
+ "skills": [
+  "java",
+  "python",
+  "kafka",
+  "distributed systems",
+  "flink",
+  "spark",
+  "data pipeline development",
+  "machine learning",
+  "iceberg",
+  "feature engineering",
+  "model deployment",
+  "api development",
+  "cloud-native application design",
+  "aws",
+  "gcp",
+  "kubernetes",
+  "docker",
+  "distributed storage",
+  "data modelling",
+  "microservices",
+  "event-driven architecture",
+  "ai platform architecture",
+  "machine learning frameworks",
+  "pytorch",
+  "tensorflow",
+  "langchain",
+  "llamaindex",
+  "mlflow",
+  "ray",
+  "vector databases"
+ ],
+ "teaser": "Seeking a Cloud Engineer to define and drive the architecture of scalable, secure, and future-ready data capabilities for Webex Contact Center. Lead the development of AI-powered data platforms, collaborating with cross-functional teams. Ideal for experienced professionals with strong expertise in cloud-native SaaS applications and modern data technologies.",
+ "description": "Be part of the Cisco Webex Contact Center team, where technology, innovation, and collaboration come together to transform customer experiences. We foster a culture of curiosity, creativity, and continuous learning, empowering team members to experiment, challenge existing approaches, and bring new ideas to life.\n\nAs a Cloud Engineer for Webex Contact Center, you will serve as a Senior Engineer responsible for defining the architecture, standards, and strategic direction of the data, analytics, and reporting platform. You will design and develop scalable, secure, reliable, and future-ready data capabilities that support real-time and historical reporting, customer journey insights, artificial intelligence, machine learning, and other data-driven Contact Center experiences.\n\nWorking closely with Product Managers, engineering leaders, you will shape how Contact Center data is collected, processed, modeled, stored, governed, and consumed. Your technical direction will help ensure data accuracy, consistency, security, scalability, and high availability while enabling faster delivery of reporting, analytics, and AI-powered capabilities for Webex Contact Center customers.\n\nKey Responsibilities\n\nDesign, develop, and operate AI-ready data platform components that power next-generation intelligent experiences across Webex Contact Center.\n\nPartner with the Data Platform Architect to build the foundational intelligence layer that transforms enterprise contact center data into predictive insights, recommendations, and autonomous decision-making.\n\nDevelop scalable data pipelines, feature engineering frameworks, and intelligent data services that enable training, deployment, and continuous improvement of custom AI and machine learning models.\n\nBuild reusable AI platform capabilities including feature stores, inference pipelines, semantic search, vector retrieval, embeddings, knowledge augmentation, and model-serving infrastructure.\n\nDevelop high-performance streaming and batch data processing systems capable of handling billions of customer interaction events with low latency and high reliability.\n\nBuild APIs and platform services that expose AI-ready data to Reporting, Analytics, AI Agents, Routing, Workforce Optimisation, and other intelligent platform capabilities.\n\nOptimize AI and data platform performance across ingestion, feature computation, model inference, storage, retrieval, and serving to meet enterprise-scale latency and throughput requirements.\n\nEvaluate emerging AI technologies, machine learning frameworks, vector databases, and modern data infrastructure, rapidly prototyping new ideas that can differentiate Webex Contact Center.\n\nParticipate in architecture discussions, design reviews, and technical innovation, contributing to the evolution of Cisco's AI-first data platform.\n\nMentor engineers and champion engineering excellence through clean architecture, automation, observability, testing, and knowledge sharing.\n\nMinimum Qualifications:\n\nBachelor's or Master's degree in Computer Science, Engineering, Artificial Intelligence, Machine Learning, or a related technical field.\n\n8+ years of experience building distributed cloud-native SaaS applications.\n\nStrong software engineering expertise in Java and/or Python with experience developing production-grade backend services.\n\nHands-on experience building modern data platforms using technologies such as Kafka, Flink, Spark, Iceberg, Pinot, ClickHouse, or equivalent streaming and analytical systems.\n\nGood understanding of modern AI and machine learning architectures, including feature engineering, embeddings, vector search, Retrieval-Augmented Generation (RAG), semantic retrieval, inference pipelines, and model-serving frameworks.\n\nExperience integrating machine learning models into large-scale production systems, with an understanding of model lifecycle, monitoring, evaluation, and continuous improvement.\n\nStrong understanding of distributed systems, event-driven architectures, microservices, and cloud-native application design.\n\nExperience building scalable data processing pipelines supporting both real-time and offline AI workloads.\n\nExperience optimizing large-scale systems for latency, throughput, scalability, reliability, and operational efficiency.\n\nHands-on experience with AWS or GCP, Kubernetes, Docker, and cloud-native engineering practices.\n\nStrong understanding of data modelling, APIs, distributed storage, caching, and performance tuning.\n\nExcellent analytical, debugging, and problem-solving skills with the ability to work across complex enterprise platforms.\n\nDesired Skills\n\nExperience building AI-powered enterprise platforms where machine learning is a core product capability rather than a standalone service.\n\nExperience with LLMs, fine-tuning, prompt engineering, agentic workflows, or domain-specific AI applications.\n\nExperience with vector databases, feature stores, knowledge graphs, semantic indexing, and intelligent retrieval systems.\n\nFamiliarity with modern AI frameworks such as PyTorch, TensorFlow, LangChain, LlamaIndex, MLflow, Ray, or equivalent technologies.\n\nExperience developing custom AI or machine learning models for recommendation systems, forecasting, anomaly detection, conversational intelligence, or decision optimisation.\n\nExperience optimizing GPU-accelerated inference, model-serving infrastructure, and large-scale AI workloads.\n\nExperience working on enterprise SaaS platforms handling large-scale customer data, preferably in Contact Center, Customer Experience, CRM, or communications platforms.\n\nStrong interest in applying AI to solve complex customer problems and creating differentiated product capabilities beyond commercially available AI models.\n\n#collabhiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021180EXTERNALENGLOBAL/Cloud-Engineer-8-yrs-Cloud-native-SaaS-applications-Java-Python-Kafka-Flink-Spark-Ice-berg",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Cloud-Engineer---8-yrs---Cloud-native-SaaS-applications--Java--Python--Kafka-Flink-Spark-Ice-berg_2021180/apply"
+}

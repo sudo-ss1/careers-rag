@@ -1,0 +1,46 @@
+{
+ "job_seq_no": "CISCISGLOBAL2014802EXTERNALENGLOBAL",
+ "req_id": "2014802",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "London, United Kingdom"
+ ],
+ "country": "United Kingdom",
+ "city": "London",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-28T00:00:00.000+0000",
+ "skills": [
+  "c++",
+  "linux development",
+  "docker",
+  "microservices architecture",
+  "devops",
+  "virtualisation",
+  "kubernetes",
+  "windows development",
+  "data science",
+  "ai tools",
+  "networking protocols",
+  "tcp/ip",
+  "http",
+  "cryptography",
+  "audio and video coding",
+  "opus",
+  "h.264",
+  "git",
+  "continuous integration",
+  "continuous delivery",
+  "agile development",
+  "automated testing",
+  "stakeholder management"
+ ],
+ "teaser": "Join our team as a Software Engineer to design, develop, and deliver new features for Cisco's Webex Real-time Media Engineering Group. Contribute to agile teams, manage microservices, and apply your programming expertise. Ideal for candidates with strong C++ skills and experience in Linux development.",
+ "description": "Software Engineer\n\nWebex Real-time Media Engineering Group\n\nMeet the Team\n\nCisco's Webex Real-time Media Engineering Group is redefining the future of collaboration. We're building a world where people connect effortlessly to enjoy modern, uncompromised collaboration across every room, desk, pocket, and application.\n\nOur technology powers industry-leading products like Webex Meetings, Webex Calling, and Webex Contact Center. As a member of our team, your work will ensure every user gets a truly immersive experience regardless of device or location, empowering the hybrid working patterns of the future.\n\nOur team is based in one of our central London offices, near Liverpool Street station. We operate a hybrid working model, meeting to collaborate in the office three times a week.\n\nYour Impact\n\nFull Lifecycle Development: Work in an agile team to design, develop, test, and deliver new features and improvements to our products.\n\nDevOps & Microservices: Be trained on and help manage the operational side of our highly available microservice architecture, including being part of an on-call rotation.\n\nAdaptable & Problem-Solver: Tackle varied and challenging problems daily, showing flexibility, a data-driven focus on quality, and an ability to learn new skills quickly.\n\nOwnership & Quality: Take responsibility for tasks, from building new functionality to developing automated tests and investigating issues, all with a level of high attention to detail.\n\nAI: Use a variety of AI tools in your daily workflow for enhanced productivity; contribute to Cisco\u2019s growth by using and applying AI in new scenarios and opportunities.\n\nSupport & Growth: Receive dedicated mentorship and formal training from a supportive team of fellow engineers to help you get up to speed and grow your skills.\n\nMinimum Qualifications:\n\nAnalytical Degree: Bachelor's or higher degree in an analytical subject (e.g. Computer Science, Engineering, Maths, Physics).\n\nCoding Aptitude: 3+ years of professional programming experience in C++ and the willingness to learn new languages quickly.\n\nExperience with Linux development: Experience with using Linux and developing software running on Linux.\n\nExperience with virtualisation and containers: An understanding of virtual machines and containerisation technologies, and experience with Docker.\n\nPreferred Qualifications:\n\nAny of the following skills would be particularly advantageous, but we welcome applications without these:\n\nFamiliarity with Kubernetes\n\nFamiliarity with Windows development\n\nExperience with data science / AI\n\nKnowledge of networks and networking protocols (such as TCP/IP and HTTP)\n\nExposure to cryptography\n\nFamiliarity with audio and video coding, processing techniques, and technologies (such as Opus or H.264)\n\nFamiliarity with Git, DevOps, continuous integration, continuous delivery\n\nCollabHiring.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014802EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/London-United-Kingdom/Software-Engineer_2014802/apply"
+}

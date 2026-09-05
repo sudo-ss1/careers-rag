@@ -1,0 +1,36 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021252EXTERNALENGLOBAL",
+ "req_id": "2021252",
+ "title": "Test Engineer",
+ "category": "Supply Chain and Manufacturing Ops",
+ "categories": [
+  "Supply Chain and Manufacturing Ops"
+ ],
+ "locations": [
+  "Guadalajara, Mexico"
+ ],
+ "country": "Mexico",
+ "city": "Guadalajara",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-18T00:00:00.000+0000",
+ "skills": [
+  "manufacturing testing automation",
+  "yield improvement",
+  "manufacturing workflow optimization",
+  "test automation tools",
+  "burn-in test",
+  "functional validation",
+  "python",
+  "statistical methods",
+  "test strategy development",
+  "failure analysis",
+  "data analysis",
+  "process improvement",
+  "high-speed digital interfaces"
+ ],
+ "teaser": "We are currently hiring a Test Engineer to lead the development and execution of comprehensive testing strategies for manufacturing processes and products. You will define test plans, analyse data, and collaborate with cross-functional teams to optimise workflows. Ideal candidates bring extensive experience in manufacturing test engineering and a strong technical background.",
+ "description": "Meet the Team \n\nThe Global Manufacturing Operations (GMO) Testing Engineering team is a vital part of Cisco\u2019s Manufacturing ecosystem, focused on ensuring the quality, reliability, and performance of manufacturing processes and products. This team drives innovation and operational excellence by developing and executing rigorous testing strategies that support Cisco\u2019s global manufacturing footprint.\n\nYour Impact \n\nAs a Global Manufacturing Operation Testing Engineer technical leader, you will play a key role in validating manufacturing processes and product quality through comprehensive testing and analysis, also as a leader you will define the strategy and structure to be used on complex and new products while improving the technical skills of other test engineers. This role offers the opportunity to collaborate with cross-functional teams to optimize manufacturing workflows, troubleshoot issues, and implement improvements that enhance product reliability and customer satisfaction. Your work will directly impact Cisco\u2019s ability to deliver high-quality products efficiently on a global scale.\n\n \u2022 Develop, implement, and execute test plans and procedures for manufacturing processes and products.\n\n \u2022 End to End test strategy ownership, helping to define test strategies from ICT to Functional system test optimizing Test time vs Throughput, Detection vs Escape risk and Coverage vs Cost. Decide what to test where in the process.\n\n \u2022 Analyze test data to identify trends, root causes, and opportunities for process improvements.\n\n \u2022 Collaborate with manufacturing, quality, and engineering teams to resolve production issues and optimize testing methodologies.\n\n \u2022 Support new product introductions by validating manufacturing readiness and process capability.\n\n \u2022 Manage functional test capacity, expansion planning and execution.\n\n \u2022 Develop and maintain functional test, system level test, Chamber, Burn-In, Stress test, Test fixtures and manage golden units.\n\n \u2022 Experience on yield improvement based on Data Analytics, handle large datasets from manufacturing lines applying statistical methods like correlation and regression.\n\nMinimum Qualifications\n\n \u2022 Bachelor\u2019s degree in Engineering, Manufacturing, or a related technical discipline with +10 years of experience in manufacturing test engineering within a global environment, complemented by a deep understanding of manufacturing processes, quality control, and product lifecycle management (PLM).\n\n \u2022 Test Strategy & Data Analysis: Proven ability to develop and execute comprehensive test plans, utilizing advanced data analysis tools and software to interpret results and generate actionable insights.\n\n \u2022 Compliance & Failure Analysis: Expertise in maintaining manufacturing compliance standards and documentation, combined with strong skills in Failure Analysis and Debug to lead root cause investigations for design, process, and component issues.\n\n \u2022 Technical Specialization: Deep technical expertise in high-speed digital interfaces (SerDes, Optical, Ethernet), functional validation of complex boards, and testing of complete telecom systems.\n\n \u2022 Technical Proficiency & Automation: Experience with manufacturing testing automation tools, combined with programming proficiency (e.g., Python, C/C#) and data analytics skills.\n\n \u2022 Language Proficiency: Fluent in English, with the ability to communicate effectively and collaborate within a global technical environment.\n\nPreferred Qualifications\n\n \u2022 Process Improvement: Familiarity with Lean Six Sigma or other continuous improvement methodologies to optimize manufacturing operations.\n\n \u2022 Collaboration: Strong communication and collaboration skills to work effectively across global teams.\n\n \u2022 Professional Mindset: A proactive problem-solving approach characterized by attention to detail and a consistent focus on quality and efficiency.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021252EXTERNALENGLOBAL/Test-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Guadalajara-Mexico/Test-Engineer_2021252/apply"
+}

@@ -1,0 +1,40 @@
+{
+ "job_seq_no": "CISCISGLOBAL2015705EXTERNALENGLOBAL",
+ "req_id": "2015705",
+ "title": "Test Development Engineer",
+ "category": "Supply Chain and Manufacturing Ops",
+ "categories": [
+  "Supply Chain and Manufacturing Ops"
+ ],
+ "locations": [
+  "Chon Buri, Thailand",
+  "Penang, Pulau Pinang (Penang), Malaysia"
+ ],
+ "country": "Thailand",
+ "city": "",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-09T00:00:00.000+0000",
+ "skills": [
+  "design for test",
+  "budget management",
+  "mechanical design",
+  "test equipment reliability",
+  "test equipment design",
+  "gage repeatability and reproducibility",
+  "python",
+  "optical",
+  "timeline management",
+  "manufacturing yield analysis",
+  "ai",
+  "test continuity",
+  "automated test systems",
+  "stakeholder management",
+  "electrical design",
+  "root cause analysis"
+ ],
+ "teaser": "We are currently hiring a Test Development Engineer to develop and maintain robust test solutions for advanced optical transceiver products. You will collaborate with cross-functional teams to ensure quality and reliability, focusing on test automation and design for test standards. Ideal candidates have strong software development and electrical design experience.",
+ "description": "Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received. \u00a0\n\u00a0\nMeet the Team\u00a0\n\nProduct Operations is part of Supply Chain Operations (SCO), driving New Product Introduction (NPI) and Product Lifecycle Management from launch through End of Life (EOL). The team partners with Design Engineering early in development to ensure manufacturability, testability, and smooth transitions into production. We\u2019re collaborative, highly technical, and focused on solving complex problems that connect design and manufacturing at scale.\n\nWe are seeking a highly skilled Senior Test Engineer to join the Transceiver Module Group (TMGBU). In this role, you will be responsible for developing, implementing, and maintaining robust test solutions for our advanced optical transceiver products. You will collaborate with cross-functional teams to ensure the highest standards of quality, performance, and reliability for our optical components.\n\nYour Impact\u00a0\nAs a Test Development Engineer, you will be a key contributor to the development and implementation of test strategy for new products. You will own the software development and test design of new product platforms, ensuring they are delivered on time and within quality specifications. You will serve as a product lead, engaging with engineering teams to gain in-depth system hardware knowledge and driving Design for Test (DFT) and DFx standards. Your work directly impacts manufacturing yield, field reliability, and the overall success of Cisco's global product deployments.\u00a0\n\n\u00a0Design, build, and deploy automated test platforms for Cisco's global manufacturing partners.\u00a0\n\nDevelop robust test automation scripts using Python to streamline functional testing.\u00a0\n\nGenerate product-specific test plans and drive comprehensive test coverage based on product requirements.\u00a0\n\nAnalyze manufacturing yield issues and field escapes; perform root cause analysis and implement preventive measures to ensure test continuity.\u00a0\n\nManage stakeholders and partners (CM/ODM/OEM) to provide Design for Test (DFT) feedback and ensure alignment on technical requirements.\u00a0\n\nCollaborate with engineering teams to gain in-depth system hardware knowledge for new product introductions.\u00a0\n\nMinimum Qualifications \n\nBachelor\u2019s degree in engineering or related field with 4+ years of related experience, or Master\u2019s degree with 2+ years, or PhD with 1+ year of related experience.\u00a0\n\nProven experience in software development and electrical design for automated test equipment.\u00a0\n\nStrong proficiency in Python for test automation script development.\u00a0\n\nDemonstrated ability to perform root cause analysis on manufacturing yield issues and field escapes.\u00a0\n\nExperience in applying DFx (Design for Excellence) standards and providing DFT feedback.\u00a0\n\n\u00a0\nPreferred Qualifications\n\nExperience managing stakeholders in a global manufacturing environment (CM/ODM/OEM).\u00a0\n\n3+ years of test engineering experience with optical transceivers or optical networking modules (SFP, SFP+, SFP28, QSFP, QSFP28, QSFP-DD, OSFP, CFP, etc.)\n\nHands-on experience testing to industry standards such as IEEE 802.3, ITU-T, OIF-CEI, MSA specifications (SFF-8636, CMIS), and Ethernet/Fibre Channel protocols\n\nExperience with optical/RF test equipment including BERT (Bit Error Rate Testers), optical power meters, optical spectrum analyzers (OSA), sampling/real-time\n\nStrong analytical skills with the ability to solve complex problems of diverse scope.\u00a0\n\nProven track record in leading projects and mentor junior team members.\u00a0\n\nExcellent communication skills with the ability to influence cross-functional teams and senior leadership.\u00a0\n\nExperience in hardware/software integration and system-level troubleshooting.\u00a0\n\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015705EXTERNALENGLOBAL/Test-Development-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Chonburi-Thailand/Test-Development-Engineer_2015705/apply"
+}

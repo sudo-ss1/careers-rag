@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018058EXTERNALENGLOBAL",
+ "req_id": "2018058",
+ "title": "Consulting Engineer - Data Center",
+ "category": "Customer Experience",
+ "categories": [
+  "Customer Experience"
+ ],
+ "locations": [
+  "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+ ],
+ "country": "Malaysia",
+ "city": "Kuala Lumpur",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-03T00:00:00.000+0000",
+ "skills": [
+  "l2/l3 networking protocols",
+  "cisco nexus platforms",
+  "data center solution design",
+  "cisco vxlan fabric",
+  "cisco aci fabric",
+  "network integration",
+  "firewall integration",
+  "ips integration",
+  "load balancer integration",
+  "wan optimizer integration",
+  "build and review of design recommendations",
+  "change management plans",
+  "python",
+  "ansible",
+  "terraform",
+  "virtualization technologies",
+  "vmware",
+  "cisco ucs",
+  "hyperflex",
+  "kubernetes",
+  "aws",
+  "azure",
+  "google cloud",
+  "mentoring junior engineers",
+  "stakeholder management"
+ ],
+ "teaser": "We are looking for a Consulting Engineer to lead the strategy, design, and implementation of advanced Data Center and networking solutions. You will guide customers through complex technology transitions, ensuring scalable architectures and seamless integration. Ideal candidates bring extensive experience in technical consulting and deep expertise in networking technologies.",
+ "description": "Meet the Team\n\nThe Customer Experience (CX) team is a group of extraordinary technical guides whose main focus is delivering a world-class customer experience by solving the toughest business challenges with network-centric solutions. We accelerate customer and partner success through ground breaking technology design, implementation, and optimization across a broad range of Cisco technologies. Our team collaborates closely with Cisco account teams, partners, and multi-functional groups to drive meaningful technology transitions and deliver real business outcomes. We are a high-performing, globally connected team with a strong culture of continuous learning, mentorship, and knowledge sharing. Our impact is validated through strong financial results, industry recognition, and some of the highest customer and employee satisfaction scores at Cisco.\n\nYour Impact\n\nAs a Consulting Engineer, you will serve as a trusted technical advisor to customers, leading the strategy, design, and implementation of sophisticated Data Center and networking solutions that directly accelerate business outcomes. You will own end-to-end delivery of high-impact engagements, translating customer business requirements into scalable architectures while influencing technology transitions at the highest levels. Partner with Cisco account teams, partners, and multi-functional collaborators to align solution designs with customer goals, driving measurable success across pre-sales and delivery phases. Act as the primary escalation point for sophisticated problem resolution, demonstrating deep technical expertise to resolve sophisticated issues across a broad range of technologies. Develop and contribute digital intellectual capital, repeatable delivery frameworks, and knowledge-sharing practices that elevate the entire consulting practice.\n\nMinimum Qualifications\n\nBachelor's degree in Computer Science or equivalent, with 8\u201312 years of relevant experience in customer-facing technical consulting, pre-sales, and/or service delivery roles\n\nDeep knowledge of L2/L3 networking protocols and technologies (vPC, STP, HSRP, OSPF, EIGRP, BGP) with strong hands-on Nexus 2K/5K/7K/9K platform experience\n\nLead & drive technology design, implementation, execution, and/or optimization for projects/accounts to accelerate customer outcomes.\n\nProven experience in design and deployment of Data Center solutions including traditional DC standalone Nexus design, Cisco VXLAN Fabric and Cisco ACI Fabric solutions using ACI MultiPod /Multisite/Remote Leaf Fabric architectures.\n\nPartnered with customers to design and implement network solutions, ensuring seamless system integration and proactive service assurance\n\nActive Data Center certification such as CCIE or CCNP, or equivalent vendor certification (e.g. VCP)\n\nExperience integrating network services appliances (such as firewalls, IPS, load balancers, WAN optimizers) within Data Center solution designs\n\nExperience in\u00a0 Build and reviews project work e.g. Design recommendations, High-Level Design, Low-Level Design, Implementation/ Change Management Plans.\n\nPreferred Qualifications\n\nKnowledge of software programmability, automation (Python, Ansible, Terraform and so on), orchestration, and/or virtualization technologies\n\nExperience with compute, virtualization, and container environments including Cisco UCS, HyperFlex, VMware, Microsoft, and Kubernetes\n\nTechnical familiarity with multi-cloud environments across AWS, Azure, and Google Cloud from a network integration perspective\n\nProven ability to mentor and develop junior engineers, with experience leading high-visibility strategic consulting engagements\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018058EXTERNALENGLOBAL/Consulting-Engineer-Data-Center",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kuala-Lumpur-Malaysia/Consulting-Engineer---Data-Center_2018058/apply"
+}

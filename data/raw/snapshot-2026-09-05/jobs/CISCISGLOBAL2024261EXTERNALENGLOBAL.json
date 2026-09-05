@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL2024261EXTERNALENGLOBAL",
+ "req_id": "2024261",
+ "title": "Memory IP CAD Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "ZHUBEI, Hsinchu County, Taiwan"
+ ],
+ "country": "Taiwan",
+ "city": "ZHUBEI",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-01T00:00:00.000+0000",
+ "skills": [
+  "drc command file development",
+  "ic physical verification",
+  "finfet process nodes",
+  "siemens calibre",
+  "7nm or below finfet",
+  "totem",
+  "redhawk",
+  "synopsys ic validator",
+  "svrf",
+  "tvf",
+  "tcl",
+  "python",
+  "shell scripting",
+  "automated script development",
+  "memory ip layout verification",
+  "ir flow development",
+  "em flow development",
+  "technical communication in english",
+  "technical communication in mandarin"
+ ],
+ "teaser": "Join our team as a Memory IP CAD Engineer, contributing to the development of advanced SRAM/TCAM memory solutions. You will write DRC command files, develop verification methodologies, and build automated scripts for physical verification. Ideal candidates have significant experience in IC physical verification and expertise with advanced process nodes.",
+ "description": "Who You\u2019ll Work With\n\nJoin the Cisco Silicon One team in developing essential building blocks for web-scale and service provider networks. Our SRAM / TCAM design team unites a circuit architect, circuit designer, CAD engineer, and manager, each bringing specialized expertise to create advanced memory solutions. We focus on technical excellence, streamlined processes, and open collaboration to deliver robust SRAM / TCAM designs and meet ambitious project goals. Committed to innovation and teamwork, we tackle complex challenges and drive the future of memory technology together.\n\nWhat You\u2019ll Do\nCommand File Development: Write DRC command files for advanced verification. (e.g Redundant Via check/Wide metal via count check....)\nDevelop methodology and construct flow to verify memory IP layout.\nAutomation Engineering: Build and maintain automated scripts to streamline the physical verification.\nOther flow Development: IR/EM flow development (Totem/Redhawk)\n\nWho You Are\nEducation: Bachelor's or Master's degree in Electrical Engineering, Electronics Engineering, Computer Science, or a related field.\nExperience: Minimum of 3+ years of experience in IC Physical Verification.\nProcess Node: Proven track record with 7nm or below FinFET advanced process nodes.\nEDA Tool Mastery: Expert-level proficiency with Siemens Calibre (DRC/LVS/perc), Totem, Redhawk, Synopsys IC Validator\nScripting Languages: Deep knowledge of SVRF, TVF, Tcl, Python, or Shell scripting.\nLanguage Proficiency: Strong technical communication skills in English and Mandarin.\n\nWe do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024261EXTERNALENGLOBAL/Memory-IP-CAD-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Zhubei-Taiwan/Memory-IP-CAD-Engineer_2024261/apply"
+}

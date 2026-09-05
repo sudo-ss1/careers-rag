@@ -1,0 +1,35 @@
+{
+ "job_seq_no": "CISCISGLOBAL2004794EXTERNALENGLOBAL",
+ "req_id": "2004794",
+ "title": "Emulation Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Cairo, Egypt"
+ ],
+ "country": "Egypt",
+ "city": "",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-05T00:00:00.000+0000",
+ "skills": [
+  "system verilog",
+  "uvm methodology",
+  "design verification",
+  "functional coverage",
+  "test benches",
+  "python",
+  "c",
+  "c++",
+  "debugging",
+  "communication skills",
+  "collaboration",
+  "scripting"
+ ],
+ "teaser": "Take on the role of Emulation Engineer, contributing to the development and verification of next-generation switching systems. Collaborate with design and hardware teams to ensure robust ASIC functionality. Ideal for candidates with experience in design verification and a strong background in System Verilog and UVM methodology.",
+ "description": "Meet the team\n\nJoin the Cisco Common ASIC Group\u2014a passionate, world-class team pioneering the future of programmable, high-speed switching solutions. Our team\u2019s mission is to accelerate innovation by enabling early detection of performance and functional issues in ASICs, ensuring reliable and scalable network infrastructure. As a diverse and highly collaborative group, we blend expertise in hardware, software, and emulation to deliver the backbone of global data connectivity. With a culture rooted in technical excellence and continuous learning, we\u2019re excited to build tomorrow\u2019s switching systems that power the world\u2019s internet experiences. Be part of a unique team whose solutions touch nearly every internet transaction globally.\n\u00a0\n\nYour impact\n\u00a0\n\nDrive the development of advanced ASIC emulation environments to accelerate pre-silicon validation and improve time-to-market for next-generation switching systems. Build and refine emulation infrastructure using C/C++ and TCL, enabling early identification of critical issues and enabling robust silicon. Collaborate closely with design, verification, power, and diagnostic teams to implement, test, and debug complex multi-terabit systems. Develop and execute sophisticated test plans and traffic scenarios to ensure flawless system performance post-silicon. Shape the reliability and scalability of the hardware that underpins cloud and enterprise networks worldwide.\n\nMinimum qualifications\n\nMaster\u2019s degree in Electrical Engineering, Electronics Engineering, or Computer Engineering with 4+ years of relevant experience, OR Bachelor\u2019s degree in the same fields with 5+ years of relevant experience\n\n2+ years of emulation experience on platforms such as Palladium, Veloce, or Zebu as well as experience with compilation, debug, performance testing.\n\nProficiency in RTL development using Verilog or System Verilog for emulation prototypes\n\nProficiency in C/C++ and TCL for emulation infrastructure development\n\nExperience with system debug tools (e.g., gdb, waveform debuggers)\n\nPreferred qualifications\n\nExperience with scripting languages (e.g., Python, Perl)\n\nStrong written and verbal communication skills\n\nPost-silicon functional validation or debugging experience\n\nKnowledge of protocols such as PCIe, I2C, Ethernet packet headers, and Ethernet protocol\n\nCollaborative mindset with a drive to learn and contribute in a team environment\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2004794EXTERNALENGLOBAL/Emulation-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Cairo-Al-Qahirah-Egypt/Emulation-Engineer_2004794/apply"
+}

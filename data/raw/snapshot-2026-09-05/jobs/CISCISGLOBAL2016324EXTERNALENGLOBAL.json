@@ -1,0 +1,38 @@
+{
+ "job_seq_no": "CISCISGLOBAL2016324EXTERNALENGLOBAL",
+ "req_id": "2016324",
+ "title": "Software Machine Learning Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Lysaker, Norway"
+ ],
+ "country": "Norway",
+ "city": "Lysaker",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-21T00:00:00.000+0000",
+ "skills": [
+  "c++",
+  "python",
+  "machine learning",
+  "computer vision",
+  "object detection",
+  "face recognition",
+  "tensorflow",
+  "pytorch",
+  "model deployment",
+  "model optimization",
+  "video conferencing",
+  "scene understanding",
+  "hardware integration",
+  "software integration",
+  "collaboration"
+ ],
+ "teaser": "Join our team as a Software Machine Learning Engineer, contributing to the development of real-time machine learning models for video conferencing devices. Collaborate with hardware, software, and product teams to integrate ML solutions. Ideal for candidates with programming experience in C++ or Python and a passion for building reliable software.",
+ "description": "Software Machine Learning Engineer\n\nMeet the team\nCisco Norway is a global leader in developing video conferencing technology - helping millions of people connect and collaborate worldwide. At our innovation center just outside Oslo, you'll join 300+ engineers working with hardware and software - from idea to design, mechanics, audio, media processing and artificial intelligence. Our solutions are trusted by businesses, universities, governments and organizations around the world.\n\nOne of the engineering teams, the Machine Learning team, is now looking for a passionate engineer to join the team. We are responsible for developing the real-time machine learning models that run on our video devices. You will be part of the team, but also work closely with other hardware, software, and product teams to integrate ML solutions seamlessly into our product stack.\n\nYour impact\nYou are a software engineer with either experience in machine learning, or a strong motivation to dive into the field. Whether you\u2019ve already worked on ML projects or are eager to learn, you enjoy building reliable software, collaborating with others, and taking ownership of your work. You enjoy working as part of a team and contribute to our culture of learning from each other.\n\nYou will:\n\nBuild, optimize, and deploy end-to-end real-time ML models for computer vision on our video conferencing devices\n\nSolve interesting challenges in areas like object detection, face recognition, and scene understanding\n\nTake ideas from concept to production, directly improving the experience for millions of users\n\nKeep growing your skills by joining courses, workshops, and conferences\u2014both locally and around the world\n\nMinimum Qualifications\n\nBachelor\u2019s or Master\u2019s degree in Computer Science, Electrical Engineering, Machine Learning, Artificial Intelligence, or a closely related technical field\n\nProgramming experience in C++ or Python\n\nPreferred Qualifications\n\nA problem solver with a strong eagerness to learn new skills and expand your knowledge in a constantly evolving field\n\nFamiliarity with ML frameworks such as TensorFlow, PyTorch, or similar\n\nExperience with deploying and optimizing ML models\n\nEnjoys being part of a team and working towards common objectives\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016324EXTERNALENGLOBAL/Software-Machine-Learning-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Lysaker-Norway/Software-Machine-Learning-Engineer_2016324/apply"
+}

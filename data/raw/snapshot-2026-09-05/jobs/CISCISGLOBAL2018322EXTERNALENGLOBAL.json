@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018322EXTERNALENGLOBAL",
+ "req_id": "2018322",
+ "title": "Software Engineer - C , Embedded, Multithreading , Netconf 4 - 8 years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Remote",
+ "posted_date": "2026-07-17T00:00:00.000+0000",
+ "skills": [
+  "c/c++",
+  "linux",
+  "network programming",
+  "kernel programming",
+  "python",
+  "multithread programming",
+  "api programming",
+  "open-source technologies",
+  "regular expressions",
+  "cli parsers",
+  "test driven development",
+  "test automation",
+  "prompt engineering",
+  "netconf",
+  "grpc",
+  "tcp/ip",
+  "performance optimization",
+  "high availability design",
+  "golang",
+  "open configuration models",
+  "gnmi",
+  "gnoi",
+  "documentation creation",
+  "stakeholder management",
+  "cisco product development"
+ ],
+ "teaser": "Take on the role of Software Engineer to architect and develop the IOS-XR programmability and manageability stack, enabling automated operations management for service providers and web customers. Collaborate with a diverse team to deliver innovative, scalable solutions. Ideal for experienced engineers with expertise in C, Python, and network programming.",
+ "description": "Meet the Team\u00a0\n\nCisco IOS-XR team\u00a0Manageability team is responsible for\u00a0programmability stack exposing Cisco\u2019s Flagship IOS-XR Operating System as an API. This small team is responsible for delivering a highly innovative, scalable, and reliable programmatic OS to Cisco\u2019s Campus, Branch, Service Provide Edge, and hyper scalers market Segments that will be deployed on Millions of devices and help to generate Billions in revenue annually.\u00a0\n\nYour Impact\u00a0\n\nYou \u00a0will be part of a phenomenal team of engineers with a diverse set of experiences and knowledge who develop the next generation machine to machine interface, manageability technology stack (grpc, netconf), and tooling to enable network automation at scale. In this\u00a0role\u00a0you will have an opportunity to learn and for us to learn from you.\n\nArchitecting and Evolving IOS-XR Programmability\n\nDevelopment of the XR programmability/manageability stack for enabling fully automated operations management for service provider and web customers\n\nSimplifying the architecture by reducing memory footprints and\u202f improving performance to meet customer expectations and enabling modularity for ease of maintenance\n\nImplementing model-driven APIs and programmability features to enable seamless integration with modern tools and workflow\u00a0\n\nMinimum Qualifications (Provide up to five (5) bullet points - these should be clearly defined, objective, non-comparative, relevant, and quantifiable to appropriately evaluate applicants \u2013 not including soft skills):\u00a0\n\nBachelor\u2019s degree with 6+ years of related experience, or a Master\u2019s degree with 4+ years of experience\n\nExpert knowledge and hands-on experience with C and Python\n\nProficiency in writing functional code, unit testing, and debugging.\n\nNetwork and multithread programming\n\nExperience with Linux, Kernel Programming and Open-Source technologies\n\nPreferred Qualifications (Provide up to five (5) bullet points:\u00a0\u00a0these can include soft skills)\n\nGood understanding of regular expressions and CLI parsers\n\nExperience in API programming,\u00a0Netconf,\u00a0\u00a0gRPC\u00a0based services, network programming (TCP/IP)\u00a0\n\nExperience with Open config models and services like\u00a0netconf,\u00a0grpc,\u00a0gnmi,\u00a0gnoi\u00a0is a plus\u00a0\n\nPrior development experience in Cisco\u00a0IOS-XR product\u00a0\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018322EXTERNALENGLOBAL/Software-Engineer-C-Embedded-Multithreading-Netconf-4-8-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer---C---Embedded--Multithreading---Netconf-4---8-years_2018322-1/apply"
+}

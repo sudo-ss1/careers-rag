@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2016018EXTERNALENGLOBAL",
+ "req_id": "2016018",
+ "title": "Database Administrator",
+ "category": "Information Technology",
+ "categories": [
+  "Information Technology"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-09-04T00:00:00.000+0000",
+ "skills": [
+  "oracle 23ai administration",
+  "database cloning",
+  "ansible",
+  "sql",
+  "pl/sql",
+  "incident management",
+  "oracle 19c administration",
+  "ash",
+  "shell scripting",
+  "automation scripting",
+  "oracle database administration",
+  "database backup & recovery",
+  "communication skills",
+  "oracle multitenant administration",
+  "linux/unix administration",
+  "docker",
+  "awr",
+  "python",
+  "addm",
+  "terraform",
+  "rman",
+  "oracle asm",
+  "database upgrade & migration",
+  "oem",
+  "analytical skills",
+  "active data guard",
+  "performance tuning",
+  "oracle rac",
+  "monitoring & observability",
+  "database patching"
+ ],
+ "teaser": "We are currently hiring a Database Administrator to manage and maintain Oracle Database platforms, ensuring high availability and security. You will implement automation, support upgrades, and contribute to operational excellence. Ideal candidates have significant experience in Oracle Database administration and a strong background in automation and scripting.",
+ "description": "Meet the Team\n\nThe Cisco IT team is changing the way we run Cisco\u2019s operations by improving the power of technology, the best of business processes, and superior data insights. Together, we will Reimagine the Cisco experience, Reinvent applications, and Showcase the power of Cisco: our people, products, processes, systems, and data. You will be part of the Database Engineering and Site Reliability Engineering (SRE) team responsible for operating and maintaining Oracle Database platforms.\n\u00a0\n\nYour Impact\n\nIn this role, you will combine database administration, automation, and operational expertise to ensure the health, security, and availability of Oracle database infrastructure. You will work under the guidance of senior team members to implement automation solutions, perform lifecycle management, and support the stability of database services across on-premises and cloud environments. This is a great opportunity to transform how infrastructure platforms are developed and managed with full software automation.\n\nOracle Database Administration:\u00a0Manage and support Oracle Database environments (11g, 12c, 19c, 23ai); perform installation, configuration, and routine lifecycle management; ensure database availability, performance, and security.\n\nDatabase Upgrade & Migration:\u00a0Complete planned database upgrades and migrations using established procedures and tools such as AutoUpgrade, RMAN, and Data Pump.\n\nAutomation & Scripting:\u00a0Develop and maintain scripts (Shell, Python, SQL/PLSQL) to automate routine DBA tasks, health checks, and monitoring.\n\nSRE & Operational Support:\u00a0Contribute to the reliability and operational excellence of Oracle platforms; implement monitoring and alerting; participate in on-call rotations and incident management; support HA/DR activities.\n\nPerformance Tuning:\u00a0Perform basic performance analysis and optimization using AWR, ASH, and ADDM.\n\u00a0\n\nMinimum Qualifications\n\n4\u20138 years of experience in Oracle Database Administration supporting enterprise-scale production environments.\n\nProficiency in SQL, PL/SQL, Shell scripting, and Python.\n\nExperience with core Oracle technologies: Oracle ASM, RAC, Active Data Guard, RMAN, and OEM.\n\nExperience in supporting Oracle Database 19c and 23ai environments.\n\nExperience working in Linux/Unix production environments.\n\u00a0\n\nPreferred Qualifications\n\nExperience with infrastructure automation tools (e.g., Ansible or Terraform).\n\nFamiliarity with containerization technologies (Docker, Kubernetes).\n\nExperience managing Oracle workloads in public cloud environments (OCI, AWS, or Azure).\n\nOperational experience with other database ecosystems (e.g., MongoDB, PostgreSQL, or MySQL).\n\nStrong analytical, problem-solving skills, and a self-motivated approach to working in an Agile/DevOps environment.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016018EXTERNALENGLOBAL/Database-Administrator",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Database-Administrator_2016018-1/apply"
+}

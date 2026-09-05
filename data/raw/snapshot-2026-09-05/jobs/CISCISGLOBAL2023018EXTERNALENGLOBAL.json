@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023018EXTERNALENGLOBAL",
+ "req_id": "2023018",
+ "title": "Product Engineer - Client SiPh",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangkok, Thailand"
+ ],
+ "country": "Thailand",
+ "city": "",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-25T00:00:00.000+0000",
+ "skills": [
+  "optical engine validation",
+  "statistical data analysis",
+  "waveguide testing",
+  "failure analysis",
+  "3d optical integration",
+  "wafer probing",
+  "tia testing",
+  "sql",
+  "high-volume manufacturing",
+  "production yield monitoring",
+  "root cause analysis",
+  "product engineering",
+  "pam4 dsp",
+  "design for manufacturing",
+  "performance monitoring",
+  "2.5d optical integration",
+  "manufacturing process optimization",
+  "process improvement",
+  "python",
+  "corrective action implementation",
+  "modulator testing",
+  "cross-functional team leadership",
+  "automated data pipeline development",
+  "test plan validation",
+  "test solution development"
+ ],
+ "teaser": "We are looking for a Product Engineer to lead the technical transition and validation of advanced optical engines for the Client SiPh portfolio. You will bridge design and manufacturing, ensuring high performance and reliability. Ideal candidates have significant experience in semiconductor or high-speed hardware product engineering.",
+ "description": "Job Description:\n\nThe Product Engineer will focus on the characterization, validation and production ramp of Acacia's latest generation of highly integrated optical engines for 800G and 1.6T Client Optics portfolio. You will bridge the gap between design and high-volume manufacturing, ensuring that our most advanced optical engines meet strict performance, yield, and reliability standards for the global data center market.\n\n\u00a0\n\nKey Essential Functions:\n\n1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Lead the technical transition of optical engines through formal release states (DEV to PROD). Own the validation of test plans and the correlation of results between engineering labs and the factory floor.\n\n2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Monitor production yield and drive continuous yield improvement actions. Implement guard band to ensure 100% field reliability while maximizing manufacturing yield.\n\n3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Lead Failure Analysis for wafer and module-level failures. Investigate root causes of the failures related to modulators, TIA, drivers and waveguides.\n\n4.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Drive \"Alternative Test Solution\" projects to improve supply chain velocity. Execute initiatives to reduce test lead times and expand capacity through test time reduction and optimization.\n\n5.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Develop and maintain automated data pipelines using SQL/SQLite and Python. Create critical performance plots to monitor production health and identify population drift.\n\n6.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Work closely with manufacturing partners to implement process improvements and resolve production bottlenecks. Drive improvement and corrective actions when material or process deviations occur.\n\n7.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Work with Hardware, ASIC, and Firmware teams to resolve \"corner case\" performance issues discovered during high-volume sampling.\n\n\u00a0\n\nMinimum Qualifications, Experience, Skills, Education and Certifications:\n\n1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Education: BS/MS in Electrical Engineering, Optical Physics, Physics, or Semiconductor Manufacturing.\n\n2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 5+ years of experience in semiconductor, optical or high-speed hardware product engineering.\n\n3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Solid experience on 400G/800G/1.6T client optical engines or modules. Good understanding on PAM4 DSP, modulators and high-speed driver/TIA.\n\n4.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Familiar with 400G/800G/1.6T client optical module specifications and test requirements.\n\n5.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Experience on 2.5D/3D optical integration packaging and wafer probing test is a plus.\n\n6.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Strong problem-solving and statistical data analysis skills.\n\n7.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Ability to drive solutions through cross-functional teams.\n\n8.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Excellent verbal and written communications skills.\n\n9.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Extensive experience managing high-volume manufacturing in Asia(Thailand/Malaysia).\n\n\u00a0\n\nPrimary Work Location: Pathum Thani, Thailand\n\nSome Travel Required\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023018EXTERNALENGLOBAL/Product-Engineer-Client-SiPh",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangkok-Thailand/Product-Engineer---Client-SiPh_2023018-1/apply"
+}

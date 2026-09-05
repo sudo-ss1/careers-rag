@@ -1,0 +1,50 @@
+{
+ "job_seq_no": "CISCISGLOBAL2017151EXTERNALENGLOBAL",
+ "req_id": "2017151",
+ "title": "Principal Engineer | AI and Security  | 13+ years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-28T00:00:00.000+0000",
+ "skills": [
+  "c/c++",
+  "aws",
+  "cloud security",
+  "telemetry",
+  "go",
+  "firewall",
+  "kubernetes",
+  "data pipelines",
+  "runtime enforcement",
+  "model protection",
+  "microservices",
+  "ebpf",
+  "real-time inference systems",
+  "sse/sase",
+  "mentoring",
+  "microservices development",
+  "cloud-native systems",
+  "identity-driven architectures",
+  "azure",
+  "tetragon",
+  "access control",
+  "gcp",
+  "network security",
+  "ai/ml integration",
+  "python",
+  "zero trust security",
+  "java"
+ ],
+ "teaser": "We are looking for a Principal Engineer to define the integration of AI and security into Cisco\u2019s core networking and security platforms. Lead the development of cloud-native, security-first architectures and deliver innovative solutions for threat detection and secure access. Ideal for experienced engineers with deep expertise in network and cloud security.",
+ "description": "Principal Engineer \u2013 AI & Security Platforms\n\nLocation: Bangalore, India Organization: Infrastructure & Security CTO\n\nMeet the Team\n\nThe Infrastructure & Security CTO organization is shaping the future of Cisco\u2019s core products by driving AI-driven, cloud-native, security-first architectures across networking and security platforms.\n\nYour Impact\n\nAs a Principal Engineer, you will define how AI and security are embedded into Cisco\u2019s core networking and security products. You will work at the intersection of LLMs, Zero Trust security, and cloud-native systems, delivering innovations that improve threat detection, enable secure access, and automate operations at scale.\n\nWhat You\u2019ll Do\n\n\u2022 Integrate AI/ML and LLMs into platforms for threat detection, anomaly analysis, and intelligent policy enforcement\n\n\u2022 Design security-first architectures, including firewall, Zero Trust / secure access, and runtime security (e.g., Tetragon / eBPF)\n\n\u2022 Build cloud-native platform capabilities leveraging Kubernetes and multi-cloud environments\n\n\u2022 Develop large-scale telemetry, data pipelines, and real-time inference systems to power AI-driven insights\n\n\u2022 Design solutions across the AI security lifecycle, including model/data protection, access control, and runtime enforcement\n\n\u2022 Drive end-to-end execution from architecture through production, including hands-on design and critical-path development\n\n\u2022 Partner with product teams to deliver customer-facing innovation and monetization opportunities\n\n\u2022 Lead and mentor across teams spanning security, AI, and platform engineering\n\nMinimum Qualifications\n\n\u2022 12+ years in platform engineering, distributed systems, or security architecture\n\n\u2022 Strong expertise in:\n\n\u25e6 Network and cloud security (firewalls, Zero Trust, secure access)\n\n\u25e6 Cloud-native systems (Kubernetes, microservices)\n\n\u2022 Experience with cloud-native security (e.g., Tetragon, eBPF, or similar)\n\n\u2022 Hands-on production experience building LLM/AI applications for security use cases, including deployment and scaling\n\n\u2022 Strong programming skills in C/C++, Go, and/or Java, with Python for AI integration and automation\n\n\u2022 Experience building large-scale, telemetry/data-driven platforms\n\nPreferred Qualifications\n\n\u2022 Experience applying AI to security or networking platforms at scale\n\n\u2022 Deep knowledge of Zero Trust, SSE/SASE, and identity-driven architectures\n\n\u2022 Experience with multi-cloud platforms (AWS, Azure, GCP)\n\n\u2022 Strong product mindset\u2014connecting platform innovation to business outcomes\n\n\u2022 Proven ability to drive cross-functional initiatives from concept to production\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017151EXTERNALENGLOBAL/Principal-Engineer-AI-and-Security-13-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Principal-Engineer---AI-and-Security----13--years_2017151/apply"
+}

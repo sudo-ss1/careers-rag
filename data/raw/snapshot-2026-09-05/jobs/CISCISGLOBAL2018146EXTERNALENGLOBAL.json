@@ -1,0 +1,46 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018146EXTERNALENGLOBAL",
+ "req_id": "2018146",
+ "title": "Software Engineer | S1 SDK-C/C++, P4, Network programming | 4-8 years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-19T00:00:00.000+0000",
+ "skills": [
+  "c programming",
+  "c++ programming",
+  "python programming",
+  "ethernet switching",
+  "sdk development",
+  "embedded software development",
+  "router software development",
+  "switch software development",
+  "packet forwarding",
+  "debugging",
+  "gdb",
+  "l2/l3 acl/qos",
+  "network processor development",
+  "packet forwarding asics",
+  "traffic generator tools",
+  "ixia",
+  "spirent",
+  "agile engineering",
+  "code review",
+  "root cause analysis",
+  "mentoring",
+  "cross-functional collaboration",
+  "project management"
+ ],
+ "teaser": "Join our team as a Software Engineer to contribute to the development of next-generation Ethernet Switching products for cloud and enterprise environments. You will design and deliver software features, collaborate with cross-functional teams, and mentor peers. Ideal candidates have strong C/C++ skills and experience in embedded or switch software development.",
+ "description": "Meet the Team\n\nAt Data Center Business Unit in Cisco, we are dedicated to driving innovation in networking technologies. Our focus is on developing groundbreaking Ethernet Switching products that address the evolving needs of modern network infrastructures, including those in AI, cloud computing, and enterprise environments.\n\nYour Impact\n\nIn this role, you will have the opportunity to learn a wide range of core Ethernet Technologies with architectural exposure to craft and develop Ethernet Switching as applied to both Public and Private cloud infrastructure. You will work on the intricacies of the critically important infrastructure that enables the world-class, multi-layered Nexus switches. In addition, you will have the opportunity to participate in multi-functional collaboration and be exposed to all facets of the software development cycle from innovation and marketing requirements to product delivery.\n\n\u2022 You will participate in a project team of engineers involved in the development of software for our next generation data center switch Nexus product family.\n\n\u2022 Define, architect, design, and deliver new features and solutions on the Nexus family platform\n\n\u2022 Work independently with guidance from leader to determines best approach to accomplish objectives.\n\n\u2022 Develop relationships with peer stakeholders within and across teams and builds productive working relationships.\n\n\u2022 May lead projects with limited complexity to execute the defined software engineering roadmap.\n\n\u2022 May lead small-to-medium features from technical design through completion.\n\n\u2022 Stay current on industry trends and serve as a subject matter expert on the software development lifecycle and agile engineering practices; mentor and coach others as needed.\n\n\u2022 Contribute to delivery of high-quality design and deliverables.\n\n\u2022 Advocate for new features within a product to address customer needs.\n\n\u2022 Track metrics for product adoption and success.\n\n\u2022 Write clean, maintainable, and well-tested code with minimal guidance.\n\n\u2022 Perform coding, debugging, testing, and troubleshooting throughout the development process under minimal supervision.\n\n\u2022 Perform code reviews for others in project.\n\n\u2022 Write code enabling scale, reliability, and velocity in product releases.\n\n\u2022 Troubleshoot complex issues within the production environment, may serve customers through on-call rotations to identify end user problems, may lead postmortem and write root cause analysis.\n\n\u2022 Share knowledge across teams, both informally and formally (e.g., ad-hoc basis, internal presentations, blogs, newsletters).\n\n\u2022 Coordinate and collaborate on project timelines and continuously reviews, updates, and communicates project specifications to team members and stakeholders.\n\n\u2022 Develop remediation plans and alternatives to ensure timely delivery.\n\n\u2022 Identifies and acts upon opportunities to assist others.\n\n\u2022 Mentors peers and/or engineering interns.\n\nMinimum Qualifications\n\n\u2022\u00a0 \u00a0 4 + years of experience\n\n\u2022\u00a0 \u00a0 Strong programming skills in C and/or C++, along with proficiency in Python.\n\n\u2022\u00a0 \u00a0 Experienced with Embedded and/or router/switch software development\n\n\u2022\u00a0 \u00a0 Debugging with tools such as GDB\n\n\u2022\u00a0 \u00a0 Demonstrated experience with L2/L3/ACL/QOS Packet Forwarding and/or CPU packet path\n\n\u2022\u00a0 \u00a0 Experience with traffic generator tools such as IXIA & Spirent\n\nPreferred Qualifications\n\n\u2022\u00a0 \u00a0 SDK development on NPU/DPU/Networking ASICs is highly desirable.\n\n\u2022\u00a0 \u00a0 Proven experience in fostering collaboration across diverse teams to achieve goals, resolve challenges, and drive innovation in a cross-functional environment.\n\n\u2022\u00a0 \u00a0 Hands-on experience with SDK integration, debugging, and optimization within complex software projects.\n\n\u2022\u00a0 \u00a0 Practical experience and knowledge working with network processors and/or packet forwarding ASICs including development, deployment and troubleshooting in real-world applications.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018146EXTERNALENGLOBAL/Software-Engineer-S1-SDK-C-C-P4-Network-programming-4-8-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer---S1-SDK-C-C----P4--Network-programming---4-8-years_2018146/apply"
+}

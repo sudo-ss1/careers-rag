@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2019672EXTERNALENGLOBAL",
+ "req_id": "2019672",
+ "title": "EMC Design Engineer - 4 to 7 Years - Bangalore",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-07-14T00:00:00.000+0000",
+ "skills": [
+  "emc compliance",
+  "signal integrity",
+  "power integrity",
+  "rf theory",
+  "antenna theory",
+  "transmission lines",
+  "analog circuit design",
+  "digital circuit design",
+  "pcb layout review",
+  "schematic review",
+  "emc testing",
+  "emi/emc testing",
+  "root cause analysis",
+  "emc laboratory equipment",
+  "spectrum analyzers",
+  "oscilloscopes",
+  "lisns",
+  "network analyzers",
+  "near-field probe",
+  "current probe",
+  "analytical skills",
+  "debugging",
+  "simulation tools for emc",
+  "high-speed networking",
+  "switching",
+  "routing",
+  "server products",
+  "storage products",
+  "telecommunications products",
+  "pcb stack-up design"
+ ],
+ "teaser": "Join our team as a EMC Design Engineer to ensure Cisco products achieve electromagnetic compatibility (EMC) compliance from design through production. Collaborate with cross-functional teams, review schematics and layouts, and lead troubleshooting activities. Ideal for candidates with strong EMC expertise and hands-on experience in electronic product design.",
+ "description": "Meet the Team\n\nWe are a specialized team within the Common Hardware Group, focusing on EMC design. Our team collaborates closely with cross-functional groups such as hardware mechanical and power engineering to ensure Cisco products comply with global EMC standards. We prioritize practical engineering solutions, foster strong collaboration, and embrace continuous learning in a dynamic, high-impact environment. Our ultimate mission is to embed EMC robustness into product designs from the very beginning, enabling Cisco to deliver reliable, high-quality products to market with efficiency and confidence. By proactively integrating EMC considerations early in the development cycle, we help safeguard product performance and compliance, supporting Cisco\u2019s commitment to excellence and customer satisfaction.\n\nYour Impact \n\nAs an EMC Design Engineer, you will partner closely with hardware development teams to ensure products achieve electromagnetic compatibility (EMC) compliance while meeting performance, cost, and schedule objectives. You will influence product designs from architecture through production by providing EMC expertise, conducting design reviews, leading troubleshooting activities, and supporting worldwide regulatory compliance.\n\nResponsibilities\n\nCollaborate with hardware design teams throughout the product development lifecycle to ensure EMC compliance is incorporated early in the design process.\n\nWork cross-functionally with Hardware, Mechanical, Signal Integrity, Power Integrity, PCB Layout, Thermal, Manufacturing, and Regulatory teams during design, verification, and product qualification.\n\nReview schematics, PCB layouts, mechanical designs, routing, shielding, grounding, and system architectures to identify EMC risks and recommend design improvements.\n\nWork with EMC test team to perform pre-compliance and compliance EMC testing, analyze test results, diagnose EMI issues, and develop practical, cost-effective mitigation solutions.\n\nLead EMC debugging activities using laboratory instrumentation including spectrum analyzers, oscilloscopes, near-field probes, LISNs, network analyzers, current probes, and other diagnostic tools.\n\nBalance EMC performance with product cost, manufacturability, reliability, signal integrity, and power integrity considerations.\n\nSupport worldwide regulatory certifications by working with internal teams and external test laboratories.\n\nDevelop EMC design guidelines, best practices, and documentation to improve first-pass compliance success across product lines.\n\nManage multiple projects simultaneously while delivering high-quality technical results within aggressive development schedules.\n\nRequired Qualifications\n\nStrong understanding of electromagnetics, RF theory, antenna theory, transmission lines, and analog/digital circuit fundamentals.\n\nSolid knowledge of Signal Integrity (SI), Power Integrity (PI), and high-speed digital design principles.\n\nHands-on experience reviewing schematics, PCB layouts, and mechanical designs for EMC compliance.\n\nExperience with root cause analysis, and troubleshooting complex electromagnetic interference issues.\n\nProficiency with EMC laboratory equipment including spectrum analyzers, oscilloscopes, LISNs, network analyzers, near-field probes, current probes, and related instrumentation.\n\nStrong analytical, problem-solving, and debugging skills.\n\nExcellent verbal and written communication skills with the ability to effectively communicate technical concepts to cross-functional engineering teams.\n\nAbility to work independently, prioritize multiple concurrent projects, and drive issues to resolution.\n\nPreferred Qualifications\n\nExperience with high-speed networking, switching, routing, server, storage, or telecommunications products.\n\nExperience performing EMI/EMC testing.\n\nFamiliarity with simulation tools for EMC, SI, or PI analysis.\n\nExperience with shielding, grounding, cable design, and enclosure optimization techniques.\n\nKnowledge of PCB stack-up design, return current management, and power distribution network design.\n\nExperience supporting manufacturing and resolving EMC issues during product qualification or production.\n\nExperience working with external certification laboratories and regulatory agencies.\n\nExperience with 400G/800G Ethernet, SerDes, PCIe, DDR, USB, or other high-speed interfaces.\n\nEducation and Experience\n\nBachelor's degree in Electrical Engineering, Physics, or a related technical field.\n\n3+ years of hands-on experience in EMC design, testing, and troubleshooting for electronic products.\n\nWorking knowledge of international EMC regulatory standards and product certification requirements, including FCC, CISPR 22/32, ICES, VCCI, EN 55032, EN 55035, IEC 61000-4-x immunity standards, and CE marking requirements.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019672EXTERNALENGLOBAL/EMC-Design-Engineer-4-to-7-Years-Bangalore",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/EMC-Design-Engineer---4-to-7-Years---Bangalore_2019672/apply"
+}

@@ -1,0 +1,47 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020295EXTERNALENGLOBAL",
+ "req_id": "2020295",
+ "title": "IC Package Design Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Caesarea, Israel",
+  "Tel Aviv-Yafo, Israel"
+ ],
+ "country": "Israel",
+ "city": "Caesarea",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-10T00:00:00.000+0000",
+ "skills": [
+  "asic package design",
+  "high-speed signal design",
+  "power distribution networks",
+  "eda tools",
+  "floorplanning",
+  "pinout optimization",
+  "stack-up definition",
+  "high-speed routing support",
+  "layout collaboration",
+  "manufacturability analysis",
+  "technical problem solving",
+  "system-level integration",
+  "package implementation",
+  "debugging",
+  "issue resolution",
+  "package bring-up",
+  "package design methodology",
+  "package design best practices",
+  "stakeholder coordination",
+  "cross-functional collaboration",
+  "silicon floor planning",
+  "signal integrity",
+  "power integrity"
+ ],
+ "teaser": "Join us as an IC Package Design Engineer, contributing to the development of advanced ASIC package designs for cutting-edge networking hardware. Lead planning and implementation activities, collaborating with cross-functional teams to deliver robust, high-speed solutions. Ideal for candidates with significant experience in high-speed design engineering and a strong background in electrical engineering.",
+ "description": "Meet the Team\n\nThe Common Hardware Group (CHG) creates innovative hardware platforms central to the AI era, powering Cisco\u2019s core Switching, Routing, and Wireless products for organizations globally. Our innovations in silicon, optics, and hardware platforms\u2014like Silicon One\u2014are shaping the technology industry. We're a global team of creative experts, bringing our unique backgrounds and bold ideas to push boundaries and help each other grow. Because of full product development\u2014from design to qualification to production\u2014is within our team, we\u2019re able to think differently, experiment more, and work quickly. Join us to power the future of the digital world.\n\nYour Impact\n\nIn this role, you will contribute to the development of complex ASIC package designs from early planning and exploration through implementation and tapeout. You will collaborate across package design, layout, SI/PI, and silicon teams to help deliver high\u2011speed, robust, and manufacturable package solutions.\n\nYou will participate in package architecture activities, design tradeoff discussions, and technical problem solving while growing your expertise in advanced packaging technologies and system-level integration. This role provides an opportunity to work on some of the most advanced networking silicon products in the industry within a highly collaborative engineering environment.\n\nResponsibilities:\n\nAs a member of the Package Design team, you will:\n\nLead the package design activities including planning, floorplanning, pinout optimization, stack\u2011up definition, and high\u2011speed routing support.\n\nCollaborate with SI/PI, silicon floorplanning, layout, and manufacturing teams to ensure high\u2011quality package solutions.\n\nSupport package implementation activities and work closely with layout designers to ensure alignment between design intent and physical implementation.\n\nParticipate in technical investigations, design reviews, and tradeoff discussions involving performance, manufacturability, and schedule considerations.\n\nAssist in developing and improving package design methodologies, flows, and best practices.\n\nContribute to debugging, issue resolution, and package bring\u2011up activities as needed.\n\nMinimum Qualifications\n\nBachelor\u2019s degree in Electrical Engineering or a related field.\n\n5+ years of experience in package, PCB, or high\u2011speed design engineering.\n\nStrong understanding of high-speed signal design and power distribution networks (PDN).\n\nFamiliarity with industry-standard EDA tools for layout and design.\n\nStrong communication skills with the ability to collaborate and coordinate effectively with cross-functional teams\n\nPreferred Qualifications\n\nMaster\u2019s degree in Electrical Engineering\n\nExperience with advanced packaging technologies, interposers, or multi\u2011die systems\n\nKnowledge of silicon floor planning, signal integrity (SI), and power integrity (PI) considerations\n\nProven track record to drive design improvements and lead stakeholder coordination throughout the design process\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020295EXTERNALENGLOBAL/IC-Package-Design-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Caesarea-Israel/IC-package-design-engineer_2020295/apply"
+}

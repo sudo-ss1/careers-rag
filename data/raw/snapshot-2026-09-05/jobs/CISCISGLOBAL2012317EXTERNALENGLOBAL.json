@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL2012317EXTERNALENGLOBAL",
+ "req_id": "2012317",
+ "title": "ASIC Emulation Engineer / Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-04-17T00:00:00.000+0000",
+ "skills": [
+  "i2c",
+  "performance testing",
+  "tcl",
+  "veloce",
+  "system verilog",
+  "stakeholder management",
+  "waveform debugger",
+  "ethernet",
+  "palladium",
+  "rtl development",
+  "pcie",
+  "asic emulation",
+  "system debug",
+  "zebu",
+  "test plan design",
+  "c/c++",
+  "post silicon validation",
+  "debugging",
+  "test implementation"
+ ],
+ "teaser": "Join us as an ASIC Emulation Engineer / Technical Leader, where you will define and develop emulation environments for complex networking ASICs. Lead the design and testing of emulation flows, collaborating with cross-functional teams. Ideal for experienced engineers with expertise in ASIC design and emulation platforms.",
+ "description": "Job Description:\n\nDefine, design and develop emulation environments needed for complex, large scale networking ASICs. Develop the emulation env, build netlists and use the same to speed up the development cycle and find potential ASIC issues during pre-silicon phase \u2022 Work with leading emulation vendors to troubleshoot issues.\n\nWhat You\u2019ll Do:\n\nDevelop state-of-the-art emulation environments that will be used to evaluate the performance and functionality of multi-terabit systems\n\n\u2022 Developing emulation infrastructure using C/C++ and TCL, Python etc\n\n\u2022 Developing and testing various emulation flows and contributing to different aspect of ASIC verification for bug free Silicon\n\n\u2022 Collaborate closely with the design team and the hardware team to verify the ASIC in emulation and during ASIC bring up\n\n\u2022 Work closely with the design, DV, power, and post-silicon diagnostic teams\n\n\u2022 Assist with test plan design, test implementation, and debugging during the pre-silicon emulation process\n\n\u2022 Develop tests to generate complex traffic, performance scenarios to catch potential post Silicon issues during Pre-Silicon phase.\n\nMinimum Qualifications:\n\nBachelors + 8 years of related experience, or Masters + 6 years of related experience.\n\nDesign Emulation background with hands-on experience with emulation platforms like Veloce/Palladium/Zebu as well as experience with compilation, debug, performance testing\n\nFluent in System Verilog or Verilog to work on the Emulation infrastructure development work\n\nIn-depth knowledge of C/C++, scripting, as well as ASIC design and verification flow\n\nExpertise in RTL development for Emulation prototypes\n\nSystem debug experience using tools like gdb, waveform debuggers.\n\nPreferred Qualifications:\n\nStrong hands-on experience with scripting programs (e.g., Python, Perl or similar)\n\nStrong communication skills and ability to work as a team\n\nPost Silicon functional validation or debugging experience is a plus\n\nKnowledge of protocols like PCIe, I2C, Ethernet.\n\nGood interpersonal skills, and validated leadership to accurately describe issues/improvements and lead team for on-time completion.\n\nExcellent communication skills both verbal and written\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2012317EXTERNALENGLOBAL/ASIC-Emulation-Engineer-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-Emulation-Engineer---Technical-Leader_2012317/apply"
+}

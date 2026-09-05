@@ -1,0 +1,46 @@
+{
+ "job_seq_no": "CISCISGLOBAL1445924EXTERNALENGLOBAL",
+ "req_id": "1445924",
+ "title": "Senior Design Verification Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Belgrade, Serbia"
+ ],
+ "country": "Serbia",
+ "city": "Belgrade",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-04T00:00:00.000+0000",
+ "skills": [
+  "verilog",
+  "functional verification",
+  "systemverilog",
+  "uvm",
+  "digital logic design verification",
+  "scripting abilities",
+  "pcie",
+  "spi",
+  "i2c",
+  "jtag",
+  "cpu",
+  "emulation",
+  "simulation support",
+  "architectural discussions",
+  "transparency",
+  "very large scale integration (vlsi)",
+  "universal verification methodology",
+  "debug skills",
+  "debug",
+  "formal verification",
+  "system integration",
+  "specman",
+  "scripting"
+ ],
+ "teaser": "We are looking for a Senior Design Verification Engineer to drive ASIC functional verification for Cisco Silicon One chips. Collaborate with global teams on system-level verification and support various development stages. Ideal for candidates with advanced SystemVerilog/UVM expertise and significant experience in digital logic verification.",
+ "description": "Meet the Team\n\nJoin our SiliconOne team in Serbia, specializing in ASIC functional verification for Cisco Silicon One chips\u2014high-performance networking chips utilized by major data centers worldwide. Collaborate with us on functional verification using SystemVerilog/UVM, and take advantage of opportunities to engage in various development stages, from architectural discussions to emulation and simulation support. Collaborate with global teams, design and block owners, chiplet and full-chip owners as well as emulation, compiler, and software development teams. Our team blends experienced and energetic engineers, fostering collaboration and transparency in an environment built on trust.\n\nYour Impact\n\nImplementation of DV infrastructure for block, cluster, and TOP-level environments.\n\nMaintaining existing DV environments and enhancing them.\n\nEnsuring complete verification coverage through implementation and review of code and functional coverage.\n\nWorking closely with architects and designers to ensure verification completeness.\n\nSupporting tests done with emulation.\n\nEngage in tasks to prepare for post-silicon-validation.\n\nMinimum Requirements:\n\n5+ years\u2019 experience in digital logic design verification\n\nAdvanced knowledge of SystemVerilog and UVM\n\nAdvanced debug skills pre-silicon and in-lab\n\nPreferred Requirements:\n\nScripting abilities\n\nSystem integration knowledge (AMBA, PCIe. SPI, I2C, JTAG, CPU)\n\nBasic SW knowledge (chop driver level)\n\nBasic design knowledge\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL1445924EXTERNALENGLOBAL/Senior-Design-Verification-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Belgrade-Serbia/Senior-Design-Verification-Engineer_1445924/apply"
+}

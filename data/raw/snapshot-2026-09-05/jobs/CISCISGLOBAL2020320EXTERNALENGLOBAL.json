@@ -1,0 +1,38 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020320EXTERNALENGLOBAL",
+ "req_id": "2020320",
+ "title": "ASIC Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Tel Aviv-Yafo, Israel"
+ ],
+ "country": "Israel",
+ "city": "Tel Aviv-Yafo",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-23T00:00:00.000+0000",
+ "skills": [
+  "uvm",
+  "functional verification",
+  "micro-architecture",
+  "rtl design",
+  "chip design",
+  "verification environment",
+  "root-cause analysis",
+  "post-silicon validation",
+  "debugging",
+  "firmware verification",
+  "lab verification",
+  "clock domain crossing",
+  "matlab",
+  "bit-exact modeling",
+  "mixed-signal systems"
+ ],
+ "teaser": "Take on the role of ASIC Engineer, contributing to the design and verification of advanced chip architectures within Cisco\u2019s Silicon One Front-End team. Collaborate on micro-architecture reviews and bug resolution, ideal for candidates with a background in electrical engineering and experience in UVM-based verification environments.",
+ "description": "Meet the Team\nJoin the Cisco Silicon One Front-End Design team, at the core of Cisco\u2019s silicon development. Our engineers cover the full spectrum of chip design: definition, architecture, micro-architecture, RTL design, verification, signoff, and validation.\nWe leverage cutting-edge silicon technologies and methodologies to develop the largest-scale and most advanced devices, pushing the boundaries of what\u2019s possible.\nCisco Silicon One\u2122 is transforming the industry with a unified, programmable architecture powering Cisco\u2019s future routing portfolio and shaping the Internet for decades to come.\n\nYour Impact\n\nReview micro-architecture specifications\n\nImplement Verification environment UVM based\n\nCollaborate with Design engineers to resolve bugs and achieve coverage closure\n\nWork with the firmware/Lab teams to verify chip flows\n\nPerform debug, root-cause analysis, and post-silicon validation in the lab\n\nMinimum Qualifications\n\nB.Sc./M.Sc. in Electrical Engineering from a top university\n\n2+ years of experience in the filed\n\nknowledge\u00a0with UVM and functional verification methodologies\n\nPreferred Qualifications\n\nExperience with MATLAB simulations and bit-exact modeling environments\n\nFamiliarity with mixed-signal systems and environments\n\nKnowledge and hands-on experience with Clock Domain Crossing (CDC)\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020320EXTERNALENGLOBAL/ASIC-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Tel-Aviv-Yafo-Israel/ASIC-Engineer_2020320/apply"
+}

@@ -1,0 +1,43 @@
+{
+ "job_seq_no": "CISCISGLOBAL2014936EXTERNALENGLOBAL",
+ "req_id": "2014936",
+ "title": "Design Verification Engineer for DFT",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Tel Aviv-Yafo, Israel",
+  "Caesarea, Israel"
+ ],
+ "country": "Israel",
+ "city": "Tel Aviv-Yafo",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-26T00:00:00.000+0000",
+ "skills": [
+  "chip architecture",
+  "boundary scan",
+  "mbist",
+  "atpg",
+  "management",
+  "jtag",
+  "dft",
+  "uvm",
+  "verification",
+  "debugging",
+  "dv",
+  "scan",
+  "pre-silicon",
+  "design verification",
+  "ijtag",
+  "systemverilog",
+  "soc",
+  "debug",
+  "dft-dv"
+ ],
+ "teaser": "Take on the role of Design Verification Engineer for DFT, leading verification activities within the Cisco SiliconOne DFT team. Develop and execute verification plans, collaborate with cross-functional teams, and validate testability features. Ideal for experienced engineers with strong DFT expertise and a background in design verification.",
+ "description": "Meet the Team\n\nWe are a leading Design for Test (DFT) group, delivering end-to-end solutions for Cisco\u2019s flagship products, including Cisco Silicon One. Our chips are strategically placed in critical AI infrastructure, powering next-generation network devices and supporting advanced AI workloads.\n\nWe push the boundaries of technology by developing innovative DFT solutions that drive industry-leading programmability, scalability, test quality, and performance. Our team operates in a hybrid model, with three days a week in the office in Midtown Tel Aviv or Caesarea, fostering collaboration and technical excellence in a startup-like atmosphere within a stable, global corporation.\n\nRole Focus:\u00a0We are looking for an experienced Design Verification engineer to join our DFT team and help establish and grow DFT DV activity in the Cisco SiliconOne DFT team. This role is relevant for engineers with experience in DV roles, either in DFT DV or in other verification domains, who are interested in becoming familiar with DFT design, verification methodologies, and the challenges of validating testability features in advanced silicon.\n\nYour Impact\n\nLead and drive DFT verification activities within the Cisco SiliconOne DFT team.\n\nDevelop verification plans, environments, checkers, assertions, and coverage models for DFT features.\n\nVerify DFT architecture and implementation in close collaboration with DFT, design, architecture, and verification teams.\n\nWork on verification of scan, MBIST, IJTAG/JTAG, test access mechanisms, DFT controllers, and related SoC-level test features.\n\nDebug complex pre-silicon issues across RTL, verification environments, and DFT logic.\n\nContribute to scalable methodologies, reusable verification components, and best practices for DFT DV.\n\nHelp bridge between general DV methodologies and DFT-specific design and verification needs.\n\nMinimum Qualifications\n\nB.Sc. or\u00a0M.Sc. in Electrical Engineering, Computer Engineering, or a related field.\n\n5+ years of experience in design verification roles.\n\nStrong experience with SystemVerilog and UVM-based verification environments.\n\nExperience developing verification plans, coverage models, assertions, and debug flows.\n\nStrong communication skills and ability to work closely with cross-functional teams.\n\nMotivation to learn DFT concepts and become a key contributor in the DFT DV domain.\n\nPreferred Qualifications\n\nFamiliarity with DFT concepts such as scan insertion, memory BIST, ATPG, boundary scan, and silicon test flows.\n\nExperience with complex SoC verification, networking silicon, or high-performance AI-driven silicon.\n\nSystem-level understanding of large-scale chip architecture and integration.\n\nAbility to build new methodologies and establish verification activity from the ground up.\n\nHigh attention to detail, ownership mindset, and willingness to grow into new technical domains.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014936EXTERNALENGLOBAL/Design-Verification-Engineer-for-DFT",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Tel-Aviv-Yafo-Israel/DV-DFT-Engineer_2014936/apply"
+}

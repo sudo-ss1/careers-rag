@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021791EXTERNALENGLOBAL",
+ "req_id": "2021791",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-12T00:00:00.000+0000",
+ "skills": [
+  "platform as a service",
+  "api gateway",
+  "full stack development",
+  "kubernetes",
+  "python",
+  "go",
+  "react",
+  "angular",
+  "mule",
+  "mashery",
+  "kafka",
+  "ci/cd automation",
+  "figma",
+  "postgres",
+  "mongodb",
+  "jenkins",
+  "argo cd",
+  "argo workflows",
+  "system design",
+  "technical leadership",
+  "mentoring",
+  "argo",
+  "arangodb",
+  "llm",
+  "langchain",
+  "rag systems",
+  "agentic frameworks",
+  "aiops",
+  "no-ops",
+  "incident response automation"
+ ],
+ "teaser": "Become part of our team as a Senior Software Engineer, leading the evolution of our PaaS platform. Take ownership of full-stack development, architect backend services, and drive technical direction. Ideal for experienced professionals with a strong background in platform engineering and modern UI/UX technologies.",
+ "description": "Senior Software Engineer \u2013 Platform as a Service (PaaS)\n\n\u00a0\u00a0\n\nMeet the Team\u00a0\n\nYou will join the Platform as a Service (PaaS) team, the backbone of our digital infrastructure. We manage a diverse ecosystem of platforms, including API Gateways like Mule and Mashery, messaging systems like Kafka, and other middleware systems. As a senior member of this team, you will lead the evolution of our internal platforms, driving the transition toward No-Ops and AIOps to ensure our infrastructure is as intelligent as it is scalable.\n\nYour Impact\u00a0\n\nYou will take ownership of the full-stack lifecycle of our platform offerings. From designing intuitive UI/UX interfaces for platform consumers to architecting the backend services that power our initiatives, your work will directly impact client productivity and system reliability.\n\nYou will lead technical direction, mentor junior engineers, and champion architectural standards that allow us to scale seamlessly.\n\nPlatform Architecture: Design and maintain scalable PaaS solutions, including API Gateways (Mashery, Mule) and Kafka messaging clusters.\n\nFull Stack Development: Build and maintain platform portals and dashboards using UI/UX technologies (Angular, React, Figma) and robust backend services (Python, Go).\n\nOperational Excellence: Manage CI/CD pipelines using Jenkins, Argo CD, and Argo Workflows to ensure seamless delivery and deployment.\n\nAI/ML & AIOps: Drive the migration toward AIOps and No-Ops by integrating ML models to automate monitoring, incident response, and infrastructure optimization.\n\nSystem Design & Ownership: Lead complex system design sessions, ensuring high availability, security, and performance across all platform layers.\n\nLeadership & Mentorship: Act as a technical lead, conducting code reviews, establishing best practices, and mentoring junior engineers to foster a culture of technical excellence.\n\nCross-Functional Collaboration: Serve as a liaison between infrastructure, SRE, and software engineering teams to translate business needs into robust technical solutions.\n\nOn-Call Support: Provide proactive on-call support for platform services, ensuring high availability and rapid resolution of operational issues to maintain service level objectives.\n\nMinimum Qualifications \n\n8+ years of software engineering experience, with a proven track record in full-stack development and platform engineering, including 2+ years in machine learning-related roles.\n\nExpertise in building modern, user-centric interfaces using React or Angular, supported by Figma design workflows.\n\nDeep proficiency in Python and/or Go for backend service development.\n\nExperience managing and optimizing Postgres and MongoDB databases.\n\nAdvanced skills in CI/CD automation with Jenkins, Argo CD, and Argo Workflows, with a good understanding of Kubernetes-based deployment solutions.\n\nPreferred Qualifications\n\nStrong experience with Kubernetes and good understanding of API Gateways (e.g., Mashery, Mule) and messaging platforms (Kafka).\n\nExperience with building AI products and workflows, including LLMs, LangChain, RAG systems, and agentic frameworks.\n\nDemonstrated experience in AI/ML for automating day-to-day operational workloads.\n\nAbility to architect distributed systems that are resilient, observable, and easy to maintain.\n\nExceptional interpersonal skills with the ability to communicate technical concepts to both technical and non-technical stakeholders.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021791EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2021791/apply"
+}

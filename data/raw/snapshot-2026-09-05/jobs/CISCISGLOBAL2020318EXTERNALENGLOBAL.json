@@ -1,0 +1,41 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020318EXTERNALENGLOBAL",
+ "req_id": "2020318",
+ "title": "Product Test Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Hsinchu, Hsinchu City, Taiwan",
+  "Kaohsiung, Kaohsiung City, Taiwan"
+ ],
+ "country": "Taiwan",
+ "city": "Hsinchu",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-03T00:00:00.000+0000",
+ "skills": [
+  "advanced networking",
+  "volume production test",
+  "root cause analysis",
+  "test requirements development",
+  "yield optimization",
+  "advanced test equipment",
+  "production optimization",
+  "statistical data analysis",
+  "advantest 93000",
+  "manufacturing processes",
+  "engineering fundamentals",
+  "programming languages",
+  "vendor evaluation",
+  "production planning",
+  "team collaboration",
+  "problem solving",
+  "conflict resolution"
+ ],
+ "teaser": "Become part of our team as a Product Test Engineer, managing volume test operations to meet production targets and resolve hardware and software issues. Collaborate with product development and OSATs to deliver custom test solutions. Ideal for candidates with significant experience in ATE volume production test environments and strong technical analytical skills.",
+ "description": "The Silicon One Productization team pioneers manufacturing and test solutions to accelerate time-to-market and enable outstanding supply chain metrics. We are looking a Product Test Engineer to manage volume test operations at the OSATs to meet production targets. You will be working with advanced networking silicon and solving hardware and software problems in close partnership with product development engineering and the OSATs.\n\n\u00a0\n\nWhat You'll Do\n\nOur team develops test requirements for groundbreaking IP, to minimize test overhead both in design and for production. We develop custom test solutions spanning high power, large dies, and packages to cost-sensitive products.\u00a0\n\nYou will partner with the PDE and OSAT teams to transfer the ATE test programs from the Cisco lab to the production environment. You are Cisco's first line of defense and first responder in case of any production issues - hardware or software-related. You will be responsible for the prompt resolution of any test issues and drive OSATs to meet metrics for throughput, yield, cycle time, and uptime.\u00a0\n\nYour role will be to ensure that the OSAT roadmap and capacity ramp plans align with the Cisco product ramp and manage/maintain the production test hardware. You will evaluate test vendors and make recommendations for alternate site bring-ups and complete the qualification activities.\u00a0\n\nYou will also provide Engineering support to the Manufacturing Operations team for quarterly planning, ship reviews, and ongoing production optimization. You will partner closely with the Data and Automation Solutions team to perform statistical data/yield/correlation analysis on large data sets to drive test and yield optimization.\u00a0\n\n\u00a0\n\nWho You'll Work With\n\nWe collaborate with ASIC design teams as well as several peer groups in Supply Chain Operations to influence Cisco Silicon One Productization Strategy.\n\n\u00a0\n\nWho You Are\n\nMinimum Qualifications\n\nBSEE (or higher) in Electrical and Electronics Engineering.\n\n5+ years working in ATE volume production test environments, preferably on high-end compute/networking devices.\n\nAbility to debug, analyze, tackle, and root cause manufacturing yield issues and field escapes; Drive issues to closure with improvement, optimization, and preventive measures.\n\nSolid understanding of engineering fundamentals and technical analytical skills with an aptitude for learning new technologies.\n\nStrong knowledge of programming and scripting languages is a plus.\n\nExperience using Advantest 93000 tester will be a plus.\n\nFamiliarity with manufacturing processes and yield optimization.\n\nPreferred Qualifications\n\nClear, crisp communication skills.\u00a0\n\nAbility to thrive in a multifaceted environment.\n\nHigh level of motivation and energy.\u00a0\n\nStrong teamwork & collaboration skills.\n\nExcellent problem solving and effective conflict resolution skills.\n\nWhy Cisco\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Simply put \u2013 we power the future.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020318EXTERNALENGLOBAL/Product-Test-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hsinchu-Taiwan/Product-Test-Engineer_2020318/apply"
+}

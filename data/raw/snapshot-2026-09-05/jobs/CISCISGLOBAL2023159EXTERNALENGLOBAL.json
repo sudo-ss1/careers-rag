@@ -1,0 +1,47 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023159EXTERNALENGLOBAL",
+ "req_id": "2023159",
+ "title": "Hardware Engineering Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-21T00:00:00.000+0000",
+ "skills": [
+  "hardware system development",
+  "serdes technology",
+  "x86 architecture",
+  "system feasibility studies",
+  "hardware specification development",
+  "test plan development",
+  "cadence",
+  "allegro",
+  "asic design",
+  "fpga design",
+  "signal integrity",
+  "ddr5 memory devices",
+  "ssd memory devices",
+  "hardware bring-up",
+  "design validation",
+  "failure analysis",
+  "troubleshooting",
+  "emc compliance",
+  "safety standards",
+  "environmental standards",
+  "telecom standards",
+  "test automation",
+  "mentoring",
+  "cross-functional collaboration"
+ ],
+ "teaser": "Take on the role of Hardware Engineering Technical Leader, driving the development and lifecycle management of advanced hardware systems for Service Provider routers. Lead architecture definition, collaborate with cross-functional teams, and support product qualification. Ideal for experienced engineers with expertise in system-level development and hardware design.",
+ "description": "Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nMeet the Team\nWe are part of Cisco\u2019s Common Hardware Group, specializing in hardware system development for Service Provider routers. Our team focuses on delivering high-quality, power-efficient hardware using advanced SERDES technology at industry-leading bit rates. We manage the entire hardware lifecycle\u2014from definition and design to qualification, release, and sustaining\u2014collaborating with internal teams and vendors to address complex challenges.\n\n\u00a0\n\nYour Impact\n\nContribute to architecture definition and system feasibility studies\n\nDevelop hardware specifications and test plans\n\nCapture schematics using Cadence/Allegro\n\nCollaborate with ASIC, FPGA, and Software teams for hardware bring-up\n\nSupport for product qualification and review of test report\n\nDebug issues in the lab and analyse system logs\n\nSupport cross-functional teams for product sustaining\n\n\u00a0\n\nMinimum Qualifications\n\nBachelors/master\u2019s in Electrical or Electronics Engineering\n\n12+ years\u2019 experience in system level development preferably in the server/computer/network industry\n\nExperience in Ethernet, high speed SERDES (>25G) interfaces, high speed design and signal integrity\n\nExperience in X86 architecture, and a very good understanding of control interfaces such as PCIe, MDIO, SPI, I2C\n\nExperience in designing with DDR5 and SSD memory devices\n\nHands on board design knowledge, familiar with design tools including Cadence Concept and Allegro\n\nExperience with hardware bring up and design validation of products\n\nAbility to collaborate with other subject areas, including FPGA, software, mechanical, thermal, signal integrity and Manufacturing\n\nPrior experience with shipping products in troubleshooting field issues and Failure Analysis\n\nFamiliarity with industry standards for Telecom and electronic equipment (EMC, Safety, Environmental, Telecom)\n\n\u00a0\n\nPreferred Qualifications\n\nKnowledge on the signal integrity and system thermal design\n\nBasic scripting skill for test automation\n\nGood English written and verbal communications.\n\nSelf-motivation, partnership and strong interpersonal skills are needed.\n\nMentoring junior team members\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023159EXTERNALENGLOBAL/Hardware-Engineering-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Hardware-Engineering-Technical-Leader_2023159/apply"
+}

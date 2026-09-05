@@ -1,0 +1,39 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018630EXTERNALENGLOBAL",
+ "req_id": "2018630",
+ "title": "Senior Site Reliability Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Galway, Ireland"
+ ],
+ "country": "Ireland",
+ "city": "Galway",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-14T00:00:00.000+0000",
+ "skills": [
+  "kubernetes",
+  "microservices architecture",
+  "helm",
+  "gitops",
+  "kustomize",
+  "argo cd",
+  "hashicorp vault",
+  "secrets management",
+  "prometheus",
+  "grafana",
+  "open policy agent",
+  "configuration management",
+  "devops",
+  "software development",
+  "backstage",
+  "stakeholder management"
+ ],
+ "teaser": "We are looking for a Senior Site Reliability Engineer to lead the design and delivery of Kubernetes-based microservices configurations, ensuring secure and reliable deployments. You will drive operational excellence and support hybrid working models. Ideal candidates bring extensive software development experience and strong problem-solving skills.",
+ "description": "Job Description\n\nMeet the Team\n\nCisco's Webex Engineering Group is redefining the future of collaboration. We're building a world where people connect effortlessly to enjoy modern, uncompromised collaboration across every room, desk, pocket, and application.\n\n\u00a0\n\nOur technology powers industry-leading products like Webex Meetings, Webex Calling, and Webex Contact Center. As a member of our team, your work will ensure every user gets a truly immersive experience regardless of device or location, empowering the hybrid working patterns of the future.\n\n\u00a0\n\nOur team is based in Galway. We operate a hybrid working model.\n\n\u00a0\n\nYour Impact\n\nFull Lifecycle Development: Lead the design, codification, testing, and delivery of Kubernetes-based microservices configurations (Deployments, Services, Ingress, ConfigMaps) using\u00a0Kubernetes,\u00a0Helm. Build reusable base configs with environment overlays and enable safe promotion across dev, staging, and production.\n\nDevOps & Microservices: Drive operational excellence in a GitOps model using\u00a0Argo CD. Implement progressive delivery (canary releases, validation gates), codify autoscaling and resiliency, and manage secure secrets via\u00a0HashiCorp Vault\u00a0and Kubernetes Secrets.\n\nEmbrace AI technology: Use AI-assisted tools to accelerate development, validation, and optimization of configuration-as-code, improving delivery speed and reducing deployment risk.\n\nAdaptable & Problem-Solver: Address complex challenges across configuration, policy, observability, and data services. Apply a data-driven approach using\u00a0Prometheus\u00a0and\u00a0Grafana\u00a0to improve reliability and performance.\n\nOwnership & Quality: Own end-to-end configuration quality, enforcing governance with\u00a0Open Policy Agent. Ensure secure, compliant deployments and full reproducibility, including backup, restore, and disaster recovery.\n\nSupport & Growth: Advance a self-service platform using\u00a0Backstage\u00a0and\u00a0Argo CD, enabling teams to deploy via declarative configs while promoting best practices and continuous improvement.\n\nMinimum Qualifications:\n\n3rd Level Qualification: Bachelor's or higher degree in an analytical subject (e.g. Computer Science, Electronic/Software Engineering).\n\nWork experience: 7+ Years Demonstrated experience in software development.\n\nCoding Aptitude: Extensive architecture and programming experience and the willingness to learn new technologies quickly.\n\nProblem Solver: Ability to apply and lead a scientific approach and creative skills to complex problems.\n\nAdaptable & Collaborative: Flexible, thrives in diverse team environments, and communicates clearly and precisely.\n\nQuality Focus: Strong attention to detail and a commitment to continuous learning and quality results.\n\nPreferred Qualifications:\n\nAny of the following skills would be particularly advantageous, but we welcome applications without these:\n\n\u00a0\n\n\u00b7\u00a0 Strong Kubernetes + microservices experience\n\n\u00b7\u00a0 Hands-on with\u00a0Helm\u00a0or\u00a0Kustomize\n\n\u00b7\u00a0 Experience with GitOps (e.g.,\u00a0Argo CD)\n\n\u00b7\u00a0 Knowledge of secrets management (e.g.,\u00a0HashiCorp Vault)\n\n\u00b7\u00a0 Experience with observability (metrics/logs/tracing)\n\nCollabHiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018630EXTERNALENGLOBAL/Senior-Site-Reliability-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Senior-Site-Reliability-Engineer_2018630-1/apply"
+}

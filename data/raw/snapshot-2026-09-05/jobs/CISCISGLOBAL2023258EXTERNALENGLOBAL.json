@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023258EXTERNALENGLOBAL",
+ "req_id": "2023258",
+ "title": "Standard Cells Characterization Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Armenia, Armenia"
+ ],
+ "country": "Armenia",
+ "city": "Armenia",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-21T00:00:00.000+0000",
+ "skills": [
+  "primelib",
+  "liberate",
+  "standard cell characterization",
+  "tsmc characterization flows",
+  "parasitic extraction",
+  "rc corner alignment",
+  "pvt alignment",
+  "cmos device behavior",
+  "timing modeling",
+  "power modeling",
+  "leakage modeling",
+  "netlist quality gates",
+  "lvs setup",
+  "starrc setup",
+  "spice model binding",
+  "tsmc n2p char packages",
+  "spice kits",
+  "library qa",
+  "automated correlation reporting",
+  "tcl",
+  "perl",
+  "python",
+  "statistical characterization",
+  "hold-margin flows",
+  "library design",
+  "physical verification",
+  "deck configuration",
+  "root cause analysis",
+  "documentation"
+ ],
+ "teaser": "We are recruiting a Standard Cells Characterization Engineer to lead the end-to-end characterization of standard cell libraries, ensuring accuracy and reliability from netlist extraction to Liberty delivery. The role involves defining and maintaining characterization methodologies and collaborating with cross-functional teams. Ideal for candidates with strong expertise in standard cell libraries and characterisation tools.",
+ "description": "Meet the Team\n\u00a0\n\nThe Common Hardware Group (CHG) delivers the silicon, optics, and hardware platforms powering Cisco\u2019s core Switching, Routing, and Wireless products. We design networking hardware for enterprises, service providers, the public sector, and nonprofit organizations worldwide. As part of the team behind Cisco Silicon One\u2014the industry\u2019s only unified silicon architecture spanning top-of-rack switches to web-scale data centers\u2014you\u2019ll help shape Cisco\u2019s groundbreaking solutions by designing, developing, and testing some of the most advanced ASICs in the industry.\n\u00a0\n\nYour Impact\n\u00a0\n\nLead the end-to-end characterization flow for standard cell libraries from extracted netlists through Liberty delivery and correlation against TSMC reference data.\n\nDefine and maintain PrimeLib/Liberate characterization methodology, templates, and automation for timing, power, noise (CCS/NLDM), and leakage across PVT and RC corners.\n\nDrive correlation closure for delay, transition, capacitance, and leakage against TSMC golden Liberty and characterization specifications.\n\nOwn extraction-to-char integration: LVS/StarRC setup, RC corner alignment (e.g., cbest_CCbest_T), well-bias port handling (VPP/VBB), and netlist quality gates.\n\nDebug characterization failures at the netlist, simulation, and Liberty-model level; root-cause issues in extraction, corner mismatch, bias connectivity, or SPICE model binding.\n\nDevelop reusable Tcl/shell flows, validation checks, and documentation so characterization is repeatable across cells, corners, and library releases.\n\nPartner with library design, physical verification, and CAD teams on cell readiness, deck configuration, and release criteria.\n\nLead characterization reviews; define sign-off criteria and drive closure on blockers before library release.\n\u00a0\n\nMinimum Qualifications\n\u00a0\n\nBachelor's degree in Electrical Engineering, Computer Science, or a related field and 6 years of relevant experience, or Master's Degree and 4 years of experience, or PhD and 1 year of experience.\n\nFirst-hand experience characterizing standard cell libraries with PrimeLib, Liberate, or equivalent tools\n\nStrong understanding of Liberty formats (NLDM, CCS, CCS noise, leakage/power modeling) and TSMC (or equivalent foundry) characterization flows\n\nExperience with parasitic extraction (StarRC or equivalent), LVS, and RC corner / PVT alignment between extraction and characterization\n\nSolid understanding of CMOS device behavior, timing arcs, power domains, and well/substrate bias effects in deep-submicron nodes\n\u00a0\n\nPreferred Qualifications\n\u00a0\n\nExperience on advanced nodes (7 nm, 5 nm, 3 nm, 2 nm) with foundry std-cell libraries\n\nFamiliarity with TSMC N2P (or similar) char packages, SPICE kits, and extraction guides\n\nExperience with LVF/statistical characterization and hold-margin flows\n\nBackground in library QA, automated correlation reporting, and release management for high-volume silicon\n\nProficiency in Tcl, Perl, or Python for flow automation and correlation analysis\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023258EXTERNALENGLOBAL/Standard-Cells-Characterization-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Armenia/Standard-Cells-Characterization-Engineer_2023258/apply"
+}

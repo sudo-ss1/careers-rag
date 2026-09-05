@@ -1,0 +1,38 @@
+{
+ "job_seq_no": "CISCISGLOBAL2015827EXTERNALENGLOBAL",
+ "req_id": "2015827",
+ "title": "Software Engineering Technical Leader \u2013 Silicon One Software (Timing & Synchronization)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-07T00:00:00.000+0000",
+ "skills": [
+  "root cause analysis",
+  "product innovation",
+  "l2",
+  "user experience design",
+  "functional coding",
+  "knowledge sharing",
+  "stakeholder management",
+  "technical leadership",
+  "unit testing",
+  "forwarding",
+  "threat modeling",
+  "metrics tracking",
+  "software development",
+  "time and synchronisation",
+  "mentoring"
+ ],
+ "teaser": "Become part of our team as a Software Engineering Technical Leader, leading the design and development of Timing and Synchronization software for Cisco Silicon One platforms. Drive technical initiatives, collaborate with cross-functional teams, and mentor engineers. Ideal for experienced software engineers with expertise in embedded Linux and networking technologies.",
+ "description": "Meet the Team\n\nCisco Silicon One\u2122 is Cisco\u2019s groundbreaking silicon architecture that powers the next generation of web-scale, cloud, service provider, and enterprise networks. The Silicon One Software Engineering team develops the platform software, SDKs, and system software that enable the full capabilities of Cisco\u2019s industry-leading networking silicon.\nOur engineers work closely with silicon architects, ASIC designers, hardware engineers, and Network Operating System (NOS) teams to deliver highly scalable and performant networking solutions deployed in some of the world\u2019s largest networks.\n\nWe are seeking an expert Software Engineering Technical Leader to own the design and development of Timing and Synchronization software components for Cisco Silicon One platforms, working closely with architects, senior technical leaders, and crossmulti-functionalneering teams.\n\nYour Impact\nAs a Software Engineering Technical Leader, you will provide technical leadership for key Timing and Synchronization software initiatives across Cisco Silicon One products while collaborating closely with architects, senior technical leaders, and multi-functional engineering teams.\n\nYou will:\n\nLead the design, development, and delivery of Timing and Synchronization software features for Cisco Silicon One platforms.\nContribute to the implementation and evolution of Precision Time Protocol (PTP), Synchronous Ethernet (SyncE), and related timing technologies.\nDevelop high-performance software solutions in C++ for Linux-based embedded networking systems.\n\nDesign and develop software components supporting clock synchronization, timing measurements, monitoring, diagnostics, and performance validation.\nCollaborate with silicon architects, hardware engineers, SDK teams, and Network Operating System teams to enable timing functionality across Silicon One platforms.\n\nLead implementation and integration of timing features across software layers including SDK, platform software, and Network Operating Systems.\nDrive root-cause analysis and resolution of complex software and system issues using GDB and other debugging tools.\n\nContribute to frameworks for timing validation, synchronization monitoring, performance measurements, and solving.\nParticipate in architecture discussions, design reviews, and technical planning activities with senior technical leaders and architects.\nMentor engineers, conduct code reviews, and promote engineering guidelines.\n\nCollaborate across software, firmware, hardware, and ASIC teams to deliver high-quality networking solutions.\nContribute to continuous improvement of software quality, development processes, and automation infrastructure.\n\nMinimum Qualifications\nBachelor\u2019s degree in Computer Science, Electrical Engineering, or related technical field with 10+ years of software development experience; OR\nMaster\u2019s degree in Computer Science, Electrical Engineering, or related technical field with 8+ years of software development experience.\nStrong software development expertise in C++.\n\nExperience developing software for embedded Linux systems and hardware-constrained environments.\nStrong understanding of Linux operating systems, including system-level software development and debugging.\nHands-on experience using GDB and related debugging tools.\nExperience developing networking software involving:\u00a0\nPrecision Time Protocol (PTP)\nSynchronous Ethernet (SyncE)\nTiming synchronization and clock management\nStrong understanding of Layer 1 and Layer 2 networking technologies.\nHand on knowledge of networking hardware components including PHY, MAC, and SerDes.\nExperience designing, developing, integrating, or debugging software for networking platforms and networking hardware.\n\nPreferred Qualifications\nExperience developing and handling Timing software across multiple Network Operating Systems (NOS).\nDeep understanding of timing-related networking standards and protocols, including IEEE 1588.\nExperience with timing measurements, synchronization validation, clock recovery, holdover mechanisms, timing monitoring, and diagnostics.\nExperience developing SDKs, platform software, or device drivers for networking ASICs, NPUs, or switching/routing silicon.\nExperience enabling and validating networking features on ASIC-based platforms.\nFamiliarity with Silicon One architecture, SDKs, and software ecosystem.\nExperience with Linux kernel interfaces, device drivers, and low-level hardware programming.\nProficiency in Python for automation, diagnostics, and validation frameworks.\nExperience with Port Management software, Ethernet port bring-up, PHY configuration, MAC programming, and SerDes diagnostics.\nStrong understanding of networking protocols, switch/router architectures, and high-performance networking systems.\nValidated ability to lead complex technical initiatives and collaborate effectively across multiple teams.\nExcellent communication, collaboration, and mentoring skills.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015827EXTERNALENGLOBAL/Software-Engineering-Technical-Leader-Silicon-One-Software-Timing-Synchronization",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineering-Technical-Leader---Silicon-One-Software--Timing---Synchronization-_2015827/apply"
+}

@@ -1,0 +1,38 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020734EXTERNALENGLOBAL",
+ "req_id": "2020734",
+ "title": "Senior Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Galway, Ireland"
+ ],
+ "country": "Ireland",
+ "city": "Galway",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-04T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "system design",
+  "kubernetes",
+  "openstack",
+  "terraform",
+  "gitops",
+  "ci/cd",
+  "prometheus",
+  "grafana",
+  "opentelemetry",
+  "troubleshooting",
+  "ai-assisted engineering",
+  "test-driven development",
+  "community engagement",
+  "collaboration"
+ ],
+ "teaser": "Take on the role of Senior Software Engineer to architect and maintain scalable cloud-native platforms, focusing on Python-based validation frameworks and platform stability. Collaborate with cross-functional teams to deliver robust solutions. Ideal for experienced professionals with deep expertise in cloud-native environments and AI-assisted engineering.",
+ "description": "Meet the Team\n\nThe Cisco Common Platform Services (CCPS) organization is transforming how Cisco delivers software-as-a-service by providing a modern, consistent, and secure platform for all! With demonstrated ability, our global team brings innovative methodologies to building and managing hybrid cloud environments. We focus on platform management services, continuously evaluating infrastructure and operations to ensure efficiency and precision. Our expertise in IaaS and PaaS, combined with repeatable and portable delivery models, enables the rapid and secure deployment of applications.\n\n\u00a0\n\nWithin CCPS, the Cloud Software & Solutions (CSS) group designs and develops OpenStack and Kubernetes platform solutions with an emphasis on quality, stability, simplification, user experience, scalability, performance, and portability. We are looking for a Software Engineer to join our team and build scalable cloud-native applications and services.\n\n\u00a0\n\nKey Responsibilities\n\nBuild and Maintain Python-based Platform Test platform (OpenStack, Kubernetes, APIs) validation framework and pipelines running the validation framework.\n\nIdentify regressions, performance issues, and stability risks in the platforms and suggest remediations.\n\nHave good exposure and worked on the quality Engineering initiatives. Should have good experience on working on the solution test eng\n\nGenerating proper allure based reports after each iteration and Analyze logs, metrics, and platform behavior\n\nCollaborate closely with SRE, security, networking and application teams to deliver robust and scalable platform validations\n\nValidate Kubernetes/OpenStack/APIs releases (functional + non-functional)\n\nDrive AI-Assisted Engineering Initiatvies: Spearhead the adoption and governance of AI-assisted engineering tools (eg Github Copilot, custom LLM agents) to fundamentally scale team velocity, troubleshooting efficiency and automated code generation\n\nRequired Qualifications\n\nEducation & Experience: BS/MS in Computer Science or equivalent, with 10+ years of professional experience in software development or cloud/platform engineering.\n\nPython & System Design: Architect-level proficiency in Python, with a proven track record of designing highly scalable, maintainable, and modular frameworks from scratch.\n\nDeep Cloud-Native Expertise: Extensive hands-on experience managing production-grade Kubernetes or OpenStack environments, complemented by advanced observability using Prometheus, Grafana, and OpenTelemetry.\n\nIaC & CI/CD Governance: Expert command of Infrastructure-as-Code (Terraform) and GitOps principles, with experience building enterprise-grade CI/CD governance and shift-left testing methodologies.\n\nTroubleshooting & Fundamentals: Elite diagnostic and troubleshooting capabilities in distributed, multi-tenant cloud environments, supported by a strong foundation in networking and QA best practices.\n\nAI-Assisted Engineering: Strategic implementation of AI-assisted engineering workflows to drive optimization, efficiency, and quality across all phases of the SDLC.\n\nPreferred Qualifications\n\nEnterprise-Scale Kubernetes: Experience managing, securing, and testing multi-tenant, multi-region Kubernetes deployments handling massive traffic.\n\nEvangelism & Community: Active contribution to open-source cloud-native projects (CNCF) or a track record of presenting at tech conferences/meetups.\n\nFamiliarity with OpenStack in private or hybrid cloud environments.\n\nExperience with Building Platform frameworks and tools and test-driven development practices.\n\nExperience with CI/CD, GitOps, ArgoCD or developer platform enablement.\n\nCollabhiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020734EXTERNALENGLOBAL/Senior-Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Senior-Software-Engineer_2020734/apply"
+}

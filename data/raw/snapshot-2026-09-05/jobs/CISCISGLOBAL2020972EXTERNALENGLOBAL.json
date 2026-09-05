@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020972EXTERNALENGLOBAL",
+ "req_id": "2020972",
+ "title": "Software Engineering Technical Leader - 10+yrs - Full Stack - Java/Springboot/React/Angular/Vue.js, CI/CD",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-31T00:00:00.000+0000",
+ "skills": [
+  "java backend development",
+  "spring boot",
+  "restful api design",
+  "react",
+  "angular",
+  "vue.js",
+  "kubernetes",
+  "gitops",
+  "ci/cd pipeline development",
+  "aws",
+  "azure",
+  "google cloud",
+  "github actions",
+  "argo cd",
+  "git",
+  "distributed systems troubleshooting",
+  "root cause analysis",
+  "hashicorp vault",
+  "helm",
+  "kustomize",
+  "ansible",
+  "ssh automation",
+  "microservices architecture",
+  "postgresql",
+  "agile",
+  "cross-functional collaboration",
+  "ai-assisted development",
+  "itsm",
+  "change management"
+ ],
+ "teaser": "Become part of our team as a Software Engineering Technical Leader, driving the development of modern release and deployment platforms for enterprise-scale environments. Lead full-stack application design and collaborate with cross-functional teams to deliver secure, scalable solutions. Ideal for experienced engineers with strong Java backend and frontend expertise.",
+ "description": "At Cisco, our intuitive platform enables organizations of all sizes to deliver customer and employee experiences at scale. To provide best-in-class technologies to our customers, we've created an unrivaled company culture for our employees. One that is collaborative, flexible, and inclusive and provides employees with the autonomy to develop technology that's intuitive, secure, and accessible for everyone.\n\nOur newly formed team is part of Engineering Systems within Cisco Collaboration, and we are hiring engineers to help shape its future.Our mission is to improve the developer experience by building a modern CI/CD and release automation platform for a large-scale enterprise environment. Engineering teams across the organization will use this platform to build, test, publish, and deploy software through a unified, Git-driven workflow\u2014with configuration managed in Git, secrets secured in Vault, and automated deployments to Kubernetes or VM-based environments.This team will play a key role in simplifying delivery workflows, increasing engineering productivity, and enabling reliable, secure, and consistent software releases at scale.\n\nAs a Full Stack Software Engineer on the CI/CD Platform team, you will use AI-assisted development tools as a core part of how you deliver software\u2014from requirements through production. You will collaborate with product, backend, DevOps, and QA engineers to architect, design, and build a full-stack application for pipeline orchestration, release control, deployment visibility, audit logging, and enterprise integrations. With quality as a high priority, you will own features end to end, including unit and end-to-end tests, while reviewing and validating all AI-assisted output before shipping.\n\nWhat you will work on\n\nUse AI-assisted development tools (e.g., Cursor, Codex, or equivalent) effectively across the full Agile SDLC\u2014from clarifying requirements and design through implementation, testing, deployment, and documentation.\n\nBuild a full-stack application for a new CI/CD platform: pipeline state, release workflows, deployment visibility, and operational control surfaces.\n\nContribute to AI-native platform capabilities, including MCP servers and AI agents that detect deployment failures, recommend or automate rollbacks, and guide operators through troubleshooting.\n\nSolve complicated architecture problems to build scalable and extendable systems.\n\nDevelop backend services in Java (Spring Boot) and frontend experiences using React, Angular, or Vue.js.\n\nDesign relational data models and APIs for pipeline state, releases, changes, and audit metadata (MySQL, PostgreSQL, or equivalent).\n\nWrite unit tests and end-to-end tests for critical CI/CD flows\u2014from trigger through build, publish, deploy, and verify.\n\nDeploy and operate platform services in production using CI/CD, GitOps, Kubernetes, and cloud infrastructure.\n\nOptimize platform performance and reliability\u2014profiling services, tuning databases and APIs, and improving scalability under production load.\n\nTake complete ownership from conception to production release by influencing, facilitating, and working collaboratively across teams.\n\nYou are an ideal fit if you\n\n10+ years of proven experience writing professional production code and deployement for large-scale systems.\n\n8+ years of experience in full-stack technologies (Java/Spring Boot backend plus React, Angular, or Vue.js).\n\nUse AI-assisted development tools effectively across the full Agile SDLC\u2014from requirements and design through implementation, testing, deployment, and documentation.\n\nCan implement efficient database design, query performance, and schema migrations in a relational database (MySQL, PostgreSQL, or equivalent).\n\nHave experience with CI/CD tooling for build, test, artifact publishing, and deployment (GitHub Actions, Jenkins, or equivalent).\n\nHave working knowledge of deployment and release tooling such as Argo CD (GitOps), Ansible (VM-based deployment), and Harness (or equivalent platforms).\n\nHave experience deploying and operating services on Kubernetes and cloud platforms (e.g., AWS, Azure, or GCP).\n\nWrite unit tests and end-to-end tests as a standard part of delivery\u2014not an afterthought.\n\nDemonstrate a sense of ownership throughout the entire development process, from conception to production release, by effectively influencing and collaborating with cross-functional teams.\n\nStrategic and product-oriented approach with a desire to understand users and platform consumers.\n\nOutstanding communication skills.\n\nBonus points for any of the following\n\nExperience with AI-native DevOps, MCP servers, or AI agent development.\n\nExperience building or contributing to CI/CD platforms, release automation, or internal developer platforms.\n\nExperience with GitHub Actions and Argo CD together in a production GitOps environment.\n\nExperience with HashiCorp Vault or equivalent secrets management.\n\nExperience with Helm or Kustomize for Kubernetes deployments.\n\nExperience with VM-based deployment patterns (e.g., Ansible, SSH-based automation).\n\nExperience with microservices architecture and event-driven systems (e.g., RabbitMQ, Redis).\n\nExperience integrating with ITSM or change-management systems (ServiceNow, Jira Service Management, or equivalent).\n\nExperience in regulated or compliance-sensitive release environments.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020972EXTERNALENGLOBAL/Software-Engineering-Technical-Leader-10-yrs-Full-Stack-Java-Springboot-React-Angular-Vue-js-CI-CD",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineering-Technical-Leader---10-yrs---Full-Stack---Java-Springboot-React-Angular-Vuejs--CI-CD_2020972/apply"
+}

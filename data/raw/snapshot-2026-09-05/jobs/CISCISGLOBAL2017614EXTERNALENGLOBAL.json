@@ -1,0 +1,45 @@
+{
+ "job_seq_no": "CISCISGLOBAL2017614EXTERNALENGLOBAL",
+ "req_id": "2017614",
+ "title": "Data Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-26T00:00:00.000+0000",
+ "skills": [
+  "dbt",
+  "sql",
+  "snowflake",
+  "python",
+  "data pipeline development",
+  "etl/elt automation",
+  "data architecture design",
+  "dimensional modeling",
+  "object rationalization",
+  "parametric configuration layer design",
+  "rbac configuration",
+  "pandas",
+  "fastapi",
+  "airflow",
+  "git",
+  "ci/cd",
+  "ai integration",
+  "stakeholder management",
+  "prefect",
+  "dbt cloud job scheduling",
+  "data observability frameworks",
+  "feature engineering"
+ ],
+ "teaser": "We are recruiting a Data Engineer to design, develop, and support complex data pipelines within our AI-augmented analytics team. You will optimise data infrastructure, write production-grade SQL and Python scripts, and contribute to AI integration. Ideal candidates have experience in data engineering and proficiency in Snowflake and dbt.",
+ "description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nMeet the Team\u00a0\n\nThe Customer Asset Data Foundation team with Cisco\u2019s Data and Analytics organization, owns the data infrastructure and analytical frameworks that power Cisco\u2019s customer assets which includes install base, service agreement and contracts/subscriptions. Our Data, insights and analytics powers cisco\u2019s renewals, sales and finance organization. We are AI Native team.\n\nWe operate as a lean, high-ownership team where engineers are expected to build, maintain, and continuously improve the foundations that everyone else depends on. Our work is visible at the VP and SVP level, and our architectural decisions have organization-wide impact. We are actively building toward an AI-augmented data platform and have a strong bias toward engineers who want to be part of that trajectory.\n\nYour Impact\u00a0\n\nAs a Data Reliability Engineer on the Customer Asset data team, you will Design , Develop and Support complex Data pipelines which is AI Native. You will work at the intersection of data architecture, pipeline engineering, and AI-augmented analytics\u2014building systems that are clean, testable, and built to scale. This role requires independent ownership, strong technical judgment, and a forward-looking mindset toward AI tooling.\n\nOwn the end-to-end design and implementation of dbt models, including the simplified 6-object architecture, parametric control layer, and plug-and-play organizational hierarchy configurations.\n\nOptimize existing data pipelines to improve performances keeping optimal credit utilization without impacting SLA.\n\nWrite production-grade SQL and Python scripts for data transformation, pipeline automation, and integration with upstream and downstream .\n\nInstrument data pipelines with robust quality frameworks\u2014including dbt tests, row count validation, null assertions, and referential integrity checks\u2014to ensure metric reliability for executive reporting.\n\nContribute to AI integration workstreams, including building data tables and pipeline structures that support LLM-generated insight.\n\nCollaborate with other team members to deliver the task at hand to meet the committed timelines.\n\nMinimum Qualifications (Provide up to five (5) bullet points \u2013 \n\n2-3 + years of professional experience in data engineering or analytics engineering, with demonstrated ownership of production-grade Snowflake environments including query optimization, RBAC configuration, and schema design.\n\nIntermediate to advanced proficiency in dbt, including authoring of incremental models, macros, Jinja templating, snapshot strategy for SCDs, and dbt test frameworks.\n\nExpert-level SQL, including window functions, recursive CTEs, complex multi-level aggregations, and query performance profiling in a cloud data warehouse environment.\n\nIntermediate Python proficiency for data pipeline scripting, ETL/ELT automation, and lightweight data wrangling using pandas, fastAPI, or equivalent libraries.\n\nDemonstrated experience designing data architecture that supports analytical reporting at enterprise scale\u2014including dimensional modeling, object rationalization, and parametric configuration layer design.\n\nPreferred Qualifications (Provide up to five (5) bullet points:\u00a0\u00a0\n\nExperience in developing pipline using coding assistance such as CoCo,Co-Pilot, Cursor etc.\n\nWorking familiarity with major clod services such as GCP,AWS , with demonstrated ability to integrate cloud-side outputs into a Snowflake-based pipeline.\n\nExperience incorporating AI outputs into data pipelines\u2014including consuming LLM API responses as structured data, feature engineering for predictive models, or building tables that support AI summary generation workflows.\n\nExperience with pipeline orchestration tools such as Airflow, Prefect, or dbt Cloud job scheduling, including DAG dependency management and pipeline health monitoring.\n\nGit-based development discipline, including branch management, PR workflows, and CI/CD awareness applied to dbt or pipeline codebases; experience with data observability frameworks is a plus.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017614EXTERNALENGLOBAL/Data-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Data-Engineer_2017614-1/apply"
+}

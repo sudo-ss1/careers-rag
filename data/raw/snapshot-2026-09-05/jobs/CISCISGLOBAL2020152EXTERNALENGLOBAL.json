@@ -1,0 +1,39 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020152EXTERNALENGLOBAL",
+ "req_id": "2020152",
+ "title": "ASIC Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Hsinchu, Hsinchu City, Taiwan"
+ ],
+ "country": "Taiwan",
+ "city": "Hsinchu",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-31T00:00:00.000+0000",
+ "skills": [
+  "asic design",
+  "asic verification",
+  "analog design",
+  "eda flows",
+  "power and signaling solutions",
+  "code review",
+  "hardware debugging",
+  "software debugging",
+  "physical design",
+  "mixed signal design",
+  "verification methodologies",
+  "process definition",
+  "requirements specification",
+  "collaboration",
+  "team leadership",
+  "documentation"
+ ],
+ "teaser": "We are seeking a skilled ASIC Engineer to define, design, and verify ASIC and subsystems for Cisco platforms. You will contribute to high-performance product development and collaborate within a multi-disciplined team. Ideal candidates bring significant experience in ASIC design and a strong background in engineering.",
+ "description": "Define, design and verify ASIC and ASIC subsystems to be deployed in a range of Cisco platforms. Contribute to a multi-disciplined engineering team to meet the power, performance, and area goals for products. Design, document, and develop ASIC subsystems for release in high volume and quality. Help define the process, methods, and tools for design and implementation of complex developments.\n\nWhat You\u2019ll Do:\n\u2022 Drives the definition, architecture and design of high performance ASICs \n\u2022 Owns complex or multiple functional areas\n\u2022 Develops reusable code for future projects\n\u2022 Creates re-usable code\n\u2022 Debugs at ASIC, SW, HW level\n\u2022 Works with ASIC and Apps, with limited external scope\n\u2022 Leads design work by solving block level issues and participates in chip level issue resolution\n\u2022 Drives reviews and recognizes areas of architectural concerns\n\u2022 Defines new verification methodologies\n\u2022 Helps in lab bring up\n\u2022 Leads code reviews at platform level\n\u2022 Defines methodologies of execution for analog/mixed signal products\n\u2022 Collaborates with the mixed-signal team and system teams to help define and specify the requirements\n\u2022 Responsible for testing high accuracy analog designs, and helping to suppo\n\u2022 Develops and deploys PD EDA flows\n\u2022 Owns physical design of highly complex blocks\n\u2022 Identifies, designs and implements power and signaling solutions\n\nMinimum Qualifications:\nTypically: Bachelors + 7 years of related experience, or Masters + 4 years of related experience, or PhD + 1 year of related experience\n\nPreferred Qualifications\nVaries based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020152EXTERNALENGLOBAL/ASIC-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hsinchu-Taiwan/ASIC-Engineer_2020152/apply"
+}

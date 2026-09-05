@@ -1,0 +1,45 @@
+{
+ "job_seq_no": "CISCISGLOBAL2011045EXTERNALENGLOBAL",
+ "req_id": "2011045",
+ "title": "AI Infrastructure Engineer - GoLang, Kubernetes, Dockers, Linux - 8-12 years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-04-09T00:00:00.000+0000",
+ "skills": [
+  "golang",
+  "python",
+  "kubernetes",
+  "microservices architecture",
+  "distributed systems",
+  "kubernetes crds",
+  "kubebuilder",
+  "api design",
+  "grpc",
+  "rest apis",
+  "debugging",
+  "helm",
+  "cli tools",
+  "telemetry collection",
+  "ebpf",
+  "sla/slo monitoring",
+  "release management",
+  "ci/cd pipelines",
+  "version control",
+  "gpu/cuda integration",
+  "saas operational models",
+  "stakeholder management"
+ ],
+ "teaser": "We are currently hiring a AI Infrastructure Engineer to design and implement scalable control plane components for AI workloads. You will work with Golang, Kubernetes, and distributed systems, collaborating with a team to deliver innovative solutions. Ideal for candidates with significant experience in microservices architecture and cloud-native technologies.",
+ "description": "Meet the Team\n\u00a0\n\nWe are an innovation team on a mission to transform how enterprises harness AI. Operating with the agility of a startup and the focus of an incubator, we\u2019re building a tight-knit group of AI and infrastructure experts driven by bold ideas and a shared goal: to rethink systems from the ground up and deliver breakthrough solutions that redefine what's possible \u2014 faster, leaner, and smarter.\n\nWe thrive in a fast-paced, experimentation-rich environment where new technologies aren\u2019t just welcome \u2014 they\u2019re expected. Here, you'll work side-by-side with seasoned engineers, architects, and thinkers to craft the kind of iconic products that can reshape industries and unlock entirely new models of operation for the enterprise.\n\nIf you're energized by the challenge of solving hard problems, love working at the edge of what's possible, and want to help shape the future of AI infrastructure \u2014 we'd love to meet you.\n\nImpact\n\nCisco is seeking an experienced and innovative Control Plane Engineer to develop the control plane for the next-generation AI infrastructure. This role focuses on designing and implementing scalable, reliable, and efficient control plane components to manage AI workloads. The ideal candidate will have a strong background in microservices architecture, Kubernetes, and distributed systems, along with expertise in modern programming languages and cloud-native technologies.\n\nAs AI Control Plane Engineer your work will have a significant impact on:\n\n\u2022 Enabling seamless orchestration and management of AI workloads across distributed environments.\n\n\u2022 Improving the reliability, scalability, and performance of AI control plane services.\n\n\u2022 Ensuring operational simplicity and ease of debugging for control plane services.\n\n\u2022 Driving innovation in control plane architecture to improve efficiency and performance of AI infrastructure.\n\nYour contributions will empower Cisco to deliver best-in-class AI infrastructure solutions and help customers scale AI workloads with confidence.\n\nKey Responsibilities:\n\n\u2022 Design and implement control plane components using Golang AND Python,\n\n\u2022 Leverage Kubernetes (K8s) concepts, CRDs, and operator patterns (e.g., Kubebuilder) to build control plane services.\n\n\u2022 Develop scalable and highly available (HA) microservices that span across regions, ensuring reliability at scale.\n\n\u2022 Build and maintain GRPC, REST APIs, and CLI tools for seamless integration and control of AI infrastructure.\n\n\u2022 Address operational challenges of running applications as SaaS, focusing on ease of deployment and lifecycle management.\n\n\u2022 Establish and follow best practices for release management, including CI/CD pipelines and version control hygiene.\n\n\u2022 Design and implement strategies for live upgrades to minimize downtime and ensure service continuity.\n\n\u2022 Develop and implement telemetry collection mechanisms using eBPF and other tools to provide insights into system performance and health.\n\n\u2022 Define and monitor SLA/SLO metrics to ensure the reliability of control plane services.\n\n\u2022 Design and manage stateful applications, ensuring high performance and reliability of underlying databases.\n\n\u2022 Build systems with debuggability in mind, simplifying troubleshooting and remediation for operational teams.\n\n\u2022 Collaborate with other teams to ensure control plane compatibility with GPU/CUDA-related technologies.\n\nMinimum Qualifications:\n\n\u2022 Proficiency in Golang and Python.\n\n\u2022 Strong expertise in Kubernetes (K8s), including CRDs, the operator pattern, and tools like Kubebuilder and Helm.\n\n\u2022 Experience with API design and implementation (GRPC, REST APIs, and CLI).\n\n\u2022 Proven track record in designing and scaling highly available microservices across regions. Strong understanding of distributed systems architecture and fundamentals.\n\n\u2022 Familiarity with telemetry tools and SLA/SLO monitoring for large-scale systems.\n\n\u2022 Strong debugging skills and experience building systems with easy remediation capabilities.\n\n\u2022 Passion for learning and staying updated on the latest trends in AI infrastructure and cloud-native technologies.\n\n\u2022 Bachelor\u2019s degree+ and relevant 7+ years of Engineering work experience.\n\nPreferred Qualifications:\n\n\u2022 Proficiency in programming languages such as C++, Golang.\n\n\u2022 Hands-on experience with eBPF for collecting insights and optimizing system performance.\n\n\u2022 Knowledge of GPU/CUDA technologies and their integration into infrastructure systems.\n\n\u2022 Knowledge of release management best practices, including versioning and rollback mechanisms.\n\n\u2022 Familiarity with SaaS operational models and challenges.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011045EXTERNALENGLOBAL/AI-Infrastructure-Engineer-GoLang-Kubernetes-Dockers-Linux-8-12-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/AI-Infrastructure-Engineer---GoLang--Kubernetes--Dockers--Linux---8-12-years_2011045/apply"
+}

@@ -1,0 +1,47 @@
+{
+ "job_seq_no": "CISCISGLOBAL2016219EXTERNALENGLOBAL",
+ "req_id": "2016219",
+ "title": "Senior Cloud Engineer - Infrastructure Operations / Network Platform Reliability",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Galway, Ireland"
+ ],
+ "country": "Ireland",
+ "city": "Galway",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-16T00:00:00.000+0000",
+ "skills": [
+  "cloud architecture design",
+  "data centre networking",
+  "virtualization platforms (vmware, openstack)",
+  "network automation scripting",
+  "enterprise storage systems (nas/san)",
+  "linux server administration",
+  "windows server administration",
+  "network security best practices",
+  "network segmentation",
+  "incident management (itil)",
+  "change management",
+  "agile methodologies",
+  "monitoring and logging tools (grafana, prometheus)",
+  "network troubleshooting",
+  "data centre operations",
+  "hardware installation",
+  "rack management",
+  "cabling infrastructure",
+  "load balancing",
+  "volume/lun management",
+  "host mapping",
+  "multipathing",
+  "data replication",
+  "scripting (rest apis, ansible, python)"
+ ],
+ "teaser": "Join our team as a Senior Cloud Engineer - Infrastructure Operations, where you will design and implement cloud-based and data centre network solutions, optimising architecture in line with Cisco's security standards. Ideal candidates bring experience in network engineering or data centre operations and a strong background in cloud infrastructure.",
+ "description": "Meet the Team\n\nJoin Cisco's Cloud and Data Center Engineering team\u2014a collaborative group of engineers, architects, and operations specialists dedicated to designing, implementing, and optimizing Cisco's cloud-based and hybrid infrastructure with a strong focus on network engineering and data centre operations. Our team partners with product managers, security, and IT operations to deliver secure, scalable, and reliable solutions, while staying aligned with Cisco's security standards and industry best practices. We thrive on cross-functional collaboration, continuous learning, and delivering high-impact solutions that power Cisco's business.\n\nYour Impact\n\nAs an Cloud Engineer - Infrastructure Operations, you will:\n\nDesign, develop, and implement cloud-based and data centre network solutions, combining cutting-edge technologies to optimize architecture in line with Cisco's security standards and policies.\n\nDesign, configure, and maintain data centre network architectures, including switching, routing, and network segmentation across on-premises and hybrid environments.\n\nCollaborate with product managers, engineers, and security teams to develop detailed specifications for new cloud-based products, services, and applications, focusing on network security optimization, scalability, and performance.\n\nPlan and execute compute and storage migration activities for data center relocation or consolidation projects, including assessing environments, creating migration strategies, and mitigating risks.\n\nDeploy, configure, and maintain virtualization platforms (e.g., VMware, OpenStack), performing both live and cold VM migrations and decommissioning with minimal service disruption.\n\nBuild and maintain enterprise storage systems (NAS/SAN), including volume/LUN creation, host mapping, multipathing, and data replication.\n\nValidate system performance and data integrity post-migration, conduct tuning and optimization, and ensure high availability and performance of systems.\n\nWrite scripts to automate server operations, network configurations, and management, and maintain QA and production environments using automation tools.\n\nBuild and maintain monitoring tools for network and infrastructure performance, analyze system trends, and proactively address blockers to meet deadlines.\n\nCollaborate closely with cross-functional teams (application, data centre ops, security) while following ITIL-based request, change, and incident management processes.\n\nProduce clear migration documentation and handover materials, sharing learnings and supporting problem resolution across teams.\n\nApply agile methodologies to manage timelines and deliverables, and ensure compliance with security, change management, and operational standards.\n\nMinimum Qualifications\n\nBachelor's degree in Computer Science, Information Technology, Engineering, or related field plus 3 years of relevant experience in network engineering or data centre operations, OR\u00a0 Master's degree in a related field plus 1 year of relevant experience.\n\nExperience in the design, development, and maintenance of cloud-based solutions and network infrastructure.\n\nWorking knowledge of data centre networking concepts, switching, and routing protocols.\n\nWorking knowledge of virtualization platforms (e.g., VMware, OpenStack) and migration activities.\n\nFamiliarity with enterprise storage systems (NAS/SAN).\n\nExperience collaborating within cross-functional, agile teams.\n\nUnderstanding of security, compliance, and change management processes.\n\nPreferred Qualifications\n\nAdvanced expertise in Cisco networking platforms, data centre switch architecture, and network design.\n\nHands-on experience with data centre network design, implementation, and troubleshooting (switching, routing, VLANs, load balancing).\n\nExpert-level experience in deploying, administering, and operating virtualization platforms (VMware, OpenStack).\n\nStrong expertise in building, operating, and tuning Linux and Windows Server environments for high availability and performance.\n\nIn-depth knowledge of enterprise storage systems (e.g., NetApp) and storage architectures (NAS, SAN), including volume/LUN management, host mapping, multipathing, and data replication.\n\nProficiency in network automation and programmability (REST APIs, Ansible, Python).\n\nHands-on experience in data centre operations, including hardware installation, rack management, cabling, power management, and network cabling infrastructure.\n\nProficiency in scripting and automation for network, server, and infrastructure management.\n\nExperience with monitoring and logging tools for network and infrastructure performance (e.g., Grafana, Prometheus).\n\nKnowledge of data centre security standards and network segmentation best practices.\n\nCollabHiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016219EXTERNALENGLOBAL/Senior-Cloud-Engineer-Infrastructure-Operations-Network-Platform-Reliability",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Senior-Cloud-Engineer---Infrastructure-Operations---Network-Platform-Reliability_2016219/apply"
+}

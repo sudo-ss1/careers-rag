@@ -1,0 +1,47 @@
+{
+ "job_seq_no": "CISCISGLOBAL2019879EXTERNALENGLOBAL",
+ "req_id": "2019879",
+ "title": "ASIC Engineering Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-28T00:00:00.000+0000",
+ "skills": [
+  "asic npi bring-up",
+  "ate testing",
+  "advantest 93000 tester",
+  "c programming",
+  "c++ programming",
+  "test automation",
+  "java programming",
+  "test method writing",
+  "perl programming",
+  "python programming",
+  "dft insertion techniques",
+  "scan insertion",
+  "atpg insertion",
+  "jtag insertion",
+  "mbist insertion",
+  "pvt insertion",
+  "serdes",
+  "production testing",
+  "test coverage analysis",
+  "team leadership",
+  "collaboration",
+  "problem solving",
+  "conflict resolution",
+  "multi-functional communication"
+ ],
+ "teaser": "Take on the role of ASIC Engineering Technical Leader, leading a team of Test Engineers to develop and implement test and automation solutions for Cisco ASIC projects. Oversee test programme development, characterise units, and ensure high-quality production. Ideal for experienced professionals with strong expertise in ASIC/NPI and advanced test engineering.",
+ "description": "Meet the Team\n\nJoin Cisco's Silicon Operations team, where engineers collaborate with ASIC Design, Hardware, and Manufacturing partners to deliver high-quality silicon products from New Product Introduction (NPI) through high-volume production. The team drives innovation in test engineering, automation, and manufacturing excellence to ensure world-class product quality and reliability.\n\nYour Impact\n\nAs a Test Engineering Leader, you will lead a team of test engineers responsible for developing, validating, and optimizing production test solutions for Cisco's next-generation ASIC and SoC products.\n\nYou will:\n\nLead the development and release of ATE test programs for ASIC/SoC products from NPI through production.\n\nPartner with ASIC Design teams to bring up tests, characterize silicon, and improve test coverage.\n\nDevelop and debug test patterns, identify coverage gaps, and implement robust test solutions.\n\nDrive high-volume manufacturing readiness by collaborating with Tier-1 OSAT partners to resolve production test and quality issues.\n\nLead automation initiatives to improve test efficiency, quality, and manufacturing scalability.\n\nAnalyze yield data, identify failure trends, and drive yield improvement and test time optimization.\n\nMentor and develop a high-performing team while fostering a culture of innovation, collaboration, and continuous improvement.\n\nPartner with cross-functional engineering and manufacturing teams to ensure successful product launches.\n\nWho You'll Work With\n\nYou'll collaborate closely with:\n\nASIC Design Teams (Central Hardware Group)\n\nSilicon Operations Engineering Teams\n\nNew Product Introduction (NPI) Teams\n\nManufacturing and Operations Partners\n\nTier-1 OSAT Suppliers\n\nCross-functional Hardware and Product Engineering Teams\n\nMinimum Qualifications\n\nBachelor's or Master's degree in Electrical Engineering, Computer Engineering, or related field.\n\n12+ years of experience in ASIC/SoC NPI, ATE testing, silicon characterization, and production test.\n\nStrong expertise with Advantest V93000 (SmarTest 7 & 8) platforms.\n\nProficiency in C, C++, Java, Perl, Python, and 93K test method development.\n\nExperience leading technical teams and delivering complex engineering projects.\n\nPreferred Qualifications\n\nStrong knowledge of DFT methodologies, including Scan, ATPG, JTAG, MBIST, PVT, and SerDes.\n\nExperience with yield improvement, failure analysis, and test time reduction.\n\nStrong analytical and problem-solving skills.\n\nExcellent communication, stakeholder management, and cross-functional leadership capabilities.\n\nExperience working with global manufacturing partners and high-volume production environments.\n\nPassion for automation, continuous improvement, and engineering innovation.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019879EXTERNALENGLOBAL/ASIC-Engineering-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-Engineering-Technical-Leader_2019879/apply"
+}

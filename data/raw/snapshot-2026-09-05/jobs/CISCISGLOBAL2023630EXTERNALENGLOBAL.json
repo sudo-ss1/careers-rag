@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023630EXTERNALENGLOBAL",
+ "req_id": "2023630",
+ "title": "Embedded Software Engineer | C, Device Driver, Linux ,Multithreading - 10+ years - Bangalore",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-27T00:00:00.000+0000",
+ "skills": [
+  "c programming",
+  "linux device driver development",
+  "c++ programming",
+  "python programming",
+  "fpga development",
+  "network hardware bring-up",
+  "kernel debugging",
+  "software testing",
+  "embedded systems development",
+  "i2c protocol development",
+  "spi protocol development",
+  "uart protocol development",
+  "pcie protocol development",
+  "gpio protocol development",
+  "gdb",
+  "kgdb",
+  "ai/ml framework",
+  "layer 2/3 network protocols",
+  "system design",
+  "requirements review",
+  "optical networking",
+  "secure-boot",
+  "open-source tools",
+  "cmis",
+  "sfp",
+  "qsfp",
+  "mentoring",
+  "collaborative teamwork",
+  "software quality processes"
+ ],
+ "teaser": "Join our team as a Embedded Software Engineer to design and develop device drivers and BSP for Cisco Core and Edge routing products. You will work on kernel and user space drivers for FPGA and networking peripherals, collaborating with cross-functional teams. Ideal for experienced engineers with strong C, C++, and Linux expertise.",
+ "description": "Meet the Team\n\nThe Common Hardware Group (CHG) at Cisco is seeking skilled software engineers to join our Diagnostic/BSP team, responsible for ensuring the reliability and performance of our world-class hardware. Our team develops software for Cisco\u2019s network switches and routers, which feature advanced application awareness to build a flexible and agile network infrastructure. These capabilities support multi-layered responses to the diverse workload demands of AI and ML. This is a unique opportunity to grow your technical skill set and gain visibility and recognition across cross-functional teams within Cisco. We value motivated individuals who enjoy solving complex challenges and thrive in a collaborative, innovative environment.\n\nYour Impact\n\nDesign, and develop, BSP, and Diagnostics for Cisco Core and Edge routing products.\n\nDesign, develop, and test kernel and user space device drivers for FPGA and networking peripherals.\n\nDevelop and execute software test plans.\n\nCollaborate with cross-functional teams to debug prototypes and validate software.\n\nMinimum Qualifications\n\nBachelor\u2019s degree in Electrical Engineering, Computer Science, or related field with 12+ years experience, or Master\u2019s degree with 10+ years experience.\n\nProficient in C, C++, and Python programming.\n\nStrong hardware and device driver development background, including experience with Linux hardware bring-up.\n\nDemonstrated experience in hardware and device driver development, including Linux hardware bring-up, multi-threading, event handling, and state machine\u00a0implementation.\u00a0\n\nSkilled in developing, debugging, and validating embedded systems and device drivers for protocols such as I2C, SPI, UART, PCIe, and/or GPIO.\n\nPreferred Qualifications\u00a0\n\nProficient in kernel debugging tools such as GDB and KGDB.\u00a0\n\nExperience developing software from concept through delivery for large-scale, high-speed interface and bandwidth.\n\nAbility to troubleshoot software defects from kernel modules to applications.\u00a0\n\nExperience with collaborative system design, specification writing, and requirements review.\u00a0\n\nCommitment to quality, mentoring, and continuous learning in networking, optics, and embedded systems.\u00a0\n\nExperience with AI/ML and Agentic AI framework.\n\nKnowledge of Layer 2/3 network protocols.\u00a0\n\nStrong troubleshooting and debugging skills.\u00a0\n\nExperience with network processors and optical networking.\u00a0\n\nFamiliarity with secure-boot, open-source tools, CMIS, and SFF standards (SFP, QSFP).\u00a0\n\nStrong communication skills and knowledge of software quality processes.\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023630EXTERNALENGLOBAL/Embedded-Software-Engineer-C-Device-Driver-Linux-Multithreading-10-years-Bangalore",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Embedded-Software-Engineer---C--Device-Driver--Linux--Multithreading---10--years---Bangalore_2023630/apply"
+}

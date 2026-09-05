@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2013154EXTERNALENGLOBAL",
+ "req_id": "2013154",
+ "title": "ASIC Engineering Digital Designer/ Leader ( digital design, FSM, CPU sub-systems, complex SOCs, FPGA validation | 8-12 Years | Pune)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Pune, India"
+ ],
+ "country": "India",
+ "city": "Pune",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-05-21T00:00:00.000+0000",
+ "skills": [
+  "asic design",
+  "fpga validation",
+  "digital logic design",
+  "soc design",
+  "cpu subsystem design",
+  "fpga prototyping",
+  "dft",
+  "systemverilog",
+  "simulation tools",
+  "cdc",
+  "rdc",
+  "formal checking",
+  "equivalence checking",
+  "analog circuit design",
+  "mixed-signal design",
+  "spi protocol",
+  "i2c protocol",
+  "apb protocol",
+  "axi protocol",
+  "serdes ip",
+  "ethernet",
+  "d2d phy ip",
+  "block level verification",
+  "post-silicon validation",
+  "hardware vs firmware partitioning",
+  "design automation scripting",
+  "qor metrics",
+  "analytical skills",
+  "problem-solving skills"
+ ],
+ "teaser": "Take on the role of Digital Design Lead for the Client Optics Group, driving technical leadership in the development of advanced digital logic for silicon photonics. Lead the full ASIC lifecycle, from RTL design to post-silicon validation, and collaborate with cross-functional teams. Ideal for experienced professionals in high-speed optical interconnects and ASIC/SoC design.",
+ "description": "Meet the Team\n\nCisco\u2019s Client Optics Group (COG) designs & delivers the high-speed optical transceivers, and platforms that power Cisco's core data center networking solutions. We specialize in the design and integration of cutting-edge IM/DD optics and silicon photonic platforms that enable customers to deploy industry-leading optical technologies within data center with unprecedented speed, capacity, and reliability. Come join us and take part in shaping COG\u2019s ground-breaking optical solutions by designing, developing, and testing some of the most advanced pluggable, and Co-packaged Optics (CPO) being developed in the industry.\n\nYou will work with Cisco's outstanding Silicon Photonics team. Our team is responsible for driving the development and optimization of optical transceivers & modules (800G,1.6T & beyond) that seamlessly integrate with Cisco's routing, switching, and datacenter platforms, enabling customers to build scalable, high-performance networks that support emerging technologies including AI/ML workloads, and next-generation data center architectures.\n\nWhat You'll Do\n\nThe Digital Design Lead for the Client Optics Group (COG) provides essential technical leadership in the development of digital logic for silicon photonics, ensuring high-performance outcomes for 100G, 200G, and 400G optical interconnects. This role involves managing the full ASIC lifecycle, from architectural conception and RTL-based design of CPU subsystems and data path interfaces to tapeout and post-silicon production support, while overseeing the integration of digital logic with analog and mixed-signal blocks to ensure the reliability of Co-Packaged Optics and silicon photonics modules.\n\nCandidates must possess comprehensive expertise in high-speed optical interconnects and mastery of the complete ASIC/SoC design flow, including DFT, physical design, and verification. Furthermore, the position requires the ability to drive technical strategy through effective collaboration with cross-functional teams in firmware, packaging, and process engineering to optimize power, performance, and manufacturability within the United States of America office context.\n\nYour Impact\n\nAs a senior level individual contributor, you will work with a diverse team of engineers spanning digital design, analog/mixed-signal design, verification, DFT, physical design, firmware, FPGA, CAD, packaging, and post-silicon validation.\n\nAt the concept stage, you will help define the digital architecture, interface requirements, implementation strategy, and design methodology. During execution, you will own block level and top-level design and block level verification, and support full-chip integration of high-speed IPs such as ODSP, D2D IP, SerDes XSR, SerDes PAM4 integrated drivers/TIA, and control functions. You will work closely with verification teams to ensure complete functional closure, with physical design teams to support implementation readiness, and with post-silicon teams to help drive successful product bring-up and release to production.\n\nSpecific responsibilities include\n\nContribute individually during all design activities from Pre-Silicon RTL to GDS2 signoff and post-silicon activities such as FPGA prototyping, Lab Validation and ATE bring-up.\n\nDesign complex digital blocks and CPU subsystems. Work seamlessly across cross function teams and resolve design and technical issues.\n\nMust be able to understand concepts such as accuracy, resolution, loop time constants and make appropriate trade-offs.\n\nPropagate top level specifications to block level specifications for high speed datapath and low speed control planes, including timing, power budgets and hardware vs firmware partitioning\n\nReview verification coverage and sign off on coverage metrics. Independently simulate, verify and debug verification issues. Support integration and verification of Serdes and DSP IP.\n\nSupport all backend activities such as synthesis, timing closure, DFT and low power design, scripts for design automation and processing QOR metrics.\n\nContribute to FPGA prototyping and validation activities where applicable.\n\nMinimum Qualifications\n\nBachelor\u2019s or master\u2019s degree in electrical engineering, Electronics Engineering, or a related field. Master\u2019s degree strongly preferred\n\n8-12 years of industry experience with hands-on experience in digital design including FSM and CPU sub-systems, complex SOCs and FPGA validation\n\nFamiliarity with protocols such as SPI, I2C, APB, AXI, or similar interfaces and high-speed SerDes, Ethernet, D2D PHY IP, and protocols.\n\nStrong knowledge of ASIC/SoC design flow, including RTL development using SystemVerilog, simulation, lint, CDC/RDC, synthesis, formal/equivalence checking, DFT, and implementation handoff\n\nGood understanding of full front-end design and development as well as exposure to full suite of backend tools such as CDC, synthesis, LEC, DFT etc.\n\nStrong teamwork, communication, and organizational skills. Strong analytical, problem-solving, and debugging skills.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2013154EXTERNALENGLOBAL/ASIC-Engineering-Digital-Designer-Leader-digital-design-FSM-CPU-sub-systems-complex-SOCs-FPGA-validation-8-12-Years-Pune",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Pune-India/ASIC-Engineering-Digital-Designer--Leader---digital-design--FSM--CPU-sub-systems--complex-SOCs--FPGA-validation---8-12-Years---Pune-_2013154/apply"
+}

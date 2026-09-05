@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2017487EXTERNALENGLOBAL",
+ "req_id": "2017487",
+ "title": "Software Engineer, Delivery Platform",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-19T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "java",
+  "go",
+  "linux",
+  "ci/cd",
+  "devsecops",
+  "scripting",
+  "git",
+  "build automation",
+  "release automation",
+  "continuous delivery",
+  "troubleshooting",
+  "code review",
+  "testing",
+  "infrastructure automation",
+  "configuration management",
+  "docker",
+  "kubernetes",
+  "cloud platforms",
+  "vulnerability management",
+  "dependency management",
+  "secrets handling",
+  "access control",
+  "secure coding",
+  "supply chain security",
+  "artifactory",
+  "jenkins",
+  "github",
+  "splunk",
+  "elasticsearch"
+ ],
+ "teaser": "Take on the role of Software Engineer, Delivery Platform, supporting secure and reliable software delivery for Cisco Intersight. Contribute to automation, troubleshooting, and operational support across DevSecOps and CI/build workflows. Ideal for early-career engineers with software development experience and a strong understanding of modern development practices.",
+ "description": "Meet the Team\u00a0\n\nCisco Intersight is a cloud-native operations platform that provides unified management, automation, visibility, and lifecycle operations for infrastructure across data center, cloud, and edge environments. Its SaaS, on-premises, and mobile offerings depend on secure, reliable automation that enables engineering teams to build, test, release, and operate software at scale.\u00a0\n\nWe are looking for an early-career Software Engineer to join Intersight Delivery Platform Engineering. This role will start in CI/build and may contribute across DevSecOps, CI/build, and continuous delivery as team priorities evolve. The work focuses on practical software engineering, automation, troubleshooting, and operational support for the platforms and workflows used by Intersight engineering teams.\u00a0\n\nYour Impact\u00a0\n\nIn this role, you will help build, maintain, and improve automation that supports secure and reliable software delivery for Intersight. You will work with experienced engineers to solve practical problems, improve developer workflows, and grow your technical depth across delivery platform engineering.\u00a0\n\nDevelop, maintain, and improve scripts, services, tools, and automation used across DevSecOps, CI/build, and continuous delivery workflows.\u00a0\n\nSupport security automation activities such as vulnerability reporting, dependency visibility, hardened image workflows, scan result tracking, and remediation follow-up.\u00a0\n\nSupport build, validation, release, and deployment automation by troubleshooting issues, improving reliability, and reducing manual operational work.\u00a0\n\nHelp investigate pipeline failures, automation defects, build issues, deployment issues, and operational alerts with guidance from senior engineers.\u00a0\n\nContribute to reusable automation that improves consistency, visibility, and efficiency across engineering workflows.\u00a0\n\nParticipate in code reviews, design discussions, testing, documentation, and runbook updates.\u00a0\n\nWork with engineers across DevSecOps, CI, CD, SRE, and development teams to understand requirements, clarify issues, and deliver practical improvements.\u00a0\n\nLearn and apply secure engineering, software delivery, observability, and operational support practices.\u00a0\n\nUse AI-assisted tools and automation to improve productivity, troubleshooting, documentation, and code quality.\u00a0\n\nMinimum Qualifications\u00a0\n\nBachelors + 2 years of relevant experience.\u00a0\n\nSoftware development experience in one or more programming languages such as Python, Java, or Go.\u00a0\n\nBasic understanding of modern software development practices, including Git-based workflows, code review, testing, and CI/CD concepts.\u00a0\n\nExperience working in Linux environments, including command-line usage, scripting, troubleshooting, or basic system administration.\u00a0\n\nAbility to troubleshoot technical issues, learn unfamiliar systems, and work through problems with guidance from senior engineers.\u00a0\n\nStrong written and verbal communication skills, including the ability to document work clearly and collaborate with technical teams.\u00a0\n\nPreferred Qualifications\u00a0\n\nExperience with Python automation, REST APIs, command-line tools, or workflow automation.\u00a0\n\nFamiliarity with CI/CD tools or developer platforms such as Jenkins, GitHub, Artifactory, or similar systems.\u00a0\n\nFamiliarity with Docker, Kubernetes, cloud platforms, or cloud-native application patterns.\u00a0\n\nFamiliarity with security concepts such as vulnerabilities, dependency management, secrets handling, access control, secure coding, or supply chain security.\u00a0\n\nFamiliarity with deployment automation, release workflows, infrastructure automation, or configuration management tools.\u00a0\n\nExposure to monitoring, logging, observability, or dashboarding tools such as Splunk, ElasticSearch, Prometheus, Grafana, or similar platforms.\u00a0\n\nExperience applying AI-assisted tools or agent-based workflows to improve engineering productivity, troubleshooting, automation, or documentation.\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017487EXTERNALENGLOBAL/Software-Engineer-Delivery-Platform",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer--Delivery-Platform_2017487/apply"
+}

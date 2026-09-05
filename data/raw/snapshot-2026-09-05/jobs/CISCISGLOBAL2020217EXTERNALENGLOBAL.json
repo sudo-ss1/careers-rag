@@ -1,0 +1,49 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020217EXTERNALENGLOBAL",
+ "req_id": "2020217",
+ "title": "Data Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India",
+  "Hyderabad, Telang\u0101na, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-24T00:00:00.000+0000",
+ "skills": [
+  "snowflake",
+  "python",
+  "data pipeline development",
+  "data modeling",
+  "sql",
+  "query optimization",
+  "data governance",
+  "metadata management",
+  "data quality frameworks",
+  "ci/cd",
+  "github actions",
+  "jenkins",
+  "airflow",
+  "dbt",
+  "data warehousing",
+  "cloud platforms",
+  "aws",
+  "azure",
+  "gcp",
+  "star schema",
+  "snowflake schema",
+  "data vault",
+  "mentoring",
+  "stakeholder management",
+  "problem solving"
+ ],
+ "teaser": "We are expanding our team: As a Data Engineer, you will architect and maintain enterprise data infrastructure, focusing on scalable and reliable data solutions. You will lead the development of robust data pipelines and collaborate with cross-functional teams. Ideal candidates bring significant experience in data engineering and advanced expertise in Snowflake and Python.",
+ "description": "Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nMeet the Team\u00a0\n\nEnterprise Data Foundation telemetry, as part of Cisco's telemetry data offerings, enables enhanced visibility of data for product adoption, up sale and cross sell across Cisco's enterprise portfolio. It collects and streams telemetry data from various Cisco products, such as Catalyst Center, Cisco Firewall, WebEx, Data Center product to name a few to provide insights into device performance, usage, and potential risks. This telemetry data helps customers and Cisco proactively identify opportunities for sales and CX to improve overall product experience.\n\nKey aspects include:\n\nCollection of performance and operational data from customer product deployment and management platforms.\n\nEnabling analytics to understand feature utilization and customer satisfaction.\n\nSupporting proactive risk mitigation campaigns and customer enablement through targeted communications.\n\nSecure collection and handling of telemetry data with customer privacy considerations.\u00a0\n\nYour Impact\u00a0\n\nSnowflake objects such as databases, schemas, tables, views, and store procedures.\n\nDesign, develop, and implement scalable and efficient data pipelines using AWS services (e.g., S3, EC2, ECS, Aurora).\n\nWrite high-quality, maintainable Python code for data extraction, transformation, and loading (ETL) and Machine leaning / AI (LLM) processes.\n\nDevelop and integrate with Web Services, Micro Services, and APIs to ingest and expose data from various internal and external sources.\n\nImplement robust Data Engineering solutions, including data modeling, database design, and data warehousing.\n\nOptimize data storage, retrieval, and processing for performance and cost-efficiency on AWS.\n\nMonitor and troubleshoot data pipeline issues, ensuring data quality, integrity, and availability.\n\nCollaborate with data scientists, analysts, and software engineers to understand data requirements and deliver solutions.\n\nContribute to the development and enforcement of data governance policies and standards.\n\nStay up-to-date with emerging technologies and industry trends in Data Engineering, cloud computing, and data management.\u00a0\n\nMinimum Qualifications:\n\nProven experience in Data Engineering roles, with a strong portfolio of data pipeline development.\n\nProficiency in Python for data manipulation, automation, and scripting.\n\n3+ years of professional experience in data engineering or a similar role.\n\nExperience with Snowflake objects such as databases, schemas, tables, views, and store procedures along with DBT and Control-M.\n\nExperience with cloud platforms, particularly AWS, including services relevant to data storage, processing, and analytics.\n\nSolid understanding and practical experience with designing and consuming Web Services and APIs.\n\nFamiliarity with Micro Services architecture and its implications for data integration.\n\nExperience with relational and NoSQL databases.\n\nStrong understanding of data warehousing concepts and best practices.\n\nAbility to work independently and as part of a collaborative team.\n\nStrong communication and interpersonal skills.\n\nPreferred Qualifications:\n\nWorked on at least one Machine Learning data pipeline\n\nWorked on at least one LLM based project\n\nUsage of large language models for development\n\nUnderstanding Text Classification\n\nUnderstanding of Tokenization and vectorization\n\nUnderstanding of Statistical analysis of data\n\nExcellent problem-solving and analytical skills.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020217EXTERNALENGLOBAL/Data-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Data-Engineer_2020217-1/apply"
+}

@@ -1,0 +1,45 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022809EXTERNALENGLOBAL",
+ "req_id": "2022809",
+ "title": "Product Engineer - Wafer Test",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangkok, Thailand"
+ ],
+ "country": "Thailand",
+ "city": "",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-21T00:00:00.000+0000",
+ "skills": [
+  "cleanroom protocols",
+  "cross-functional collaboration",
+  "optical probe testing",
+  "wafer-level test planning",
+  "statistical analysis software",
+  "automated test equipment",
+  "executive summary writing",
+  "jmp",
+  "minitab",
+  "high-volume manufacturing",
+  "technical documentation",
+  "root cause analysis",
+  "yield analysis",
+  "supplier management",
+  "sql",
+  "database management",
+  "test engineering",
+  "test equipment operation",
+  "new product introduction",
+  "wafers testing",
+  "failure analysis reporting",
+  "supplier corrective action"
+ ],
+ "teaser": "We are seeking a Product Engineer to develop, validate, and optimise wafer-level optical and electrical test processes for next-generation Photonic Integrated Circuits. Key responsibilities include defining test plans and leading failure analysis. Ideal candidates have experience in semiconductor or optical industries and expertise in wafer-level probe testing.",
+ "description": "Job Description:\n\nThe Product Engineer will focus on the development, validation, and optimization of wafer-level optical and electrical test processes and ensure world-class yield, reliability and performance for transitioning Cisco's next-generation Photonic Integrated Circuits (PICs) from design to high-volume production to power our 400G/800G/1.2T coherent modules.\n\nKey Essential Functions:\n\n1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Define and implement wafer-level test plans for PIC wafers, including active and passive optical components.\n\n2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Analyze large-scale wafer test datasets to identify performance trends and yield detractors. Drive root-cause analysis for yield excursions.\n\n3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Lead Failure Analysis Reports (FAR) for wafer-level rejects. Coordinate with the foundry, design and process teams to resolve failures caused by wafer-level anomalies.\n\n4.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Partner with contract manufacturers to deploy alternative test solutions that reduce lead times and increase throughput without compromising quality.\n\n5.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 New Product Introduction (NPI): Drive the \"DEV\" to \"PROD\" release states by validating test correlation between bench-top characterization and automated wafer probers.\n\n6.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Cross-Functional Collaboration: Work closely with PIC Design, DSP Firmware, and Hardware teams to define Guard band and spec limits that ensure robust field performance.\n\nMinimum Qualifications, Experience, Skills, Education and Certifications:\n\n1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Education: BS/MS in Electrical Engineering, Optical Physics, Physics, or Semiconductor Manufacturing.\n\n2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 3+ years of experience in optical or semiconductor industries, focusing on wafer level probe test.\n\n3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Good understanding of PIC wafer testing on various optical components, including lasers, modulators, detectors and waveguides.\n\n4.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Solid experience with wafer-probing equipment, automated test equipment (ATE), and cleanroom protocols.\n\n5.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Proficiency in statistical analysis software (JMP, Minitab) and database management (SQL/SQLite).\n\n6.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Ability to distill complex technical failures into concise executive summaries and Supplier Corrective Action Requests (SCARs).\n\n7.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Extensive experience managing high-volume manufacturing in Asia (Thailand/Malaysia).\n\n\u00a0\n\nPrimary Work Location: Pathum Thani, Thailand\n\nSome Travel Required\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022809EXTERNALENGLOBAL/Product-Engineer-Wafer-Test",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangkok-Thailand/Product-Engineer---Wafer-Test_2022809/apply"
+}

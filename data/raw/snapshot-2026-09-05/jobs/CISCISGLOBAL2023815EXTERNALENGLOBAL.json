@@ -1,0 +1,41 @@
+{
+ "job_seq_no": "CISCISGLOBAL2023815EXTERNALENGLOBAL",
+ "req_id": "2023815",
+ "title": "Fullstack + SRE + AI Developer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Krakow, Poland"
+ ],
+ "country": "Poland",
+ "city": "Krakow",
+ "employment_type": "Full time",
+ "remote_type": "Remote",
+ "posted_date": "2026-09-02T00:00:00.000+0000",
+ "skills": [
+  "product innovation",
+  "debugging",
+  "secure coding",
+  "process improvement",
+  "javascript",
+  "typescript",
+  "agile engineering",
+  "code review",
+  "rest apis",
+  "html",
+  "metrics tracking",
+  "root cause analysis",
+  "python",
+  "sre",
+  "software development lifecycle",
+  "production support",
+  "threat modeling",
+  "automation"
+ ],
+ "teaser": "We are looking for a Software Engineer to design and develop customer-facing security products, focusing on Splunk SOAR. You will build both frontend and backend features, collaborate with cross-functional teams, and contribute to product improvements. Ideal candidates have strong full-stack experience and a passion for building reliable, intuitive solutions.",
+ "description": "Meet the Team\n\nDo you enjoy building products that solve real problems for customers and working across the stack to turn ideas into reliable, intuitive experiences?\n\nJoin the Splunk Security Automation and Orchestration team, where we build products that help security and fraud teams detect, investigate and respond to threats faster. Our platform brings together automation, integrations and security workflows to help organisations protect critical systems and data.\n\nYou\u2019ll work alongside engineers, product managers, designers and other specialists to build and improve a customer-facing security product. We value technical ownership, curiosity and pragmatic problem-solving, and give engineers the space to make meaningful technical decisions.\n\nYour impact\n\nAs a Full Stack Developer, you\u2019ll help design, build and evolve Splunk SOAR, working across both the frontend and backend. You\u2019ll have ownership of the features you deliver, from initial design through implementation, testing and release, while helping us continuously improve how we build and operate the product.\n\nWhat you'll do\n\nBuild customer-facing features and end-to-end UI flows, including the code, tests and documentation needed to deliver them.\n\nDevelop backend services, APIs and integrations that support reliable, data-rich user experiences.\n\nWork closely with Product, UX and UI Research to turn customer needs into simple, intuitive experiences.\n\nTake ownership of software solutions, with a focus on security, resilience, performance and maintainability.\n\nEvaluate and introduce tools, frameworks and libraries that can improve the product and the way the team works.\n\nUse AI-assisted development and automation to improve engineering workflows, cloud deployment and SRE practices.\n\nContribute to technical discussions, planning and process improvements across a fast-moving, cross-functional team.\n\nMinimum requirements\n\n3+ years of experience building and delivering user-facing full-stack applications.\n\nStrong JavaScript or TypeScript, HTML and CSS skills, with hands-on experience building modern web applications.\n\nExperience with React and related technologies such as Redux, Jest, Storybook or Cypress.\n\nProven backend development experience, ideally with Python, and a good understanding of REST APIs and asynchronous data flows.\n\nExperience building single-page, data-intensive applications with a strong focus on usability and performance.\n\nAn understanding of UX principles and experience working closely with product and design teams.\n\nStrong problem-solving and interpersonal skills, with the ability to work independently, make sound technical decisions and collaborate effectively across teams.\n\nNice to have\n\nExperience with AI/ML-enabled development tools, developer automation, cloud platforms or SRE/deployment practices.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023815EXTERNALENGLOBAL/Fullstack-SRE-AI-Developer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Software-Engineer_2023815/apply"
+}

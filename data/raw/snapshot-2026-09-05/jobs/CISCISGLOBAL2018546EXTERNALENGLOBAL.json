@@ -1,0 +1,43 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018546EXTERNALENGLOBAL",
+ "req_id": "2018546",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-06T00:00:00.000+0000",
+ "skills": [
+  "production systems troubleshooting",
+  "cross-functional collaboration",
+  "secure coding practices",
+  "stakeholder management",
+  "user experience design",
+  "product innovation",
+  "agile engineering",
+  "project leadership",
+  "code review",
+  "unit testing",
+  "software development best practices",
+  "debugging",
+  "technical guidance",
+  "root cause analysis",
+  "process improvement",
+  "milestone tracking",
+  "mentoring",
+  "technical design documentation",
+  "threat modeling",
+  "production monitoring"
+ ],
+ "teaser": "We are recruiting a Software Engineer to architect scalable microservices and drive the integration of Kubernetes and containerisation technologies for AI infrastructure. The role focuses on developing robust, agentic frameworks and collaborating with cross-functional teams. Ideal for candidates with strong Golang and cloud expertise.",
+ "description": "Meet the Team\n\nThe Cisco Intersight team is at the forefront of Cisco\u2019s AI Infrastructure strategy, serving as the intelligent management platform that orchestrates and simplifies complex hybrid cloud environments. We provide the control plane that enables organizations to deploy, monitor, and optimize AI-driven workloads across distributed infrastructure, playing a critical role in the broader Cisco AI story. Our team is a high-performing, collaborative group of engineers who thrive on solving complex distributed systems challenges in a fast-paced environment. We pride ourselves on a culture of technical excellence and innovation, where every team member is empowered to influence the future of cloud management. What makes us truly exciting is our mission to build the \"brain\" of the modern data center, enabling seamless AI operations at scale.\n\nYour Impact\n\nArchitect scalable microservices using Golang to streamline the deployment and lifecycle management of AI infrastructure. Collaborate with cross-functional teams to integrate Kubernetes and containerization technologies that improve the reliability of hybrid cloud operations. Drive the development of virtualization interfaces, such as VMware vCenter or RedHat OpenShift, to ensure seamless interoperability across diverse hardware environments. Design robust, agentic frameworks that automate complex infrastructure tasks to improve operational efficiency and reduce manual overhead. Champion the delivery of high-quality, production-ready code to ensure our platform remains the industry standard for AI-ready infrastructure management.\n\nMinimum Qualifications\n\nProficiency in Golang for developing scalable, high-performance backend services.\n\nHands-on experience with Kubernetes, Podman, or Docker within complex containerized environments.\n\nDeep understanding of cloud fundamentals and experience managing Hyper-Converged Infrastructure (HCI) solutions.\n\nProven track record working with virtualization platforms, specifically VMware vCenter or RedHat OpenShift.\n\nDemonstrated ability to design and implement robust software solutions within distributed systems.\n\nPreferred Qualifications\n\nExperience building or integrating AI and Agentic frameworks to automate infrastructure workflows.\n\nStrong grasp of software design principles and architectural patterns for cloud-native applications.\n\nExcellent verbal and written communication skills, with the ability to articulate complex technical concepts to diverse stakeholders.\n\nStrong behavioral skills, including the ability to mentor peers and collaborate effectively in a team-oriented environment.\n\nPassion for continuous learning and the ability to adapt to evolving AI infrastructure technologies.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018546EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2018546/apply"
+}

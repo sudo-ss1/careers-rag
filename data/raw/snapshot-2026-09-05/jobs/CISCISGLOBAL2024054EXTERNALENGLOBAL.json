@@ -1,0 +1,47 @@
+{
+ "job_seq_no": "CISCISGLOBAL2024054EXTERNALENGLOBAL",
+ "req_id": "2024054",
+ "title": "Senior Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Galway, Ireland"
+ ],
+ "country": "Ireland",
+ "city": "Galway",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-02T00:00:00.000+0000",
+ "skills": [
+  "cloud infrastructure",
+  "docker",
+  "ci/cd",
+  "devops",
+  "python",
+  "golang",
+  "java",
+  "javascript",
+  "typescript",
+  "ansible",
+  "terraform",
+  "linux administration",
+  "openstack",
+  "kubernetes",
+  "agentic ai tools",
+  "network administration",
+  "infrastructure operations",
+  "http",
+  "rest",
+  "dom",
+  "virtualization technologies",
+  "containerization technologies",
+  "intersight",
+  "ucs manager"
+ ],
+ "teaser": "We are expanding our team: As a Software Engineer at Cisco Software Solutions, you will contribute to the development and maintenance of innovative collaboration platforms. You will work within a distributed, diverse team, focusing on automation, observability, and operational improvements. Ideal candidates have significant experience in cloud infrastructure and software development.",
+ "description": "Come Join Cisco Software Solutions\n\nCisco Software Solutions (CSS) is the software development arm of Cisco's Collaboration platform organization (CCPS). We develop and maintain the platforms and related tools required for our products and the people who operate them to shine.\n\nOur World is a mix of old and new - a new unified platform to replace our various legacy platforms, old tools at all points in lifecycle, new tools to differentiate and enhance our platform offering. It is messy in places, sometimes because parts are so new, sometimes because parts are so old.\n\nWe are forming a new team that will help drive consistency, reliability and observability across that World.\n\nYou should join!\n\nWho You\u2019ll Work With\n\nWe are a distributed and diverse team of developers with an operational mindset, united under the charter to make running virtualized and containerized workloads easy and frictionless for our tenants, and to make the platforms that do that easy and frictionless to manage for our operators.\n\nWho You Are\n\nYou are an experienced developer who also is familiar with operations. You have worked \u00a0on data center and cloud infrastructure\u00a0, tools and services at scale. You understand that software is for people, and are here to help.\n\nWhat You\u2019ll Do\n\nAs a member of our new tools team, you\u2019ll work with the rest of the organization to mature our World. That includes everything from lifecycle automation through to observability and other operability improvements, through to unifying or even retiring tools, through to building new tenant or operator facing functionality.\n\nAgentic AI tool use will play a significant part in your day to day.\n\nMinimum Requirements\n\nIn the interest of saving everyone time, this role does have some minimum requirements to apply:\n\nBachelor's degree in Computer Science, Information Technology, or a related field\n\n7+ years\n\n1+ years of experience working with a public or private cloud such as AWS, Azure, GCP, OpenStack or OpenShift\n\n1+ years of experience working with Docker and/or virtualization\n\n1+ years of experience working with CI/CD or DevOps systems\n\nPreferred Requirements\n\nThis role could be a good fit for you if you bring experience with some of:\n\nAgentic AI development tools e.g. Claude CLI, Codex, Copilot, OpenCode\n\nProgramming languages such as Python, Golang, Java, Javascript or Typescript\n\nLifecycle / deployment tools such as Ansible or Terraform\n\nNetwork administration\n\nLinux administration (especially Linux networking)\n\nDesign, implementation and operation of distributed software\n\nInfrastructure or service operations at scale\n\nHTTP, REST, the DOM\n\nVirtualization technologies\n\nContainerization technologies e.g. Docker\n\nManagement and operations of the OpenStack or Kubernetes platforms\n\nInfrastructure management tools such as Intersight and UCS Manager\n\nThis role could be a great fit for you if you also bring a growth mindset and the desire to do what's best for your team.\n\nLet's make CSS excellent together.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024054EXTERNALENGLOBAL/Senior-Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Senior-Software-Engineer_2024054/apply"
+}

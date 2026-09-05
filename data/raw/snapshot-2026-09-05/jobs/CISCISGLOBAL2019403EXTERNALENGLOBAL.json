@@ -1,0 +1,41 @@
+{
+ "job_seq_no": "CISCISGLOBAL2019403EXTERNALENGLOBAL",
+ "req_id": "2019403",
+ "title": "ASIC DFT DV Technical Lead",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-07-28T00:00:00.000+0000",
+ "skills": [
+  "test planning",
+  "dft architecture",
+  "system verilog",
+  "dve",
+  "verdi",
+  "debugging",
+  "test bench development",
+  "tcl",
+  "python",
+  "perl",
+  "hardware integration",
+  "post silicon validation",
+  "uvm",
+  "jtag protocol",
+  "scan architecture",
+  "mbist",
+  "boundary scan",
+  "stakeholder management"
+ ],
+ "teaser": "We are expanding our team: As an ASIC DFT DV Technical Lead, you will drive high-quality DFT verification and test planning for advanced networking hardware. Collaborate with cross-functional teams to develop test benches and mentor engineers. Ideal for experienced professionals in electrical or computer engineering with strong DFT and test planning expertise.",
+ "description": "Meet the Team:\n\nThe Common Hardware Group (CHG) delivers silicon, optics, and hardware platforms for Cisco's core Switching, Routing, and Wireless products. We design the networking hardware for Enterprises and Service Providers of various sizes, the Public Sector, and Non-Profit Organizations across the world. Cisco Silicon One (#CiscoSiliconOne) is the only unifying silicon architecture in the market that enables customers to deploy the best-of-breed silicon from Top of Rack (TOR) switches all the way through web scale data centers and across service provider, enterprise networks, and data centers with a fully unified routing and switching portfolio.\n\nYour Impact: \n\nYou will work with Front-end RTL teams, backend physical design teams to understand chip architecture and drive high-quality DFT verification.\n\nResponsible for thorough test planning and development of test benches to verify comprehensive Design-for-Test (DFT) architecture that supports ATE screening, in-system test, debug and diagnostics needs of the design \u00b7\n\nCollaborate with the design/design-verification and PD teams to enable the integration and validation of the test logic in all phases of the implementation and post silicon validation flows.\n\nWork with the team on Innovative Hardware DFT & test strategy aspects for new silicon device models, bare die & stacked die, driving re-usable test and debug methodologies and standards.\n\nThe job requires the candidate to have the ability to craft solutions and debug efficiently.\n\nMentor and guide DFT DV engineers and provide technical leadership across projects.\n\nMinimum Qualifications:\n\nBachelor\u2019s or master\u2019s degree in electrical or computer engineering required with at least 10+ years of experience.\n\nExperience in developing detailed test plans and test benches for DFT verification\n\nPrior experience in test planning based on complex design specifications.\n\nPrior experience in testbench development using System Verilog.\n\nDebugging experience using DVE/Verdi.\n\nScripting skills: Tcl, Python/Perl.\n\nPreferred Qualifications:\n\nUVM and advanced System Verilog knowledge.\n\nKnowledge about JTAG protocol, scan architecture, MBIST and boundary scan.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019403EXTERNALENGLOBAL/ASIC-DFT-DV-Technical-Lead",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-DFT-DV-Technical-Lead_2019403-1/apply"
+}

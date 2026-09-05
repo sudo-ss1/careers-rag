@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL2015060EXTERNALENGLOBAL",
+ "req_id": "2015060",
+ "title": "Data Engineer - Snowflake, Data Modeling/Pipelines, Orchestration, Exp: 4-8 Yrs",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-29T00:00:00.000+0000",
+ "skills": [
+  "dashboard development",
+  "kubernetes",
+  "kpi tracking",
+  "data visualization",
+  "data design",
+  "python",
+  "git",
+  "snowflake",
+  "algorithms and data structures",
+  "data warehouse architecture",
+  "stakeholder management",
+  "pii and gdpr compliance",
+  "data pipeline development",
+  "sql",
+  "data modeling",
+  "orchestration",
+  "etl development",
+  "nosql databases",
+  "system integration documentation"
+ ],
+ "teaser": "We are recruiting a Data Engineer to build and maintain data pipelines and models within Snowflake, supporting critical sales applications. You will collaborate with a skilled team to deliver impactful data solutions. Ideal candidates have 4\u20138 years\u2019 experience in data engineering and expertise in Python, SQL, and cloud data warehouses.",
+ "description": "Meet the Team\n\n\u00a0Join a dynamic and impactful team responsible for the critical sales applications (My Business Reports (MBR), Intelligence center, One Sales BO (OSBO), and Visibility) that drive Cisco's success. This team is at the forefront of leveraging data to provide unparalleled insights into sales performance, operational efficiency, and market visibility through AI-led data management and analysis. You will collaborate with dedicated professionals who are passionate about transforming data into actionable intelligence.\n\u00a0\n\nYour Impact\n\n\u2022 Build Data Pipelines to ingest data into Snowflake and lead data access on snowflake\n\n\u2022 Define and advocate standard processes for AI-led data storage and analysis within Snowflake.\n\n\u2022 Review the Data Modeling practices\n\n\u2022 Build reporting dashboards and visualizations to design, create, and track campaign/program KPIs\n\n\u2022 Drive data warehouse architecture design, modeling and ETL development according to privacy compliance requirements.\n\n\u2022 Support other allied architecture and integration activities. Assist in developing documentation around system integration, data flows, data dictionary, user guides and standard processes.\n\n\u2022 Experience using tech solutions like Git, Gradle, Airflow, and Kubernetes to craft & deploy apps and jobs on cloud-hosted services\n\u00a0\n\nMinimum Qualifications\n\n\u2022 Bachelors degree or equivalent 4-8 years related experience\n\n\u2022 Experience using Python and SQL\n\n\u2022 Experience with Building Data Pipelines in Python\n\n\u2022 Experience with any Cloud Data Warehouse either as an Administrator or a Developer\n\u00a0\n\nPreferred Qualifications\n\n\u2022 Proficiency in data modeling, data design, SQL, and NoSQL databases\n\n\u2022 Proven background in algorithms and data structures\n\n\u2022 Experience working with PII and GDPR data\n\n\u2022 Proven communication and partnership contribute to multi-functional teams.\n\nWho You'll Work With\n\nYou will be an integral part of the My Business Reports (MBR), Visibility and OSBO team, working alongside a group of passionate and highly skilled professionals who consistently go above and beyond to meet ambitious targets and deliverables. In the MBR team, we thrive on challenges, and you will have the opportunity to collaborate with experts across the product\u2019s tech stack, including data scientists and AI specialists.\n\nYou will collaborate with cross-functional teams, including product management, data engineering, business analysts, and senior leadership, to drive the design and implementation of high-impact, AI-powered data solutions.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015060EXTERNALENGLOBAL/Data-Engineer-Snowflake-Data-Modeling-Pipelines-Orchestration-Exp-4-8-Yrs",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Data-Engineer---Snowflake--Data-Modeling-Pipelines--Orchestration--Exp--4-8-Yrs_2015060-1/apply"
+}

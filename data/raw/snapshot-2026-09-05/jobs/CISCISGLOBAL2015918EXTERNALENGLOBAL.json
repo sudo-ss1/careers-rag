@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2015918EXTERNALENGLOBAL",
+ "req_id": "2015918",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-07-06T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "generative ai",
+  "full stack development",
+  "large language models",
+  "prompt engineering",
+  "agentic ai systems",
+  "retrieval-augmented generation",
+  "langchain",
+  "vector databases",
+  "embeddings",
+  "semantic search",
+  "openai api",
+  "claude api",
+  "mcp servers",
+  "postgresql",
+  "docker",
+  "kubernetes",
+  "ci/cd pipelines",
+  "git",
+  "rest apis",
+  "security & authentication",
+  "stakeholder management",
+  "langgraph",
+  "oracle",
+  "redis",
+  "snowflake",
+  "jenkins",
+  "github actions",
+  "github",
+  "jwt"
+ ],
+ "teaser": "We are expanding our team: As a Software Engineer, you will design and develop AI-powered applications to enhance sales planning, automate business processes, and deliver intelligent solutions. Ideal candidates have hands-on experience in full stack development and strong expertise in Python and AI/ML technologies.",
+ "description": "Meet the Team\u00a0\n\nThe Sales Planning and Product Management team, within Enterprise Data & AI Enablement, delivers enterprise-scale Go-to-Market (GTM) planning and performance management solutions leveraging industry-leading platforms such as Anaplan and Pigment. Our solutions support sales territory planning, account assignments, quota management, and goal cascading across the organization. By enabling streamlined sales hierarchy management, territory design, account allocation, and target setting, we help drive sales readiness and seamless integration with sales coverage and compensation systems. Our mission is to empower sales teams with accurate targets, actionable insights, and intelligent planning capabilities that accelerate revenue growth.\n\nYour Impact\u00a0\n\nAs a Full Stack AI Developer, you will design, build, and deploy AI-powered applications that enhance user experience, automate business processes, and deliver intelligent solutions for the Sales Planning domain.\n\nKey Responsibilities\n\nDevelop and implement AI-driven applications using modern Generative AI and Agentic AI frameworks.\n\nDesign and build intelligent assistants, chatbots, AI agents, and workflow automation solutions using Large Language Models (LLMs).\n\nIntegrate AI services and APIs, including Claude, OpenAI, MCP Servers, LangChain, Vercel AI SDK, and other emerging AI platforms.\n\nImplement Retrieval-Augmented Generation (RAG) architectures using vector databases, embeddings, semantic search, and knowledge retrieval techniques.\n\nBuild proof-of-concepts (POCs) and pilot solutions to evaluate emerging AI technologies and their business impact.\n\nDevelop scalable full-stack applications using modern frontend and backend technologies.\n\nCollaborate with product managers, architects, and business stakeholders to translate requirements into technical solutions.\n\nCreate technical design documents, architecture diagrams, implementation plans, and user-facing documentation.\n\nTroubleshoot, debug, and resolve issues across development, testing, and production environments.\n\nContribute to continuous improvement of engineering practices, coding standards, DevOps processes, and AI development methodologies.\n\nStay current with advancements in AI, machine learning, software engineering, and cloud technologies, bringing innovative ideas to the team.\n\nWork independently while effectively collaborating with cross-functional teams to deliver high-quality solutions on schedule.\n\nTechnical Skills:\n\nAI & Generative AI\n\nPython, FastAPI\n\nAI / ML\n\nLarge Language Models (LLMs)\n\nPrompt Engineering\n\nAgentic AI Systems\n\nRetrieval-Augmented Generation (RAG)\n\nLangChain / LangGraph\n\nMCP (Model Context Protocol) Servers\n\nVector Databases\n\nEmbeddings & Semantic Search\n\nAI Chatbot Development\n\nOpenAI, Claude, and other Foundation Model APIs\n\nGitHub Copilot, Cursor AI, and AI-assisted development tools\n\nREST APIs\n\nDatabases\n\nPostgreSQL\n\nOracle\n\nRedis\n\nSnowflake\n\nCloud & DevOps\n\nDocker\n\nKubernetes\n\nCI/CD Pipelines\n\nJenkins\n\nGitHub Actions\n\nGit & GitHub\n\nSecurity & Authentication\n\nJWT\n\nOAuth 2.0\n\nSecure API Development\n\nMinimum Qualifications \n\nBachelor\u2019s degree in computer science, Engineering, Information Technology, or a related field with upto 3 years of relevant experience, OR\n\nMaster's degree with 2+ years of relevant experience.\n\nHands-on experience in Full Stack Development using modern frontend and backend technologies.\n\nStrong experience in Python development and AI/Generative AI technologies.\n\nExperience with relational and NoSQL databases.\n\nProven ability to design, develop, test, and deploy scalable software solutions.\n\nPreferred Qualifications \n\nUser Experience (UX) Design\n\nSnowflake\n\nAngular / React JS\n\nGood presentation skills\u00a0\n\nAdoptive to new technologies\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015918EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2015918-1/apply"
+}

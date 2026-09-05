@@ -1,0 +1,35 @@
+{
+ "job_seq_no": "CISCISGLOBAL1451960EXTERNALENGLOBAL",
+ "req_id": "1451960",
+ "title": "Senior Physical Design Engineer - Signoff Methodology",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Armenia, Armenia"
+ ],
+ "country": "Armenia",
+ "city": "Armenia",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-01-13T00:00:00.000+0000",
+ "skills": [
+  "physical design cad",
+  "pnr",
+  "sta",
+  "physical verification",
+  "formal verification",
+  "power optimization",
+  "timing closure",
+  "backend methodologies",
+  "eda tools",
+  "collaboration",
+  "self-learning",
+  "effective communication"
+ ],
+ "teaser": "We are recruiting a Senior Physical Design Engineer to develop and refine backend methodologies from RTL to GDS, supporting high-quality VLSI design. You will contribute to signoff flows and collaborate with engineering teams. Ideal candidates have significant experience in CAD Physical Design and a strong background in backend design.",
+ "description": "This is a hybrid role with four days per week at Cisco\u2019s Yerevan office.\n\nMeet the Team\n\nYou'll be joining our CAD Physical Design team within Cisco Silicon One, which is responsible for the entire backend methodology and flow development from RTL to GDS. This team is a critical part of the group leading the development of high-quality VLSI designs and supports the creation of advanced silicon. Our design center brings together all silicon hardware and software development fields, encouraging collaboration and technical excellence.\n\nYour Impact\n\nAs part of our team, you\u2019ll help develop and improve flows for all signoff disciplines and contribute to the evolution of implementation tool flows. You\u2019ll play a key role in enabling the delivery of high-performance, large-scale, and complex devices that push the boundaries of what\u2019s possible in chip design.\n\nDevelop and refine backend methodologies and flows from RTL to GDS, supporting high-quality VLSI design.\n\nContribute to the advancement of all signoff flows, including physical synthesis, place and route, power optimization, timing closure, and physical closure.\n\nCollaborate with engineering teams to support and enhance implementation tool flows.\n\nWork with advanced silicon technologies and processes to deliver complex and reliable devices.\n\nMinimum Requirements\n\n5+ years of experience as a CAD Physical Design Engineer with PnR and STA or as a \u00a0Design Engineer with strong backend design experience.\n\nB.Sc. or M.Sc. in Electrical Engineering or Computer Engineering, or a related field.\n\nStrong understanding of STA flows.\n\nFamiliarity with PnR, physical verification (PV), and formal verification (FV).\n\nPreferred Qualifications\n\nExperience in Physical Design CAD, especially with industry-standard EDA tools such as Synopsys or Cadence.\n\nAbility to work both independently and within a team.\n\nStrong self-learning skills and effective communication.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL1451960EXTERNALENGLOBAL/Senior-Physical-Design-Engineer-Signoff-Methodology",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Armenia/PD-Signoff-Methodology-Engineer_1451960/apply"
+}

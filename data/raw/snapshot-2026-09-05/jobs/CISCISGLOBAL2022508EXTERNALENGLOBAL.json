@@ -1,0 +1,34 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022508EXTERNALENGLOBAL",
+ "req_id": "2022508",
+ "title": "Network Systems Engineer",
+ "category": "Information Technology",
+ "categories": [
+  "Information Technology"
+ ],
+ "locations": [
+  "Bangalore, India",
+  "Hyderabad, Telang\u0101na, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-24T00:00:00.000+0000",
+ "skills": [
+  "network engineering",
+  "nexus",
+  "firewall",
+  "vxlan",
+  "switching",
+  "routing",
+  "bgp",
+  "data center",
+  "load balancer",
+  "vlan"
+ ],
+ "teaser": "We are looking for a Network Systems Engineer to design, develop, and deploy data centre network capabilities. You will collaborate with engineers and clients, ensuring robust and adaptable network infrastructure. Ideal candidates have significant experience in scalable DC network management and a strong background in routing, switching, and DevOps practices.",
+ "description": "Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nJob Description\n\nData Center\u00a0AI\u00a0Network Engineer\u00a0\n\nMeet the Team\u00a0\n\u00a0\n\nWe are the Data Center Network Services team within Cisco IT that supports network services for Cisco Engineering and business functions worldwide. Our mission is simple \u2013 build the network of the future that is adaptable and agile on Cisco\u2019s networking solutions. Cisco IT networks are deployed,\u00a0monitored, and managed with a DevOps approach to support rapid application changes.\u00a0\u00a0We invest in transformative technologies that enable us to deliver services in a fast and reliable manner.\u00a0\u00a0\u00a0\n\n\u00a0\u00a0\n\nThe team culture is collaborative and fun, where thinking creatively and tinkering on\u00a0new ideas\u00a0are encouraged.\u00a0\u00a0\n\n\u00a0\u00a0\n\nYour Impact\u00a0\n\u00a0\n\nYou will design, develop,\u00a0test\u00a0and deploy DC network capabilities within\u00a0Data\u00a0Center Network. You are engaging and comfortable collaborating with fellow engineers across multiple disciplines as well as internal clients. You will create innovative, high-quality capabilities enabling our\u00a0clients to have\u00a0the best possible experience.\u00a0\u00a0\n\n\u00a0\u00a0\n\nMinimum\u00a0Requirements\u00a0\n\nBachelor of Engineering or Technology with a 5+ years of experience in designing, deploying,\u00a0operating\u00a0and managing scalable DC network infrastructure (using Nexus OS)\u00a0\n\nExperience\u00a0in technologies like Routing, Switching, Nexus, VPC, VDC, VLAN, VXLAN, BGP\u00a0\n\nExperience on handling incident, problem and change management\u00a0\n\nFamiliarity with DevOps principles,\u00a0comfortable with Agile practices\u00a0\n\n\u00a0\u00a0\n\nPreferred\u00a0Qualifications\u00a0\n\nCCNP or CCIE/DE\u00a0\n\nExperience with\u00a0SONiC\u00a0NoS\u00a0including:\u00a0\n\nBasic configuration (both CLI and\u00a0config_db.json)\u00a0\n\nNetwork troubleshooting with\u00a0SONiC\u00a0\n\nQoS monitoring and troubleshooting, particularly for RoCEv2\u00a0\n\nExperience with BGP routing\u00a0\n\nDesirable to have experience with L3 Fabrics\u00a0\n\nDesirable to have familiarity with Nvidia and Linux networking\u00a0\n\nDesirable to have experience with Python, Prometheus, Splunk\u00a0and\u00a0Grafana\u00a0\n\nDesirable to have experience with\u00a0Cisco\u00a0Firepower\u00a0firewalls\u00a0(FTD/FMC)\u00a0\n\nExperience with Nexus Dashboard Fabric Controller for building and troubleshooting\u00a0Networks\u00a0\n\nExperience with\u00a0VXLan\u00a0based networks and troubleshooting\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022508EXTERNALENGLOBAL/Network-Systems-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Network-Systems-Engineer_2022508/apply"
+}

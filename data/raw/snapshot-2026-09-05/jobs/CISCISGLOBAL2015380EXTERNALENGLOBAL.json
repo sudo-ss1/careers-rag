@@ -1,0 +1,50 @@
+{
+ "job_seq_no": "CISCISGLOBAL2015380EXTERNALENGLOBAL",
+ "req_id": "2015380",
+ "title": "Hardware Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-07-09T00:00:00.000+0000",
+ "skills": [
+  "fpga design",
+  "fpga implementation",
+  "fpga architecture",
+  "xilinx fpgas",
+  "hdl (verilog, vhdl, system verilog)",
+  "fpga verification",
+  "rtl coding",
+  "altera fpgas",
+  "microsemi fpgas",
+  "vivado",
+  "quartus",
+  "libero",
+  "ethernet protocols",
+  "pcie",
+  "axi",
+  "memory controllers",
+  "otn",
+  "i2c",
+  "spi",
+  "uart",
+  "uvm",
+  "vmm",
+  "unix",
+  "scripting",
+  "signal integrity",
+  "system integration",
+  "unit testing"
+ ],
+ "teaser": "Become part of our team as a Hardware Engineer, contributing to the design and implementation of advanced FPGAs. You will participate in architecture definition, RTL coding, and validation, collaborating with remote teams. Ideal candidates bring significant FPGA experience and expertise in Xilinx, Altera, or Microsemi FPGAs.",
+ "description": "Meet the Team\nWe are part of the Hardware Platform Group, with our team specializing in FPGA development. Our work spans both sophisticated data-path and challenging control-path FPGAs. The design process includes crafting the FPGA functional specification document, RTL coding, image generation and validation. We leverage industry-standard tools for FPGA design, incorporating various quality metrics to ensure a robust process. Our ultimate goal is to deliver bug-free RTL for first-pass success on the board. Additionally, we collaborate closely with our remote teams based in US and Italy.\n\nYour Impact\n* Design and implementation of FPGAs.\n* Participate in the architecture definition, implementation and verification phases.\n* Detailed design specification and test plan development.\n* Develop and implement block level RTL, perform synthesis and achieve timing closure.\n* Work with multi-functional teams (hardware, software, diagnostics and signal integrity groups).\n* Assist in complex subsystem level lab bring-up, integration, and unit test validation.\n* Contribution to the design process adoption with in the team.\n\nMinimum Qualifications\n\n\u00a0*Educational Background: Requires 10-12 years of experience in FPGA designs with MTech/BTech in EE/EC domain.\n* Experienced in crafting with Xilinx, Altera and Microsemi FPGAs or Proficiency in HDL languages (Verilog, VHDL and System Verilog)\n* Hands on experience with FPGA vendor tools like Vivado, Quartus and Libero\n* Hands-on experience with Ethernet based protocols, PCIe, AXI, memory controllers, OTN, I2C, SPI, UART etc. Familiarity with simulation flow like UVM and VMM will be an added advantage\n* Basic knowledge on Unix system and script tool.\n\n\u00a0\n\nPreferred Qualifications\n* Knowledge on the signal integrity and system bring-up.\n\n* Good English written and verbal communications. Self-motivation, partnership and strong interpersonal skills are needed.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\n\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015380EXTERNALENGLOBAL/Hardware-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Hardware-Engineer_2015380/apply"
+}

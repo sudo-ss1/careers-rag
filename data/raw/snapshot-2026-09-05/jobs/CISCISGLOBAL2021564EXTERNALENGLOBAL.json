@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021564EXTERNALENGLOBAL",
+ "req_id": "2021564",
+ "title": "CFT ASIC Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Hsinchu, Hsinchu City, Taiwan"
+ ],
+ "country": "Taiwan",
+ "city": "Hsinchu",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-04T00:00:00.000+0000",
+ "skills": [
+  "slt asic engineering",
+  "volume test operations",
+  "linux/unix",
+  "python programming",
+  "tcp/ip network configuration",
+  "root cause analysis",
+  "production oversight",
+  "osat operations management",
+  "yield optimization",
+  "debugging",
+  "manufacturing process optimization",
+  "statistical analysis",
+  "data analysis",
+  "production planning",
+  "continuous production optimization",
+  "hontech atc",
+  "chroma handlers",
+  "technical communication",
+  "conflict resolution"
+ ],
+ "teaser": "We are recruiting a skilled CFT ASIC Engineer to manage volume test operations and resolve complex hardware and software challenges in partnership with ASIC Design engineering. The role focuses on developing custom test solutions and ensuring production targets are met. Ideal for candidates with significant experience in ATE or SLT environments and strong technical proficiency.",
+ "description": "The Silicon One Productization team pioneers manufacturing and test solutions that accelerate time-to-market and deliver best-in-class supply chain performance. We are seeking a skilled SLT ASIC Engineer to manage volume test operations across our OSAT (Outsourced Semiconductor Assembly and Test) partners and consistently meet production targets. In this role, you will work with advanced networking silicon, resolving complex hardware and software challenges in close partnership with ASIC Design engineering and our OSAT\u2019s.\n\n\u00a0\n\nWhat You\u2019ll Do\n\nOur team defines test requirements for groundbreaking IP, focusing on minimizing test overhead for both design and production. You will develop custom test solutions for a diverse product portfolio, ranging from high-power, large-die packages to cost-sensitive devices.\n\nProduction Oversight:\u00a0Partner with ASIC Design and OSAT teams to transition SLT (System Level Test) programs from the Cisco lab to full-scale production.\n\nTechnical Response:\u00a0Serve as the primary point of contact for production issues. You will lead the investigation and resolution of hardware and software test challenges, ensuring targets for throughput, yield, cycle time, and uptime are met.\n\nStrategic Planning:\u00a0Align OSAT roadmaps and capacity ramp plans with Cisco\u2019s product delivery schedules. Manage and maintain production test hardware.\n\nOSAT Management:\u00a0Evaluate test OSAT, recommend new site qualifications, and oversee the execution of qualification activities.\n\nOperational Support:\u00a0Provide engineering expertise to the Manufacturing Operations team for quarterly planning, shipping reviews, and continuous production optimization.\n\nData-Driven Improvement:\u00a0Collaborate with the Data and Automation Solutions team to perform statistical yield and correlation analysis on large datasets, driving actionable test and yield improvements.\n\n\u00a0\n\nWho You\u2019ll Work With\n\nYou will collaborate with ASIC design teams and various Supply Chain operations groups within Supply Chain Operations to help shape and influence the Cisco Silicon One Productization strategy.\n\n\u00a0\n\nWho You Are\n\nMinimum Qualifications\n\nEducation:\u00a0BSEE (or higher) in Electrical/Electronics Engineering or Computer Engineering.\n\nExperience:\u00a07+ years in ATE or SLT volume production environments, preferably with high-end compute or networking devices.\n\nAnalytical Skills:\u00a0Proven ability to debug, analyze, and perform root-cause analysis on manufacturing yield issues and field escapes. You are proactive in driving issues to closure through optimization and preventive measures.\n\nTechnical Proficiency:\u00a0Strong engineering fundamentals with a demonstrated aptitude for learning new technologies.\n\nEssential Skills:\u00a0Expertise in Linux/Unix, Python programming, and TCP/IP network configuration.\n\nOperational Knowledge:\u00a0Familiarity with OSAT operations management, manufacturing processes, and yield optimization strategies.\n\nPreferred Qualifications\n\nExperience with Hontech ATC and Chroma handlers.\n\nClear, concise communication skills with the ability to convey complex technical concepts to diverse stakeholders.\n\nAbility to thrive in a fast-paced, multifaceted environment.\n\nHigh level of motivation, energy, and a strong commitment to teamwork.\n\nExcellent problem-solving and conflict-resolution skills.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021564EXTERNALENGLOBAL/CFT-ASIC-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hsinchu-Taiwan/CFT-ASIC-Engineer_2021564/apply"
+}

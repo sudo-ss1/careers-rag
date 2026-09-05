@@ -1,0 +1,44 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021622EXTERNALENGLOBAL",
+ "req_id": "2021622",
+ "title": "Solution Test Engineer | Python/Java | Selenium/Playwright/Cypress | Rest API/PyTest | Networking | AWS - 7 to 10 years - Bangalore",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-12T00:00:00.000+0000",
+ "skills": [
+  "technical leadership",
+  "rest apis",
+  "splunk",
+  "selenium",
+  "product innovation",
+  "code review",
+  "java",
+  "artificial intelligence",
+  "networking",
+  "production systems troubleshooting",
+  "integration testing",
+  "unit testing",
+  "python",
+  "docker",
+  "cross-functional collaboration",
+  "process improvement",
+  "linux",
+  "root cause analysis",
+  "kubernetes",
+  "playwright",
+  "pytest"
+ ],
+ "teaser": "Take on the role of Solution Test Engineer to lead solution-level testing, architect automation frameworks, and validate integrated cloud/on-prem networking workflows. Drive scalable quality engineering for the Cisco IQ platform. Ideal for experienced professionals with strong Python/Java, UI/API automation, and networking expertise.",
+ "description": "Meet the Team:\n\nDevelops software consistent with Cisco \u2018Design Thinking Principles\u2019 with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices. Partners with other teams including design and product management to create the right solution for the customers. Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users. Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes.\n\nRole Overview\n\nWe are seeking a Software Engineer to lead solution-level testing efforts, architect end-to-end test automation suites, and validate integrated cloud/on-prem networking workflows. In this role, you will combine strong software coding skills, deep networking domain knowledge, and GenAI capabilities to drive scalable, automated quality engineering for the Cisco IQ platform.\n\nKey Responsibilities\n\nDesign and implement robust, maintainable E2E UI, API, and integration test automation frameworks from scratch.\n\nLead test planning, scenario modeling, and complex defect triage for integrated solutions involving Cisco hardware, cloud services (AWS), and web portals.\n\nEmbed\u00a0AI\u00a0[agentic, no-code AI tools, LLM-assisted generation] into test automation pipelines to generate script coverage, maintain test artifacts, and accelerate regression runs.\n\nSimulate real-world enterprise network topologies to test L2/L3 protocol behaviors, data fabric pipelines, and controller/controller-less network flows.\n\nDrive CI/CD quality gate integration, defect governance, and technical mentoring for mid-level software test engineers.\n\nRequired Qualifications (Mandatory)\n\nStrong knowledge in testing and testing methodologies\n\nAdvanced programming skills in\u00a0Python or Java\u00a0for custom framework building, module development, and backend validation.\n\nDeep hands-on proficiency in\u00a0UI automation (Selenium/Playwright/Cypress) and API automation frameworks (REST Assured/PyTest).\n\nDemonstrated practical application of\u00a0AI\u00a0[LLM developer tools, agentic no-code approach es] for intelligent test scripting and maintenance.\n\nStrong expertise in enterprise networking concepts (routing/switching, CCNA/CCNP level), packet analysis (Wireshark), and network controller flows.\n\n7+ years in Quality Engineering, with expertise in Linux/Unix internals, AWS cloud services, Docker/Kubernetes, and Splunk log analysis.\n\nWhy Cisco?\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Simply put \u2013 we power the future. Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with everywhere, our impact is everywhere. We are Cisco, and our power starts with you.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021622EXTERNALENGLOBAL/Solution-Test-Engineer-Python-Java-Selenium-Playwright-Cypress-Rest-API-PyTest-Networking-AWS-7-to-10-years-Bangalore",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Solution-Test-Engineer---Python-Java---Selenium-Playwright-Cypress---Rest-API-PyTest---Networking---AWS---7-to-10-years---Bangalore_2021622/apply"
+}

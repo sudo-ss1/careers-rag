@@ -1,0 +1,35 @@
+{
+ "job_seq_no": "CISCISGLOBAL2015676EXTERNALENGLOBAL",
+ "req_id": "2015676",
+ "title": "Android Platform Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Lysaker, Norway"
+ ],
+ "country": "Norway",
+ "city": "Lysaker",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-24T00:00:00.000+0000",
+ "skills": [
+  "c++",
+  "python",
+  "rust",
+  "linux",
+  "android development",
+  "embedded systems",
+  "test automation",
+  "debugging",
+  "ai tools",
+  "device security",
+  "analytical reasoning",
+  "continuous improvement"
+ ],
+ "teaser": "Exciting opportunity for a Software Engineer to join our Meetings group, focusing on delivering reliable, high-quality video conferencing experiences. Collaborate with cross-functional teams to design, implement, and maintain software solutions. Ideal for candidates with strong programming skills and hands-on Linux experience.",
+ "description": "Meet the Team\n\nCisco delivers the critical infrastructure that helps organizations thrive in the AI era. By fusing networking, security, observability, and collaboration, we power how people and technology work together. Within Cisco, the Collaboration Employee Experience organization builds workspace solutions that connect people, places, and experiences.\n\nLocated just outside of Oslo, our Devices innovation center is home to 300+ passionate engineers working across hardware, software, mechanics, audio, media processing and artificial intelligence - from concept to product. We strive to create best-in-class video conferencing experiences by bringing together diverse engineering disciplines under one roof.\n\nThe Meetings group, based in our Devices innovation center, is hiring a software engineer. The group is responsible for ensuring that Cisco devices deliver a reliable, high-quality experience across every major meeting platform. Cisco is deeply invested in applying artificial intelligence for the benefit of our customers and employees, and the Meetings group plays an active role in this strategy. You will collaborate closely with designers, product management, and partner engineering teams across Cisco to advance our products.\n\nYour Impact\n\nWe are seeking a software engineer who is comfortable working across the full stack, from low-level Linux development through to test automation. The successful candidate will combine strong individual ownership with effective collaboration and a commitment to continuous learning.\nResponsibilities include:\n\nDesigning, implementing, and maintaining software in C++, Python, and Rust.\n\nIntegrating software from our meeting platform partners into the Cisco software stack, with a particular focus on Android-based components.\n\nDelivering high-quality software with rigorous attention to detail.\n\nDriving continuous improvement across both code and engineering processes.\n\nActively leveraging AI-based tools and capabilities to improve engineering productivity and product quality, in line with our company-wide commitment to applying AI for the benefit of customers and employees.\n\nMinimum Qualifications\n\nA degree in computer science or a related technical discipline.\n\nProfessional programming experience in C++, Python, or Rust.\n\nHands-on experience working with Linux.\n\nPreferred Qualifications\n\nDemonstrable experience with Android development and the broader Android ecosystem.\n\nExperience with embedded platforms and low-level programming.\n\nA solid foundation in problem-solving, debugging, analytical reasoning and a continuous-learning mindset.\n\nA demonstrated interest in device security principles and practices.\n\nStrong collaboration and communication skills in a cross-functional environment.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015676EXTERNALENGLOBAL/Android-Platform-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Lysaker-Norway/Software-Engineer_2015676/apply"
+}

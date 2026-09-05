@@ -1,0 +1,36 @@
+{
+ "job_seq_no": "CISCISGLOBAL2006611EXTERNALENGLOBAL",
+ "req_id": "2006611",
+ "title": "Technical Leader DFT & STA",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Armenia, Armenia"
+ ],
+ "country": "Armenia",
+ "city": "Armenia",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-03-23T00:00:00.000+0000",
+ "skills": [
+  "static timing analysis",
+  "sdc development",
+  "sta tools",
+  "perl",
+  "tcl",
+  "python",
+  "makefile",
+  "dft timing",
+  "timing constraints",
+  "timing closure",
+  "debugging",
+  "communication skills",
+  "team collaboration"
+ ],
+ "teaser": "Become part of our team as a Technical Leader DFT & STA, where you will develop and validate timing constraints at various chip levels, ensuring accuracy and compliance. Collaborate with cross-functional teams and communicate complex timing data. Ideal for experienced engineers with strong analytical skills and expertise in SDC development and STA tools.",
+ "description": "Meet the team\n\nJoin the Silicon One Team at Cisco, a group at the forefront of developing Cisco's groundbreaking silicon architecture. We are a collaborative unit focused on pushing the boundaries of ASIC design for advanced process nodes. As part of our team, you will contribute to defining innovative Physical Design methodologies and creating robust flows essential for developing our complex chips. You will also have the opportunity to work hands-on with the Physical Design of intricate chip partitions.\n\nYour Impact\n\nYou are a detail-oriented DFT Timing Engineer with strong analytical skills and a deep understanding of timing constraints, such as clock groups, various exceptions, clock exclusivity.\n\nYou will collaborate effectively with cross-functional teams, communicate complex timing data clearly.\n\nResponsibilities will include:\n\nDeveloping timing constraints at block, sub-chip, and full-chip levels in test modes, performing quality checks such as duplicated constraints, promotion/demotion between block and top level SDCs.\n\nCheck timing for unconstrained endpoints, no clock, etc.\n\nYour role may include SDC validation, CDC delay check, and SDC flow development.\n\nDeveloping methodologies, guidelines, and checklists to streamline STA work, resolve design and flow issues, and drive execution to ensure progress and accuracy.\n\nMinimum Qualifications\n\nBachelor\u2019s degree in electrical or computer engineering (or other equivalent field) with 8+ years of related work experience.\n\nExperience with block/full chip SDC development in test modes (scan shift, scan capture, atpg capture modes).\n\nExpertise in Static Timing Analysis and prior working experience with STA tools like PrimeTime.\n\nProgramming skills in at least 2 or more of the following languages: Perl, TCL, Python, Makefile, or other relative scripting languages.\n\nPreferred Qualifications\n\nMaster\u2019s degree in electrical or computer engineering (or other equivalent field) with 6+ years of related work experience.\n\nBackground in debugging and analyzing timing constraints, timing closure of DFT modes such as scan shift/capture and BIST.\n\nPrior working experience with SDC debugging & STA tools: Synopsys GCA/TCM/Primetime.\n\nPrior working experience with synthesis tools: Synopsys Fusion Compiler.\n\nPrior working experience with Tessent tool: DFT insertion in RTL.\n\nStrong communication skills and team player.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2006611EXTERNALENGLOBAL/Technical-Leader-DFT-STA",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Armenia/Engineering-Technical-Leader_2006611/apply"
+}

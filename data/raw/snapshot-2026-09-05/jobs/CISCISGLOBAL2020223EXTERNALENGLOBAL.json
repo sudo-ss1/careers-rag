@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020223EXTERNALENGLOBAL",
+ "req_id": "2020223",
+ "title": "ASIC DFT Engineering Technical Leader | ATPG, MBIST, SSN, SCAN | 12+ years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India",
+  "Chennai, India",
+  "Hyderabad, Telang\u0101na, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-25T00:00:00.000+0000",
+ "skills": [
+  "asic design",
+  "dft",
+  "test architecture",
+  "test timing analysis",
+  "jtag protocols",
+  "bist architectures",
+  "scan architectures",
+  "atpg",
+  "eda tools",
+  "testmax",
+  "tetramax",
+  "tessent",
+  "primetime",
+  "system verilog",
+  "vcs",
+  "gate simulation",
+  "debugging",
+  "post silicon validation",
+  "ate patterns",
+  "p1687",
+  "tcl",
+  "python",
+  "perl",
+  "dft ip development",
+  "functional verification",
+  "dft cad development",
+  "test static timing analysis"
+ ],
+ "teaser": "Become part of our team as an ASIC DFT Engineering Technical Leader, driving the design and implementation of advanced ASICs for Cisco's next-generation networking platforms. Lead DFT feature development, collaborate with cross-functional teams, and ensure testability in chip design. Ideal for experienced engineers with expertise in DFT, ATPG, and ASIC implementation.",
+ "description": "The application window is expected to close on: 08/24/2026\nJob posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nMeet the Team\n\nThe Common Hardware Group (CHG) delivers the silicon, optics, and hardware platforms for Cisco's core Switching, Routing, and Wireless products. With 2,100 employees across 16 countries, we design the networking hardware for Enterprises and Service Providers of various sizes, the Public Sector, and Non-Profit Organizations across the world. Cisco Silicon One (#CiscoSiliconOne) is the only unifying silicon architecture in the market that enables customers to deploy the best-of-breed silicon from Top of Rack (TOR) switches all the way through web scale data centers and across service provider, enterprise networks, and data centers with a fully unified routing and switching portfolio. Come join us and take part in shaping Cisco's ground-breaking solutions by designing, developing and testing some of the most complex ASICs being developed in the industry.\n\nYou will be in the Silicon One development organization as an ASIC Implementation Technical Lead in Bangalore India with a primary focus on Design-for-Test. You will work with Front-end RTL teams, backend physical design teams to understand chip architecture and drive DFT requirements early in the design cycle. As a member of this team you will also be involved in crafting groundbreaking next generation networking chips. You will help lead to drive the DFT and quality process through the entire Implementation flow and post silicon validation phases with additional exposure to physical design signoff activities.\n\nYour Impact\n\nResponsible for implementing the Hardware Design-for-Test (DFT) features that support ATE, in-system test, debug and diagnostics needs of the designs.\n\nResponsible for development of innovative DFT IP in collaboration with the multi-functional teams, and play a key role in full chip design integration with the testability features coordinated in the RTL.\n\nWork closely with the design/design-verification and PD teams to enable the integration and validation of the Test logic in all phases of the implementation and post silicon validation flows.\n\nYour team will participate in the creation of Innovative Hardware DFT & physical design aspects for new silicon device models, bare die & stacked die, driving re-usable test and debug strategies.\n\nThe job requires the candidate to have the ability to craft solutions and debug with minimal mentorship.\n\nMinimum Qualifications:\n\nBachelor's or a Master\u2019s Degree in Electrical or Computer Engineering required with at least 12 years of experience.\n\nKnowledge of the latest innovative trends in DFT, test and silicon engineering.\n\nExperience with Jtag protocols, Scan and BIST architectures, including memory BIST and boundary scan.\n\nExperience with ATPG and EDA tools like TestMax, Tetramax, Tessent tool sets, PrimeTime\n\nVerification skills include, System Verilog Logic Equivalency checking and validating the Test-timing of the design\n\nExperience working with Gate level simulation, debugging with VCS and other simulators.\n\nPost-silicon validation and debug experience; Ability to work with ATE patterns, P1687\n\nStrong verbal skills and ability to thrive in a multifaceted environment\n\nScripting skills: Tcl, Python/Perl.\n\nPreferred Qualifications:\n\nVerilog design experience - developing custom DFT logic & IP integration; familiarity with functional verification\n\nDFT CAD development - Test Architecture, Methodology and Infrastructure\n\nTest Static Timing Analysis\n\nPost silicon validation using DFT patterns.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020223EXTERNALENGLOBAL/ASIC-DFT-Engineering-Technical-Leader-ATPG-MBIST-SSN-SCAN-12-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-DFT-Engineering-Technical-Leader---ATPG--MBIST--SSN--SCAN---12--years_2020223/apply"
+}

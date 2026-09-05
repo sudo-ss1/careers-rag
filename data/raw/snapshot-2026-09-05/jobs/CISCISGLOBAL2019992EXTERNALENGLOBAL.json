@@ -1,0 +1,36 @@
+{
+ "job_seq_no": "CISCISGLOBAL2019992EXTERNALENGLOBAL",
+ "req_id": "2019992",
+ "title": "Software Engineer | C/C++, Switching, Routing Technologies, Linux, VPLS, VPWS, EVPN | 8-12 Years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-20T00:00:00.000+0000",
+ "skills": [
+  "problem solving",
+  "switching technologies",
+  "vpws",
+  "brcm sdk",
+  "collaboration",
+  "mentoring",
+  "vpls",
+  "mpls",
+  "linux system programming",
+  "c/c++",
+  "routing technologies",
+  "evpn",
+  "technical leadership"
+ ],
+ "teaser": "Take on the role of Software Engineer to deliver software modules for Cisco Network Operating System (NOS) IOS XR, focusing on L2 forwarding and complex network management. Collaborate with cross-functional teams and drive technical innovation. Ideal for experienced professionals with strong expertise in networking and software engineering.",
+ "description": "Meet The Team\n\nWe deliver common software modules for Cisco Network Operating System (NOS) IOS XR and work on forwarding infra-areas along with complete L2 forwarding (PD) portfolio on DNX (BCM chipset based) products. L2 PD includes EVPN (p2p/p2mp), VPWS, VPLS running over different transport services that forms the next gen network for SP/Webscalar customers. This complex network management needs different protocols e.g. ERPS, MSTP, PVRST, LACP, LLDP, L2PT, Dot1x for catering different requirements. Platform dependent handling for these protocols is owned by this team which requires day to day work in BRCM SDK microcode.\n\nYour Impact\n\nAs a key member of Cisco IOS XR Platform dependent Software Development team, you will:\n\u2022 Collaborate with account teams, product management, other engineering team, architect and design sophisticated product requirements/challenges.\n\u2022 Demonstrate strong technical leadership via innovative solutions to customer problems including successful deployment.\n\u2022 Partner with other senior architects across Cisco on new opportunities and broad initiatives.\n\u2022 Be in the forefront of development of complex projects, working with managers for detailed planning and execution strategy, identify intermediate, well-defined achievements.\n\u2022 Act as a mentor and develop strong technical talent, leading towards development of long-term expertise, technical competency.\n\u2022 Do innovation within the team and chip in to Cisco\u2019s intellectual property.\n\u2022 Strengthen product quality by identifying hot spots and deriving solution for the same.\n\u2022 Keep up to date with technology trends relevant to the group, adopt newer technologies and rapid prototyping to demonstrate.\n\u00a0\n\nMinimum Qualifications\n\n\u2022 BE/B.Tech or higher degree in CS/EC or equivalent with 8+ years in the networking or equivalent domains\n\u2022 An accomplished software engineer with experience in building resilient, scalable, and secure platforms using opensource and commercial software\n\u2022 Extensive experience in architecting and design of complex networking systems and various software engineering principles\n\u2022 In-depth knowledge and understanding of routing and switching technologies, including EVPN, MPLS, VXLAN, VPWS, VPLS various L2/L3 protocols\n\u2022 Expert and experience in C/C++, Python, Linux system programming, process and memory management, multithreading\n\u00a0\n\nPreferred Qualifications\n\n\u2022 BRCM pipeline understanding along with working experience is preferred\n\u2022 Experience with microcode is a plus\n\n\u2022 Experience with workflow definition using any LLM agents for custom task has extra weightage\n\u2022 Candidates with demonstrated experience in team leadership and management are preferred.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019992EXTERNALENGLOBAL/Software-Engineer-C-C-Switching-Routing-Technologies-Linux-VPLS-VPWS-EVPN-8-12-Years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2019992-1/apply"
+}

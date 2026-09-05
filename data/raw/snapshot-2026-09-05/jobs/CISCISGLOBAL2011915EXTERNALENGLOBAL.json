@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2011915EXTERNALENGLOBAL",
+ "req_id": "2011915",
+ "title": "Platform Test Engineer - L2/L3 Protocols| Routing| Python Automation (8-12 yrs)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-03T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "test automation",
+  "cisco sd-wan",
+  "layer 1/2/3 networking",
+  "platform validation",
+  "fpga testing",
+  "romon",
+  "port validation",
+  "datapath validation",
+  "linux",
+  "environmental testing",
+  "kvm",
+  "esxi",
+  "ixia",
+  "spirent",
+  "wireshark",
+  "git",
+  "test plan creation",
+  "root cause analysis",
+  "analytical skills",
+  "optical networking",
+  "cabling technologies",
+  "advanced routing",
+  "agile methodologies",
+  "mentoring"
+ ],
+ "teaser": "Exciting opportunity for a Platform Test Engineer to define and drive comprehensive test strategies for Cisco Secure Router Platforms. Lead performance analysis, test automation, and validation pipelines, collaborating with cross-functional teams. Ideal for candidates with extensive experience in networking testing and automation, particularly in Python and SD-WAN environments.",
+ "description": "Meet the Team\n\nCisco SDWAN focuses on simplifying and securing enterprise WANs, enabling seamless cloud connectivity, automating network operations, and ensuring optimal application performance through advanced SD-WAN solutions.\n\nOur Team works on Cisco SD-WAN solutions that help enterprises build resilient, secure, and scalable wide area networks for distributed branch, cloud, and hybrid environments. The focus is on simplifying network operations through centralized management and automation, improving application and user experience with intelligent connectivity, and strengthening security with SASE-ready, zero-trust architecture. The team enables customers to connect sites, users, and cloud workloads with better visibility, performance, and operational efficiency.\n\n\u00a0\n\nYour Impact\n\nEstablish Define and drive the comprehensive test strategy and validation for the Cisco Secure Router Platform, including conducting deep-dive performance analysis to identify and resolve bottlenecks at the kernel, hardware-abstraction, data and control plane layers.\n\nAs Platform Test engineer, you need to test Hardware, Software, Programmable and certify SFP/optics interoperable with Cisco Secure routers.\n\nPerformance Debugging:\u00a0Perform deep-dive analysis into performance bottlenecks at the kernel and hardware-abstraction layers\u00a0including control plane.\u00a0\n\nDesign and evolve scalable test frameworks, test automation, and validation pipelines for both software and hardware.\n\nCollaborate with engineering leaders, product management, hardware, and TAC teams to define quality goals, test scope, and execution plan.\n\nContribute to customer demos and technical presentations to showcase product and solution capabilities.\n\nRepresent the test organization in multi-functional forums to influence release decisions, risk assessment, and quality metrics.\n\nModern Test Practices:\u00a0Use\u00a0modern Test workflows, including AI-assisted coding tools (such as GitHub Copilot, Claude, or Codex) and integrated development environments\u00a0like\u00a0VSCode, to accelerate the development lifecycle and improve code quality.\u00a0\n\n\u00a0\n\nMinimum Qualifications and Requirements:\n\nBachelor\u2019s degree in electrical engineering, Computer Science, or an equivalent technical field (BE/ME/CS/AI/ML).\n\n8-12 years of proven industry experience in testing Layer 1, Layer 2, and Layer 3 networking products, platform validation, and product development.\n\nSolid understanding of the Software Development Life Cycle (SDLC), with expertise in requirements analysis, test plan creation, execution, and release validation.\n\nExtensive hands-on experience in platform testing, PHY/MAC layer validation, and high-speed interface integrity testing, which you will use to validate our Next-Gen engineering platforms.\n\nDemonstrated ability to architect robust test plans and map them to critical platform testing areas, including port validation, Datapath/control path validation, FPGA, ROMMON, and environmental/hardware functional testing (e.g., power supplies, LEDs, fans).\n\nDeep technical knowledge and hands-on experience conducting deep-dive testing of MACsec, Port-Channels, Flow Control, and Quality of Service (QoS).\n\n6+ years of experience and strong proficiency in driving test automation development using Python and REST APIs to implement longevity, soak, and stress testing.\n\nExpert-level troubleshooting and root cause analysis skills, utilizing advanced debugging techniques, kernel logs, and system traces.\n\nSolid foundation in Linux operating systems and hands-on experience with virtualization technologies, such as KVM and ESXI.\n\nHands-on expertise with industry-standard network traffic generators (Ixia, Spirent) and protocol analyzers (Wireshark).\n\nProficiency in applying Git for source code and version control management.\n\nExceptional analytical, problem-solving, and communication skills, with a demonstrated ability to collaborate effectively across multi-functional teams.\n\nProven track record of mentoring junior engineers, fostering teamwork, and a strong passion for talent development.\n\n\u00a0\n\nPreferred Qualifications:\n\nIndustry-recognized certifications such as CCNP Enterprise Infrastructure or equivalent.\n\nSolid understanding of optical networking, various cabling technologies, and advanced routing concepts.\n\nPrior experience conducting Interoperability, Performance, Scale, and Convergence testing, as well as reproducing and resolving complex customer issues.\n\nPractical experience working within Agile development methodologies and fast-paced engineering environments.\n\n#sdwanhiring\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011915EXTERNALENGLOBAL/Platform-Test-Engineer-L2-L3-Protocols-Routing-Python-Automation-8-12-yrs",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Platform-Test-Engineer---L2-L3-Protocols--Routing--Python-Automation--8-12-yrs-_2011915/apply"
+}

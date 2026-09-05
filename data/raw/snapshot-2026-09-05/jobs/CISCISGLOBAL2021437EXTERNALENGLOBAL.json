@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021437EXTERNALENGLOBAL",
+ "req_id": "2021437",
+ "title": "(sr.) Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Slovakia"
+ ],
+ "country": "Slovakia",
+ "city": "",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-13T00:00:00.000+0000",
+ "skills": [
+  "node.js",
+  "git",
+  "codex",
+  "postgresql",
+  "system reliability",
+  "spring",
+  "cursor",
+  "collaboration with sre/devops",
+  "collaboration with product management",
+  "mentoring",
+  "mysql",
+  "backend service development",
+  "software development",
+  "system observability",
+  "ai technologies",
+  "javascript",
+  "incident resolution",
+  "copilot",
+  "code review",
+  "microservices architecture",
+  "python",
+  "java",
+  "technical decision making",
+  "system scalability",
+  "ci/cd pipelines",
+  "system performance improvement",
+  "continuous delivery",
+  "production issue debugging",
+  "kafka"
+ ],
+ "teaser": "Join us as a Software Engineer to design, implement, and maintain software features for Cisco's Webex Engineering Group. You will contribute to distributed microservice architectures and drive technical decisions. Ideal candidates have significant experience in software development and a strong understanding of system performance and reliability.",
+ "description": "Meet the Team\u00a0\u00a0\n\nCisco's Webex Engineering Group is redefining the future of collaboration. We're building a world where people connect effortlessly to enjoy modern, uncompromised collaboration across every room, desk, pocket, and application.\u00a0\n\nOur technology powers industry-leading products like Slido, Webex Meetings, Webex Calling, and Webex Contact Center. As a member of our team, your work will ensure every user gets a truly immersive experience regardless of device or location, empowering the hybrid working patterns of the future.\u00a0\n\nOur team is based in Bratislava. We operate a hybrid working model.\u00a0\n\nYour Impact\u00a0\u00a0\n\nAs a Software Engineer, you will design, implement, deliver, and maintain software features and product improvements end-to-end. You will contribute to distributed, highly available microservice architectures and drive technical decisions within the scope of your owned services. You will focus on improving system performance, scalability, reliability, and observability, while leveraging AI technologies to accelerate team productivity. You will collaborate closely with Product Management and SRE/DevOps teams, debug complex production issues, and lead by example in code quality and operational excellence.\u00a0\n\nKey Responsibilities\u00a0\n\nDesign, implement, deliver, and maintain software features and product improvements end-to-end with minimal supervision.\u00a0\n\nContribute to distributed, highly available microservice architectures.\u00a0\n\nDrive technical decisions within the scope of owned services or components.\u00a0\n\nImprove system performance, scalability, reliability, and observability.\u00a0\n\nLead by example in code quality, testing, and operational excellence.\u00a0\n\nDebug complex production issues and contribute to incident resolution and postmortems.\u00a0\n\nLeverage AI technologies (e.g., Copilot, Cursor, Codex) to accelerate team productivity and feature delivery.\u00a0\n\nHelp lead the operational side of our systems and services.\u00a0\n\nCollaborate closely with engineers, product management, and SRE/DevOps teams.\u00a0\n\nMentor junior and mid-level engineers through code reviews and technical discussions.\u00a0\n\nMinimum Qualifications\u00a0\n\nBachelor\u2019s or Master's degree in Computer Science, Engineering, or equivalent practical experience.\u00a0\n\n5+ years of professional experience in software development.\u00a0\n\nExperience in building and maintaining backend services in production environments.\u00a0\n\nStrong knowledge of software development and architecture concepts with a willingness to learn new technologies quickly.\u00a0\n\nPreferred Qualifications\u00a0\n\nStrong experience in Java system development; Node.js, JavaScript, and Python are a plus.\u00a0\n\nFamiliarity with web application frameworks and persistence technologies such as Spring, PostgreSQL, MySQL, and Kafka.\u00a0\n\nFamiliarity with Git, DevOps, CI/CD pipelines, and continuous delivery.\n\nFamiliarity with AI coding tools (e.g., Codex, Cursor, Copilot).\u00a0\n\nProven ability to debug and resolve complex production issues.\u00a0\n\nAbility to apply creative skills to complex problems.\u00a0\n\nFlexible, thrives in diverse team environments, and communicates clearly and precisely.\u00a0\n\nStrong attention to detail and a commitment to continuous learning and quality results.\u00a0\n\nCollab Hiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021437EXTERNALENGLOBAL/sr-Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bratislava-Slovakia/XMLNAME--sr--Software-Engineer_2021437/apply"
+}

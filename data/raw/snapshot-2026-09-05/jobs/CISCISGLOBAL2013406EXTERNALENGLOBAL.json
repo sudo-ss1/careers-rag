@@ -1,0 +1,37 @@
+{
+ "job_seq_no": "CISCISGLOBAL2013406EXTERNALENGLOBAL",
+ "req_id": "2013406",
+ "title": "ASIC Engineering Technical Leader | Design Verification | Verilog, System Verilog, UVM, Testbench | Exp-  12+ Years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-05-08T00:00:00.000+0000",
+ "skills": [
+  "system verilog",
+  "uvm methodology",
+  "asic design verification",
+  "c++ programming",
+  "debugging",
+  "testbench development",
+  "hardware emulation",
+  "system validation",
+  "sw/hw integration",
+  "flow automation",
+  "makefile scripting",
+  "code coverage analysis",
+  "mentoring",
+  "stakeholder management"
+ ],
+ "teaser": "Become part of our team as a ASIC Engineering Technical Leader, driving the design verification of complex ASIC chips. Lead and mentor a team, define and enhance testbenches, and ensure high-quality, efficient solutions. Ideal for experienced professionals with deep ASIC design verification expertise and strong leadership skills.",
+ "description": "Meet the Team\n\nCome join us and be part of the Cisco SiliconOne team and take part in crafting Cisco's groundbreaking Enterprise and Service Provider solutions by crafting some of the most complex chips being developed in the industry with the opportunity to get full exposure to all aspects of the systems and applications we build (Silicon, Hardware, Software, telemetry, security, etc). Our group offers a rare combination of a startup culture with the benefits of working for the top tier networking company in the world!\n\nYour Impact\n\u00a0\n\nCisco SiliconOne team is looking for an expert and talented ASIC Engineering Technical Leader. You will have an ASIC design verification background with hands-on experience in System Verilog and UVM methodology with in-depth knowledge of C++, scripting as well as ASIC/SoC development cycle, the best industry practices, from specification through tape-out and lab validation, and a proven track record of success in high-performance/high-volume products.\n\nCollaborate closely with the design team and the hardware team to verify the ASIC in simulation, in emulation and during ASIC bring up.\n\nDefining and Building UVM/System Verilog testbenches from scratch or enhancing existing testbenches with focus on reuse\n\nDefining new DV methodologies or enhancing the existing methodologies\n\nIn-depth understanding of the architecture, and identification of problems and solutions. \n\nEnd-to-end verification of one or more design blocks simultaneously while helping full chip team with integration and support.\n\nTest plan generation, review, planning and execution, meeting all criteria of ASIC group.\n\nHelp in developing Emulation infrastructure using C/C++, that has to work with UVM based verification environment.\n\nGate level simulation and SDF back annotation for blocks as part of pre-silicon verification.\n\nCode and Functional coverage-based simulation run, coverage collection, merging and working with designers to fill coverage holes.\n\nParticipating in all phases during ASIC development \u2013 RTL Verification, Emulation and post-silicon validation\n\nRecommending best practice, identifying and suggesting innovative solutions to improve efficiency and quality\n\nLeading and mentoring team of junior engineers in addition to the assigned task.\n\nStrong focus on efficiency, quality, reusability.\n\nDrives design verification solutions across the business. Ensure culture of code reviews and postmortems.\n\nAct as the design verification lead, owning and leading all the above aspects, including driving the technical decisions made at the program level with rest of the dv teams, conducting weekly dv meetings, sync-ups with stake holders and cross functional teams like Architecture, Design, Emulation, SW, PSV.\n\nMinimum Qualifications\n\nBS/MS and 12+/10+ years respectively of hands-on experience in large-scale, high-performance ASIC design verification.\n\nHands-on and deep understanding of System Verilog and UVM methodology\n\nMust have prior experience of developing UVM based infrastructure from scratch in more than one projects.\n\nAbility to handle complex features/parts of chip independently.\n\nQuick learner must be able to work in a fast pace dynamic environment and must be able to deliver quality even in aggressive schedule.\n\nStrong teamwork quality \u2013 must be able to work in a highly collaborative team.\n\nOverseeing reusability, comes up reusable solution to improve efficiency. Must always focus on efficiency and quality.\n\nAbility to build, lead and mentor a team of engineers and ensuring quality delivery as a team.\n\nProficient in merging and analyzing code coverage data generated functional simulation\n\nGood working knowledge in C, C++ programming and debugging skills\n\nExperienced in system debug and SW/HW bring-up, system validation of silicon towards FCS.\n\nHardware Emulation Platforms and tools (such as EVE, Veloce)\n\nGood written/verbal interpersonal skills and leadership skills.\n\nPreferred Qualifications\n\nWorked in DV methodology and definition of high-scale, high-performance ASICs.\n\nPlanning overall DV architecture strategy and defining the requirements.\n\nConducting & leading various test plan reviews.\n\nDriving complex debugs and system level integration aspects\n\nValid experience in flow automation (scripting, Makefiles, etc), and establishing guidelines for the team.\n\nMentoring the senior resources in the team on DV and DV methodologies.\n\nGood interpersonal skills, and validated leadership to accurately describe issues/improvements and lead team for on-time completion.\n\nExcellent communication skills both verbal and written\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2013406EXTERNALENGLOBAL/ASIC-Engineering-Technical-Leader-Design-Verification-Verilog-System-Verilog-UVM-Testbench-Exp-12-Years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-Engineering-Technical-Leader---Design-Verification---Verilog--System-Verilog--UVM--Testbench---Exp---12--Years_2013406/apply"
+}

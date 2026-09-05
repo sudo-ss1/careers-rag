@@ -1,0 +1,43 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022199EXTERNALENGLOBAL",
+ "req_id": "2022199",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-02T00:00:00.000+0000",
+ "skills": [
+  "c/c++ programming",
+  "embedded systems",
+  "wi-fi protocols",
+  "linux development",
+  "firmware development",
+  "driver development",
+  "system integration",
+  "packet analysis",
+  "wireshark",
+  "ai-assisted development tools",
+  "debugging",
+  "networking fundamentals",
+  "problem solving",
+  "analytical skills",
+  "collaboration",
+  "cross-functional teamwork",
+  "copilot",
+  "cursor",
+  "codex",
+  "claude"
+ ],
+ "teaser": "We are currently hiring a Software Engineer to develop and validate wireless features across access points, controllers, and management systems. You will contribute to full-stack software engineering, focusing on integration and automation. Ideal candidates have strong programming skills in C/C++ and Python, with a solid understanding of networking fundamentals and Wi-Fi.",
+ "description": "Meet The Team\n\nThe Cisco Wireless Feature & System Engineering team builds end-to-end wireless capabilities across access points, controllers, and cloud-managed platforms. We design features that span device software, control planes, and management systems to deliver seamless, secure, and high-performance enterprise Wi-Fi.\n\nYour Impact\n\nAs a Full-Stack Wireless Software Engineer, you will contribute to building and validating wireless features across the stack\u2014from access points to controllers and management systems. This is a full development and test role, where you will own features from implementation through validation and automation.\n\n\u00a0In this role:\n\nDevelop and integrate wireless features across AP, controller, and management layers\n\nWrite and maintain software in C/C++ and scripting languages (Python)\n\nDesign and execute test plans, and develop automation for feature validation\n\nAnalyze logs, packet traces, and system behavior to debug issues\n\nReproduce issues and validate fixes across system components\n\nSet up and use lab environments for testing wireless scenarios\n\nCollaborate with platform, radio, QA, and cloud teams\n\nMinimum Qualification\n\nMS + 0-2 years or BS + 1-3 years of experience\n\nStrong programming skills in C/C++ and Python\n\nSolid understanding of networking fundamentals and Wi-Fi (802.11 basics)\n\nExperience or strong interest in testing, automation, and system validation\n\nStrong debugging and analytical skills\n\nPreferred Qualification\n\nExposure to wireless controllers or cloud-managed networking systems\n\nExperience with tools like Wireshark\u00a0\n\nFamiliarity with WPA2/WPA3 security\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022199EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2022199-1/apply"
+}

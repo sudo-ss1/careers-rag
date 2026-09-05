@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020626EXTERNALENGLOBAL",
+ "req_id": "2020626",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Hyderabad, Telang\u0101na, India",
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Hyderabad",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-11T00:00:00.000+0000",
+ "skills": [
+  "kafka",
+  "airflow",
+  "graphql",
+  "postmortem analysis",
+  "oracle",
+  "rest apis",
+  "nosql databases",
+  "postgresql",
+  "google cloud platform",
+  "version control",
+  "aws",
+  "data pipeline development",
+  "github copilot",
+  "azure",
+  "salesforce",
+  "snowflake",
+  "backend application development",
+  "object-oriented design",
+  "data engineering",
+  "code reviews",
+  "agile development",
+  "mulesoft",
+  "automated testing",
+  "python",
+  "system integration",
+  "ci/cd pipelines",
+  "heroku",
+  "mongodb",
+  "ai/ml integration"
+ ],
+ "teaser": "We are looking for a Software Engineer to develop secure, user-focused software using Cisco\u2019s Design Thinking Principles. You will collaborate with cross-functional teams, contribute technical documentation, and support product innovation. Ideal candidates have significant experience in software development and a strong understanding of best practices.",
+ "description": "Develops software consistent with Cisco \u2018Design Thinking Principles\u2019 with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices. Partners with other teams including design and product management to create the right solution for the customers. Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users. Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes.\n\nWhat You\u2019ll Do:\n\nExperienced professional using best practices and knowledge of internal or external business issues to improve products or services.\n\nWorks independently but receives guidance and direction from leader then determines best approach to accomplish work.\n\nActs as a resource for colleagues with less experience.\n\nDevelops relationship with peer stakeholders within and across teams and builds productive working relationships.\n\nMay lead projects with limited complexity to execute the defined software engineering roadmap.\n\nMay lead small-to-medium features from technical design through completion.\n\nStays current on industry trends and serves as an expert on the software development lifecycle and agile engineering practices; coaches others, as needed.\n\nContributes to delivery of high-quality design and deliverables.\n\nAdvocates for new features within a product to address customer needs.\n\nTracks metrics for product adoption and success.\n\nWrites functional clean code and unit tests with minimal guidance.\n\nPerforms coding, debugging, testing, and troubleshooting throughout the development process under minimal supervision.\n\nPerforms code reviews for others in project.\n\nWrites code enabling scale, reliability, and velocity in product releases.\n\nContributes as an expert in secure coding principles and understands threat model of a feature.\n\nTroubleshoots complex issues within the production environment, may serve customers through on-call rotations to identify end user problems, may lead postmortem and write root cause analysis.\n\nExpert on multiple functional components.\n\nShares knowledge across teams, both informally and formally (e.g., ad-hoc basis, internal presentations, blogs, newsletters).\n\nCoordinates and collaborates on project timelines and continuously reviews, updates, and communicates project specifications to team members and stakeholders.\n\nDevelops remediation plans and alternatives to ensure timely delivery.\n\nIdentifies and acts upon opportunities to assist others.\n\nMentors peers and/or engineering interns.\n\nMinimum Qualifications:\n\nBachelors + 5 years of related experience, or Masters + 3 years of related experience, or PhD + 0 years of related experience.\n\nRequires working knowledge and expanded conceptual knowledge in primary technical job family and broadens capabilities; has worked with and is proficient with current technologies.\n\nPreferred Qualifications\n\n5+ years of professional experience in software development with a strong focus on data engineering, system integration, and backend application development.\n\nProficiency in Python for developing data pipelines, automation, REST APIs, and backend services.\n\nHands-on experience in MuleSoft application development, including API design, implementation, integration, and deployment.\n\nExperience building AI-powered applications or integrating AI/ML capabilities into enterprise solutions.\n\nExperience working with relational and NoSQL databases such as PostgreSQL, Snowflake, Oracle, MongoDB, or equivalent database technologies.\n\nHands-on experience with modern data and integration technologies, including Kafka, Airflow, GraphQL, Heroku, CI/CD pipelines, or similar platforms.\n\nFamiliarity with AI-assisted software development tools such as GitHub Copilot, Cursor, or similar coding assistants to improve engineering productivity.\n\nExperience with cloud platforms such as AWS, Azure, or Google Cloud Platform (GCP) is preferred.\n\nExperience developing Salesforce integrations or working with Salesforce platform technologies is a plus.\n\nStrong understanding of software engineering best practices, including object-oriented design, version control (Git), code reviews, automated testing, CI/CD, and Agile development methodologies.\n\nExcellent analytical, problem-solving, debugging, and troubleshooting skills.\n\nStrong collaboration and communication skills, with the ability to work effectively in cross-functional Agile teams.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020626EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hyderabad-India/Software-Engineer_2020626/apply"
+}

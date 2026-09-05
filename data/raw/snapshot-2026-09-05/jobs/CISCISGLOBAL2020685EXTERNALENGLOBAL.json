@@ -1,0 +1,46 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020685EXTERNALENGLOBAL",
+ "req_id": "2020685",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Stockholm, Sweden"
+ ],
+ "country": "Sweden",
+ "city": "Stockholm",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-12T00:00:00.000+0000",
+ "skills": [
+  "c/c++",
+  "voip algorithms",
+  "real-time audio algorithms",
+  "data structures",
+  "algorithms",
+  "design patterns",
+  "media streaming",
+  "protocols for real-time applications",
+  "peer code review",
+  "development workflow automation",
+  "quality gate automation",
+  "agile",
+  "ai responsible development",
+  "ai code review",
+  "english communication",
+  "ai/ml applied to audio algorithms",
+  "audio algorithm evaluation",
+  "audio algorithm tuning",
+  "performance-sensitive code",
+  "incremental development",
+  "a/b testing",
+  "collaboration",
+  "training and mentoring"
+ ],
+ "teaser": "Join us as a Software Engineer at Cisco's Webex Media engineering site in Stockholm, where you will design and optimise real-time audio algorithms and collaborate within a dynamic, startup-like team. Ideal candidates bring extensive experience in VoIP or real-time audio development and a strong background in software engineering.",
+ "description": "Meet the Team\n\nJoin Cisco's Webex Media engineering site in Stockholm, where we craft the meeting experience that connects people and businesses around the world. We are a highly motivated, startup\u2011like team within a global organization, combining the impact and resources of Cisco with the agility and camaraderie of a smaller group. Our work powers the shift to a hybrid workforce and aims to make people feel truly connected. You\u2019ll find a friendly, supportive environment that celebrates creativity, growth, and a shared passion for building world\u2011class real\u2011time audio algorithm experiences.\n\nYour Impact\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Design, implement, and optimize VoIP audio algorithms\u2014including adaptive jitter buffers, packet loss concealment, and codec pipelines\u2014based on product requirements.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Perform peer code reviews and automate development workflows and quality gates.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Participate in agile ceremonies including daily stand\u2011ups, planning, releases, and retrospectives.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Collaborate across teams to broaden technical and soft skills through training and mentoring.\n\nMinimum Qualifications:\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 7+ years of professional software development experience and a MSc (or equivalent) in Software Engineering or a related field.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hands-on experience developing VoIP or real\u2011time audio algorithms (e.g., adaptive jitter buffer, packet loss concealment, codec integration) in production systems.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Proficiency in C/C++ with strong knowledge of data structures, algorithms, and design patterns.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Experience with media streaming and relevant protocols for real\u2011time applications.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Professional verbal and written communication skills in English.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Uses AI\u00a0responsibly\u00a0to accelerate development.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Critically reviews AI-generated code before using it.\n\nPreferred Qualifications:\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Experience applying AI/ML to audio algorithm development or optimization in production voice systems.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Experience evaluating and tuning audio algorithms using objective metrics (e.g., POLQA, PESQ) and subjective listening tests.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Experience with close\u2011to\u2011real\u2011time systems and performance\u2011sensitive code paths.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Comfort with incremental development, testing, and A/B testing in production.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Collaborative, friendly, and self\u2011directed; eager to learn and share knowledge.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Steers AI\u00a0effectively via\u00a0context and prompt\u00a0design.\n\nCollab Hiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020685EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Stockholm-Sweden/Software-Engineer_2020685/apply"
+}

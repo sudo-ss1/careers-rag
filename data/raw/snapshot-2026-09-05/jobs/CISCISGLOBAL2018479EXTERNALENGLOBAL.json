@@ -1,0 +1,45 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018479EXTERNALENGLOBAL",
+ "req_id": "2018479",
+ "title": "Technical Projects Systems Engineer",
+ "category": "Sales",
+ "categories": [
+  "Sales"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-21T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "azure",
+  "analytical skills",
+  "mpls",
+  "aws",
+  "project management",
+  "bgp",
+  "ospf",
+  "routing",
+  "time management",
+  "communication skills",
+  "switching",
+  "cisco software defined access",
+  "cisco dna center",
+  "problem-solving",
+  "spirent",
+  "cloud networking",
+  "gcp",
+  "eigrp",
+  "cisco catalyst sd-wan",
+  "vmware vcenter",
+  "security protocols"
+ ],
+ "teaser": "We are recruiting a Technical Projects Systems Engineer to lead the development and delivery of Customer Proof of Concept Labs, focusing on Enterprise Networking and Nexus technologies. The role involves project management and collaboration with cross-functional teams. Ideal for candidates with strong Cisco networking expertise and experience in enterprise environments.",
+ "description": "Position Description: Customer Proof of Concepts Engineer\n\nOrganization Overview\n\nGlobal Demonstration Engineering leads the industry in delivering innovative, demonstration-centric experiences of Cisco solutions to customers. We provide a comprehensive, integrated sales-enablement portfolio that helps sales teams and partners showcase how Cisco products enhance productivity, expand sales opportunities, and shorten sales cycles. Our Cisco dCloud platform offers scripted, repeatable demos and fully customizable labs with complete administrative access, accessible on any network, device, and location. The dCloud platform not only improves user experiences but also drives business growth.\n\nPosition Summary\n\nThe Proof-of-Concept (POC) Specialist is a Systems Engineer (SE) responsible for the end-to-end development, planning, design, delivery, and coordination of Customer Proof of Concept Labs, primarily focused on Enterprise Networking and Nexus (NX) technologies, but may include other Cisco technologies. This role involves close collaboration with Business Units (BUs), Content Developers, Partners (internal and third-party), and account teams throughout the POC lifecycle\u2014from introduction through build, testing, and final customer delivery. The specialist will gather customer requirements, define testing criteria, and ensure POC objectives are met.\n\nKey Responsibilities\n\nProject Management (10%)\n\nIdentify, prioritize, and organize all project-related tasks.\n\nStrategize and communicate project goals and objectives across organizational levels.\n\nEnsure effective status reporting from all third-party developers involved in assigned projects.\n\nEngineering (50%)\n\nDesign, develop, document, and deliver diverse POC content, mainly for Enterprise Networks and NX.\n\nCollaborate with Account Teams, Technical Marketing Engineers (TMEs), Content Developers, Partners, and customers to extract requirements.\n\nCreate design and test plans aligned with POC objectives.\n\nLead the POC engineering efforts from introduction through build, test, and delivery phases.\n\nWork collaboratively with a multidisciplinary engineering team.\n\nPlatform Design (20%)\n\nDocument and plan all projects thoroughly before the build phase.\n\nUtilize standard design tools and templates such as Visio, PowerPoint, and MS Project.\n\nPresent and justify designs to peer review groups.\n\nSupport (10%)\n\nServe as the first point of contact for all escalations related to POCs.\n\nCollaborate with account teams, partners, and customers to ensure successful POC delivery.\n\nManage escalations by coordinating with responsible engineers to provide fixes, document solutions, update the Support Knowledge Base, and train Tier 1 and Tier 2 engineers.\n\nWork with project managers to ensure content and documentation updates are planned and executed.\n\nLiaise with operations teams to resolve issues during development and testing, provide technical support, and recommend design improvements.\n\nOther Duties (5%)\n\nAct as a liaison with third-party developers and independently develop content as needed.\n\u00a0\n\nCandidate Requirements\n\nCCNP/CCIE certification or equivalent experience.\n\nStrong background in Routing, Switching, and Security protocols, including OSPF, EIGRP, BGP, MPLS, DMVPN, IPSec, NAT, Trustsec, LISP, VXLAN, EVPN, and 802.1x.\n\nExperience with Cisco Catalyst SD-WAN, including controller deployment (on-premise and cloud), template and policy management, and Cloud On-Ramp for Multi-Cloud.\n\nExpertise in Cisco Software Defined Access (SDA), including Cisco Catalyst Center (DNA Center) deployment and management, network device provisioning, SWIM, templates, Plug-and-Play, and SD-Access Fabric.\n\nCloud networking experience with AWS, Azure, GCP, and Microsoft Office365.\n\nFamiliarity with virtual infrastructures such as VMware vCenter and virtual machines.\n\nExperience with test tools like Spirent, Cyberflood, Avalanche, Ixia, Keysight, and WAN emulation.\n\nKnowledge of Cisco security products is a plus, including SSE, Meraki, Secure Access, Secure Cloud Control, NGFW, ISE, Stealthwatch, ThousandEyes, Umbrella, Threat Defense, Defense Orchestrator, Cyber Vision, and Office 365.\n\nProven project delivery, project management, and time management skills.\n\u00a0\n\nAdditional Desired Skills\n\nBasic programming and scripting skills in Go, Python, Ruby, PowerShell, XML, SQL, etc.\n\nBasic web development and scripting knowledge.\n\u00a0\n\nQualifications and Competencies\n\nStrong self-management and time management skills with the ability to organize competing priorities across global time zones.\n\nSense of urgency and adaptability to shifting team demands and critical time-to-market business needs.\n\nFlexibility to handle a wide range of tasks and rapidly switch between projects in a fast-paced environment.\n\nAnalytical skills to use source materials effectively, think critically, identify risks, and recommend actions.\n\nAttention to detail with a focus on accuracy and adherence to standards.\n\nExcellent communication skills, both written and oral, with an emphasis on building relationships and promoting collaborative goals.\n\nProfessionalism in managing people, problems, stress, and persistence to complete tasks.\n\nDependability and reliability in meeting commitments and producing high-quality work.\n\nIndependent learning ability with creative problem-solving skills and a proactive approach to information gathering.\n\nStrong planning and organizational skills to anticipate problems, manage complexity, and meet deadlines.\n\nReporting Structure\n\nReports to: SE Operations Manager\n\nWorks Closely With: Content Development Team, Project Management Team, Practice Leads, Automation/UI Development Team, Technical Writing Team, dCloud Social Media Specialist, Platform Team, and NetOps Team\n\nDirect Reports: None\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018479EXTERNALENGLOBAL/Technical-Projects-Systems-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Technical-Projects-Systems-Engineer_2018479/apply"
+}

@@ -1,0 +1,46 @@
+{
+ "job_seq_no": "CISCISGLOBAL2019781EXTERNALENGLOBAL",
+ "req_id": "2019781",
+ "title": "Test Development Engineering Technical Leader",
+ "category": "Supply Chain and Manufacturing Ops",
+ "categories": [
+  "Supply Chain and Manufacturing Ops"
+ ],
+ "locations": [
+  "Hsinchu, Hsinchu City, Taiwan",
+  "Taipei, New Taipei, Taiwan"
+ ],
+ "country": "Taiwan",
+ "city": "Hsinchu",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-31T00:00:00.000+0000",
+ "skills": [
+  "soc/vlsi/mixed signal ic bring-up",
+  "production and characterization testing",
+  "device qualification",
+  "jedec qualification requirements",
+  "design for test (dft) architectures",
+  "ate test solutions",
+  "yield data analytics",
+  "statistical analysis",
+  "correlation analysis",
+  "manufacturing release",
+  "root cause analysis",
+  "failure analysis",
+  "test program transfer",
+  "cross-functional leadership",
+  "mentorship",
+  "supplier management",
+  "manufacturing engineering",
+  "test engineering",
+  "quality and reliability",
+  "data-driven optimization",
+  "project management",
+  "executive communication"
+ ],
+ "teaser": "We are seeking a Test Development Engineering Technical Leader to drive the scaling of Cisco Silicon One ASICs from prototype to production. Lead post-silicon validation, test qualification, and yield optimisation. Ideal for an experienced technical expert with a strong background in product engineering and silicon manufacturing.",
+ "description": "What you'll Do:\n\nYou will take on a critical technical leadership role within the Product Development Team as a G11 Product Development Engineer in the Silicon Operations organization. Your primary focus will be spearheading the bring-up and scaling of Cisco Silicon One ASICs from prototype to high-volume production. You will work extensively with complex custom network processors, transceivers, mixed-signal ICs, multi-die modules, bare die, and stacked die architectures.\n\nAs a senior technical driver, your responsibilities will include:\n\n\u2022 Leading Post-Silicon Validation: Drive the end-to-end post-silicon validation cycle to meet stringent Product Quality and Time-to-Market metrics.\n\n\u2022 Strategic Test & Qualification: Define, architect, and oversee comprehensive test, characterization, and qualification strategies across cross-functional teams.\n\n\u2022 Yield & Cost Optimization: Establish cost and yield drive-to targets for new products. Architect and execute strategic plans to achieve significant test time reduction and yield optimization at scale.\n\n\u2022 Manufacturing Release: Define production screening guard-band specifications based on design intent and characterization results. Lead the seamless transfer of new tests and test programs into full manufacturing release by partnering closely with suppliers and offshore manufacturing teams.\n\n\u2022 Root Cause & Failure Analysis: Direct complex component failure analysis, orchestrate containments, and drive root cause corrective actions. Act as the primary technical escalation point, working with development, manufacturing engineering, and management to resolve the most challenging technical roadblocks.\n\n\u2022 Product Qualification: Oversee product qualification and burn-in testing to JEDEC specifications.\n\n\u2022 Data-Driven Leadership: Utilize advanced statistical data, yield, and correlation analysis on massive data sets (from wafer sort to system final test) to identify hidden yield limiters and drive continuous optimization.\n\n\u2022 Mentorship: Provide technical guidance and mentorship to junior engineers, elevating the overall technical capability of the Silicon Operations team.\n\nWho You'll Work With:\n\nYou will serve as a key technical liaison, collaborating deeply with ASIC design / DFT teams, hardware engineering, and several peer groups like Project Managements, Test engineering, Quality & Reliability, Supply Chain Planning. Your expertise will directly influence and shape the broader Cisco Silicon One Productization Strategy. You will also interface regularly with external suppliers, offshore manufacturing partners, and internal executive leadership.\n\nWho You Are:\n\nYou are a highly motivated, self-driven technical expert who thrives in complex, fast-paced environments. You have a proven track record of bringing cutting-edge silicon products to market and possess the communication skills necessary to distill complex technical challenges into actionable executive summaries.\n\nMinimum Qualifications:\n\n\u2022 Education & Experience: MSEE (or higher) in Electrical Engineering or a related field, typically combined with 8-12+ years of highly relevant industry experience in product engineering and silicon manufacturing.\n\n\u2022 Technical Expertise: Deep, expert-level background in SOC/VLSI/Mixed Signal IC bring-up, production and characterization testing, and product engineering.\n\n\u2022 Data & Yield Analytics: Strong track record of leading yield data analytics and driving high-impact yield improvements. Advanced proficiency in statistical analysis and correlation. Data Science background or nanodegrees are a strong plus.\n\n\u2022 Qualification Standards: Extensive direct experience with device qualification and deep fluency in JEDEC qualification requirements.\n\n\u2022 Test Solutions: Advanced knowledge of the cutting edge in Design for Test (DFT) architectures and ATE test solutions.\n\n\u2022 Communication: Exceptional ability to communicate concisely for action. You can seamlessly translate deep technical data into project status overviews and executive summaries for both internal and external stakeholders.\n\n\u2022 Leadership: High level of energy and motivation, with a demonstrated ability to lead cross-functional initiatives and thrive in a highly complex, matrixed environment.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019781EXTERNALENGLOBAL/Test-Development-Engineering-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hsinchu-Taiwan/Test-Development-Engineering-Technical-Leader_2019781-1/apply"
+}

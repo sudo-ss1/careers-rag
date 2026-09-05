@@ -1,0 +1,36 @@
+{
+ "job_seq_no": "CISCISGLOBAL2014928EXTERNALENGLOBAL",
+ "req_id": "2014928",
+ "title": "C++ Software Engineer \u2013 SDK System & Performance",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Belgrade, Serbia"
+ ],
+ "country": "Serbia",
+ "city": "Belgrade",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-14T00:00:00.000+0000",
+ "skills": [
+  "c++",
+  "linux",
+  "sdk development",
+  "compiler",
+  "linker",
+  "loader",
+  "debugging",
+  "memory management",
+  "performance optimization",
+  "system programming",
+  "python",
+  "hardware architecture",
+  "analytical skills"
+ ],
+ "teaser": "We are expanding our team: As a C++ Software Engineer in the SDK System & Performance team, you will design and deliver core SDK infrastructure, focusing on performance and scalability. You will manage SDK memory and debuggability, and collaborate with customers to support critical updates. Ideal candidates have strong C++ and Linux expertise.",
+ "description": "Meet the Team\n\nWe, at CISCO Silicon One\u2122, are building SDK, firmware, simulator, and compiler for the top-of-the-line Networking ASIC.\n\nThe SDK System & Performance team manages all of SDK features that are device agnostic. This involves intricate C++ projects, that requires proficiency and intuition of C++, compiler, linker, loader, and general Linux program runtime environment and subsystems. You will improve SDK code quality, manage SDK threads, and various common SDK tools and utilities.\n\nWe manage SDK memory footprint and debuggability, which involves deep understanding of the Linux memory subsystem. You will profile, analyse, propose and implement solutions to improve SDK memory usage, and make it more robust.\n\nOne of the major cross device functionalities and engineering challenges is supporting SDK critical updates on live systems. You will work closely with major CISCO customers to enable and validate these functionalities.\n\nWe are looking for people who are in love with technology and engineering to help us push the limits of what is possible through innovation, determination, and teamwork.\n\nYour Impact\n\nDesign and deliver core, cross-device SDK infrastructure in modern C++ (C++14/C++17), with a strong focus on performance, scalability, and long-term maintainability\n\nDrive system-level engineering across the build and runtime stack, including deep work with the compiler, linker, loader, and binary/layout considerations\n\nOwn and improve the SDK\u2019s memory footprint and debuggability, building mechanisms that increase observability and reliability in production environments\n\nDiagnose complex issues across compile-time and runtime (performance regressions, memory behaviour, and hard-to-reproduce failures) and implement durable fixes\n\nDevelop and maintain low-level tooling and debug layers (e.g., allocation tracking/interposition) to support troubleshooting and serviceability\n\nCollaborate with partner teams to shape SDK architecture, design patterns, and engineering practices that enable robust platform operation and critical update workflows\n\nThe result of your work will be integrated into the products of world-leading companies and will have a worldwide impact.\n\nMinimum Qualifications\n\n3+ years of programming experience in C++ and system programming\n\nSolid knowledge of Linux\n\nAcademic education in computer technology (finished BSc/MSc studies)\n\nFluency in spoken and written English\n\nPreferred Qualifications\n\nSolid understanding of hardware architecture and its interaction with software.\n\nPassion for SW architecture.\n\nGood problem-solving, debugging, and analytical skills.\n\nExperience with other programming languages and tools such as Python.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014928EXTERNALENGLOBAL/C-Software-Engineer-SDK-System-Performance",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Belgrade-Serbia/C---Software-Engineer_2014928/apply"
+}

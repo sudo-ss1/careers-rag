@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL1451723EXTERNALENGLOBAL",
+ "req_id": "1451723",
+ "title": "MBIST Design Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Armenia, Armenia"
+ ],
+ "country": "Armenia",
+ "city": "Armenia",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2025-11-13T00:00:00.000+0000",
+ "skills": [
+  "mbist",
+  "scan/atpg",
+  "dft methodologies",
+  "asic design flow",
+  "fpga design flow",
+  "tcl",
+  "python",
+  "perl",
+  "test access mechanisms",
+  "built-in self-test",
+  "memory bist",
+  "fault coverage analysis",
+  "communication skills",
+  "project management",
+  "collaboration",
+  "debugging",
+  "test planning",
+  "automation scripts",
+  "root cause analysis"
+ ],
+ "teaser": "We are seeking a MBIST Design Engineer to drive innovation in test engineering for complex silicon systems. You will develop advanced DFT strategies, collaborate with cross-functional teams, and ensure robust, high-quality chips. Ideal candidates have hands-on experience in MBIST and DFT methodologies within digital and mixed-signal designs.",
+ "description": "This is a hybrid role with four days per week at Cisco\u2019s Yerevan office.\n\nMeet the Team\n\nJoin Cisco\u2019s ASIC Design for Test (DFT) Team, where innovation, collaboration, and technical excellence drive everything we do. As a group of passionate engineers, we are committed to pushing the boundaries of testability and reliability in complex silicon systems. Our mission is to enable robust, high-quality silicon by architecting and implementing advanced DFT solutions. Working in close partnership with design, verification, and physical implementation teams, we ensure that every Cisco chip is not only powerful, but also rigorously tested and dependable. Here, you\u2019ll play a pivotal role in shaping the future of test engineering while growing alongside some of the best minds in the industry.\n\nYour Impact\n\nIn this role, you will be central to Cisco\u2019s silicon quality and innovation by developing advanced DFT strategies that ensure every chip meets the highest standards for testability and reliability. You will address challenges across digital and mixed-signal domains, collaborating with multi-functional teams to design, implement, and optimize sophisticated test solutions. Your work will enhance product robustness, accelerate silicon validation, and drive progress in automated test methodologies.\n\nArchitect and Implement DFT Solutions: Design and integrate advanced Test Access Mechanisms (TAM), scan chains, Built-In Self-Test (BIST), and Memory BIST (MBIST) infrastructures for complex integrated circuits.\n\nTest Planning and Coverage Analysis: Lead test planning, test pattern generation, and fault coverage analysis to improve test coverage for both digital and mixed-signal designs.\n\nCollaborate Across Teams: Work closely with design, verification, ATE, and physical design teams to ensure DFT structures meet functional, timing, and implementation requirements.\n\nLeverage Tools and Automation: Apply and develop automation scripts and in-house tools for DFT workflows, including MBIST pattern generation and fault simulation, using industry-standard EDA solutions.\n\nFault Diagnosis and Debugging: Identify, analyze, and debug issues related to DFT structures, perform root cause analysis on failed tests, and recommend design changes for improved testability.\n\nDocumentation and Reporting: Prepare detailed documentation on test plans, test coverage, and debugging results; report on DFT metrics to ensure compliance with company and industry standards.\n\nMinimum Qualifications\n\nBachelor\u2019s or higher degree in Electrical Engineering, Computer Engineering, or a related technical field.\n\n2+ years of hands-on experience in MBIST, SCAN/ATPG, and DFT methodologies for complex digital and mixed-signal designs.\n\nProven expertise with industry-standard DFT tools and flows (e.g., Synopsys, Cadence, Mentor).\n\nStrong understanding of ASIC/FPGA design flow, including RTL design, verification, and test.\n\nProficiency in scripting languages such as Tcl, Python, or Perl for test automation and workflow enhancement.\n\nDemonstrated ability to identify, analyze, and resolve DFT issues related to MBIST insertion, pattern generation, and fault coverage.\n\nExcellent communication skills and experience collaborating within cross-functional engineering teams.\n\nPreferred Qualifications\n\nExpertise in advanced DFT methodologies such as Logic BIST, Memory BIST, and hybrid scan/MBIST approaches.\n\nExperience with low-power DFT strategies and power-aware test techniques.\n\nAbility to develop custom scripts or internal tools for DFT analysis and automation.\n\nFamiliarity with industry standards such as IEEE 1149.1 (JTAG) and IEEE 1500.\n\nExperience leading DFT efforts on large-scale projects and mentoring junior engineers.\n\nStrong project management skills and a track record of driving test planning and implementation best practices.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL1451723EXTERNALENGLOBAL/MBIST-Design-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Armenia/MBIST-Design-Engineer_1451723/apply"
+}

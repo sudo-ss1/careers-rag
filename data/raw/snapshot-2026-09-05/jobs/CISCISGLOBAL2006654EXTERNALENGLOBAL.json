@@ -1,0 +1,46 @@
+{
+ "job_seq_no": "CISCISGLOBAL2006654EXTERNALENGLOBAL",
+ "req_id": "2006654",
+ "title": "Design Verification Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Armenia, Armenia"
+ ],
+ "country": "Armenia",
+ "city": "Armenia",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-06T00:00:00.000+0000",
+ "skills": [
+  "asic digital design",
+  "verilog",
+  "system verilog",
+  "verilog simulators",
+  "python",
+  "tcl",
+  "formal verification",
+  "debugging",
+  "rtl design",
+  "make",
+  "micro-architecture",
+  "soc integration",
+  "dft verification",
+  "communication skills",
+  "amba protocol",
+  "axi protocol",
+  "apb protocol",
+  "ahb protocol",
+  "power optimization",
+  "jtag protocol",
+  "upf",
+  "power estimation",
+  "dft/mbist"
+ ],
+ "teaser": "We are recruiting a Design Verification Engineer to join our Silicon One development team in Yerevan. You will collaborate on chip architecture, drive DFT verification, and integrate sub-systems. Ideal candidates have significant ASIC digital design experience and strong coding skills.",
+ "description": "This is a hybrid role with four days per week at Cisco\u2019s Yerevan office.\n\nMeet the Team\n\nJoin our innovative ASIC Verification team, dedicated to ensuring the reliability and functionality of advanced digital designs. Our work is integral to delivering high-quality solutions that power next-generation products across the organization. The team is comprised of experienced engineers with diverse backgrounds, fostering a collaborative and energetic environment. We thrive on tackling challenging projects and leveraging the latest verification methodologies. With a strong focus on continuous learning and technical excellence, this team offers a dynamic and exciting place to grow your career.\n\nYour Impact\n\nDrive comprehensive test planning and development of robust test benches to support cutting-edge ASIC projects. Collaborate closely with design, design-verification, and physical design (PD) teams to integrate and validate test logic throughout all phases of implementation. Identify and resolve technical issues by leveraging advanced debugging tools and scripting skills. Develop and refine verification strategies to ensure optimal coverage and efficiency. Contribute to delivering high-quality, reliable products that advance technology and innovation.\n\nMinimum Qualifications\n\nBachelor\u2019s or Master\u2019s Degree in Electrical or Computer Engineering or any related field.\n\n2+ years of experience in design verification.\n\nDemonstrated experience in test planning based on complex design specifications.\n\nProven expertise in testbench development using System Verilog.\n\nHands-on debugging experience preferably with DVE and Verdi tools.\n\nProficiency in scripting languages with at least one of Tcl, Python, or Perl.\n\nPreferred Qualifications\n\nKnowledge of UVM and System Verilog.\n\nStrong problem-solving and analytical skills.\n\nAbility to work effectively in cross-functional teams.\n\nGood communication skills and ability to work in a team environment.\n\nExperience adapting verification strategies for AI calibration and emerging technologies.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2006654EXTERNALENGLOBAL/Design-Verification-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Armenia/Design-Verification-Engineer_2006654/apply"
+}

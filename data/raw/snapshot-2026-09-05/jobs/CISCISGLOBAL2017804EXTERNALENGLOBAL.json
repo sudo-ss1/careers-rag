@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2017804EXTERNALENGLOBAL",
+ "req_id": "2017804",
+ "title": "ASIC Physical Design Engineer - 7 to 10 years - Pune",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Pune, India"
+ ],
+ "country": "India",
+ "city": "Pune",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-14T00:00:00.000+0000",
+ "skills": [
+  "asic physical design",
+  "soc physical design",
+  "place and route",
+  "static timing analysis",
+  "cadence genus",
+  "cadence innovus",
+  "cadence tempus",
+  "cadence voltus",
+  "cadence pegasus",
+  "synopsys primetime",
+  "cadence redhawk",
+  "siemens calibre",
+  "ansys redhawk",
+  "tcl scripting",
+  "python scripting",
+  "perl scripting",
+  "power integrity analysis",
+  "ir/em analysis",
+  "physical verification",
+  "cad",
+  "analog design",
+  "mixed-signal design",
+  "linux development",
+  "eda tool integration",
+  "block-level implementation",
+  "floor planning",
+  "macros placement",
+  "i/o planning",
+  "congestion analysis",
+  "power distribution"
+ ],
+ "teaser": "We are looking for a skilled ASIC Physical Design Engineer to drive the implementation of advanced silicon photonics solutions. You will lead block-level design, collaborate on floor planning, and support full-chip integration. Ideal candidates bring significant ASIC/SoC experience and expertise in physical design flows within advanced CMOS nodes.",
+ "description": "What You'll Do\n\nWe are seeking a talented and expert Physical Design Engineer to join our team as a hands-on implementation engineer for Cisco\u2019s silicon photonics driver integrated circuits, supporting the next generation of 100G, 200G, and 400G\u2011per\u2011lambda optical interconnect solutions. You will be part of a broader team delivering high\u2011performance silicon that integrates control logic, CPU subsystems, high\u2011speed interfaces, and receive/transmit paths within a silicon photonics module, CPO optical engine.\n\nThis unique role offers the opportunity to be part of a highly dynamic team driving flows, methodologies, and physical implementation at block level & chip level. Leveraging a strong foundation in back\u2011end design fundamentals and physical implementation flows, you will own block\u2011level implementation, support in top level floor planning, place and route, clock and power distribution, timing closure, and physical verification.\n\nSpecific responsibilities include:\n\nAssist in RTL/netlist\u2011to\u2011GDSII implementation for block\u2011level and full\u2011chip designs in advanced technology nodes.\n\nSupport digital implementation flows and collaborate with EDA tool vendors to debug issues.\n\nSupport in developing hierarchical floor plans, macro placement, I/O planning, congestion, timing, and power distribution.\n\nPerform static timing analysis (STA), analyze timing reports, and implement timing ECOs using tools such as Tempus and Tempus ECO, or equivalent industry\u2011standard tools.\n\nCollaborate with RTL, Analog, DFT, Packaging, CAD, and EDA teams to resolve implementation issues and improve overall design convergence.\n\nRun and debug back\u2011end signoff checks, including power integrity, IR/EM analysis, and physical verification.\n\nDevelop automation scripts using TCL, Python, Bash, or Perl for QoR tracking, reporting, and flow efficiency.\n\nWho You\u2019ll Work With:\n\nAs a Physical Design Engineer, you will work with a diverse team of engineers across digital design, analog/mixed-signal design, DFT, verification, package engineering, CAD, and post-silicon validation. During the concept and planning phases, you will help define implementation strategy, physical constraints, and floor planning methodology. During execution, you will own block-level implementation and contribute to full-chip integration of various IPs\n\nYou will collaborate with cross-functional teams dispersed in various geo-locations to achieve timing, power, area, congestion, and signoff closure and help ensure successful silicon delivery through production.\n\nWho You Are\n\nBachelor\u2019s degree in Electrical Engineering or related field (Master\u2019s preferred)\u00a0\n\n8-12 years of PD experience in ASIC/SoC physical design and implementation\n\nHands-on experience with full physical design flow including floor planning, power planning, place and route, clock tree synthesis, extraction, STA, ECOs, and physical signoff\n\nExperience with industry\u2011standard synthesis tools such as Cadence Genus or equivalent; Place and Route tools like Cadence Innovus; Static Timing Analysis (STA) tools like Cadence Tempus and/or Synopsys PrimeTime; Back\u2011End Reliability & Power Integrity flows using tools such as Cadence Voltus or Ansys RedHawk; experience with industry\u2011standard physical verification tools such as Siemens Calibre and/or Cadence Pegasus.\n\nStrong scripting skills in TCL, Python, or Perl for automation and flow development\n\nFamiliarity with ASIC/SoC design flow, DFT concepts, and Linux-based development environments\n\nYou must be a team player and be able to collaborate effectively.\n\nStrong analytical, problem-solving, debugging, teamwork skills.\n\nMinimum Qualifications\n\nBachelor\u2019s or Master\u2019s in Electrical Engineering or equivalent field\n\n3+ years of PD experience in ASIC/SoC physical design and implementation in advanced CMOS tech nodes\n\nProven hands-on experience with the full physical design flow at block and/or chip level PD\n\nGood understanding of various EDA tools and sign-off criteria\n\nGood team player\n\nWhy Cisco\n\nWE ARE CISCO\n\n#WeAreCisco, where each person is unique, but we bring our talents to work as a team and make a difference. Here\u2019s how we do it.\n\nWe embrace digital and help our customers implement change in their digital businesses. Some may think we\u2019re \u201cold\u201d (30 years strong!) And only about hardware, but we\u2019re also a software company. And a security company. A blockchain company. An AI/Machine Learning company. We even invented an intuitive network that adapts, predicts, learns, and protects. No other company can do what we do \u2013 you can\u2019t put us in a box!\n\nBut \u201cDigital Transformation\u201d is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.)\n\nDay to day, we focus on the give and take. We give our best, we give our egos a break, and we give of ourselves (because giving back is built into our DNA.) We take accountability, we take bold steps, and we take difference to heart. Because without diversity of thought and a commitment to equality for all, there is no moving forward.\n\nSo, you have colorful hair? Don\u2019t care. Tattoos? Show off your ink. Like polka dots? That\u2019s cool.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017804EXTERNALENGLOBAL/ASIC-Physical-Design-Engineer-7-to-10-years-Pune",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Pune-India/ASIC-Engineer_2017804-1/apply"
+}

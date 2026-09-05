@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021631EXTERNALENGLOBAL",
+ "req_id": "2021631",
+ "title": "Data Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-04T00:00:00.000+0000",
+ "skills": [
+  "snowflake data cloud",
+  "dbt",
+  "etl/elt pipeline development",
+  "sql",
+  "python",
+  "data modeling",
+  "data quality management",
+  "data governance",
+  "data lineage",
+  "data observability",
+  "data integration",
+  "data architecture",
+  "ci/cd integration",
+  "agile",
+  "aws",
+  "gcp",
+  "power bi",
+  "sigma",
+  "tableau",
+  "thoughtspot",
+  "zero-copy cloning",
+  "secure data sharing",
+  "external tables",
+  "snowpark",
+  "dynamic tables",
+  "mcp gateways",
+  "kanban",
+  "technical governance",
+  "version control",
+  "stakeholder collaboration"
+ ],
+ "teaser": "Become part of our team as a Data Engineer, where you will design and maintain scalable data ecosystems to support advanced analytics and AI-driven solutions. You will develop robust ETL pipelines and collaborate with business stakeholders to deliver impactful data insights. Ideal candidates bring significant experience in cloud data warehousing and modern data platforms.",
+ "description": "Meet the Team\n\nJoin Cisco's Commerce Intelligence Data & Analytics team, a pivotal group delivering seamless intelligence, advanced analytics, and cutting-edge agentic experiences across our business operations. Our mission is to build a scalable, unified, and AI-ready data foundation that drives high-impact business decisions and automated actions. We achieve this by blending innovation, deep process knowledge, technical expertise, and a relentless focus on business impact, ultimately enhancing operational efficiency and data-driven decision-making at scale.\n\nYour Impact\n\nAs a Data Engineer, you will be instrumental in shaping our data landscape. You'll dive deep into operational processes, explore diverse source systems, and analyze complex data platforms to connect critical commerce operational needs. Your expertise will drive the design, build, and maintenance of a robust data ecosystem, enabling advanced analytical capabilities, AI, and agentic solutions. You'll be responsible for end-to-end ETL/ELT pipeline development for both structured and unstructured data, ensuring data threading and transformation within our Golden layer working with the extended team US time zones. A key aspect of your role will be collaborating with business functions across various time zones to design and own a reusable semantic layer, powering consumption across AI, agentic solutions, dashboards, and various applications.\n\nResponsibilities\n\nConduct in-depth exploratory data analysis to uncover trends and patterns in structured and unstructured datasets.\n\nTranslate complex business requirements into robust data solutions, integrating insights from diverse non-ERP sources with our Enterprise Data Warehouse (EDW).\n\nDesign, build, and optimize scalable ELT/ETL pipelines to ingest, transform, and publish data into the Snowflake Data Cloud.\n\nDevelop and maintain high-quality, analytics-ready data models using dbt, emphasizing modular design, reusability, rigorous testing, and maintainability.\n\nDesign and implement a reusable semantic layer that adheres to architectural standards and supports various consumption patterns (AI, agentic solutions, dashboards).\n\nLeverage Snowflake Cortex to integrate AI/LLM capabilities directly into data pipelines, enabling advanced analytics.\n\nDesign and develop data consumption layers, including dashboards, reports, conversational analytics, and agentic solutions.\n\nChampion and enforce data quality, observability, lineage, governance, and access control standards across our AI-ready data architecture.\n\nApplies working knowledge of databases, relational databases, cloud services, and scripting languages\n\nContributes to data quality and compliance, including cleansing and scrubbing of data, data integrations and data quality framework\n\nCollaborate strategically with data architects, analysts, and business stakeholders to define long-term data strategies and deliver scalable, reliable data solutions.\n\nEstablish and enforce technical governance, CI/CD best practices, and rigorous version control to ensure the integrity, security, and scalability of our modern data stack.\n\nDemonstrated experience applying Agile, Scrum, or Kanban methodologies within a data engineering environment.\n\nA self-starter with proven expertise to deliver outcomes with minimal supervision\n\nMinimum Qualifications\n\nBachelor\u2019s degree in Computer Science, Engineering, Information Systems, or a related technical field, or equivalent practical experience.\n\n5+ years of progressive experience in data engineering, with a proven track record in cloud data warehousing and modern data platform implementations.\n\n2+ years of hands-on experience developing AI and agentic solutions, specifically on platforms like Snowflake, AWS, or GCP.\n\nDeep expertise with the Snowflake Data Cloud, encompassing its architecture, security model, and operational best practices.\n\nStrong proficiency with dbt (Data Build Tool) for designing, developing, and maintaining data models, including automated testing and CI/CD integration.\n\nAdvanced SQL skills and practical working knowledge of Python for data manipulation and automation.\n\n5+ years of experience with leading BI/reporting tools such as Sigma or Power BI.\n\nPreferred Qualifications\n\nExperience with data quality, observability, and lineage tools to enhance monitoring, validation, and governance across complex data pipelines.\n\nFamiliarity with advanced Snowflake capabilities (e.g., zero-copy cloning, secure data sharing, external tables, Snowpark, dynamic tables, MCP gateways).\n\nSolid understanding of data and solution architecture principles.\n\nExposure to other BI/reporting tools (e.g., Tableau, ThoughtSpot) and a keen understanding of diverse downstream analytics consumption patterns.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021631EXTERNALENGLOBAL/Data-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Data-Engineer_2021631/apply"
+}

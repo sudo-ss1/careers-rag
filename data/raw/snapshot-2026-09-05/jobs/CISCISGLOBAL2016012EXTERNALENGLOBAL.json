@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2016012EXTERNALENGLOBAL",
+ "req_id": "2016012",
+ "title": "Database Administrator",
+ "category": "Information Technology",
+ "categories": [
+  "Information Technology"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-28T00:00:00.000+0000",
+ "skills": [
+  "root cause analysis",
+  "linux/unix administration",
+  "oracle database 23ai",
+  "oracle active data guard",
+  "terraform",
+  "high availability",
+  "oracle database 19c",
+  "disaster recovery",
+  "rman",
+  "sql",
+  "oracle database administration",
+  "ansible",
+  "database backup and recovery",
+  "oracle multitenant administration",
+  "performance tuning",
+  "oracle asm",
+  "shell scripting",
+  "infrastructure as code",
+  "oracle rac",
+  "docker",
+  "python",
+  "monitoring and observability",
+  "grafana",
+  "pl/sql",
+  "oracle enterprise manager",
+  "oracle enterprise manager cloud control",
+  "oracle database 26ai",
+  "prometheus",
+  "kubernetes",
+  "splunk"
+ ],
+ "teaser": "We are currently hiring a Database Administrator to manage and maintain Oracle Database platforms, ensuring high availability and security. You will implement automation, support upgrades, and optimise performance. Ideal candidates have significant experience in Oracle Database administration and a strong background in Linux/Unix environments.",
+ "description": "Meet the Team\n\nThe Cisco IT team is changing the way we run Cisco\u2019s operations by improving the power of technology, the best of business processes, and superior data insights. Together, we will Reimagine the Cisco experience, Reinvent applications, and Showcase the power of Cisco: our people, products, processes, systems, and data. You will be part of the Database Engineering and Site Reliability Engineering (SRE) team responsible for operating and maintaining Oracle Database platforms.\n\u00a0\n\nYour Impact\n\nIn this role, you will combine database administration, automation, and operational expertise to ensure the health, security, and availability of Oracle database infrastructure. You will work under the guidance of senior team members to implement automation solutions, perform lifecycle management, and support the stability of database services across on-premises and cloud environments. This is a great opportunity to transform how infrastructure platforms are developed and managed with full software automation.\n\nOracle Database Administration:\u00a0Manage and support Oracle Database environments (11g, 12c, 19c, 23ai); perform installation, configuration, and routine lifecycle management; ensure database availability, performance, and security.\n\nDatabase Upgrade & Migration:\u00a0Complete planned database upgrades and migrations using established procedures and tools such as AutoUpgrade, RMAN, and Data Pump.\n\nAutomation & Scripting:\u00a0Develop and maintain scripts (Shell, Python, SQL/PLSQL) to automate routine DBA tasks, health checks, and monitoring.\n\nSRE & Operational Support:\u00a0Contribute to the reliability and operational excellence of Oracle platforms; implement monitoring and alerting; participate in on-call rotations and incident management; support HA/DR activities.\n\nPerformance Tuning:\u00a0Perform basic performance analysis and optimization using AWR, ASH, and ADDM.\n\u00a0\n\nMinimum Qualifications\n\n8\u201313 years of experience in Oracle Database Administration supporting enterprise-scale production environments.\n\nProficiency in SQL, PL/SQL, Shell scripting, and Python.\n\nExperience with core Oracle technologies: Oracle ASM, RAC, Active Data Guard, RMAN, and OEM.\n\nExperience in supporting Oracle Database 19c and 23ai environments.\n\nExperience working in Linux/Unix production environments.\n\u00a0\n\nPreferred Qualifications\n\nExperience with infrastructure automation tools (e.g., Ansible or Terraform).\n\nFamiliarity with containerization technologies (Docker, Kubernetes).\n\nExperience managing Oracle workloads in public cloud environments (OCI, AWS, or Azure).\n\nOperational experience with other database ecosystems (e.g., MongoDB, PostgreSQL, or MySQL).\n\nStrong analytical, problem-solving skills, and a self-motivated approach to working in an Agile/DevOps environment.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016012EXTERNALENGLOBAL/Database-Administrator",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Database-Administrator_2016012-1/apply"
+}

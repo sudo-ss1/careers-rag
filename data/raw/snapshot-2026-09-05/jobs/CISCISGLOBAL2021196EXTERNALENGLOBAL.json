@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021196EXTERNALENGLOBAL",
+ "req_id": "2021196",
+ "title": "Senior Software Engineer  / Technical Lead",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Krakow, Poland",
+  "Gdansk, Poland",
+  "Warsaw, Poland"
+ ],
+ "country": "Poland",
+ "city": "Krakow",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-03T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "java",
+  "sql",
+  "restful apis",
+  "microservices",
+  "redis",
+  "elasticsearch",
+  "aws",
+  "docker",
+  "kubernetes",
+  "ci/cd pipelines",
+  "system monitoring",
+  "telemetry",
+  "log management",
+  "ai coding assistants",
+  "react",
+  "jenkins",
+  "gitlab ci/cd",
+  "data structures",
+  "algorithms",
+  "backend development",
+  "frontend programming",
+  "javascript",
+  "typescript",
+  "llm based ai solutions",
+  "mentoring",
+  "technical leadership",
+  "collaboration"
+ ],
+ "teaser": "Become part of our team as a Senior Software Engineer / Technical Lead, driving the design and development of Splunk\u2019s Security User & Entity Behaviour Analytics (UEBA) solution. Lead architectural discussions, mentor junior engineers, and deliver robust, scalable applications. Ideal for experienced technical leaders with strong backend and cloud expertise.",
+ "description": "Join us as we pursue our exciting vision to make machine data accessible, usable and valuable to everyone. At Splunk, we\u2019re committed to our work, customers, having fun and most importantly to each other\u2019s success. Learn more about Splunk careers and how you can become a part of our journey!\n\nWe are seeking a technical leader to help deliver Splunk's Security\u2019s User & Entity Behavior Analytics (UEBA) solution. UEBA is a risk management solution that leverages ML/AI algorithms and behavior analytics to provide comprehensive user and entity insights. By delving into these insights, security teams can identify anomalies and take measures to mitigate potential impacts.\n\nMeet the User and Entity Behavior Analytics (UEBA) Team\n\nWe are a passionate team who cares deeply about our customers, our teammates and you. In this role, you will work with product management, our design team, our customers and other engineering teams. We have a lean process that focuses on empowering and serving our engineers as opposed to just directing them.\n\nOur team develops software in Python and React and uses modern technologies like Docker, GitLab CI/CD, AWS and many more.\n\nOur Engineering Team operates in the following time zones: Central European Time, Eastern Time, Central Time and Pacific Time. Our team is fully distributed and we welcome English speakers within those time zones.\n\nWhat you'll get to do:\n\nOwn and be accountable for the design, development and operation of new product features\n\nLead team design and architectural discussions.\n\nBuild reliable, scalable, and high-performance applications.\n\nDebug and resolve customer-reported issues, delivering effective solutions.\n\nParticipate in on-call rotations, post-incident reviews, and other operational activities to ensure service reliability.\n\nLearn, explore, and integrate new technologies into the team\u2019s workflow.\n\nMentor junior members of the team with an eye toward their future career growth.\n\nMinimum Qualifications:\n\nBackend Development: Proficiency in Python (preferred) or Java, with a solid foundation in data structures, algorithms, microservices, and RESTful APIs.\n\nData & Storage: Expertise in SQL, key-value stores (Redis), and search/analytics platforms (Elasticsearch, Splunk).\n\nCloud & DevOps: Hands-on experience with AWS/Azure/GCP, containerization (Docker, Kubernetes), and CI/CD pipelines (Jenkins, GitLab).\n\nOperational Excellence: Skilled in system monitoring, telemetry, log management, and leveraging AI coding assistants (e.g., Cursor, Claude Code) to accelerate development.\n\nCommunication & Collaboration: Proven track record of translating complex technical concepts for diverse audiences and a demonstrated commitment to accountability and intellectual curiosity.\n\nExperience Requirements: 8+ years of related experience with a technical Bachelor\u2019s degree, or 6+ years with Master\u2019s.\n\nPreferred Qualifications:\n\nProficiency in frontend programming languages and frameworks such as JavaScript, TypeScript and React.\n\nHands-on experience with building, testing and deploying production ready LLM based AI solutions.\n\nThis role comes with the on-call shift schedule up to 20% of time.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021196EXTERNALENGLOBAL/Senior-Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Senior-Software-Engineer----Technical-Lead_2021196/apply"
+}

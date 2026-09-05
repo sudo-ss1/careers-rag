@@ -1,0 +1,41 @@
+{
+ "job_seq_no": "CISCISGLOBAL2012548EXTERNALENGLOBAL",
+ "req_id": "2012548",
+ "title": "Electrical Post-Silicon Characterization & Validation Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Caesarea, Israel"
+ ],
+ "country": "Israel",
+ "city": "Caesarea",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-06-09T00:00:00.000+0000",
+ "skills": [
+  "post-silicon validation",
+  "hardware characterization",
+  "asic validation",
+  "board debugging",
+  "clean python",
+  "evb asic bring-up",
+  "serdes",
+  "dc/dc channels",
+  "scope measurement",
+  "vna measurement",
+  "tda measurement",
+  "phase noise analysis",
+  "signal integrity",
+  "power integrity",
+  "validation methodologies",
+  "system-level debugging",
+  "technical leadership",
+  "data-driven communication"
+ ],
+ "teaser": "Become part of our team as an Electrical Post-Silicon Characterization & Validation Engineer, leading hands-on lab debugging and validation of advanced networking chips. Drive hardware performance through real-world testing and data analysis. Ideal for experienced engineers with a strong background in hardware validation and a passion for impactful, hands-on work.",
+ "description": "Meet the Team:\n\nThe Cisco Silicon One Post-Silicon Electrical Validation (EPSV) team in Caesarea works on the fastest, most power-hungry networking chips in the industry. We are the hardware experts who take the raw silicon and prove it actually works in the real world. We don't just run scripts from a desk\u2014we get our hands dirty in the lab physically probing boards and testing the limits of the hardware. Love sophisticated hardware puzzles? Want your work to directly impact mass production? This is the team to be in.\n\nYour Impact:\n\nLead hands-on lab debugging to fix complex silicon performance, characterization, and yield issues. Use bench findings and board-probing data to give feedback directly to the architecture and design teams. Lead ASIC bring-up on validation boards, focusing heavily on SerDes, high-speed interfaces, and power/clock domains. Run characterization across PVT (Process, Voltage, Temperature) conditions and analyse large datasets to resolve performance bottlenecks and improve chip yield. Write and optimize clean Python code to automate lab equipment and test internal chip logic. Serve as the technical lead for complex hardware debug, defining validation methodologies, and advanced lab measurement techniques for the team.\n\nWhy Join Us:\n\nBe part of a team working on the most advanced silicon products in the market! Are you an engineer who prefers physical testing and measuring boards in the lab over just running validation scripts on a computer?, This is the place for you!. We value pure hardware talent and provide ample opportunities for professional advancement.\n\nMinimum Qualifications\n\nB.Sc. in Electrical or Computer Engineering.\n\n6+ years of experience\u00a0in post-silicon validation, characterization, or hardware testing.\n\nExperience testing and measuring boards using scopes, VNAs, TDRs, and phase noise analysers.\n\nExperienced in bringing up ASICs on EVBs, specifically with SerDes and DC/DC channels.\n\nAbility to write automated scripts for hardware testing and data analysis.\n\nPreferred Qualifications\n\nSystem-level Debugging- trace bugs across the silicon, package, and PCB.\n\nGood understanding of signal and power integrity (jitter, supply noise).\n\nExperience using validation data to fix performance bottlenecks and improve production flow.\n\nTrack record of working smoothly with global teams from architecture through to physical design and DFT.\n\nStrong technical ownership, independent problem-solving, and direct, data-driven communication.\n\nLearn More:\n\n\ud83d\udc49From Our Blog: https://blogs.cisco.com/sp/more-scale-more-intelligence-and-more-control-new-cisco-solutions-for-accelerating-ai-networking\n\ud83d\udc49G300 Chip: https://www.cisco.com/c/en/us/solutions/collateral/silicon-one/g300-wp.html\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2012548EXTERNALENGLOBAL/Electrical-Post-Silicon-Characterization-Validation-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Caesarea-Israel/Senior-Electrical-Post-Silicon-Validation--Cisco-Silicon-On_2012548-1/apply"
+}

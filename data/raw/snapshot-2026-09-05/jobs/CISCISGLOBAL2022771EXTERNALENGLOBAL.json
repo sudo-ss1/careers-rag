@@ -1,0 +1,44 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022771EXTERNALENGLOBAL",
+ "req_id": "2022771",
+ "title": "Test Development Engineer",
+ "category": "Supply Chain and Manufacturing Ops",
+ "categories": [
+  "Supply Chain and Manufacturing Ops"
+ ],
+ "locations": [
+  "Bangkok, Thailand"
+ ],
+ "country": "Thailand",
+ "city": "",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-24T00:00:00.000+0000",
+ "skills": [
+  "teststand",
+  "optics product testing",
+  "labview",
+  "python",
+  "gauge repeatability and reproducibility",
+  "statistical process control",
+  "automated test systems",
+  "test system troubleshooting",
+  "root cause analysis",
+  "automated test equipment",
+  "test procedure documentation",
+  "spc",
+  "no fault found troubleshooting",
+  "return material authorization troubleshooting",
+  "test platform development",
+  "source control",
+  "deployment techniques",
+  "debugging",
+  "report writing",
+  "jmp",
+  "sql"
+ ],
+ "teaser": "Join us as a Test Development Engineer to lead the fast ramp up of new product test capacity and drive yield improvement in high-speed optical transceiver testing. You will develop and maintain automated test solutions, troubleshoot issues, and support product engineering. Ideal for candidates with significant optics product testing experience and strong automation expertise.",
+ "description": "Meet the Team\n\n\u00a0Our team is a passionate group of professionals dedicated to accelerating innovation in high-speed optical transceiver testing. We thrive on collaboration across hardware, software, and product disciplines to ensure quality and efficiency in every phase of product ramp-up. Leveraging advanced automation and AI-driven tools, we continuously enhance test coverage and operational excellence. Together, we tackle challenges with resilience and creativity, driving improvements that directly contribute to faster time-to-market and customer satisfaction. Joining us means becoming part of a forward-thinking team that values technical expertise, problem-solving, and a commitment to delivering impactful results.\n\nYour Impact:\n\nLead new product test capacity fast ramp up in early mass production phase, work with product engineering and design team to drive yield improvement and test time reduction.\n\nLead cost effective, high efficiency test solution development for high volume products.\n\nMaintain and improve automated test systems and software tools to increase test coverage and efficiency.\n\nLead troubleshoots test station\\product related issues. identify high failures items and ensure issues are resolved by drive to root cause\n\nSupport product engineering team to debug NFF and RMA troubleshooting.\n\nDocument test procedures, results, and provide detailed reports to stakeholders.\n\nTest process yields monitoring and SPC on a time basis.\n\n\u00a0\n\nMinimum Qualifications:\n\nBachelor\u2019s degree in Computer Science, Electrical Engineering, Computer Engineering, or a related field.\n\n5+ years of experience supporting optics product testing, with the capability to independently develop full test systems.\n\nProficiency in software engineering principles and techniques, including programming algorithms, source control, deployment techniques, and multi-threading.\n\nStrong experience using TestStand, LabVIEW, and Python for automating test scripts\n\nProven experience with optics test systems, equipment, and fixtures.\n\nDeep understanding of Gauge Repeatability and Reproducibility (GRR) and Statistical Process Control (SPC) for qualifying and monitoring Automated Test Equipment (ATE).\n\nExperience working with test systems that interact with automated handlers, alignment, or similar equipment in a high-volume environment.\n\nExcellent verbal and written communication skills.\n\nPreferred Qualifications\n\nExpertise in developing cost-effective, high-efficiency test solutions for high-volume products.\n\nAdvanced skills in maintaining and improving automated test systems and software tools to increase test coverage and efficiency.\n\nDemonstrated ability to troubleshoot test station and product-related issues, driving root cause analysis and resolution.\n\nExperience supporting product engineering teams with debugging No Fault Found (NFF) and Return Material Authorization (RMA) troubleshooting.\n\nExperience developing a common test platform.\n\nFamiliarity with additional automation or data analysis tools beyond JMP and SQL.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022771EXTERNALENGLOBAL/Test-Development-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangkok-Thailand/Test-Development-Engineer_2022771/apply"
+}

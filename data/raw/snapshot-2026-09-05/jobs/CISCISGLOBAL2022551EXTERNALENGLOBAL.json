@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022551EXTERNALENGLOBAL",
+ "req_id": "2022551",
+ "title": "Solutions Engineer - Artificial Intelligence (AI) Practitioner",
+ "category": "Sales",
+ "categories": [
+  "Sales"
+ ],
+ "locations": [
+  "Singapore, Central Singapore, Singapore"
+ ],
+ "country": "Singapore",
+ "city": "Singapore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-02T00:00:00.000+0000",
+ "skills": [
+  "artificial intelligence",
+  "python",
+  "cloud computing",
+  "machine learning",
+  "deep learning",
+  "generative ai",
+  "ai infrastructure",
+  "gpu systems",
+  "networking",
+  "storage",
+  "cloud services",
+  "container platforms",
+  "ai architecture",
+  "technical presentation",
+  "workshop facilitation",
+  "architecture discussion",
+  "model architecture",
+  "data center",
+  "model serving",
+  "model inference",
+  "vllm",
+  "nvidia nim",
+  "triton inference server",
+  "tensorrt-llm",
+  "pytorch",
+  "tensorflow",
+  "jupyter",
+  "nvidia ai enterprise",
+  "kubernetes",
+  "openshift"
+ ],
+ "teaser": "Become part of our team as a Solutions Engineer, where you will consult and drive the adoption of AI solutions across diverse industries. Engage with clients to understand their needs and deliver tailored AI solutions. Ideal for experienced professionals with deep expertise in AI technologies and strong communication skills.",
+ "description": "We are seeking a Solutions Engineer - Artificial Intelligence (AI) Practitioner to join our dynamic sales team. As an SE for AI Team, you will consult and drive the adoption of our AI solutions across various industries. You will work with potential clients, understand their specific needs, and provide tailored AI solutions that enhance their business operations. This role requires a deep understanding of AI technologies and expert capability to relay business and technical concepts to a diverse audience. Experience designing and documenting enterprise technology solutions using established architecture and deployment methodologies is an advantage.\n\nWho You'll Work With\n\nYou will work within the Cloud and AI Infrastructure organization, helping customers transform their businesses through AI, data center, networking, and cloud technologies. You will collaborate with customers, partners, sales teams, product specialists, and product engineering teams to turn customer problems into deployable solutions and successful business outcomes.\n\nWho You Are\n\nYou are energized by the rapid evolution of AI and enjoy solving complex technical and business problems. You are equally comfortable discussing model architectures with data scientists, infrastructure requirements with platform teams, and business outcomes with executives. You communicate clearly, present confidently, and use hands-on demonstrations to make complex ideas understandable.\n\nMinimum Qualifications:\n\n10+ years of experience in technology consulting, pre-sales experience, preferably in software, data, analytics, infrastructure, artificial intelligence, or related fields.\n\nStrong understanding of programming and scripting languages, particularly Python.\n\nExperience designing and documenting enterprise technology solutions using established architecture and deployment methodologies.\n\nAbility to develop and demonstrate practical AI solutions that address real-world business problems.\n\nStrong understanding of machine learning, deep learning, generative AI, and modern AI application architectures.\n\nExperience working with AI infrastructure, including GPU systems, networking, storage, cloud services, or container platforms.\n\nExcellent presentation and communication skills, with the ability to engage technical and non-technical audiences.\n\nAbility to lead customer workshops, architecture discussions, demonstrations, and technical evaluations.\n\nPreferred Qualifications\n\nBachelor's degree in Computer Science, Computer Engineering, Data Science, or a related field; an advanced degree is a plus.\n\nExperience with AI infrastructure, including GPU accelerators, high-performance networking such as InfiniBand or RoCE, and scale-out storage\n\nExperience with model-serving and inference frameworks such as vLLM, NVIDIA NIM, Triton Inference Server, TensorRT-LLM, or similar technologies.\n\nIn-depth understanding of transformer-based language models and multimodal architectures.\n\nExperience with frameworks such as PyTorch, TensorFlow, Jupyter, and NVIDIA AI Enterprise.\n\nFamiliarity with Kubernetes, OpenShift, containerization, MLOps, and production AI operations.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022551EXTERNALENGLOBAL/Solutions-Engineer-Artificial-Intelligence-AI-Practitioner",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Singapore-Singapore/Solutions-Engineer---Artificial-Intelligence--AI--Practitioner_2022551-1/apply"
+}

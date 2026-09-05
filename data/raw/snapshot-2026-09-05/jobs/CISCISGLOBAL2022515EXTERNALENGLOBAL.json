@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022515EXTERNALENGLOBAL",
+ "req_id": "2022515",
+ "title": "Software Engineer, Data & Scalability Platform (4-8 Yrs)",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-09-04T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "distributed systems",
+  "backend engineering",
+  "relational databases",
+  "analytical databases",
+  "object storage",
+  "caching",
+  "schema design",
+  "query tuning",
+  "stream processing",
+  "distributed worker management",
+  "go",
+  "java",
+  "c++",
+  "kafka",
+  "rabbitmq",
+  "pulsar",
+  "kinesis",
+  "ci/cd",
+  "automated testing",
+  "code review",
+  "agile development",
+  "production troubleshooting",
+  "observability instrumentation",
+  "opentelemetry",
+  "metrics",
+  "tracing",
+  "logs",
+  "cloud-native technologies",
+  "kubernetes"
+ ],
+ "teaser": "Join our team as a Software Engineer on the Data & Scalability Platform, where you will design, develop, and maintain scalable backend services and data pipelines. You will lead features from design to production, focusing on performance, reliability, and scalability. Ideal candidates have strong backend engineering experience and expertise in large-scale distributed systems.",
+ "description": "Meet the Team\n\nThe Splunk Agent Resilience team is defining the future of AI resilience. Our team provides scalable, cost-effective evaluation and guardrails that ensure AI agents behave as intended, improving reliability and reducing risks. This unified approach empowers our customers to confidently deploy and manage AI-powered applications with enhanced observability and control.\n\nAs a Software Engineer on the Data & Scalability Platform team, you will build and operate the systems that store, move, and transform every span, metric, and evaluation result the platform produces. You will own features end to end design, implementation, testing, and production support across our data stores, streaming pipelines, and processing services, and grow into the performance and capacity work that keeps the data plane fast and cost-effective as it scales.\n\nYour Impact\n\nDesign, develop, test, and maintain backend services and data pipelines that operate at high scale.\n\nBuild and extend features across the platform's data stores, relational, analytical/columnar, object storage, and caching including schema changes and safe migrations.\n\nImplement and tune the compute and pipelines that move and transform data, including stream processors, writers, and distributed worker fleets.\n\nSolve concrete problems in scalability, reliability, performance, and fault tolerance along the data path.\n\nImprove query and write performance through indexing, query tuning, and hot-path optimization.\n\nContribute to load testing, profiling, and benchmarking, and turn the results into targeted optimizations.\n\nAdd observability instrumentation so the components you build are measurable in production.\n\nWrite clean, scalable code and comprehensive tests, primarily in Python, with flexibility to use other backend languages such as Go.\n\nLead features from technical design through implementation, deployment, and production support.\n\nDebug production issues across data stores, queues, and services, and participate in code reviews, on-call, postmortems, and root-cause analysis.\n\nDrive improvements in engineering practices, automated testing, security, and reliability.\n\nMinimum Qualifications\n\nBachelor's degree with 4+ years of related experience, or Master's degree with 2+ years, or PhD with 0 years of relevant software engineering experience.\n\nStrong experience in backend engineering and building production-grade services.\n\nHands-on experience with large-scale distributed systems, with a focus on scalability, reliability, and performance.\n\nWorking experience with at least one database relational or analytical including schema design, query tuning, and safe migrations.\n\nExperience with streaming or queueing systems (e.g., Kafka, RabbitMQ, Pulsar, Kinesis).\n\nStrong proficiency in Python and experience with another backend programming language such as Go, Java, C++, or similar.\n\nStrong fundamentals in system design, distributed systems, APIs, data structures, algorithms, and concurrency.\n\nExperience with modern software engineering practices including CI/CD, automated testing, code reviews, Agile development, and production troubleshooting.\n\nPreferred Qualifications\n\nExperience with a columnar, analytical, or time-series store (e.g., ClickHouse, Druid, BigQuery, Snowflake).\n\nExperience tuning queue consumers or async task workers for throughput \u2014 concurrency, batching, and backpressure.\n\nExposure to performance work: profiling, benchmarking, or load testing real systems and acting on the measurements.\n\nExperience with cloud-native technologies, containerized environments (Kubernetes), and public cloud platforms (AWS, GCP, or similar).\n\nExperience with observability instrumentation and tooling (OpenTelemetry, metrics, tracing, logs).\n\nFamiliarity with multi-tenant systems, quotas, or rate limiting.\n\nExperience with secure coding practices and privacy-by-design.\n\nStrong communication skills and a collaborative approach to design and code review.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022515EXTERNALENGLOBAL/Software-Engineer-Data-Scalability-Platform-4-8-Yrs",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-EngineerSoftware-Engineer--Data---Scalability-Platform_2022515/apply"
+}

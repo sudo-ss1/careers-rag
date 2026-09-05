@@ -1,0 +1,37 @@
+{
+ "job_seq_no": "CISCISGLOBAL2016314EXTERNALENGLOBAL",
+ "req_id": "2016314",
+ "title": "Software Developer, Tools & Continuous Deployment",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Lysaker, Norway"
+ ],
+ "country": "Norway",
+ "city": "Lysaker",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-09T00:00:00.000+0000",
+ "skills": [
+  "unit testing",
+  "monitoring",
+  "communication skills",
+  "gitops",
+  "python",
+  "debugging",
+  "integration testing",
+  "kubernetes",
+  "api integration",
+  "elastic stack",
+  "ai tooling",
+  "linux/unix",
+  "devops",
+  "argocd"
+ ],
+ "teaser": "We are expanding our team: As a Software Developer in Tools & Continuous Deployment, you will contribute to the development and maintenance of in-house services and tools, focusing on Python and Kubernetes infrastructure. Ideal candidates have experience in software or DevOps engineering and a background in computer science.",
+ "description": "Meet the Team\n\nAt Lysaker, just outside of Oslo, Cisco Devices innovation center is home to 300+ passionate engineers working across hardware, software, mechanics, audio, media processing and artificial intelligence - from concept to product. We strive to create best-in-class video conferencing experiences by bringing together diverse engineering teams under one roof.\n\nThe Continuous Delivery team, is now looking for a new member. We develop, maintain and operate a wide range of in-house services and tools that facilitate the building, testing and deployment of the products we develop at Lysaker. We work closely together, both within the team and with many of the other teams in the organization. When our tools and services work well, every team ships better software.\n\nYour Impact\n\nWorking with our Continuous Delivery pipeline and internal services gives you the opportunity to improve both the deliveries to our customers and the developer experience. In your role you get the chance to work with many aspects of software development:\n\nBuild features and maintain functionality by writing software, mainly in Python\n\nDevelop and support our Kubernetes infrastructure using GitOps workflows with ArgoCD and Elastic Stack\n\nSet up metrics and alarms to keep our services healthy and observable\n\nImprove developer workflows by building AI tooling\n\nTest and debug, both your own code and the products we sell\n\nMinimum Qualifications\n\nDegree in computer science or equivalent\n\n1\u20132 years of professional software or DevOps engineering experience\n\nExperience in Python, including writing clean code, testing, and debugging.\n\nPreferred Qualifications\n\nFamiliarity with core DevOps tools like Git, Linux/Unix environments, and basic containerization (Docker).\n\nExperience with deploying services using Kubernetes\n\nInterest or experience in using AI tools (e.g., AI Agents, MCP, LLMs) to automate development and operational workflows\n\nExperience with writing unit/integration tests\n\nFamiliarity with building or integrating APIs\n\nGood collaboration and communication skills\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016314EXTERNALENGLOBAL/Software-Developer-Tools-Continuous-Deployment",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Lysaker-Norway/Software-Developer--Tools---Continuous-Deployment_2016314/apply"
+}

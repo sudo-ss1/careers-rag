@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020735EXTERNALENGLOBAL",
+ "req_id": "2020735",
+ "title": "Software Engineer - Platform Services",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Galway, Ireland"
+ ],
+ "country": "Ireland",
+ "city": "Galway",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-30T00:00:00.000+0000",
+ "skills": [
+  "go",
+  "kubernetes",
+  "python",
+  "cloud-native development",
+  "infrastructure as code",
+  "automation tools",
+  "terraform",
+  "aws",
+  "azure",
+  "gcp",
+  "observability tools",
+  "prometheus",
+  "grafana",
+  "opentelemetry",
+  "ai-assisted engineering",
+  "debugging",
+  "problem solving",
+  "platform reliability",
+  "openstack",
+  "testing frameworks",
+  "test-driven development",
+  "security scanning",
+  "vulnerability management",
+  "compliance frameworks",
+  "soc 2",
+  "pci dss",
+  "gdpr",
+  "ci/cd",
+  "gitops"
+ ],
+ "teaser": "We are seeking a Software Engineer to design and build scalable cloud-native applications and services within the Cisco Common Platform Services team. You will focus on Kubernetes layers and infrastructure, collaborating with cross-functional teams. Ideal candidates have strong experience in cloud engineering and automation.",
+ "description": "Meet the Team\n\nThe Cisco Common Platform Services (CCPS) organization is transforming how Cisco delivers software-as-a-service by providing a modern, consistent, and secure platform for all! With demonstrated ability, our global team brings innovative methodologies to building and managing hybrid cloud environments. We focus on platform management services, continuously evaluating infrastructure and operations to ensure efficiency and precision. Our expertise in IaaS and PaaS, combined with repeatable and portable delivery models, enables the rapid and secure deployment of applications.\n\n\u00a0\n\nWithin CCPS, the Cloud Software & Solutions (CSS) group designs and develops OpenStack and Kubernetes platform solutions with an emphasis on quality, stability, simplification, user experience, scalability, performance, and portability. We are looking for a Software Engineer to join our team and build scalable cloud-native applications and services.\n\n\u00a0\n\nKey Responsibilities\n\nDesign and build foundational capabilities of the cloud\u2011native ecosystem, with a focus on Kubernetes layers and the underlying infrastructure.\n\nDevelop and maintain automation and tooling for Kubernetes cluster lifecycle management, configuration, and upgrades.\n\nCreate and enhance platform components that support Kubernetes networking, storage, security, and resource management.\n\nCollaborate closely with SRE, security, networking and application teams to deliver robust and scalable platform capabilities.\n\nLeverage AI\u2011assisted engineering tools to improve productivity, code quality, and troubleshooting efficiency.\n\nParticipate in on\u2011call rotations, incident response, and post\u2011incident reviews to ensure platform reliability.\n\nRequired Qualifications\n\n4+ years of experience in software development or cloud/platform engineering roles.\n\nStrong proficiency in Go (Golang) or Python\n\nHands\u2011on experience with Kubernetes and cloud\u2011native technologies.\n\nSolid understanding of networking fundamentals.\n\nStrong debugging and problem\u2011solving skills in large\u2011scale environments.\n\nExperience with Infrastructure as Code and automation tools (e.g., Terraform).\n\nExperience with at least one major public cloud platform (AWS, Azure, or GCP).\n\nExperience using AI\u2011assisted tools to improve engineering efficiency and quality.\n\nExperience with observability tools (Prometheus, Grafana, OpenTelemetry).\n\nPreferred Qualifications\n\nExperience with large\u2011scale or multi\u2011tenant Kubernetes clusters.\n\nFamiliarity with OpenStack in private or hybrid cloud environments.\n\nExperience with testing frameworks and test\u2011driven development practices.\n\nUnderstanding security scanning, vulnerability management, and compliance frameworks (e.g., SOC 2, PCI\u2011DSS, GDPR).\n\nExperience with CI/CD, GitOps, or developer platform enablement.\n\nCollabHiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020735EXTERNALENGLOBAL/Software-Engineer-Platform-Services",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Software-Engineer---Platform-Services_2020735/apply"
+}

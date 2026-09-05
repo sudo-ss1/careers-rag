@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL2010102EXTERNALENGLOBAL",
+ "req_id": "2010102",
+ "title": "Senior Cloud Infrastructure Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India",
+  "Hyderabad, Telang\u0101na, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-11T00:00:00.000+0000",
+ "skills": [
+  "proactive alerts",
+  "iam implementation",
+  "spinnaker",
+  "jenkins",
+  "networking",
+  "terraform",
+  "istio",
+  "github",
+  "cost management",
+  "kubernetes",
+  "elk stack",
+  "google cloud platform",
+  "anthos service mesh",
+  "observability dashboards",
+  "apigee",
+  "automation scripting",
+  "capacity planning",
+  "docker"
+ ],
+ "teaser": "We are looking for a Senior Cloud Infrastructure Engineer to drive secure, scalable AI platform development at Cisco. You will manage GCP and Kubernetes resources, optimise service mesh, and ensure robust security. Ideal candidates bring extensive experience in cloud operations, DevOps, and advanced infrastructure management.",
+ "description": "Meet the Team \u00a0\n\nJoin Cisco\u2019s Enterprise AI team, the core group enabling Generative AI powered experiences across Cisco. Our mission is to build secure, scalable AI platforms that empower teams to safely develop, deploy, and operationalize AI-powered solutions. We operate at the intersection of applied AI, cloud infrastructure and security - partnering across engineering, security, compliance, and product teams to bring trusted AI to life at an enterprise scale.\u00a0\n\nWe are a fast-growing, highly collaborative team of platform engineers, AI engineers, and data scientists who value technical depth, ownership, and pragmatic execution. What makes this team exciting is the opportunity to define how secure Generative AI is built and governed inside a global technology leader. \u00a0\n\nAs a Senior SRE in our India hub, you will tackle complex networking and service mesh challenges across a global footprint. Your expertise in Anthos and Istio will be critical in maintaining the high-availability platform that powers Cisco's most advanced AI initiatives.\u00a0\n\n\u00a0\n\nYour Impact\u00a0\n\nDevelop and maintain\u00a0Terraform\u00a0scripts to provision and manage scalable\u00a0GCP and On-premise Kubernetes\u00a0resources and Docker containers.\u00a0\n\nConfigure and optimize\u00a0Anthos Service Mesh (ASM)\u00a0and\u00a0Istio\u00a0for service-to-service communication, security, and observability.\u00a0\n\nImplement and audit\u00a0IAM roles\u00a0and\u00a0GCP Quotas, ensuring the environment is \"Secure by Design\" with robust encryption and secrets updates.\u00a0\n\nBuild and leverage observability dashboards using\u00a0Elasticsearch and Kibana\u00a0to monitor system health and provide proactive alerts on performance and cost.\u00a0\n\nExecute capacity planning and scaling for new feature rollouts, ensuring the environment stays within defined cost envelopes and security standards.\u00a0\n\nMinimum Qualifications:\u00a0\n\nBachelor\u2019s or Master\u2019s Degree in Engineering or a related technical discipline.\u00a0\n\n10+ years of hands-on experience in Cloud/On-prem Operations or DevOps.\u00a0\n\nStrong proficiency in\u00a0Terraform,\u00a0Kubernetes, and\u00a0Docker.\u00a0\n\nExtensive experience with\u00a0IAM implementation,\u00a0GCP Quota management, and\u00a0Anthos Service Mesh (ASM)/Istio.\u00a0\n\nProven experience with\u00a0Apigee\u00a0and the\u00a0ELK stack.\u00a0\n\nPreferred Qualifications:\u00a0\n\nExperience with Jenkins, Spinnaker, and GitHub for automated delivery.\u00a0\n\nProven ability to manage hybrid traffic between cloud and on-premise platforms.\u00a0\n\nStrong analytical skills for cost envelope management and capacity planning.\u00a0\n\nAdvanced proficiency with cloud provider CLIs and automation scripting.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2010102EXTERNALENGLOBAL/Senior-Cloud-Infrastructure-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Senior-Cloud-Infrastructure-Engineer_2010102-1/apply"
+}

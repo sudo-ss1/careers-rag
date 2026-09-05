@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2011992EXTERNALENGLOBAL",
+ "req_id": "2011992",
+ "title": "Senior Software Development Engineer in Test (SDET), Hybrid, RTP, NC",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Research Triangle Park, North Carolina, United States of America"
+ ],
+ "country": "United States of America",
+ "city": "Research Triangle Park",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-05T00:00:00.000+0000",
+ "skills": [
+  "software development engineering in test",
+  "sd-wan",
+  "security",
+  "python",
+  "c++",
+  "ruby",
+  "golang",
+  "ci/cd",
+  "automation scripting",
+  "test strategy development",
+  "regression testing",
+  "integration testing",
+  "scalability testing",
+  "stress testing",
+  "longevity testing",
+  "threat modeling",
+  "web security",
+  "ipsec",
+  "bgp/ip/ospf/vpn/ipsec/nat",
+  "layer-2 (vlan/802.1q)",
+  "layer-3 (bgp/ip/ospf/vpn/ipsec/nat)",
+  "trex",
+  "linux tools",
+  "spirent",
+  "ixia",
+  "ai coding tools",
+  "gen-ai prompting techniques",
+  "feature development",
+  "bug fixing",
+  "cisco meraki"
+ ],
+ "teaser": "We are currently hiring a Senior Software Development Engineer in Test (SDET) to join our hybrid team at the RTP, NC office. You will develop and execute test strategies, collaborate with cross-functional teams, and drive automation for Cisco Meraki MX and Cisco Catalyst products. Ideal candidates have significant experience in software development and automation within SD-WAN or routing environments.",
+ "description": "The application window is expected to close on: 09/29/2026\nJob posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nThis is a hybrid role at the RTP, NC office.\n\nMeet the Team\n\nThe Cisco MX (Cloud-managed security and SD-WAN) QA team takes pride in ensuring the end-to-end system of the Meraki MX and Cisco Catalyst product line is ready to use. The team works on, but is not limited to, testing customer use cases, integration testing, scalability testing, stress and longevity testing. This team is also responsible for qualifying security services such as malware detection, URL filtering, web security, IPS, threat modeling, SD-WAN and SaaS/IaaS security capabilities all through a single Dashboard. Our products are used in over a million networks and our customers rely on our products to serve tens of millions of people. With the large footprint that we have, quality is our highest priority.\n\nYour Impact\n\nDevelop a strong understanding of Cisco Meraki MX use cases and workflows in customer environments.\n\nCollaborate with Product Managers and development teams to represent QA in requirements and design discussions.\n\nCreate and execute test strategies, reporting results and metrics to ensure feature quality.\n\nBuild and maintain automation scripts to support CI/CD and improve regression test coverage.\n\nDrive innovation by applying AI-driven ideas and contributing to feature development with a Test Driven Development approach.\n\nMinimum Qualifications\n\nBachelor's Degree, combined with 7 years of related experience in Software Development Engineering in Test, or in routing or SD-WAN domains, or Master's Degree of Science Degree in Computer Science, combined with 4 years of related experience or PhD, combined with 1 year of related experience.\n\n3+ years of Automation/Development experience.\n\nAbility to write feature development code with one of the programming languages such as: Ruby, Python, C, C++, Golang and hands-on experience with AI coding tools and Gen-AI prompting techniques.\n\nKnowledge of SDWAN, Security, Layer-2(VLAN/802.1Q), and Layer-3 (BGP/IP/OSPF/VPN/IPSec/NAT) and are at ease to ramp up quickly on new technologies and concepts.\n\nUnderstanding of traffic generators such as TRex, Linux Tools, Spirent, IXIA, etc and ability to explore tools and techniques to improvise testing.\n\nPreferred Qualifications\n\nAI usage day-in and day-out.\n\nFeature bug fixing with better quality in Firmware or Backend or UI.\n\nThe ability to communicate complex technical concepts clearly to peers and management.\n\nResearch of applications and Framework experience \u2013 Obtained patent(s), Published Whitepaper / Yellow paper on embedded solutions.\n\nExperience with developing frameworks for CI/CD pipelines.\u200b \n\nWorking experience with Cisco Meraki and/or Cisco Catalyst Devices\u00a0\n\n#sdwanhiring\n\n\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $139,300.00 to $203,600.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco\u2019s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks.\u00a0 Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco\u2019s policies:\n\n10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n\n1 paid day off for employee\u2019s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n\nNon-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n\nExempt employees participate in Cisco\u2019s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n\n80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of\u00a0unused sick time\u00a0carried forward\u00a0from one calendar year\u00a0to the next\n\nAdditional paid time away may be requested to deal with critical or emergency issues for family members\n\nOptional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco\u2019s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n\n.75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n\n1.5% of incentive target for each 1% of attainment between 50% and 75%;\n\n1% of incentive target for each 1% of attainment between 75% and 100%; and\n\nOnce performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$167,700.00 - $282,000.00\n\nNon-Metro New York state & Washington state:\n$149,100.00 - $250,900.00\n\n* For quota-based sales roles on Cisco\u2019s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n\n** Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011992EXTERNALENGLOBAL/Senior-Software-Development-Engineer-in-Test-SDET-Hybrid-RTP-NC",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Development-Engineer-in-Test--SDET-_2011992/apply"
+}

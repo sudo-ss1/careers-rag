@@ -1,0 +1,41 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022100EXTERNALENGLOBAL",
+ "req_id": "2022100",
+ "title": "Software Engineering Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Krakow, Poland"
+ ],
+ "country": "Poland",
+ "city": "Krakow",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-31T00:00:00.000+0000",
+ "skills": [
+  "scalability",
+  "software development standards",
+  "reliability",
+  "end-user documentation",
+  "architecture decision making",
+  "business issue interpretation",
+  "technical leadership",
+  "playbook ansible",
+  "product innovation",
+  "technical design documentation",
+  "kubernetes",
+  "project estimation",
+  "secure coding practices",
+  "stakeholder management",
+  "cross-functional collaboration",
+  "security",
+  "process improvement",
+  "mentoring"
+ ],
+ "teaser": "We are seeking a Software Engineering Technical Leader to design and build a hybrid platform for Cisco's largest customers, focusing on on-premises and cloud integration. Lead the development of secure, scalable microservices and Kubernetes solutions. Ideal for experienced engineers with strong expertise in Go, Python, Linux, and Kubernetes.",
+ "description": "Your Impact\n\nYou will help build a large hybrid platform that Cisco's biggest customers run inside their own environment, bringing Cisco services close to their devices and data. Most of your work is on the on\u2011premises, edge side of this platform and its Kubernetes foundation \u2014 the layer that installs the platform, connects it to the cloud, keeps it in sync, and keeps it secure, even in air\u2011gapped environments with no external network access. Because the platform spans both sides, you may also work on the cloud services it connects to, so end\u2011to\u2011end problems can be solved wherever they live.\n\nYou will write secure, well\u2011tested software and follow industry\u2011leading engineering standards, guided by Cisco's 'Design Thinking Principles' and a focus on simplification. Working closely with design and product management, you will deliver solutions that matter to customers, document your work for both engineers and end users, and resolve complex problems in development and production to keep customers successful.\n\nDesign and build the microservices and Linux components that install, configure, and run the platform on Kubernetes.\n\nDevelop production services in Go and Python that manage the platform's lifecycle and connect it to the cloud \u2014 and, when the work calls for it, contribute to the cloud services on the other side of that connection.\n\nAutomate the platform's build, install, and upgrade with Ansible across standard, hardened, and air\u2011gapped Linux and Kubernetes environments.\n\nImprove how the on\u2011premises platform and the cloud communicate \u2014 secure connectivity, message routing, and reliable data and file transfer.\n\nPartner with design and product management to deliver customer\u2011centric solutions.\n\nCreate technical design documentation and contribute to end\u2011user documentation.\n\nDebug and resolve issues in development and production to support customers.\n\nDrive product innovation and improve how the team builds software.\n\nMinimum Qualifications\n\nBachelor's degree + 8 years of related experience, or Master's degree + 6 years of related experience\n\nDeep, hands\u2011on experience designing, building, and operating microservices in production.\n\nCommercial experience developing production systems in Go.\n\nWorking proficiency in Python for platform, tooling, or service code.\n\nStrong experience with Linux/Unix and expert\u2011level Kubernetes, including designing resilient, highly available architectures.\n\nPractical experience with Ansible and at least one other infrastructure\u2011as\u2011code technology (Terraform, Puppet, Chef, or Helm) in a Git\u2011based workflow.\n\nSolid understanding of how distributed systems communicate securely and reliably - connecting on\u2011premises software to cloud services and moving data between them.\n\nAbility to scope work accurately and provide reliable estimates.\n\nAbility to translate business needs into technical direction and recommend industry standards.\n\nExpertise in interpreting business issues and recommending industry standards.\n\nPreferred Qualifications\n\nAny exposure to edge or on\u2011premises deployments is a bonus \u2014 including air\u2011gapped or restricted\u2011network setups \u2014 but it's something you can also learn on the team.\n\nExperience leading small\u2011to\u2011medium features from technical build through completion.\n\nDemonstrated ability to mentor peers and facilitate knowledge sharing (e.g., brownbags, design sessions).\n\nExperience leading postmortems, root cause analysis, and managing on\u2011call coverage.\n\nStrong communication skills to negotiate delivery trade\u2011offs with cross\u2011functional partners.\n\nExperience influencing architectural decisions with a focus on security, scalability, and reliability.\n\nFluency with agentic AI development tools \u2014 comfortable using them day to day and knowing where they add the most value.\n\nFamiliarity with FIPS\u2011mode cryptography, hardened Linux baselines, or other compliance\u2011driven engineering.\n\nWorking knowledge of Java is a plus for maintaining existing services in the platform.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022100EXTERNALENGLOBAL/Software-Engineering-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Software-Engineering-Technical-Leader_2022100-1/apply"
+}

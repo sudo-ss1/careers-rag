@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022769EXTERNALENGLOBAL",
+ "req_id": "2022769",
+ "title": "Test Development Engineer",
+ "category": "Supply Chain and Manufacturing Ops",
+ "categories": [
+  "Supply Chain and Manufacturing Ops"
+ ],
+ "locations": [
+  "Bangkok, Thailand"
+ ],
+ "country": "Thailand",
+ "city": "",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-24T00:00:00.000+0000",
+ "skills": [
+  "automated test software development",
+  "liv characterization",
+  "burn-in testing",
+  "semiconductor laser physics",
+  "optical waveguides",
+  "reliability physics",
+  "python",
+  "labview",
+  "optical alignment algorithms",
+  "waller's probers",
+  "source measure units",
+  "optical spectrum analyzers",
+  "test fixture design",
+  "test equipment integration",
+  "c#",
+  "optical coupling interfaces",
+  "test software development",
+  "optical alignment",
+  "sql",
+  "data visualization tools",
+  "high-volume manufacturing",
+  "test time optimization",
+  "silicon photonics testing",
+  "grating coupler alignment",
+  "cross-functional collaboration"
+ ],
+ "teaser": "We are seeking a Test Development Engineer to design and implement automated test solutions for semiconductor laser die characterisation and reliability screening. You will focus on LIV and Burn-In testing at the wafer level, collaborating with cross-functional teams. Ideal candidates have hands-on experience in optoelectronic device testing and automated test software development.",
+ "description": "Meet the Team\n\nOur team is a passionate group of professionals dedicated to accelerating innovation in high-speed optical transceiver testing. We thrive on collaboration across hardware, software, and product disciplines to ensure quality and efficiency in every phase of product ramp-up. Leveraging advanced automation and AI-driven tools, we continuously enhance test coverage and operational excellence. Together, we tackle challenges with resilience and creativity, driving improvements that directly contribute to faster time-to-market and customer satisfaction. Joining us means becoming part of a forward-thinking team that values technical expertise, problem-solving, and a commitment to delivering impactful results.\n\nIn this role, you will design, develop, and implement automated test solutions for the characterization and reliability screening of semiconductor laser dies, such as Distributed Feedback (DFB) lasers. Your primary focus will be on Light-Current-Voltage (LIV) characterization and Burn-In (BI) testing at the wafer level. You will collaborate closely with Optical Design, Reliability, and Manufacturing teams to ensure the production of high-yield, high-reliability laser components that support next-generation optical transceivers and silicon photonics products. This position plays a critical role in advancing the quality and performance of cutting-edge optical technologies through rigorous testing and cross-functional partnership.\n\nYour Impact\n\nDesign, develop, and validate automated test systems \uff08hardware and software\uff09 for laser die LIV characterization and Burn-In testing at wafer level.\n\nDevelop robust test software using languages such as Python, LabVIEW, C# to control optical and electrical instrumentation (SMUs, optical power meters, spectrometers, thermal controllers).\n\nDesign and optimize test fixtures, probe cards, and optical coupling interfaces for high-throughput, repeatable testing at wafer level.\n\n\u00a0\n\nMinimum Qualifications\n\nBS in Computer Science, Electric Engineering, Computer Engineering, or other relevant major.\n\n3+ years of hands-on experience in optoelectronic device testing, specifically with semiconductor lasers (DFB, EML, VCSEL, or Silicon Photonics).\n\nHands-on experience with optical and electrical test equipment: Source Measure Units (SMUs), Optical Spectrum Analyzers (OSAs), integrating spheres, photodetectors, and temperature controllers (TECs).\n\nStrong understanding of semiconductor laser physics, optical waveguides, and reliability physics (e.g., degradation mechanisms, Arrhenius acceleration models).\n\nProven experience with LIV characterization and Burn-In (BI) system architectures.\n\nProficiency in automated test software development \uff08specifically Python or LabVIEW\uff09.\n\nExperience with wafer probers (semi-automatic or fully automatic) and optical alignment algorithms.\n\nExcellent verbal and written communications skills.\n\nPreferred Qualifications\n\nExperience with database queries (SQL) and data visualization tools.\n\nFamiliarity with high-volume manufacturing (HVM) environments and test time optimization.\n\nKnowledge of silicon photonics testing and grating coupler alignment techniques\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022769EXTERNALENGLOBAL/Test-Development-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangkok-Thailand/Test-Development-Engineer_2022769/apply"
+}

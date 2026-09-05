@@ -1,0 +1,43 @@
+{
+ "job_seq_no": "CISCISGLOBAL2016548EXTERNALENGLOBAL",
+ "req_id": "2016548",
+ "title": "Senior Software Engineer - C/C++, IIoT Wireless & Satellite Networking |8-12 years",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-08-31T00:00:00.000+0000",
+ "skills": [
+  "c/c++",
+  "linux/rtos/networking os internals",
+  "control plane software",
+  "data plane software",
+  "bsps",
+  "device drivers",
+  "kernel modules",
+  "software architecture",
+  "system design",
+  "wireless networking",
+  "gen ai assistant technologies",
+  "natural language processing",
+  "openai",
+  "gemini",
+  "mcp",
+  "agentic ai",
+  "technical leadership",
+  "debugging and verification methodologies",
+  "l2/3 protocols",
+  "traffic generators/analyzers (ixia/sniffer)"
+ ],
+ "teaser": "We are looking for a Senior Software Engineer to design and develop IIoT hardware platforms and control plane software for Cisco IIoT Wireless products. You will work on secure, scalable networking solutions, collaborating with global teams. Ideal candidates have significant experience in C/C++ and wireless networking, with expertise in industrial and satellite communication systems.",
+ "description": "Meet the team\n\nJoin the\u00a0Cisco IIoT team\u00a0to work on product development for industrial switching and routing solutions that transform industrial operations. The team builds secure, scalable technologies across industrial networking, edge computing, and IoT security, helping customers in manufacturing, energy, transportation, and smart cities improve efficiency through real-time insights. Cisco offers software engineers a unique experience that blends the scale and resources of a global organization with a startup-like culture, strong collaboration, and broad growth opportunities.\n\nYour Impact\n\nDesign and development of IIoT hardware platforms, ensuring seamless integration between hardware and software layers.\n\nDesign and development of control plane and data plane software for Cisco IIOT Wireless products.\n\nDesign and develop low-level software components, including BSP, radio device drivers and kernel modules.\n\nAnalyze requirements and problem statements to come with right software designs and solutions. To be able to write details Design documents and Functional Specifications.\n\nTo Code and Unit Test Software components and modules. It is required to have strong white- box testing and automating skills. Triage, debug, and root cause simulation, software bring-up, and customer failures\n\nWork with local and remote teams to review Product Requirements Document,\u00a0\u00a0to collaborate on SW Functional and Develop Specifications, Unit and Integration test plans. Also responsible for reviewing test strategy and test plans for Functional and System Test teams.\n\nTo be able to innovate and come up with new ideas that can lead to filing patents and crafting IP value for the company\n\nMinimum Qualifications:\n\nBachelors (8-12 years) or Master\u2019s degree(6-10 years) in Computer Science, EE/ECE or related fields.\n\nPrior work experience with\u00a0control plane software or data plane software, data structures, Wireless experience (802.11ac/ax/be), Linux/RTOS/Networking OS internals\n\nStrong understanding of OS (e.g. Linux, RTOS, Unix) and experience working with Linux kernel, device drivers, and BSPs.\n\nDeep, hands-on expertise in 802.11 radio firmware, and system architecture\n\nDebug and resolve challenging cross-layer issues (RF, firmware, driver, system)\n\nStrong understanding and development experience in LEO (Low Earth Orbit) satellite communication systems and architectures.\n\nKnowledge of Starlink services, user terminals, gateways, and satellite internet connectivity.\n\nExperience with LTE, 5G NR, cellular gateways, SIM-based connectivity, and wireless communication systems.\n\nUnderstanding of satellite-based wireless backhaul architectures.\n\nExperience in developing software/firmware for networking products.\n\nExcellent knowledge of software architecture and system design.\n\nExperience using Traffic generators/Analyzers such as IXIA/Wireshark\n\nProficient in writing quality code in C/C++.\n\nTechnical leadership experience in leading high performance teams to provide technical leadership for designing and implementing quality features and solutions.\n\nHands on experience with Gen AI assistant technologies, natural language processing (NLP) or Gen AI technologies (OpenAI, Gemini, MCP, Agentic AI etc..)\n\nPreferred Qualifications:\n\nSignificant experience on 802.11 driver development and troubleshooting or LEO, Satellite internet, LTE, Cellular gateway communication and architecture.\n\nHaving hands on development experience on L2, L3, Wireless protocols is a plus.\n\nCisco Networking certificates such as CCNA, CCNP, CCIE are desirable.\n\nExperience with AI/ML and Agentic AI framework.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nDisclaimer\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently,\u00a0Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\nbe in direct response to an application you have submitted through the company career site\n\nbegin with screening or an interview\n\noriginate from a Cisco email address, and\n\nbe conducted across email, phone, or WebEx\n\n\u00a0\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam,\u00a0consider filing a report with your local law enforcement authorities. Cisco\u00a0bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016548EXTERNALENGLOBAL/Senior-Software-Engineer-C-C-IIoT-Wireless-Satellite-Networking-8-12-years",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Senior-Software-Engineer---C-C---IIoT-Wireless---Satellite-Networking_2016548/apply"
+}

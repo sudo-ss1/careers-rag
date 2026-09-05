@@ -1,0 +1,43 @@
+{
+ "job_seq_no": "CISCISGLOBAL2016572EXTERNALENGLOBAL",
+ "req_id": "2016572",
+ "title": "Embedded Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Lysaker, Norway"
+ ],
+ "country": "Norway",
+ "city": "Lysaker",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-11T00:00:00.000+0000",
+ "skills": [
+  "embedded software development",
+  "c programming",
+  "embedded linux development",
+  "python programming",
+  "rust programming",
+  "video io",
+  "usb",
+  "ethernet",
+  "pcie",
+  "audio io",
+  "image processing pipelines",
+  "test automation",
+  "fpga",
+  "hardware integration",
+  "ai coding tools",
+  "code review",
+  "data analysis",
+  "field troubleshooting",
+  "manufacturing data analysis",
+  "collaboration"
+ ],
+ "teaser": "Join us as an Embedded Software Engineer to contribute to the development of Cisco collaboration devices. Collaborate with cross-functional teams to enhance communications products and integrate new technologies. Ideal for candidates with a background in embedded software and programming languages, seeking hands-on involvement in high-quality hardware solutions.",
+ "description": "Meet the Team\n\nAs a global technology leader, Cisco has been redefining how people connect, communicate, and collaborate for decades. Our innovation in networking, security, and cloud-based solutions enables organizations to drive digital transformation and achieve their business goals. The Collaboration Employee Experience organization creates workspace solutions that connect people, places, and experiences.\n\nLocated just outside of Oslo, our Devices innovation center is home to 300+ passionate engineers working across hardware, software, mechanics, audio, media processing and artificial intelligence - from concept to product. We strive to create best-in-class video conferencing experiences by bringing together diverse engineering fields under one roof.\n\nThe Cisco Lysaker Platform team is looking for an embedded software engineer to join us. You will be working closely with other embedded software engineers as well as FPGA designers, hardware and test engineers to develop the next Cisco collaboration devices.\n\nYour Impact\n\nYou are an enthusiastic and skilled engineer who loves to work on high quality communications products. You are a good colleague who challenges the status quo with creation and innovation. You can figure things out by yourself, but you are comfortable participating in our friendly and team-oriented collaboration approach to learn from others.\n\nYou will:\n\nWork with embedded software for Cisco video collaboration products\n\nBe part of evaluation and integration of new technologies for future products\n\nTake part in continuously improving the test environment by writing tests and following up on automated failure reports to ensure high quality solutions.\n\nDepending on your background and interests, you may work across a broad range of technologies \u2014 such as USB, Ethernet, and PCIe; audio IO; video IO (e.g. HDMI and USB-C); camera sensors and image processing pipelines; thermal and fan control; touch displays; and board bring-up \u2014 with assignments tailored to each engineer.\n\nMinimum Qualifications\n\nRelevant higher education (Computer Science, Computer Engineering, Electrical Engineering, or similar) and strong interest in embedded software development\n\nExperience with relevant programming languages (C/Python/Rust)\n\nExperience with embedded Linux development\n\nPreferred Qualifications\n\nHands-on experience with developing and troubleshooting embedded systems\n\nExperience using AI coding tools effectively, with a critical eye for correctness and security implications in both generated code and code reviews\n\nExperience analyzing metrics and production data to investigate field and manufacturing issues\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016572EXTERNALENGLOBAL/Embedded-Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Lysaker-Norway/Embedded-Software-Engineer_2016572-1/apply"
+}

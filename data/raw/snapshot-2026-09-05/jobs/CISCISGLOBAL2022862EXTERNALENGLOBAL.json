@@ -1,0 +1,43 @@
+{
+ "job_seq_no": "CISCISGLOBAL2022862EXTERNALENGLOBAL",
+ "req_id": "2022862",
+ "title": "Substrate Design Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Taipei, New Taipei, Taiwan"
+ ],
+ "country": "Taiwan",
+ "city": "Taipei",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-09-04T00:00:00.000+0000",
+ "skills": [
+  "next generation technology",
+  "ieee standards",
+  "hardware design",
+  "system/board design",
+  "circuit board layout",
+  "hardware automation",
+  "validation and test",
+  "signal integrity",
+  "power design",
+  "solution verification",
+  "test methodology",
+  "issue resolution",
+  "product quality assurance",
+  "cross-functional collaboration",
+  "technical documentation",
+  "mentoring",
+  "code review",
+  "project leadership",
+  "ip development",
+  "research"
+ ],
+ "teaser": "Exciting opportunity for a Hardware Engineer to drive innovation in next-generation Cisco hardware products. Lead cross-functional teams, ensure high-quality design and validation, and contribute to industry standards. Ideal for experienced professionals with strong technical expertise and a background in hardware engineering.",
+ "description": "Meet the Team\n\nThe System Hardware team in the Cisco Silicon One Optical Group is seeking an ASIC Package Design Engineer focused on advanced package and PCB design. As a member of the hardware design team, you will help develop the next generation of Cisco optical products, participating in the definition and design of current and future ASICs, packages, PCBs, and PCBAs. You will work with a team of electrical, mechanical, and thermal engineers, collaborating closely with system architects, ASIC engineers, and SI/PI engineers to create next-generation optical engines.\n\nYour Impact\n\nIn this role, you will contribute to the development of advanced substrate and ASIC package layouts from early planning and floor planning through implementation, verification, and tape out.\n\nYou will collaborate closely with system, hardware, SI/PI, silicon, thermal, mechanical, and manufacturing teams to deliver high-speed, robust, and manufacturable package solutions. This role requires strong hands-on experience with Cadence Allegro Package Designer and Cadence SiP Layout, along with a solid understanding of substrate technologies, HDI design, stack-ups, routing constraints, controlled impedance, power/ground distribution, and advanced multi-die integration.\n\nResponsibilities\n\n\u2022 Create and maintain advanced substrate layouts for BGA, flip-chip, SiP, and multi-die package designs, as well as HDI and mSAP PCB designs.\n\n\u2022 Perform substrate floor planning, bump/ball map implementation, pinout optimization, stack-up implementation, and routing planning.\n\n\u2022 Use Cadence Allegro Package Designer and Cadence SiP Layout for package substrate layout, routing, rule checking, and design release.\n\n\u2022 Implement routing for high-speed signals, differential pairs, power, and ground networks while meeting SI/PI, impedance, spacing, via, and manufacturing constraints.\n\n\u2022 Set up, review, and resolve package-level design rules, DRC violations, and manufacturability issues.\n\n\u2022 Review DFM/DFT requirements and support fabrication, assembly, tape out, and package bring-up activities.\n\n\u2022 Generate and maintain design release documentation, layout databases, and manufacturing output files.\n\n\u2022 Participate in technical investigations, design reviews, and tradeoff discussions involving performance, manufacturability, cost, and schedule.\n\n\u2022 Assist in developing and improving substrate/package layout methodologies, flows, design rules, and best practices.\n\nMinimum Qualifications\n\n\u2022 Bachelor\u2019s degree with 5+ years of experience or Master\u2019s degree with 3+ years of experience in Electrical Engineering, Packaging Engineering, or a related field.\n\n\u2022 Hands-on experience with Cadence Allegro Package Designer and Cadence SiP Layout.\n\n\u2022 Understanding of package substrate technologies, layer stack-ups, routing constraints, via structures, power/ground distribution, and controlled impedance.\n\n\u2022 Experience routing high-speed signals, differential pairs, power, and ground networks.\n\n\u2022 Experience with design rule setup, DRC resolution, layout verification, and design release for fabrication and assembly.\n\n\u2022 Understanding of substrate manufacturing processes, DFM requirements, and assembly constraints.\n\nPreferred Qualifications\n\n\u2022 Master\u2019s degree in electrical engineering or a related field with 5+ years of experience.\n\n\u2022 Self-motivation, collaboration, strong communication, and a desire to innovate.\n\n\u2022 Strong attention to detail, ownership mindset, and ability to deliver manufacturable layouts on schedule.\n\n\u2022 Multi-year design experience with advanced package substrates, organic substrates, interposers, multi-chip modules, high-performance ASIC packages, and multi-die packaging technologies such as flip-chip, 2.5D, and 3D stacking.\n\n\u2022 Proficiency with Cadence Allegro platform tools, including PCB Editor, Advanced Package Designer, and SiP Layout.\n\n\u2022 Basic understanding of SI/PI tools such as XtractIM, PowerSI, HFSS, or similar tools.\n\n\u2022 Knowledge of high-speed layout constraints, including crosstalk mitigation, differential pair routing, impedance control, and signal spacing requirements, as well as Design Rule Checks (DRC) and Design for Manufacturing (DFM).\n\nWe do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022862EXTERNALENGLOBAL/Substrate-Design-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Taipei-Taiwan/Hardware-Engineer_2022862/apply"
+}

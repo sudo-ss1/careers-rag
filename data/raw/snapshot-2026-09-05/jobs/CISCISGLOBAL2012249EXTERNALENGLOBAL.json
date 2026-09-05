@@ -1,0 +1,40 @@
+{
+ "job_seq_no": "CISCISGLOBAL2012249EXTERNALENGLOBAL",
+ "req_id": "2012249",
+ "title": "PHY Post Silicon Validation Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Caesarea, Israel"
+ ],
+ "country": "Israel",
+ "city": "Caesarea",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-06T00:00:00.000+0000",
+ "skills": [
+  "c++",
+  "post-silicon validation",
+  "c#",
+  "python",
+  "dsp architecture optimization",
+  "networking systems",
+  "debugging",
+  "system validation",
+  "linux",
+  "git",
+  "data databases",
+  "gui development",
+  "jenkins devops",
+  "communication and signal processing",
+  "system orientation",
+  "multidisciplinary collaboration",
+  "multitasking"
+ ],
+ "teaser": "We are looking for a PHY Post Silicon Validation Engineer to join our post-silicon validation team, focusing on PHY system group work at Cisco Silicon One. You will contribute to the development of automation infrastructure and tools, working with advanced silicon technologies. Ideal candidates have experience in C++/C# or Python and post-silicon validation for DSP-based systems.",
+ "description": "What You'll Do\n\nYou\u2019ll be joining the post silicon validation team in PHY system group at Cisco Silicon One group as part of the silicon development at Cisco .\n\nOur team deals with PHY and system aspects of the SerDes communication IP: PHY FW, calibrations, system definitions and operations and post-silicon validation including developing the automation infrastructure and tools.\n\nWe use latest silicon technologies and processes to build the largest scale and most complex devices at the edge of feasibility.\n\nWho You'll Work With\n\nYou'll be part of our Group driving our game changing next generation network devices - Cisco Silicon One. Our unique team works in a startup atmosphere inside a stable and leading corporation. The position includes hands on work in our lab in Caesarea and Netanya.\n\nOur design center is unique - hosting all silicon HW and SW development disciplines inside one site.\n\nWe are transforming the industry and building a new internet for the 5G era, providing a unified, programmable silicon architecture that is the foundation of all Cisco's future routing products.\n\nOur devices are designed to be universally adaptable across service providers and web-scale markets, designed for fixed and modular platforms. Our devices deliver high speed without sacrificing programmability, buffering, power efficiency, scale or feature flexibility.\n\nCisco Silicon One is a revolutionary, ground-breaking technology for our customers and end users for decades to come! The Internet now has a new faster, better, safer engine!\n\u00a0\n\nMinimum Qualifications\u00a0\n\nB.Sc or M.Sc in Electrical Engineering, Computer Science, or equivalent\n\nExperience in PHY/SerDes validation\u00a0(high\u2011speed SerDes characterization, link stability, PVT corners) and/or other PHY layer of communication systems\n\nProven ability in system\u2011level debugging to isolate faults across HW/SW/Silicon\n\nStrong scripting/programming skills in Python or C++\n\nPractical experience with lab instrumentation: oscilloscopes, BERTs, spectrum analyzers\n\nPreferred Qualifications\n\nKnowledge of signal processing / communication theory (DSP, modulation, link\u2011layer communication)\n\nLinux proficiency, Git, and experience with Jenkins/DevOps automation frameworks\n\nGUI development experience and database familiarity\n\nUnderstanding of PCIe and Ethernet standards\n\nSystem orientation with a multi\u2011disciplinary approach and strong multitasking capability\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2012249EXTERNALENGLOBAL/PHY-Post-Silicon-Validation-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Caesarea-Israel/PHY-Post-Silicon-Validation-Engineer_2012249/apply"
+}

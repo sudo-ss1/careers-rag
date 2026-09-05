@@ -1,0 +1,40 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018790EXTERNALENGLOBAL",
+ "req_id": "2018790",
+ "title": "Lead Software Engineer - ThousandEyes",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "London, United Kingdom",
+  "Oeiras, Portugal"
+ ],
+ "country": "United Kingdom",
+ "city": "London",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-17T00:00:00.000+0000",
+ "skills": [
+  "java",
+  "kotlin",
+  "apache kafka",
+  "distributed systems",
+  "api modelling",
+  "data modelling",
+  "agentic ai development",
+  "kubernetes",
+  "cloud deployment",
+  "transactional databases",
+  "analytical databases",
+  "golang",
+  "document databases",
+  "relational databases",
+  "mentoring",
+  "knowledge sharing"
+ ],
+ "teaser": "Exciting opportunity for a Lead Software Engineer to drive the development and optimisation of backend systems for Cisco\u2019s Connected Devices platform. Lead technical solutions, ensure platform resilience, and mentor team members. Ideal for experienced engineers with expertise in Java or Kotlin and distributed systems.",
+ "description": "Meet the Team\u00a0\n\nCisco ThousandEyes is a Digital Experience Assurance platform that empowers organizations to deliver flawless digital experiences across every network - even the ones they don\u2019t own. Powered by AI and an unmatched set of cloud, internet and enterprise network telemetry data, ThousandEyes enables IT teams to proactively detect, diagnose, and remediate issues - before they impact end- user experiences.\n\nThousandEyes is deeply integrated across the entire Cisco technology portfolio and beyond, helping customers deploy at scale while also delivering AI-powered assurance insights within Cisco\u2019s leading Networking, Security, Collaboration, and Observability portfolios.\u00a0\n\nConnected Devices helps assure the quality of home broadband connections for millions of people around the world. You might already be one of them! The Platform Team builds and operates all the web and server-side components for Connected Devices, helping customers access, control, and get value from their data. We\u2019re a small but well-rounded team and our work has lots of angles: scaling our architecture for the next level of growth, building new features to help our customers get even more value and joining up with the rest of ThousandEyes to push the whole platform to the next level. Cisco is moving fast on AI, both in the product and in our tooling and there\u2019s lots of opportunity to push this forward in Connected Devices too.\n\nYour Impact\u00a0\n\nAs a backend Technical Leader in Connected Devices Platform you will:\n\nCreate code across our backend estate touching high volume streaming, responsive backend-for-frontend APIs, scalable domain services, transactional and analytical databases and more.\n\nEnsure the resilience and robustness of our platform to keep our customers having a great experience.\n\nDesign technical solutions for new product offerings and evolutions of our existing architecture.\n\nEvolve our development and operational processes so we can keep getting faster, more reliable and with even higher quality.\n\nHelp your teammates evolve their skills and practice through practical mentoring and knowledge sharing.\n\n\u00a0Minimum Qualifications:\u00a0\n\nExpert-level understanding of Java or Kotlin.\n\nWide experience working distributed systems especially using Apache Kafka.\n\nStrong architecture and design skills including data and API modelling.\n\nOn-the-job experience with agentic AI development including skills and harness development.\n\n\u00a0Preferred Qualifications\n\nBachelor's degree in Computer Science or similar.\n\nKnowledge of Kotlin and Golang.\n\nStrong understanding of Kubernetes and modern cloud deployment.\n\nExposure to a variety of datastore technologies covering transactional and analytical, relational and document-based.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018790EXTERNALENGLOBAL/Lead-Software-Engineer-ThousandEyes",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/London-United-Kingdom/Software-Engineering-Technical-Leader_2018790/apply"
+}

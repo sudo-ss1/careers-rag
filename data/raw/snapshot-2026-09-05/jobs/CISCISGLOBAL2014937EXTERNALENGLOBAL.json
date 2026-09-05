@@ -1,0 +1,41 @@
+{
+ "job_seq_no": "CISCISGLOBAL2014937EXTERNALENGLOBAL",
+ "req_id": "2014937",
+ "title": "DFT Engineer - Cisco Silicon One",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Tel Aviv-Yafo, Israel",
+  "Caesarea, Israel"
+ ],
+ "country": "Israel",
+ "city": "Tel Aviv-Yafo",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-30T00:00:00.000+0000",
+ "skills": [
+  "jtag",
+  "debug",
+  "production",
+  "atpg",
+  "dft",
+  "pre-silicon design",
+  "mbist",
+  "asic",
+  "boundary scan",
+  "scan",
+  "silicon",
+  "automatic test pattern generation",
+  "cadence modus",
+  "mentor fastscan",
+  "memory-in-system test",
+  "silicon bring-up",
+  "synopsys tetramax"
+ ],
+ "teaser": "We are currently hiring a DFT Engineer to develop and implement DFT features for Cisco Silicon One, ensuring high-quality, testable, and manufacturable designs. You will contribute to the full product cycle and collaborate across hardware teams. Ideal candidates have significant experience in DFT domains and a strong background in electrical engineering.",
+ "description": "Meet the Team\n\nWe are a leading DFT group, delivering End-to-End solutions for Cisco's flagship products, including Cisco Silicon One!. Our chips are strategically placed in critical AI infrastructure, powering next-generation network devices and supporting advanced AI workloads. We push the boundaries of technology, developing innovative DFT solutions that drive industry-leading programmability, scalability, and performance.\u00a0\n\nOur team operates in a hybrid model, with three days a week in the office in Azrieli Tower Tel Aviv or Caesarea, fostering collaboration and technical excellence in a startup-like atmosphere within a stable, global corporation!.\n\nYour Impact\n\nAs an Experienced\u00a0DFT Engineer, you will:\n\nDevelop and implement\u00a0DFT features\u00a0to ensure\u00a0high-quality, testable, and manufacturable designs.\n\nContribute to the\u00a0full product cycle, from\u00a0pre-silicon design to post-silicon debug and production qualification.\n\nCollaboration across multiple hardware teams throughout the silicon lifecycle.\n\nImplement\u00a0ATPG, scan compression, and memory BIST techniques\u00a0to improve test coverage and efficiency.\n\nLead\u00a0debugging and root-cause analysis\u00a0of silicon failures to improve\u00a0yield and reliability.\n\nEstablish\u00a0DFT methodologies and best practices\u00a0to improve the\u00a0efficiency of future designs.\n\nMinimum Qualifications\n\nB.Sc. in Electrical Engineering\u00a0or a related field.\n\n5+ years of hands-on experience with\u00a0one or more DFT domains, such as\u00a0scan insertion, BIST, or boundary scan, silicon debug.\n\nExperience with\u00a0Automatic Test Pattern Generation (ATPG)\u00a0methodologies.\n\nPreferred Qualifications\n\nStrong ability to\u00a0establish and refine DFT methodologies\u00a0from\u00a0design phase to high-volume production.\n\nAbility to\u00a0quickly learn new concepts and adapt to evolving technologies.\n\nExcellent\u00a0communication and presentation skills.\n\nStrong attention to detail and\u00a0system-level understanding\u00a0of networking and silicon solutions.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014937EXTERNALENGLOBAL/DFT-Engineer-Cisco-Silicon-One",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Tel-Aviv-Yafo-Israel/Senior-DFT-Engineer_2014937/apply"
+}

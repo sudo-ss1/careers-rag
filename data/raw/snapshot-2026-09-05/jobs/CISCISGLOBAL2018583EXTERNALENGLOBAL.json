@@ -1,0 +1,46 @@
+{
+ "job_seq_no": "CISCISGLOBAL2018583EXTERNALENGLOBAL",
+ "req_id": "2018583",
+ "title": "Platform Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Research Triangle Park, North Carolina, United States of America"
+ ],
+ "country": "United States of America",
+ "city": "Research Triangle Park",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-13T00:00:00.000+0000",
+ "skills": [
+  "linux system administration",
+  "infrastructure as code",
+  "kubernetes",
+  "python",
+  "go",
+  "ubuntu",
+  "rhel",
+  "centos",
+  "networking integration",
+  "storage integration",
+  "puppet",
+  "ansible",
+  "linux containers",
+  "proxmox",
+  "jenkins",
+  "slurm",
+  "ceph",
+  "elasticsearch",
+  "on-prem hosted infrastructure",
+  "bare-metal servers",
+  "nix",
+  "nixos",
+  "continuous improvement"
+ ],
+ "teaser": "Take on the role of Platform Engineer to design, develop, and maintain the software stack for our Collaboration Devices CI/CD platform. Collaborate with product development teams to deliver tailored solutions and drive continuous improvement. Ideal for experienced engineers with strong Linux administration and programming skills.",
+ "description": "The application window is expected to close on: 09/29/2026\nJob posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nMeet the team\n\nThe Engineering Infrastructure team serves as the backbone for the Collaboration Devices CI/CD platform, enabling high-velocity development for diverse technologies ranging from device drivers to AI/ML models. We function as a collaborative group of 12 based in Oslo, now expanding our footprint to RTP to better support US-based development workflows. We provide a robust, optimized platform that meets the unique needs of our developers. We pride ourselves on an agile, user-focused culture where we tackle complex technical challenges\n\nYour impact\n\nDesign, develop, and maintain the software stack of our infrastructure to ensure seamless CI/CD operations for Collaboration Devices. Collaborate with product development teams in RTP to deliver a platform for their specific technical requirements and unique deployment needs. Drive continuous improvement initiatives to enhance system performance and reliability. Act as a key technical liaison in the US, bridging the gap between global infrastructure efforts and local product development priorities. Take part in delivering the market leading video collaboration devices.\n\nMinimum qualifications\n\nBachelors + 7 years of experience in software engineering or infrastructure development, or Masters + 4 years of experience.\n\nExpertise in Linux system administration (Ubuntu, RHEL/CentOS), including networking and storage integration\n\nExperience with Infrastructure as Code (IaC) tools such as Puppet or Ansible.\n\nExperience in Linux Containers and Kubernetes operation and troubleshooting. strong skills in a few programming languages (preferably Python and GO).\n\nPreferred qualifications\n\nExperience with Proxmox, Jenkins, Slurm, Ceph and Elasticsearch.\n\nExperience with on-prem hosted infrastructure and bare-metal servers\n\nFamiliarity with Nix/NixOS environments.\n\nAnalytical mindset with a focus on continuous improvement and operational efficiency.\n\nSelf-motivated individual with a track record of taking initiative to drive technical progress.\n\nCollabHiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.\u00a0\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $139,300.00 to $203,600.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco\u2019s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks.\u00a0 Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco\u2019s policies:\n\n10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n\n1 paid day off for employee\u2019s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n\nNon-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n\nExempt employees participate in Cisco\u2019s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n\n80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of\u00a0unused sick time\u00a0carried forward\u00a0from one calendar year\u00a0to the next\n\nAdditional paid time away may be requested to deal with critical or emergency issues for family members\n\nOptional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco\u2019s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n\n.75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n\n1.5% of incentive target for each 1% of attainment between 50% and 75%;\n\n1% of incentive target for each 1% of attainment between 75% and 100%; and\n\nOnce performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$167,700.00 - $282,000.00\n\nNon-Metro New York state & Washington state:\n$149,100.00 - $250,900.00\n\n* For quota-based sales roles on Cisco\u2019s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n\n** Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018583EXTERNALENGLOBAL/Platform-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Platform-Engineer_2018583/apply"
+}

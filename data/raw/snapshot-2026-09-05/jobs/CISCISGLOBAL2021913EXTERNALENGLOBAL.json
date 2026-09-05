@@ -1,0 +1,52 @@
+{
+ "job_seq_no": "CISCISGLOBAL2021913EXTERNALENGLOBAL",
+ "req_id": "2021913",
+ "title": "Technical Leader, Splunk Security",
+ "category": "Customer Experience",
+ "categories": [
+  "Customer Experience"
+ ],
+ "locations": [
+  "Krakow, Poland"
+ ],
+ "country": "Poland",
+ "city": "Krakow",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-20T00:00:00.000+0000",
+ "skills": [
+  "splunk enterprise security",
+  "iso 27001",
+  "compliance frameworks",
+  "enterprise security architecture",
+  "ai/ml integration",
+  "stakeholder management",
+  "python programming",
+  "product roadmap influence",
+  "mentoring",
+  "security automation and orchestration",
+  "detection-as-code",
+  "rest api integration",
+  "gdpr",
+  "knowledge transfer",
+  "threat detection",
+  "technical leadership",
+  "technical training development",
+  "devsecops",
+  "ci/cd pipelines",
+  "sox",
+  "security analytics",
+  "infrastructure as code",
+  "soar automation",
+  "nist csf",
+  "pci-dss",
+  "siem platform design",
+  "technical coaching",
+  "pre-sales activities",
+  "security operations"
+ ],
+ "teaser": "Become part of our team as a Technical Leader, Splunk Security, where you will lead the delivery of complex security programmes and architecture for Splunk-based environments. Oversee advanced threat detection and automation, mentor junior consultants, and influence security strategy. Ideal for experienced professionals with deep expertise in Splunk or related security domains.",
+ "description": "Meet the Team\u00a0\n\nCisco Professional Services is looking for a Security Consulting Engineering Technical Leader to join our Splunk Security practice in Poland. Splunk (now part of Cisco) is a top-tier data platform. Security teams worldwide use it to catch threats, automate responses, and keep an eye on complex environments in real-time. As a Technical Leader,\u00a0you\u2019ll\u00a0be the most senior authority on our Splunk Security delivery team in Krakow. You will be the go-to technical authority for the practice, lead architecture for our most complex customer programs in\u00a0EMEA, and\u00a0create the internal resources that help our whole team succeed.\u00a0\n\n\u00a0\n\nYour Impact\u00a0\n\nYou\u2019ll\u00a0work with high autonomy, acting as the main person to call when complex security platform issues arise.\u00a0You\u2019ll\u00a0influence more than just individual projects\u2014you'll\u00a0help shape the Splunk product roadmap by working closely with our engineering teams and building tools that make the entire team faster and more efficient. Please\u00a0note:\u00a0this is a strategic, customer-facing role that requires travel.\u00a0\n\n\u00a0\n\nYour\u00a0Responsibilities:\u00a0\n\nTechnical Leadership:\u00a0You will\u00a0oversee the delivery of high-stakes programs, define the blueprints for things like SOAR frameworks and hybrid cloud environments, and\u00a0advise\u00a0senior leadership (CIOs, CISOs, VPs) on their long-term security strategy.\u00a0\n\nBuilding Knowledge:\u00a0You will\u00a0create and share essential assets like threat detection libraries, blueprints for SOCs, and deployment guides to make sure our delivery is always high-quality and consistent.\u00a0\n\nSecurity Engineering:\u00a0You will\u00a0design\u00a0advanced threat detection systems (using things like MITRE ATT&CK and risk-based alerting) and build complex automation programs.\u00a0You\u2019ll\u00a0also lead data onboarding and ensure everyone stays aligned with standards like PCI-DSS, ISO 27001, GDPR, NIST CSF, and SOX.\u00a0\n\nCoaching &\u00a0Pre-Sales:\u00a0You will\u00a0mentor\u00a0more junior security\u00a0consultants and lead pre-sales work, such as running architecture workshops and writing RFP responses.\u00a0You\u2019ll\u00a0also drive innovation by finding ways to bring AI and machine learning into our daily security workflows.\u00a0\n\n\u00a0\n\nMinimum qualifications:\u00a0\n\nEducation:\u00a0A Bachelor\u2019s in CS, Electrical Engineering, or a related field with 8+ years of experience; a\u00a0Master\u2019s\u00a0with 5+ years; or a PhD with 2+ years. (Relevant work experience is also fine).\u00a0\n\nCertifications:\u00a0You hold an expert-level certification (like CCIE or CISSP) or have proof of deep technical mastery. A professional-level DevNet or automation certification is a plus.\u00a0\n\nConsulting Experience:\u00a0You have 7+ years of experience in enterprise security\u2014specifically in consulting or professional services\u2014with at least 3 years as a technical or delivery lead.\u00a0\n\nDeep Expertise:\u00a0You are an expert in at least one of these: Splunk Enterprise Security architecture, SIEM platform design, SOC operations, security automation, or threat detection engineering.\u00a0\n\nProven Impact:\u00a0You have a history of building tools, playbooks, or frameworks that other people\u00a0actually use\u00a0to get work done.\u00a0\n\nCollaboration:\u00a0You have experience working with product and engineering teams to solve complex problems and can influence the direction of a product.\u00a0\n\nTechnical Skills:\u00a0You are strong in scripting (Python is our favorite), you know your way around REST APIs, and\u00a0you\u2019re\u00a0comfortable with automation and workflow tools.\u00a0\n\nCommunication:\u00a0You can explain complex tech to executives like CISOs and VPs, and\u00a0you\u2019re\u00a0good at persuading people at all levels, whether they are technical or not.\u00a0\n\nAI Ready:\u00a0Demonstrated applied experience with AI-enabled solution delivery: working knowledge\u00a0of AI-assisted CI/CD practices, API and automation integration with AI-driven tools, and AI solution validation techniques (output quality assurance, performance benchmarking, drift monitoring) in a consulting, engineering, or security context\u00a0\n\n\u00a0\n\n\u00a0\n\nPreferred qualifications\u00a0\n\nSplunk Certs:\u00a0Any Splunk-specific certifications (Architect, Cybersecurity Analyst, SOAR Developer, etc.) and deep experience with Splunk Enterprise Security or SOAR/Phantom.\u00a0\n\nAI Certs:\u00a0AWS AI Practitioner,\u00a0Azure AI App & Agent Developer,\u00a0AWS ML Engineer - Associate\u00a0\n\nSecurity Domains:\u00a0You have certifications like CEH, GIAC, or CompTIA Security+. You know your way around threat hunting, red/blue team ops, compliance (PCI-DSS, etc.), or threat intel frameworks (MITRE, Sigma, etc.).\u00a0\n\nInnovation:\u00a0You have worked with CI/CD, Infrastructure as Code, or\u00a0DevSecOps. You have a handle on AI/ML in security or know your way around other platforms like Sentinel,\u00a0QRadar, or Palo Alto XSOAR.\u00a0\n\nLanguages:\u00a0If you speak Polish, German, French, or\u00a0Arabic, Spanish or Dutch, let us know!\u00a0\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021913EXTERNALENGLOBAL/Technical-Leader-Splunk-Security",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Technical-Leader--Splunk-Security_2021913-1/apply"
+}

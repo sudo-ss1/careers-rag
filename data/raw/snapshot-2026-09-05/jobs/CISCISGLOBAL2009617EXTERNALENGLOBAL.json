@@ -1,0 +1,38 @@
+{
+ "job_seq_no": "CISCISGLOBAL2009617EXTERNALENGLOBAL",
+ "req_id": "2009617",
+ "title": "ASIC Physical Design CAD Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Caesarea, Israel",
+  "Tel Aviv-Yafo, Israel"
+ ],
+ "country": "Israel",
+ "city": "Caesarea",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-04-30T00:00:00.000+0000",
+ "skills": [
+  "vlsi design",
+  "physical design",
+  "cad tools",
+  "place and route",
+  "physical synthesis",
+  "design floor planning",
+  "timing closure",
+  "lvs/drc",
+  "physical design verification",
+  "synopsys",
+  "cadence",
+  "pd cad",
+  "integration",
+  "technology adoption"
+ ],
+ "teaser": "We are seeking a CAD Engineer to join our Cisco Silicon One Physical Design team, contributing to the development of next-generation network devices. You will play a key role in backend design and optimisation, leveraging your expertise in VLSI and physical synthesis. Ideal candidates have hands-on experience in backend design and a strong background in electrical or computer engineering.",
+ "description": "Job Description\n\nSilicon One is seeking a CAD Engineer to join the Cisco Silicon One Physical Design team.\n\nMeet the Team\n\nYou'll be part of the Cisco Silicon One team, which is at the heart of Cisco\u2019s software and ASIC design efforts.\n\nAs part of our team, you\u2019ll contribute to the development of our next-generation network devices\u2014Cisco Silicon One\u2122. Our team operates in a startup-like environment within a stable and leading corporation.\n\nOur design center is uniquely equipped, hosting all silicon hardware and software development fields under one roof.\n\nWe are revolutionizing the industry by building a new internet for the 5G era, providing a unified, programmable silicon architecture that serves as the foundation for all of Cisco's future routing products. Our devices are designed to be universally adaptable across service providers and web-scale markets, catering to both fixed and modular platforms. They deliver high speed without compromising on programmability, buffering, power efficiency, scale, or feature flexibility.\n\nCisco Silicon One is a ground-breaking, groundbreaking technology that will serve our customers and end users for decades to come. The Internet now has a new, faster, better, and safer engine!\n\nYour Impact\n\nYou'll be joining our Physical Design team within Cisco Silicon One, which is responsible for the entire backend methodology and flow development from RTL to GDS. This is a critical part of the group leading the development of high-quality VLSI designs.\n\nOur Backend Engineers handle all aspects of chip design, including Definition, Physical Synthesis, Place and Route, Optimization, Timing Closure, Design Floor Planning.\n\nYou will be leveraging your backend and physical design experience to drive the development, optimization, and innovation of CAD methodologies and tools, ensuring the highest quality and efficiency in our chip design flows from RTL to GDS.\n\nMinimum Qualifications\n\nA VLSI Design Engineer with extensive experience in backend design\n\nB.Sc./M.Sc. in Electrical Engineering or Computer Engineering with relevant background.\n\n2+ years of hands-on experience in a relevant domain\n\nStrong understanding of Place & Route flow\n\u00a0\n\nPreferred Qualifications\n\nDeep understanding of Physical construction and Integration.\n\nKnowledge of Physical Design Verification methods like LVS/DRC and formal verification.\n\nExperience with PD CAD and Physical Design EDA tools (e.g., Synopsys, Cadence).\n\nAbility to support technology adoption and new tool integration.\n\nGreat teammate, self-learner, and able to work independently.\n\n#li-as6\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2009617EXTERNALENGLOBAL/ASIC-Physical-Design-CAD-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Caesarea-Israel/CAD-Engineer_2009617/apply"
+}

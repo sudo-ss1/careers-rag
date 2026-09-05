@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2016231EXTERNALENGLOBAL",
+ "req_id": "2016231",
+ "title": "Hardware Engineer- (Power electronics/ Analog design) - BLR , 8 to 15 yrs",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-06-05T00:00:00.000+0000",
+ "skills": [
+  "power design",
+  "power electronics",
+  "analog design",
+  "power supply design",
+  "system design",
+  "failure analysis",
+  "root cause analysis",
+  "corrective action reporting",
+  "8d methodology",
+  "concept",
+  "allegro",
+  "ltspice",
+  "pspice",
+  "simplis",
+  "mathcad",
+  "powerdc",
+  "siwave",
+  "ansys",
+  "hyperlynx",
+  "stability analysis",
+  "oscilloscope operation",
+  "function generator operation",
+  "electronic load testing",
+  "bench power source operation",
+  "ac/dc power source operation",
+  "firmware design",
+  "mechanical design",
+  "thermal design",
+  "design for manufacturing",
+  "quality assurance"
+ ],
+ "teaser": "We are looking for a Hardware Engineer to develop reliable power solutions for Cisco's networking products. You will design and test system power, collaborate with cross-functional teams, and contribute to power engineering projects. Ideal candidates have significant experience in power electronics or analog design and expertise with relevant tools.",
+ "description": "Meet the Team\u00a0\n\nCommon Hardware Group (CHG) Power is a central team that supports power design across various products like Cisco 8000 Series Routers, Catalyst 9000 switches, IoT, and many others. As part of the central hardware power engineering group, you will collaborate with various functions like Hardware Design and Test, ASIC Design and Test, Power Engineering, Signal Integrity, EMC / EMI, and Mechanical Design, growing the breadth of your knowledge, designing power and delivering outstanding products to the market.\n\nYour Impact\u00a0\n\nAs a Power Hardware Engineer, you will develop highly reliable Power solutions for Cisco's networking products. These products range from 10W IP phones to 3000W+ Data Center and Service Provider switches and routers. This individual will contribute to the power development team and be responsible for all design aspects of the System power.\n\nDevelop and qualify system power to meet the power requirements of new products.\n\nDevelop and execute test plans for upcoming power designs and document procedures, plans, and specifications used by the Power team.\n\nAssist in the resolution of power-related field/product issues for assigned projects.\n\nEngage with power supply vendors to develop power supply that meets Cisco Quality requirement and timeline.\n\nPerform design reviews of schematics, BOMs, layout and routing.\n\nPerform and review failure analysis (FA), root cause analysis (RCA), and corrective action reports (CAR), and 8D reports.\n\nMinimum Qualifications :\n\nBachelor\u2019s degree in electrical or computer engineering or power electronics with 6+ years of experience or a Master\u2019s degree in electrical or computer engineering or Power electronics with 4+ years of experience or PhD with 1+ years of related experience.\n\nExperience with power design or power electronics or analog design.\n\nExperience with power design topologies such as buck, buck-boost, and design for highest efficiency.\n\nExperience with any of the following tools: Concept, Allegro, LTspice, PSpice, Simplis, Mathcad, PowerDC, SIWave, Ansys or Hyperlynx.\n\nPreferred Qualifications :\n\nKnowledge and interest in both Board Mounted and Front-End Power hardware design and solving complex analog or power designs problems.\n\nKnowledge of latest power technologies such as TLVR, CFP, vertical power deliver for high power ASIC in system design.\n\nExperience using Stability analyzers, oscilloscopes, function-generators, electronic loads, bench programmable AC or DC power sources.\n\nFamiliar with Firmware, Mechanical and thermal design in Power Supply.\n\nStrong knowledge of components, materials and manufacturing processes, and quality assurance (QA) including performing design for manufacturing (DFM)\n\nExperience with designing power supplies to meet international regulatory requirements, EMC requirements, reliability requirements, environmental requirements, and leading telecom industry requirements including NEBS.\n\nKnowledge of software like Python, Labview, C++ and system design.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016231EXTERNALENGLOBAL/Hardware-Engineer-Power-electronics-Analog-design-BLR-8-to-15-yrs",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Hardware-Engineer---Power-electronics--Analog-design----BLR---8-to-15-yrs_2016231/apply"
+}

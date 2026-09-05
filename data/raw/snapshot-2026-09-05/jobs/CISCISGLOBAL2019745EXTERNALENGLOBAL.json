@@ -1,0 +1,47 @@
+{
+ "job_seq_no": "CISCISGLOBAL2019745EXTERNALENGLOBAL",
+ "req_id": "2019745",
+ "title": "Software Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India",
+  "Hyderabad, Telang\u0101na, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-14T00:00:00.000+0000",
+ "skills": [
+  "python",
+  "ci/cd pipelines",
+  "machine learning",
+  "infrastructure automation",
+  "cloud platforms",
+  "aws",
+  "amazon bedrock",
+  "azure openai",
+  "kubernetes",
+  "langchain",
+  "langsmith",
+  "graphql",
+  "fastapi",
+  "mulesoft agent broker",
+  "llm orchestration",
+  "api integration",
+  "network performance analysis",
+  "system monitoring",
+  "root cause analysis",
+  "cross-functional collaboration",
+  "analytical skills",
+  "problem solving",
+  "technical communication"
+ ],
+ "teaser": "We are looking for a Software Engineer to architect and optimise machine learning pipelines supporting mission-critical AI initiatives. You will drive operational efficiency, automate workflows, and collaborate with cross-functional teams. Ideal candidates have experience in AI/ML development and strong analytical skills.",
+ "description": "Meet the Team\n\nThis Cisco team drives all Lifecycle processes and systems anchored on delivering the best customer and partner experience. Our scope includes Market-to-Lead, Lead-to-Opportunity, Opportunity-to-Booking, Order-to-Cash, Onboard-to-Optimize, Escalate-to-Resolve, Renew-to-Booking, and Support-to-Advocacy. We offer a unique opportunity for dedicated, passionate, and highly creative engineers to have a wide-ranging impact on our development activities.\n\nYour Impact\n\nAs a Software Engineer, you will serve as the critical architect bridging the gap between advanced AI/ML development and mission-critical IT Operations. You will be responsible for engineering and optimizing intelligent solutions that automate complex IT workflows, mitigate operational risk, and enable precise, automated root cause analysis. By operationalizing machine learning at scale, you will transform IT environments\u2014reducing manual overhead, sharpening diagnostic accuracy, and accelerating operational velocity to ensure the uncompromising reliability and scalability of our global applications.\n\nWhat You\u2019ll Do\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Architect & Innovate: Design, deploy, and maintain high-performance machine learning pipelines tailored to support mission-critical AI Technologies initiatives.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Automate & Optimize: Drive operational efficiency by automating routine tasks and building robust CI/CD pipelines to streamline deployment workflows.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Collaborate Cross-Functionally: Partner closely with Data Scientists, Software Engineers, and Infrastructure/Operations teams to integrate AI-driven intelligence into existing IT ecosystems seamlessly.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Analyze & Interpret: Evaluate complex network performance data to uncover actionable trends, detect anomalies, and identify strategic opportunities for system optimization.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Ensure System Reliability: Develop and manage proactive monitoring and alerting frameworks to maintain peak system health.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Resolve & Refine: Troubleshoot and remediate complex issues within AI Technologies environments, ranging from configuration challenges to systemic service disruptions.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Measure Success: Track and report on key performance indicators (KPIs) to quantify the business impact and efficacy of AI Technologies implementations.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Stay Ahead of the Curve: Continuously explore emerging advancements in AI and machine learning, applying cutting-edge technologies to drive perpetual improvement.\n\nMinimum Qualifications\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Bachelor\u2019s degree in Computer Science, Engineering, or a related field with 2-4 years of relevant experience.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Proficiency in scripting languages (e.g., Python) and modern automation frameworks.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Proven experience with CI/CD pipelines and infrastructure automation.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Solid foundational knowledge of machine learning concepts and their practical application in real-world systems.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Strong analytical and problem-solving capabilities with a demonstrated ability to identify trends in complex datasets.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Solid experience with Agile development process and ways of working \u2013 Jira, Github, Source Control Management.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Excellent communication and interpersonal skills, with the ability to thrive in diverse, cross-functional technical teams.\n\nPreferred Qualifications\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 AI Systems & Infrastructure: Direct experience with AI Technologies platforms and network assurance solutions, complemented by hands-on proficiency in cloud-based AI infrastructure, specifically AWS, Amazon Bedrock, and Azure OpenAI.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Cloud-Native & Deployment: Demonstrated familiarity with cloud-native technologies and container orchestration, including Kubernetes and Docker, alongside proven experience in the end-to-end design and deployment of scalable machine learning models in production environments.\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Technical Expertise: Comprehensive experience with AI-native development tools and intelligent agent architecture, including LangChain, LangSmith, GraphQL, FastAPI, MuleSoft Agent Broker, and related LLM orchestration and API integration technologies.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019745EXTERNALENGLOBAL/Software-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2019745-1/apply"
+}

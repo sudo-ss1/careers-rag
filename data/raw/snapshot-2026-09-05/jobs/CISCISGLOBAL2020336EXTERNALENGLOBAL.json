@@ -1,0 +1,42 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020336EXTERNALENGLOBAL",
+ "req_id": "2020336",
+ "title": "Site Reliability Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "London, United Kingdom"
+ ],
+ "country": "United Kingdom",
+ "city": "London",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-07-31T00:00:00.000+0000",
+ "skills": [
+  "kubernetes",
+  "microservices architecture",
+  "gitops",
+  "helm",
+  "ci/cd",
+  "argo cd",
+  "hashicorp vault",
+  "kubernetes secrets",
+  "prometheus",
+  "grafana",
+  "open policy agent",
+  "observability",
+  "disaster recovery",
+  "configuration management",
+  "backstage",
+  "continuous improvement",
+  "policy enforcement",
+  "data-driven approach",
+  "collaboration"
+ ],
+ "teaser": "We are currently hiring a Site Reliability Engineer to drive the design, deployment, and optimisation of Kubernetes-based microservices for Cisco's Webex Engineering Group. You will ensure secure, scalable, and high-quality configurations, supporting hybrid working and operational excellence. Ideal candidates bring strong Kubernetes and microservices experience, with a background in software development.",
+ "description": "Meet the Team\n\nCisco's Webex Engineering Group is redefining the future of collaboration. We're building a world where people connect effortlessly to enjoy modern, uncompromised collaboration across every room, desk, pocket, and application.\n\nOur technology powers industry-leading products like Webex Meetings, Webex Calling, and Webex Contact Center. As a member of our team, your work will ensure every user gets a truly immersive experience regardless of device or location, empowering the hybrid working patterns of the future.\n\nOur team is based in one of our central London offices, near Moorgate Street station. We operate a hybrid working model, meeting to collaborate in the office three times a week.\n\nYour Impact\n\nFull Lifecycle Development: Own the design, codification, testing, and delivery of Kubernetes-based microservices configurations (Deployments, Services, Ingress, ConfigMaps) using Kubernetes, Helm. Build reusable base configs with environment overlays and enable safe promotion across dev, staging, and production.\n\nDevOps & Microservices: Drive operational perfection in a GitOps model using Argo CD. Implement progressive delivery (canary releases, validation gates), codify autoscaling and resiliency, and manage secure secrets via HashiCorp Vault and Kubernetes Secrets.\n\nEmbrace AI technology: Use AI-assisted tools to accelerate development, validation, and optimization of configuration-as-code, improving delivery speed and reducing deployment risk.\n\nAdaptable & Problem-Solver: Address complex challenges across configuration, policy, observability, and data services. Apply a data-driven approach using Prometheus and Grafana to improve reliability and performance.\n\nOwnership & Quality: Own end-to-end configuration quality, enforcing governance with Open Policy Agent. Ensure secure, compliant deployments and full reproducibility, including backup, restore, and disaster recovery.\n\nSupport & Growth: Advance a self-service platform using Backstage and Argo CD, enabling teams to deploy via declarative configs while promoting standard processes and continuous improvement.\n\nMinimum Qualifications:\n\nAnalytical Degree or equivalent experience: Bachelor's or higher degree in an analytical subject (e.g. Computer Science, Electronic/Software Engineering).\n\nWork experience: 4+ Years demonstrated experience in software development.\n\nCoding Aptitude: Extensive architecture and programming experience and the willingness to learn new technologies quickly.\n\nStrong Kubernetes + microservices experience\n\nExperience with GitOps (CI/CD)\n\nPreferred Qualifications:\n\nAny of the following skills would be particularly advantageous, but we encourage applications without these:\n\nHands-on with Helm or Kustomize\n\nExperience with GitOps (e.g., Argo CD)\n\nKnowledge of secrets management (e.g., HashiCorp Vault)\n\nExperience with observability (metrics/logs/tracing)\n\nCollabHiring\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020336EXTERNALENGLOBAL/Site-Reliability-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/London-United-Kingdom/Site-Reliability-Engineer_2020336/apply"
+}

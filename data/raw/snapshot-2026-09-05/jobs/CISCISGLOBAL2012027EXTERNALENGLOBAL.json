@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2012027EXTERNALENGLOBAL",
+ "req_id": "2012027",
+ "title": "Solutions Engineer - Cloud & AI Infrastructure",
+ "category": "Sales",
+ "categories": [
+  "Sales"
+ ],
+ "locations": [
+  "London, United Kingdom",
+  "Birmingham, United Kingdom",
+  "Feltham, United Kingdom",
+  "Glasgow, Glasgow City, United Kingdom",
+  "Manchester, Manchester, United Kingdom",
+  "Reading, United Kingdom"
+ ],
+ "country": "United Kingdom",
+ "city": "London",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-26T00:00:00.000+0000",
+ "skills": [
+  "cloud infrastructure",
+  "data center networking",
+  "infrastructure automation",
+  "virtualization",
+  "platform modernization",
+  "enterprise storage",
+  "kubernetes",
+  "infrastructure scripting",
+  "python",
+  "ansible",
+  "terraform",
+  "git",
+  "github",
+  "presentation skills",
+  "public speaking",
+  "stakeholder management",
+  "data center observability",
+  "prometheus",
+  "grafana",
+  "thousandeyes",
+  "splunk",
+  "infrastructure security",
+  "zero-trust",
+  "workshop delivery",
+  "customer engagement"
+ ],
+ "teaser": "We are seeking a Solutions Engineer \u2013 Cloud & AI Infrastructure to drive the adoption of Cisco\u2019s data centre, cloud, and AI-ready infrastructure solutions. You will partner with customers to design tailored platform architectures and support modernisation goals. Ideal candidates have strong infrastructure experience and a technical advisory mindset.",
+ "description": "What You\u2019ll Do\n\nWe are seeking a Solutions Engineer \u2013 Cloud + AI Infrastructure to join our sales team in the UK&I. In this role you will help drive the adoption of Cisco's data center, cloud, and AI-ready infrastructure solutions across industries. You will partner with customers to understand their modernization goals, support the design of tailored platform architectures, and demonstrate how Cisco's compute, networking, and cloud-native technologies accelerate their business. You'll bring strong infrastructure foundations and a drive to become a trusted technical advisor to customers. You should be comfortable translating technical concepts for diverse audiences and public speaking.\n\u00a0\n\nWho You\u2019ll Work With\n\nThe Cloud + AI Infrastructure team delivers one scalable strategy with local execution for data center transformation and growth. We are the worldwide go-to-market compute and data center networking engine \u2014 capturing market transitions and enabling sellers to expand growth for customers and Cisco. Alongside our colleagues, we build the sales strategy, activate sellers and technical communities, and accelerate selling.\n\u00a0\n\nWho You Are\n\nYou build awareness, foster education, and drive energy for platform modernization, cloud-native infrastructure, and AI-ready data centers with internal teams, partners, and customers. You act as the link between technical teams, account teams, and partners/customers. You showcase infrastructure solutions, articulate their value, and contribute to architectural discussions. You play a key role in the design, and promotion of modernization solutions and in solving customer challenges. Travel may be required for customer meetings and industry events.\n\u00a0\n\nMinimum Qualifications:\n\n3+ years of technical presales, solutions engineering, or relevant hands-on infrastructure experience across compute, storage, and data center networking.\n\nHands-on experience with\u00a0virtualization and platform modernization\u00a0(e.g., VMware/VCF, RedHat OpenShift, Nutanix, KVM, hypervisor migration strategies).\n\nFamiliarity with enterprise storage concepts and platforms (e.g., NVMe, NFS, object storage; NetApp, Everpure, or comparable.\n\nSolid understanding of data center networking fundamentals (L2/L3, VXLAN/EVPN, fabric design) and how compute, storage, and network integrate.\n\nFoundational understanding of\u00a0Kubernetes and cloud-native infrastructure\u00a0\u2014 core concepts, deployment models, and how containerized workloads are managed.\n\nProficiency with infrastructure automation and scripting (e.g., Python, Ansible, Terraform) and version control (Git/GitHub).\n\u00a0\n\nPreferred Qualifications:\n\nBachelor\u2019s Degree in Computer Science, Computer Engineering, Electrical Engineering, or related field; advanced degree is a plus.\n\nExcellent presentation skills with the ability to deliver engaging workshops to both technical and non-technical audiences on infrastructure and modernization topics.\n\nExperience with the\u00a0Cisco data center portfolio\u00a0(UCS, Nexus/ACI, Intersight, HyperFabric) or comparable competitive platforms.\n\nExposure to\u00a0cloud-native networking and eBPF technologies\u00a0(e.g., Cilium/Isovalent),\u00a0GitOps workflows (ArgoCD/Flux), Helm, and service mesh.\n\nFamiliarity with\u00a0AI-ready infrastructure: GPU compute, high-performance fabrics (RoCE/InfiniBand), AI/ML reference architectures (e.g., Cisco + NVIDIA), and storage for AI workloads.\n\nRelevant industry certifications (e.g., CCNP/CCIE Data Center, VMware VCP, CKA/CKAD, or major cloud associate/professional certs)\n\nFamiliarity with data center observability and monitoring tooling (e.g., Prometheus, Grafana, ThousandEyes, Splunk).\n\nUnderstanding of infrastructure security and zero-trust principles in data center / cloud-native environments (segmentation, workload identity, policy enforcement).\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2012027EXTERNALENGLOBAL/Solutions-Engineer-Cloud-AI-Infrastructure",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/London-United-Kingdom/Solutions-Engineer---Cloud---AI-Infrastructure_2012027-1/apply"
+}

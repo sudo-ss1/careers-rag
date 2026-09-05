@@ -1,0 +1,33 @@
+{
+ "job_seq_no": "CISCISGLOBAL2016737EXTERNALENGLOBAL",
+ "req_id": "2016737",
+ "title": "HW Post-Silicon Validation Engineer",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Caesarea, Israel"
+ ],
+ "country": "Israel",
+ "city": "Caesarea",
+ "employment_type": "Full time",
+ "remote_type": "Onsite Only",
+ "posted_date": "2026-07-01T00:00:00.000+0000",
+ "skills": [
+  "test plan writing",
+  "block level design",
+  "yield management",
+  "debugging",
+  "validation",
+  "design verification",
+  "test bench development",
+  "characterisation",
+  "signal integrity",
+  "asic subsystem development"
+ ],
+ "teaser": "We are seeking a HW Post-Silicon Validation Engineer to support the design and testing of advanced ASICs for Cisco's Silicon One platform. You will perform high-precision measurements, conduct deep-dive investigations, and ensure reliable operation. Ideal candidates have hands-on experience in hardware validation and a strong background in electrical or computer engineering.",
+ "description": "How We Are\n\nThe Common Hardware Group (CHG) delivers the silicon, optics, and hardware platforms for Cisco's core Switching, Routing, and Wireless products. We design networking hardware for enterprises and service providers of all sizes, as well as the public sector and non-profit organizations worldwide.\n\nCisco Silicon One (#CiscoSiliconOne) is the only unifying silicon architecture in the market, enabling customers to deploy best-of-breed silicon from Top-of-Rack (TOR) switches to web-scale data centers. This architecture supports service providers, enterprise networks, and data centers with a fully unified routing and switching portfolio.\n\nCome join us and help shape Cisco's groundbreaking solutions by designing, developing, and testing some of the most complex ASICs in the industry.\n\nWhat You Will Do\n\nIn this role, you will be part of the Cisco Silicon One Switch ASIC Post-Silicon Electrical Validation (EPSV) team.\n\nEnsure the ASIC operates according to specifications and reliably over time by performing extensive, high-precision measurements using advanced test equipment and procedures.\n\nConduct deep-dive investigations, integrating knowledge across hardware, software, and system domains to identify root causes of observed device behavior.\n\nHandle all chip validation aspects, including:\n\nBuilding validation plans.\n\nPerforming EPSV using advanced test and measurement equipment.\n\nWriting tests in Python over device SDK.\n\nExecuting tests and analyzing results.\n\nYou will gain in-depth knowledge of chip architecture, functionality, and operating modes, enabling you to debug and resolve electrical chip-related issues.\n\nMinimum Qualifications\n\nBachelor\u2019s degree in Electrical or Computer Engineering.\n\nAt least 3 years of experience in hardware or post-silicon validation.\n\nHands-on experience with lab equipment performing high-speed, clock, and precise voltage measurements.\n\nKnowledge of high-speed interfaces and high-power DC/DC design.\n\nPreferred Qualifications\n\nExperience bringing up ASICs on EVBs with Board Design, FPGA, SerDes, and Software teams.\n\nProficiency in debugging issues in the lab using VNA/TDR, oscilloscopes, and phase noise analyzers.\n\nExperience developing testing environments, performing validation activities, and analyzing data.\n\nFamiliarity with production testing and yield improvement.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016737EXTERNALENGLOBAL/HW-Post-Silicon-Validation-Engineer",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Caesarea-Israel/HW-Post-Silicon-Validation-Engineer_2016737/apply"
+}

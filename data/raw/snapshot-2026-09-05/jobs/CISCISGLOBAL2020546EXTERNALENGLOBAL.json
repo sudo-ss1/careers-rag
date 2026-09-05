@@ -1,0 +1,53 @@
+{
+ "job_seq_no": "CISCISGLOBAL2020546EXTERNALENGLOBAL",
+ "req_id": "2020546",
+ "title": "Technical Systems Engineer (Full-Stack) - Splunk",
+ "category": "Information Technology",
+ "categories": [
+  "Information Technology"
+ ],
+ "locations": [
+  "Pune, India"
+ ],
+ "country": "India",
+ "city": "Pune",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-08-20T00:00:00.000+0000",
+ "skills": [
+  "typescript",
+  "javascript",
+  "node.js",
+  "react",
+  "next.js",
+  "rest",
+  "graphql",
+  "python",
+  "fastapi",
+  "sql",
+  "nosql",
+  "n8n",
+  "docker",
+  "ci/cd",
+  "tailwind",
+  "postgresql",
+  "redis",
+  "aws",
+  "gcp",
+  "vercel",
+  "environment management",
+  "logging",
+  "monitoring",
+  "ai-assisted development",
+  "cursor",
+  "claude",
+  "prompt-driven development",
+  "agentic coding",
+  "webhooks",
+  "event-driven integrations"
+ ],
+ "teaser": "Become part of our team as a Technical Systems Engineer (Full-Stack) - Splunk, where you will design, build, and deliver scalable production software using modern web and backend technologies. Collaborate with product teams to translate requirements into impactful solutions. Ideal for experienced engineers with strong expertise in full stack development and AI-assisted engineering.",
+ "description": "Meet the Team\n\nJoin Splunk\u2019s Global Field Enablement team, where we build production software and digital experiences that help teams work smarter and turn data into action. We are passionate about delivering reliable, scalable solutions and creating great experiences through modern engineering, AI-assisted development, workflow automation, and innovative technology.\n\nYour Impact\n\nAs a Senior Full Stack Engineer, you will design, build, and ship production software across the full technology stack. You will combine modern web development, AI-assisted engineering, workflow automation, and cloud technologies to deliver scalable, reliable experiences. You will work closely with product teams and stakeholders to translate business requirements into impactful solutions and drive features from architecture through deployment and iteration.\n\nOwn end-to-end delivery of features, including architecture, implementation, testing, deployment, and continuous improvement.\n\nBuild scalable full stack applications across frontend, backend, and data layers, developing clean APIs and intuitive user experiences.\n\nDesign and maintain n8n workflows to automate internal operations, integrations, and data pipelines, including triggers, branching, error handling, retries, and secrets management.\n\nLeverage Cursor, Claude, and other LLM-based tools to accelerate development while maintaining code quality, security, testing, and engineering standards.\n\nIntegrate third-party services, webhooks, and event-driven systems while improving developer velocity through reusable components, CI/CD, observability, and engineering best practices.\n\nMinimum Qualifications\n\n6+ years of experience building and delivering production full stack applications.\n\nStrong proficiency in TypeScript/JavaScript and experience with a modern backend framework such as Node.js or Python/FastAPI.\n\nHands-on experience with React/Next.js or an equivalent modern frontend framework, along with backend fundamentals including REST/GraphQL, authentication, caching, background jobs, and database design.\n\nPractical experience building and operating n8n automations, including triggers, branching, error handling, retries, and secrets management.\n\nExperience with AI-assisted engineering workflows and cloud/DevOps practices, including tools such as Cursor or Claude, Docker, CI/CD, environment management, and logging/monitoring.\n\nPreferred Qualifications\n\nExperience integrating LLM APIs such as Claude or OpenAI into products, including RAG, tool use, evaluations, or guardrails.\n\nFamiliarity with MCP, agent orchestration, internal AI tooling, vector databases, embeddings, or AI product observability.\n\nExperience with workflow platforms such as Zapier, Make, Temporal, or Airflow.\n\nExperience working with machine data, observability, or data-intensive platforms.\n\nStrong security-focused development practices, including authorization, secrets management, input validation, and secure API design.\n\nTech Stack Experience\n\nFrontend: React, Next.js, TypeScript, Tailwind\nBackend: Node.js / Python, PostgreSQL, Redis\nAutomation: n8n, webhooks, event-driven integrations\nAI Development: Cursor, Claude, LLM-assisted coding and review\nInfrastructure: Docker, CI/CD, cloud hosting (AWS/GCP/Vercel/etc.)\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020546EXTERNALENGLOBAL/Technical-Systems-Engineer-Full-Stack-Splunk",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Pune-India/Technical-Systems-Engineer--Full-Stack----Splunk_2020546-1/apply"
+}

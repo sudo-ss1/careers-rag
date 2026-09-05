@@ -1,0 +1,48 @@
+{
+ "job_seq_no": "CISCISGLOBAL2013833EXTERNALENGLOBAL",
+ "req_id": "2013833",
+ "title": "Software Engineering Technical Leader",
+ "category": "Product and Engineering",
+ "categories": [
+  "Product and Engineering"
+ ],
+ "locations": [
+  "Bangalore, India"
+ ],
+ "country": "India",
+ "city": "Bangalore",
+ "employment_type": "Full time",
+ "remote_type": "Hybrid",
+ "posted_date": "2026-06-30T00:00:00.000+0000",
+ "skills": [
+  "apis",
+  "tensorflow",
+  "microservices",
+  "kubernetes",
+  "langchain",
+  "observability",
+  "policy governance",
+  "devops",
+  "ai/ml frameworks",
+  "nosql",
+  "secure software supply chains",
+  "ci/cd",
+  "python",
+  "infrastructure as code",
+  "langgraph",
+  "sql",
+  "platform automation",
+  "reliability engineering",
+  "sre",
+  "distributed systems",
+  "cloud-native architecture",
+  "mentorship",
+  "cross-functional influence",
+  "technical leadership",
+  "go"
+ ],
+ "teaser": "We are currently hiring a Software Engineering Technical Leader to drive strategic platform automation and AI-enabled capabilities for Cisco's cloud-native services. Lead technical direction, shape operational efficiency, and mentor teams. Ideal for experienced senior engineers with deep expertise in cloud architecture, AI, and enterprise software development.",
+ "description": "Who you will work with\n\nCisco is transforming its platforms to run the next generation of cloud-native and multi-cloud services. This team builds tools and platforms that enable engineers to procure, manage, and optimize cloud infrastructure at scale across hybrid environments. While we work closely with infrastructure and platform operations, solving complex problems through software engineering is at our core. This role offers the opportunity to operate as a senior technical leader for software and AI-first platform transformation.\n\nWho you Are\n\nYou are a senior software engineer with deep technical breadth across architecture, software development, and operations. You lead through both execution and influence, shaping technical direction while enabling teams to deliver high-impact outcomes. You have substantial experience applying AI and machine learning to enterprise software and platform operations and can guide adoption patterns that are scalable, secure, and measurable.\n\nWhat you'll Do\n\nAs a Software Engineer, you will lead strategic platform automation and user-facing capabilities that improve reliability, scalability, and developer experience across Cisco IT cloud services. This role includes leading AI-enabled capabilities, including assistant or agent-driven workflows, intent-based interactions, and ML-enabled operational intelligence. You will drive major initiatives from concept through operation, partnering across product, platform, and engineering organizations.\n\nResponsibilities\n\nLead development of complex software capabilities that improve cloud platform reliability, scalability, security, and operational efficiency in a DevOps model.\n\nDefine and implement AI-enabled platform patterns that improve user journeys and operational outcomes across services.\n\nArchitect and guide implementation of cloud-native microservices and APIs in Kubernetes-based environments.\n\nDrive cross-organizational technical planning, architecture alignment, and delivery execution.\n\nApply LLM/ML frameworks (for example LangChain, LangGraph, PyTorch, or TensorFlow) to enterprise-scale production use cases.\n\nLead improvements in observability, resiliency engineering, and automation strategy.\n\nEstablish high standards for CI/CD, code quality, release reliability, and secure engineering practices.\n\nLead production-readiness, incident learning, and long-term reliability programs.\n\nMentor and develop engineers, and provide technical leadership across multiple teams.\n\nMinimum Qualifications\n\nBachelor's degree in computer science, computer engineering, electrical engineering, or equivalent experience. MS preferred.\n\n9+ years of software development experience with Python and/or Go in enterprise cloud environments.\n\nDeep experience in cloud-native architecture, APIs, microservices, and platform automation.\n\nStrong experience with Kubernetes, containers, CI/CD, and DevOps/SRE-aligned operating models.\n\nProven experience delivering AI/ML-enabled capabilities in production and scaling adoption across teams.\n\nStrong experience with SQL and NoSQL data platforms and distributed systems concerns.\n\nDemonstrated technical leadership, communication, and cross-functional influence.\n\nPreferred Qualifications\n\nExperience defining AI strategy and implementation standards for platform engineering organizations.\n\nExperience with hybrid cloud platforms and enterprise-scale infrastructure services.\n\nDeep expertise in observability, reliability engineering, and operational excellence practices.\n\nExperience with Infrastructure as Code, policy governance, and secure software supply chains.\n\nStrong track record of mentorship, talent development, and technical community leadership.\n\nWhy Cisco?\u00a0\n\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\u00a0\n\nWe are Cisco, and our power starts with you.",
+ "source_url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2013833EXTERNALENGLOBAL/Software-Engineering-Technical-Leader",
+ "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineering-Technical-Leader_2013833-1/apply"
+}
