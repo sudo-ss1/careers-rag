@@ -559,7 +559,7 @@ const K1=1.5, B=0.75;
 const STOP=new Set(("the a an and or of to in for on with at by is are be as that this it you your we our will have has from their they not but can all any more who").split(" "));
 const TOK=/[a-z0-9][a-z0-9.+#/-]*/g;
 const tokenize=t=>(t.toLowerCase().match(TOK)||[]).filter(w=>w.length>1&&!STOP.has(w));
-const DATA_V='2026-09-05.5';
+const DATA_V='2026-09-05.6';
 const esc=t=>String(t).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 /* Words that carry no role intent -- stripped so "software engineer jobs" and
@@ -661,6 +661,10 @@ function candidates(){
   });
 }
 
+/* Returns [hits, fellBack]. When constraints leave a non-empty pool but the
+   role terms score nothing inside it, showing an empty result while the count
+   says "1 role matches" is a contradiction the reader will notice. Fall back to
+   the constrained pool and say so. */
 function search(pool,k=8){
   if(!state.terms){
     return pool.map(i=>[i,0]).sort((a,b)=>(IDX.docs[b[0]].d||'').localeCompare(IDX.docs[a[0]].d||'')).slice(0,k);
@@ -674,8 +678,15 @@ function search(pool,k=8){
       sc.set(i,(sc.get(i)||0)+idf*(f*(K1+1))/(f+K1*norm));
     });
   });
-  return [...sc.entries()].sort((a,b)=>b[1]-a[1]).slice(0,k);
+  const ranked=[...sc.entries()].sort((a,b)=>b[1]-a[1]).slice(0,k);
+  if(!ranked.length&&pool.length){
+    FELL_BACK=true;
+    return pool.map(i=>[i,0])
+      .sort((a,b)=>(IDX.docs[b[0]].d||'').localeCompare(IDX.docs[a[0]].d||'')).slice(0,k);
+  }
+  return ranked;
 }
+let FELL_BACK=false;
 
 function highlight(text,terms){
   let out=esc(text);
@@ -704,7 +715,9 @@ function render(userText){
     const u=document.createElement('div');u.className='turn user';u.textContent=userText;
     thread.appendChild(u);
   }
+  FELL_BACK=false;
   const pool=candidates(), hits=search(pool), terms=tokenize(state.terms);
+  const plural=pool.length===1?'':'s';
   const bot=document.createElement('div');bot.className='turn bot';
   const cards=hits.length? `<div class="cards">${hits.map(([i,sc])=>{
       const d=IDX.docs[i];
@@ -713,8 +726,13 @@ function render(userText){
         <div class="m">req ${d.r} · ${esc(d.l)} · ${esc(d.c)} · ${esc(d.rt||d.e)} · posted ${esc(d.d)}</div>
         <div class="sn">${highlight(d.s,terms)}…</div></div>`;}).join('')}</div>`
     : `<div class="empty">Nothing in the snapshot matches all of those constraints. Drop one of the chips above, or say <em>“anywhere”</em> to clear the location.</div>`;
+  const tail = !state.terms
+      ? `, newest ${hits.length} shown`
+      : FELL_BACK
+        ? ` — but none mention “${esc(state.terms)}”, so here they are anyway`
+        : `, showing the ${hits.length} best for “${esc(state.terms)}”`;
   bot.innerHTML=`<div class="understood">reading as: ${slotChips()}</div>
-    <div class="count"><b>${pool.length}</b> role${pool.length===1?'':'s'} match the constraints${state.terms?`, showing the ${hits.length} best for “${esc(state.terms)}”`:`, newest ${hits.length} shown`}</div>${cards}`;
+    <div class="count"><b>${pool.length}</b> role${plural} match${pool.length===1?'es':''} the constraints${tail}</div>${cards}`;
   thread.appendChild(bot);
   thread.scrollTop=thread.scrollHeight;
 }
