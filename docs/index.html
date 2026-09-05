@@ -1,0 +1,442 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Measured evaluation of a hybrid retrieval system over 1,146 public job postings: where dense search fails, and what a calibrated abstention gate is worth.">
+<style>
+  html{color-scheme:light dark}
+  body{margin:0}
+  img{max-width:100%}
+  [hidden]{display:none!important}
+</style>
+<title>Careers RAG Evaluation</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
+<style>
+:root{
+  color-scheme: light;
+  --ground:#fbfbfa; --surface:#ffffff; --sunken:#f4f5f4;
+  --ink:#101418; --ink-2:#555c64; --ink-3:#8a9099;
+  --line:#e4e6e5; --line-2:#d3d6d5;
+  --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a;
+  --crit:#c0392f; --good:#1baf7a;
+  --accent:#2a78d6;
+  --sans:"IBM Plex Sans",ui-sans-serif,system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme: dark;
+    --ground:#131416; --surface:#1a1a19; --sunken:#202120;
+    --ink:#f4f4f1; --ink-2:#b3b6b1; --ink-3:#83867f;
+    --line:#2c2e2c; --line-2:#3a3d3a;
+    --s1:#3987e5; --s2:#d95926; --s3:#199e70;
+    --crit:#e66767; --good:#199e70; --accent:#3987e5;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme: dark;
+  --ground:#131416; --surface:#1a1a19; --sunken:#202120;
+  --ink:#f4f4f1; --ink-2:#b3b6b1; --ink-3:#83867f;
+  --line:#2c2e2c; --line-2:#3a3d3a;
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70;
+  --crit:#e66767; --good:#199e70; --accent:#3987e5;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);font-family:var(--sans);
+  font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1020px;margin:0 auto;padding:0 24px 96px}
+.col{max-width:680px}
+h1,h2,h3{text-wrap:balance;margin:0}
+h1{font-size:clamp(30px,4.4vw,46px);line-height:1.1;font-weight:600;letter-spacing:-.022em}
+h2{font-size:23px;font-weight:600;letter-spacing:-.012em;margin-bottom:6px}
+h3{font-size:16px;font-weight:600;margin-bottom:4px}
+p{margin:0 0 14px}
+a{color:var(--accent)}
+.eyebrow{font-family:var(--mono);font-size:11px;font-weight:500;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3);margin:0 0 10px}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+/* ---- header ---- */
+header{padding:64px 0 34px}
+.lede{font-size:19px;line-height:1.55;color:var(--ink-2);max-width:640px;margin-top:16px}
+.note{font-family:var(--mono);font-size:11.5px;color:var(--ink-3);line-height:1.6;
+  border-left:2px solid var(--line-2);padding-left:12px;margin-top:26px;max-width:600px}
+
+/* ---- corpus strip ---- */
+.strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(112px,1fr));
+  gap:1px;background:var(--line);border:1px solid var(--line);margin:34px 0 0}
+.strip div{background:var(--surface);padding:14px 16px}
+.strip .v{font-family:var(--mono);font-size:22px;font-weight:600;letter-spacing:-.02em;
+  font-variant-numeric:tabular-nums;display:block}
+.strip .k{font-family:var(--mono);font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;
+  color:var(--ink-3);margin-top:3px;display:block}
+
+section{padding-top:52px}
+hr{border:0;border-top:1px solid var(--line);margin:52px 0 0}
+
+/* ---- headline finding ---- */
+.finding{background:var(--surface);border:1px solid var(--line);
+  border-top:3px solid var(--crit);padding:26px 28px;margin-top:22px}
+.finding .big{font-family:var(--mono);font-size:clamp(38px,7vw,60px);font-weight:600;
+  line-height:1;letter-spacing:-.03em;color:var(--crit);font-variant-numeric:tabular-nums}
+.finding .cap{font-size:15px;color:var(--ink-2);margin-top:12px;max-width:520px}
+
+/* ---- charts ---- */
+figure{margin:24px 0 0}
+figcaption{font-size:13.5px;color:var(--ink-2);margin-top:12px;max-width:640px}
+.chartbox{background:var(--surface);border:1px solid var(--line);padding:20px 20px 12px;
+  overflow-x:auto}
+svg{display:block;max-width:100%}
+.legend{display:flex;flex-wrap:wrap;gap:16px;margin:0 0 16px;
+  font-family:var(--mono);font-size:11.5px;letter-spacing:.04em}
+.legend span{display:inline-flex;align-items:center;gap:7px;color:var(--ink-2)}
+.sw{width:11px;height:11px;border-radius:2px;display:inline-block}
+
+/* ---- tables ---- */
+.tablewrap{overflow-x:auto;margin-top:20px;border:1px solid var(--line);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{padding:10px 14px;text-align:right;border-bottom:1px solid var(--line);white-space:nowrap}
+th:first-child,td:first-child{text-align:left}
+thead th{font-family:var(--mono);font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;
+  color:var(--ink-3);font-weight:500;background:var(--sunken)}
+tbody tr:last-child td{border-bottom:0}
+td.n{font-family:var(--mono);font-variant-numeric:tabular-nums}
+td.best{font-weight:600;color:var(--ink)}
+.win{color:var(--s3);font-weight:600}
+.zero{color:var(--crit);font-weight:600}
+
+/* ---- findings list ---- */
+.stack{display:grid;gap:1px;background:var(--line);border:1px solid var(--line);margin-top:22px}
+.stack article{background:var(--surface);padding:20px 22px}
+.stack p{margin:6px 0 0;font-size:14.5px;color:var(--ink-2)}
+.stack code{font-family:var(--mono);font-size:12.5px;background:var(--sunken);
+  padding:1px 5px;border:1px solid var(--line)}
+
+/* ---- pipeline ---- */
+.pipe{background:var(--surface);border:1px solid var(--line);padding:22px;margin-top:22px;
+  overflow-x:auto}
+
+/* ---- limits ---- */
+.limits li{margin-bottom:9px;color:var(--ink-2);font-size:14.5px}
+.limits{padding-left:20px;margin:14px 0 0}
+
+footer{margin-top:56px;padding-top:26px;border-top:1px solid var(--line);
+  font-family:var(--mono);font-size:12px;color:var(--ink-3);line-height:1.8}
+footer a{color:var(--accent)}
+
+#tip{position:fixed;pointer-events:none;opacity:0;transition:opacity .1s;
+  background:var(--ink);color:var(--ground);font-family:var(--mono);font-size:11.5px;
+  padding:6px 9px;border-radius:3px;z-index:20;white-space:nowrap}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+</head>
+<body>
+<div class="wrap">
+<header>
+  <p class="eyebrow">Retrieval evaluation · snapshot 2026-09-05</p>
+  <h1>How do you know your RAG system actually works?</h1>
+  <p class="lede">A hybrid retrieval layer over 1,146 public job postings — built so that
+  every quality claim about it is a measured number rather than a demo that happened to go well.</p>
+  <div class="strip">
+    <div><span class="v">1,146</span><span class="k">Postings</span></div>
+    <div><span class="v">7,135</span><span class="k">Chunks</span></div>
+    <div><span class="v">42</span><span class="k">Countries</span></div>
+    <div><span class="v">14</span><span class="k">Categories</span></div>
+    <div><span class="v">40</span><span class="k">Eval queries</span></div>
+  </div>
+  <p class="note">Independent prototype, built for portfolio purposes. Not affiliated with,
+  endorsed by, or representing any employer. Reads publicly available postings, stores a dated
+  snapshot, and cites a source URL for every answer.</p>
+</header>
+
+<hr>
+
+<section>
+  <p class="eyebrow">The headline</p>
+  <h2 class="col">Dense retrieval scores exactly zero on requisition-ID lookups</h2>
+  <div class="finding">
+    <div class="big">0.000</div>
+    <p class="cap">recall@10 for pure vector search when someone asks about a specific
+    requisition number. BM25 scores <strong class="num">1.000</strong> on the same queries.
+    Embeddings blur precisely the tokens a user is being most exact about — which is the
+    whole argument for hybrid search in this domain, measured rather than asserted.</p>
+  </div>
+  <figure>
+    <div class="chartbox">
+      <div class="legend" id="lg1"></div>
+      <svg id="c1" role="img" aria-label="recall at 10 by query type for three retrieval strategies"></svg>
+    </div>
+    <figcaption>recall@10 broken out by query type. Fusion inherits the lexical arm's perfect
+    ID recall while nearly doubling exact-token recall over either strategy alone.</figcaption>
+  </figure>
+</section>
+
+<hr>
+
+<section>
+  <p class="eyebrow">Retrieval</p>
+  <h2 class="col">Hybrid beats lexical by 15% and dense by 124%</h2>
+  <p class="col" style="color:var(--ink-2);margin-top:10px">Reciprocal Rank Fusion combines the two
+  ranked lists by <em>rank</em> rather than score — BM25 scores are unbounded and corpus-dependent,
+  cosine lives in [−1, 1], and adding them needs a normalisation that shifts every time the corpus does.</p>
+  <figure>
+    <div class="chartbox">
+      <div class="legend" id="lg2"></div>
+      <svg id="c2" role="img" aria-label="retrieval metrics compared across three strategies"></svg>
+    </div>
+    <figcaption>34 answerable queries. Higher is better on every metric shown.</figcaption>
+  </figure>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>Metric</th><th>BM25</th><th>Dense</th><th>Hybrid</th></tr></thead>
+      <tbody id="t1"></tbody>
+    </table>
+  </div>
+  <p class="col" style="font-size:14px;color:var(--ink-2);margin-top:16px">The one place hybrid
+  loses is MRR — <span class="num">0.779</span> against BM25's <span class="num">0.797</span> — because
+  fusion demotes the rank-1 hits BM25 gets on ID lookups. An honest trade: a little top-1 precision
+  on exact lookups for far better recall everywhere else.</p>
+</section>
+
+<hr>
+
+<section>
+  <p class="eyebrow">Answering</p>
+  <h2 class="col">Zero hallucinated citations, and it refuses every question it can't support</h2>
+  <p class="col" style="color:var(--ink-2);margin-top:10px">A careers assistant that says
+  <em>“I don't know”</em> is more useful than one that invents a requisition. A fabricated role
+  wastes a real application, so abstention is treated as a capability and measured like any other.</p>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>Behaviour</th><th>Result</th><th>Reading</th></tr></thead>
+      <tbody>
+        <tr><td>Answerable queries answered</td><td class="n win">97%</td><td class="n" style="color:var(--ink-3)">33 of 34</td></tr>
+        <tr><td>False abstention</td><td class="n">3%</td><td class="n" style="color:var(--ink-3)">down from 15%</td></tr>
+        <tr><td>Answers citing ≥1 truly relevant role</td><td class="n win">100%</td><td class="n" style="color:var(--ink-3)">33 of 33</td></tr>
+        <tr><td>Citation precision</td><td class="n">86%</td><td class="n" style="color:var(--ink-3)">per cited role</td></tr>
+        <tr><td>Out-of-corpus queries refused</td><td class="n win">100%</td><td class="n" style="color:var(--ink-3)">6 of 6</td></tr>
+        <tr><td>Hallucinated citations</td><td class="n win">0</td><td class="n" style="color:var(--ink-3)">across 40 queries</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<hr>
+
+<section>
+  <p class="eyebrow">What evaluation caught that a demo would not</p>
+  <h2 class="col">Three bugs found by measuring</h2>
+  <div class="stack">
+    <article>
+      <h3>A grounding check stricter than the model's formatting fails closed on correct answers</h3>
+      <p>Citations were extracted with <code>\[(\d{6,8})\]</code>. The model answered
+      <em>“requisition 1440127 is for…”</em> in prose, the regex matched nothing, and a correct
+      answer was discarded as ungrounded — while retrieval had it at rank 1 the whole time.
+      Verification has to be independent of formatting.</p>
+    </article>
+    <article>
+      <h3>Raw BM25 scores cannot be thresholded across queries</h3>
+      <p>Calibrating an abstention gate on BM25 failed outright: out-of-corpus queries scored
+      <em>higher</em> (max <span class="num">14.4</span>) than the answerable mean
+      (<span class="num">11.6</span>), because BM25 scales with query length and term rarity.
+      Cosine similarity is bounded and comparable. BM25 is not.</p>
+    </article>
+    <article>
+      <h3>The statistically optimal threshold was the wrong design</h3>
+      <p>Youden's J picked <span class="num">0.41</span> — the best a single threshold can do — and
+      it false-abstained on 15% of answerable queries, every one an exact-token lookup where dense
+      is the weak arm. The distributions genuinely overlap (answerable min
+      <span class="num">0.364</span> below out-of-corpus max <span class="num">0.465</span>), so no
+      threshold separates them. Retuning the first gate for <em>sensitivity</em> and letting the
+      grounding check supply specificity cut false abstention to 3% — with refusal accuracy and
+      hallucination count unchanged.</p>
+    </article>
+  </div>
+</section>
+
+<hr>
+
+<section>
+  <p class="eyebrow">Method</p>
+  <h2 class="col">How it fits together</h2>
+  <div class="pipe">
+    <svg id="c3" role="img" aria-label="pipeline: postings are chunked, indexed by BM25 and embeddings, fused, gated, answered and grounding-checked"></svg>
+  </div>
+  <div class="col" style="margin-top:22px">
+    <h3>Chunking follows the document, not a character count</h3>
+    <p style="color:var(--ink-2);font-size:15px">Postings split on their own section headings —
+    <em>Meet the Team</em>, <em>Minimum Qualifications</em> — and every chunk carries a contextual
+    header with title, requisition ID, category and location before it is embedded. A bare
+    qualifications list is unretrievable on its own, because nothing in it says which job it belongs to.</p>
+    <h3 style="margin-top:18px">Ground truth is tracked per document, never per chunk</h3>
+    <p style="color:var(--ink-2);font-size:15px">Changing the chunking strategy is the experiment
+    that gets run most often. Chunk-level labels would be invalidated by every one of those runs.</p>
+    <h3 style="margin-top:18px">Abstention is two independent layers</h3>
+    <p style="color:var(--ink-2);font-size:15px">A permissive similarity gate — cheap, deterministic,
+    immune to persuasive generation — then the model's own <code>NO_MATCH</code> plus a citation check
+    that drops any requisition ID absent from the retrieved context. An answer left with no verified
+    citation becomes a refusal.</p>
+  </div>
+</section>
+
+<hr>
+
+<section>
+  <p class="eyebrow">Limitations</p>
+  <h2 class="col">What these numbers don't tell you</h2>
+  <ul class="limits col">
+    <li><strong>Label bias.</strong> Golden labels derive from ML-extracted skill tags, which come
+    from the description text — so a labelled term usually appears verbatim in the document. That
+    flatters lexical retrieval. Paraphrase queries avoiding corpus vocabulary would counterbalance it,
+    and aren't built yet.</li>
+    <li><strong>40 queries is small.</strong> Enough to separate three strategies by a wide margin;
+    not enough to resolve small differences.</li>
+    <li><strong>Exact search, not approximate.</strong> At ~7k chunks a brute-force scan is
+    sub-millisecond, so these measure retrieval quality without ANN recall loss. At production scale
+    this is where HNSW goes — and where you'd compare ANN recall against these exact results to size
+    <code>ef_search</code>.</li>
+    <li><strong>131 of 1,277 listed postings</strong> returned no description — expired or rate-limited —
+    and are excluded from the corpus.</li>
+  </ul>
+</section>
+
+<footer>
+  Source, evaluation harness and raw result JSON:
+  <a href="https://github.com/sudo-ss1/careers-rag">github.com/sudo-ss1/careers-rag</a><br>
+  Retrieval: BM25 + text-embedding-3-small, fused with RRF · Answering: gpt-4o-mini at temperature 0<br>
+  Corpus snapshot 2026-09-05 · all figures reproducible from <span class="num">reports/</span>
+</footer>
+</div>
+<div id="tip" role="status"></div>
+
+<script>
+const S=[{k:'bm25',n:'BM25 (lexical)',c:'--s1'},{k:'dense',n:'Dense (embeddings)',c:'--s2'},{k:'hybrid',n:'Hybrid (RRF)',c:'--s3'}];
+const cv=v=>getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const NS='http://www.w3.org/2000/svg';
+const el=(t,a={})=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);return e;};
+const tip=document.getElementById('tip');
+function hov(node,text){
+  node.addEventListener('mousemove',e=>{tip.textContent=text;tip.style.opacity=1;
+    tip.style.left=Math.min(e.clientX+12,innerWidth-tip.offsetWidth-8)+'px';
+    tip.style.top=(e.clientY-32)+'px';});
+  node.addEventListener('mouseleave',()=>tip.style.opacity=0);
+}
+function legend(id){
+  const l=document.getElementById(id);l.innerHTML='';
+  S.forEach(s=>{const w=document.createElement('span');
+    w.innerHTML='<i class="sw" style="background:'+cv(s.c)+'"></i>'+s.n;l.appendChild(w);});
+}
+/* grouped bars: groups = [{label, vals:[b,d,h]}] */
+function grouped(svgId,groups,opts={}){
+  const svg=document.getElementById(svgId);svg.innerHTML='';
+  const W=Math.max(560,groups.length*168),H=opts.h||300;
+  const M={t:16,r:12,b:opts.b||52,l:44};
+  const iw=W-M.l-M.r, ih=H-M.t-M.b;
+  svg.setAttribute('viewBox',`0 0 ${W} ${H}`);svg.setAttribute('width',W);svg.setAttribute('height',H);
+  const y=v=>M.t+ih-(v*ih);
+  /* grid + axis labels */
+  [0,.25,.5,.75,1].forEach(t=>{
+    svg.appendChild(el('line',{x1:M.l,x2:M.l+iw,y1:y(t),y2:y(t),
+      stroke:cv('--line'),'stroke-width':1}));
+    const lb=el('text',{x:M.l-9,y:y(t)+4,'text-anchor':'end',fill:cv('--ink-3'),
+      'font-family':cv('--mono'),'font-size':10.5});
+    lb.textContent=t.toFixed(2);svg.appendChild(lb);
+  });
+  const gw=iw/groups.length, bw=Math.min(26,(gw-26)/3);
+  groups.forEach((g,gi)=>{
+    const gx=M.l+gi*gw+(gw-(bw*3+8))/2;
+    g.vals.forEach((v,si)=>{
+      const x=gx+si*(bw+4), hgt=Math.max(v*ih,1.5);
+      const r=el('rect',{x:x,y:y(v),width:bw,height:hgt,rx:4,
+        fill:cv(S[si].c),stroke:cv('--surface'),'stroke-width':2});
+      hov(r,`${S[si].n} · ${g.label} · ${v.toFixed(3)}`);
+      svg.appendChild(r);
+      const t=el('text',{x:x+bw/2,y:y(v)-6,'text-anchor':'middle',
+        fill:v===0?cv('--crit'):cv('--ink-2'),'font-family':cv('--mono'),
+        'font-size':10.5,'font-weight':v===0?600:400});
+      t.textContent=v.toFixed(v===0?3:2).replace(/^0/,'.');
+      if(v===0)t.textContent='0.000';
+      svg.appendChild(t);
+    });
+    const lines=g.label.split('\n');
+    lines.forEach((ln,li)=>{
+      const lt=el('text',{x:M.l+gi*gw+gw/2,y:M.t+ih+20+li*13,'text-anchor':'middle',
+        fill:cv('--ink-2'),'font-family':cv('--sans'),'font-size':12});
+      lt.textContent=ln;svg.appendChild(lt);
+    });
+  });
+  svg.appendChild(el('line',{x1:M.l,x2:M.l+iw,y1:y(0),y2:y(0),stroke:cv('--line-2'),'stroke-width':1}));
+}
+const BY_TYPE=[
+  {label:'Requisition ID\nlookup',vals:[1.000,0.000,1.000]},
+  {label:'Exact tech token\n("roles using grpc")',vals:[0.323,0.257,0.582]},
+  {label:'Category +\ncountry',vals:[0.680,0.681,0.820]}];
+const OVERALL=[
+  {label:'recall@5',vals:[0.565,0.235,0.664]},
+  {label:'recall@10',vals:[0.740,0.378,0.848]},
+  {label:'recall@20',vals:[0.886,0.497,0.939]},
+  {label:'nDCG@10',vals:[0.713,0.357,0.736]},
+  {label:'MRR',vals:[0.797,0.444,0.779]},
+  {label:'precision@5',vals:[0.382,0.347,0.529]}];
+function table(){
+  const tb=document.getElementById('t1');
+  OVERALL.forEach(m=>{
+    const best=Math.max(...m.vals);
+    const tr=document.createElement('tr');
+    tr.innerHTML='<td>'+m.label+'</td>'+m.vals.map(v=>
+      '<td class="n'+(v===best?' best':'')+'"'+(v===best?' style="color:'+cv('--s3')+'"':'')+'>'+
+      v.toFixed(3)+'</td>').join('');
+    tb.appendChild(tr);
+  });
+}
+function draw(){legend('lg1');legend('lg2');
+  grouped('c1',BY_TYPE,{h:300,b:66});grouped('c2',OVERALL,{h:290,b:44});pipeline();}
+function pipeline(){
+  const svg=document.getElementById('c3');svg.innerHTML='';
+  const W=900,H=190;svg.setAttribute('viewBox',`0 0 ${W} ${H}`);svg.setAttribute('width',W);svg.setAttribute('height',H);
+  const box=(x,y,w,h,label,sub,color)=>{
+    svg.appendChild(el('rect',{x,y,width:w,height:h,rx:3,fill:cv('--sunken'),
+      stroke:color||cv('--line-2'),'stroke-width':color?2:1}));
+    const t=el('text',{x:x+w/2,y:y+(sub?h/2-2:h/2+4),'text-anchor':'middle',
+      fill:cv('--ink'),'font-family':cv('--mono'),'font-size':11.5,'font-weight':500});
+    t.textContent=label;svg.appendChild(t);
+    if(sub){const s=el('text',{x:x+w/2,y:y+h/2+13,'text-anchor':'middle',
+      fill:cv('--ink-3'),'font-family':cv('--mono'),'font-size':9.5});
+      s.textContent=sub;svg.appendChild(s);}
+  };
+  const arrow=(x1,y1,x2,y2)=>{
+    svg.appendChild(el('line',{x1,y1,x2:x2-6,y2,stroke:cv('--line-2'),'stroke-width':1.5}));
+    const p=el('path',{d:`M${x2-6},${y2-4} L${x2},${y2} L${x2-6},${y2+4}`,fill:cv('--line-2')});
+    svg.appendChild(p);
+  };
+  box(8,72,96,44,'postings','1,146');
+  arrow(104,94,132,94);
+  box(132,72,86,44,'chunk','7,135');
+  arrow(218,94,246,60); arrow(218,94,246,128);
+  box(246,38,124,44,'BM25 index',null,cv('--s1'));
+  box(246,106,124,44,'embeddings',null,cv('--s2'));
+  arrow(370,60,398,94); arrow(370,128,398,94);
+  box(398,72,96,44,'RRF fusion',null,cv('--s3'));
+  arrow(494,94,522,94);
+  box(522,72,86,44,'gate','layer 1');
+  arrow(608,94,636,94);
+  box(636,72,96,44,'generate','cited');
+  arrow(732,94,760,94);
+  box(760,72,132,44,'grounding check','layer 2');
+  [{x:565,l:'abstain'},{x:826,l:'abstain'}].forEach(a=>{
+    svg.appendChild(el('line',{x1:a.x,y1:116,x2:a.x,y2:150,stroke:cv('--crit'),
+      'stroke-width':1.5,'stroke-dasharray':'3 3'}));
+    const t=el('text',{x:a.x,y:166,'text-anchor':'middle',fill:cv('--crit'),
+      'font-family':cv('--mono'),'font-size':10});
+    t.textContent=a.l;svg.appendChild(t);
+  });
+}
+table();draw();
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change',draw);
+new MutationObserver(draw).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
+</script>
+</body>
+</html>
