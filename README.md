@@ -8,6 +8,8 @@ The interesting artifact here is not the chatbot. It is
 measured against it, and a two-layer abstention gate whose threshold was
 calibrated from data rather than guessed.
 
+**Evaluation report:** https://claude.ai/code/artifact/a976a5ff-e562-4ddc-9ec2-ed3cb9f03c8d
+
 > Independent prototype for portfolio purposes. Not affiliated with, endorsed by,
 > or representing any employer. It reads publicly available job postings, stores a
 > dated snapshot, and cites the source URL for every answer.
