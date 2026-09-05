@@ -1,0 +1,191 @@
+[
+ {
+  "query": "roles working on retrieval augmented generation and vector databases",
+  "why": "Semantic query \u2014 no exact tokens to latch onto.",
+  "answer": "The following roles are focused on retrieval-augmented generation (RAG) and vector databases:\n\n1. **AI Operations Engineer** - Responsible for building and tuning RAG pipelines and maintaining low-latency vector databases [2021635].\n2. **Software Engineer** - Develops AI-driven applications using RAG architectures and integrates vector databases [2015918].\n3. **SRE Database Administrator (DBA)** - Designs and maintains vector database architecture, including RAG pipeline implementation [2014845].\n4. **Senior Data Scientist and Solution Architect** - Builds and deploys LLM-powered applications and RAG pipelines [2019006].",
+  "abstained": false,
+  "reason": "",
+  "top_score": 0.494,
+  "citations": [
+   {
+    "req": "2021635",
+    "title": "AI Operations Engineer",
+    "loc": "Bangalore, India",
+    "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021635EXTERNALENGLOBAL/AI-Operations-Engineer"
+   },
+   {
+    "req": "2015918",
+    "title": "Software Engineer",
+    "loc": "Bangalore, India",
+    "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015918EXTERNALENGLOBAL/Software-Engineer"
+   },
+   {
+    "req": "2014845",
+    "title": "SRE Database Administrator (DBA) (Hybrid)",
+    "loc": "Research Triangle Park, North Carolina, United States of America",
+    "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014845EXTERNALENGLOBAL/SRE-Database-Administrator-DBA-Hybrid"
+   },
+   {
+    "req": "2019006",
+    "title": "Senior Data Scientist and Solution Architect",
+    "loc": "Bangalore, India",
+    "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019006EXTERNALENGLOBAL/Senior-Data-Scientist-and-Solution-Architect"
+   }
+  ],
+  "retrieved": [
+   {
+    "req": "2021635",
+    "title": "AI Operations Engineer",
+    "section": "Responsibilities"
+   },
+   {
+    "req": "2015918",
+    "title": "Software Engineer",
+    "section": "Your Impact"
+   },
+   {
+    "req": "2014845",
+    "title": "SRE Database Administrator (DBA) (Hybrid)",
+    "section": "Minimum Qualifications"
+   },
+   {
+    "req": "2019006",
+    "title": "Senior Data Scientist and Solution Architect",
+    "section": "Minimum Qualifications"
+   },
+   {
+    "req": "2014845",
+    "title": "SRE Database Administrator (DBA) (Hybrid)",
+    "section": "Meet The Team"
+   }
+  ]
+ },
+ {
+  "query": "What is requisition 1440127 about?",
+  "why": "Exact identifier \u2014 the query type dense retrieval scores 0.000 on.",
+  "answer": "Requisition 1440127 is for the position of Lead Site Reliability Engineer, Data Platform - AI/ML Infrastructure, located in Bangalore, India. This full-time hybrid role involves utilizing strong programming skills to integrate software and systems engineering, building core data platform capabilities and automation to meet enterprise customer needs. The responsibilities include developing strategic roadmaps, processes, and infrastructure for deploying new software components at an enterprise scale while enforcing engineering best practices. Minimum qualifications include expertise in cloud technologies, Infrastructure as Code, and production AI/ML infrastructure.",
+  "abstained": false,
+  "reason": "",
+  "top_score": 0.414,
+  "citations": [
+   {
+    "req": "1440127",
+    "title": "Lead Site Reliability Engineer, Data Platform - AI/ML Infrastructure",
+    "loc": "Bangalore, India",
+    "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL1440127EXTERNALENGLOBAL/Lead-Site-Reliability-Engineer-Data-Platform-AI-ML-Infrastructure"
+   }
+  ],
+  "retrieved": [
+   {
+    "req": "1440127",
+    "title": "Lead Site Reliability Engineer, Data Platform - AI/ML Infrastructure",
+    "section": "Responsibilities"
+   },
+   {
+    "req": "2022648",
+    "title": "Oracle Fusion Cloud Developer - Order Management (OM) & Return Material Authorization (RMA)",
+    "section": "Overview"
+   },
+   {
+    "req": "1440127",
+    "title": "Lead Site Reliability Engineer, Data Platform - AI/ML Infrastructure",
+    "section": "Minimum Qualifications"
+   },
+   {
+    "req": "2021010",
+    "title": "Reverse Logistics Project Manager",
+    "section": "Overview"
+   },
+   {
+    "req": "2015598",
+    "title": "Engineering Product Management Specialist",
+    "section": "What You'Ll Do"
+   }
+  ]
+ },
+ {
+  "query": "engineering roles in Poland",
+  "why": "Metadata-flavoured query, answered from posting text rather than a filter.",
+  "answer": "The engineering roles in Poland include:\n\n1. Senior Engineer Cloud Infrastructure located in Warsaw and Krakow, Poland [2017464].\n2. Senior Software Engineer / Technical Lead located in Krakow, Gdansk, and Warsaw, Poland [2021196].\n\nBoth positions are full-time and hybrid. The Senior Engineer Cloud Infrastructure requires experience with web applications/services and public cloud platforms, while the Senior Software Engineer / Technical Lead focuses on design, development, and operation of new product features.",
+  "abstained": false,
+  "reason": "",
+  "top_score": 0.582,
+  "citations": [
+   {
+    "req": "2017464",
+    "title": "Senior Engineer Cloud Infrastructure",
+    "loc": "Warsaw, Poland; Krakow, Poland",
+    "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017464EXTERNALENGLOBAL/Senior-Engineer-Cloud-Infrastructure"
+   },
+   {
+    "req": "2021196",
+    "title": "Senior Software Engineer  / Technical Lead",
+    "loc": "Krakow, Poland; Gdansk, Poland; Warsaw, Poland",
+    "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021196EXTERNALENGLOBAL/Senior-Software-Engineer"
+   }
+  ],
+  "retrieved": [
+   {
+    "req": "2017464",
+    "title": "Senior Engineer Cloud Infrastructure",
+    "section": "Minimum Qualifications"
+   },
+   {
+    "req": "2021196",
+    "title": "Senior Software Engineer  / Technical Lead",
+    "section": "Overview"
+   },
+   {
+    "req": "2017464",
+    "title": "Senior Engineer Cloud Infrastructure",
+    "section": "What You'Ll Do"
+   },
+   {
+    "req": "2019136",
+    "title": "Network Support Engineer - Graduate - Poland",
+    "section": "Your Impact"
+   },
+   {
+    "req": "2021196",
+    "title": "Senior Software Engineer  / Technical Lead",
+    "section": "Minimum Qualifications"
+   }
+  ]
+ },
+ {
+  "query": "do you have any openings for a professional chef",
+  "why": "Nothing in the corpus supports this. The correct output is a refusal.",
+  "answer": "I don't have any open roles matching that in the current posting snapshot.",
+  "abstained": true,
+  "reason": "below_retrieval_threshold",
+  "top_score": 0.353,
+  "citations": [],
+  "retrieved": [
+   {
+    "req": "2022100",
+    "title": "Software Engineering Technical Leader",
+    "section": "Minimum Qualifications"
+   },
+   {
+    "req": "2018147",
+    "title": "Consulting Engineer | Collaboration (Japanese Speaking)",
+    "section": "Overview"
+   },
+   {
+    "req": "2017997",
+    "title": "Finance Analyst",
+    "section": "Minimum Qualifications"
+   },
+   {
+    "req": "2018058",
+    "title": "Consulting Engineer - Data Center",
+    "section": "Preferred Qualifications"
+   },
+   {
+    "req": "2020455",
+    "title": "Account Executive (Service)",
+    "section": "Description"
+   }
+  ]
+ }
+]
