@@ -44,7 +44,7 @@ you > in Bangalore
 
 ## Headline results
 
-Corpus: **1,146 job postings** with full descriptions, spanning **42 countries** and
+Corpus: **1,146 job postings** with full descriptions, spanning **41 countries** and
 **14 job categories**, chunked into **7,135 passages**. Snapshot: 2026-09-05.
 Golden set: **40 queries** (34 answerable, 6 deliberately unanswerable).
 

@@ -222,7 +222,7 @@ footer a{color:var(--accent)}
   <div class="strip">
     <div><span class="v">1,146</span><span class="k">Postings</span></div>
     <div><span class="v">7,135</span><span class="k">Chunks</span></div>
-    <div><span class="v">42</span><span class="k">Countries</span></div>
+    <div><span class="v">41</span><span class="k">Countries</span></div>
     <div><span class="v">14</span><span class="k">Categories</span></div>
     <div><span class="v">40</span><span class="k">Eval queries</span></div>
   </div>
@@ -559,7 +559,7 @@ const K1=1.5, B=0.75;
 const STOP=new Set(("the a an and or of to in for on with at by is are be as that this it you your we our will have has from their they not but can all any more who").split(" "));
 const TOK=/[a-z0-9][a-z0-9.+#/-]*/g;
 const tokenize=t=>(t.toLowerCase().match(TOK)||[]).filter(w=>w.length>1&&!STOP.has(w));
-const DATA_V='2026-09-05.6';
+const DATA_V='2026-09-05.7';
 const esc=t=>String(t).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 /* Words that carry no role intent -- stripped so "software engineer jobs" and
