@@ -519,12 +519,17 @@ const STOP=new Set(("the a an and or of to in for on with at by is are be as tha
 const TOK=/[a-z0-9][a-z0-9.+#/-]*/g;
 const tokenize=t=>(t.toLowerCase().match(TOK)||[]).filter(w=>w.length>1&&!STOP.has(w));
 
+/* Data files are immutable per snapshot, so they are fetched with a version
+   query. Without it a returning visitor gets whatever the CDN cached on their
+   first visit -- which silently served a stale corpus after the first data fix
+   and made exact-id lookup return nothing. */
+const DATA_V='2026-09-05.2';
 let IDX=null, LOADING=null;
 async function ensureIndex(){
   if(IDX) return IDX;
   if(LOADING) return LOADING;
   document.getElementById('meta').textContent='Loading corpus…';
-  LOADING=fetch('data/corpus.json').then(r=>r.json()).then(data=>{
+  LOADING=fetch('data/corpus.json?v='+DATA_V).then(r=>r.json()).then(data=>{
     const docs=data.docs, tf=[], len=[], df=new Map(), post=new Map();
     docs.forEach((d,i)=>{
       const toks=tokenize(d.x), m=new Map();
@@ -593,7 +598,7 @@ qEl.addEventListener('input',e=>{clearTimeout(deb);const v=e.target.value;deb=se
   });
 
 /* ================= recorded runs ================= */
-fetch('data/examples.json').then(r=>r.json()).then(rows=>{
+fetch('data/examples.json?v='+DATA_V).then(r=>r.json()).then(rows=>{
   document.getElementById('runs').innerHTML=rows.map(r=>{
     const cites=r.citations.map(c=>
       `<a href="${c.url}" target="_blank" rel="noopener"><b>${c.req}</b> · ${esc(c.title)} · ${esc(c.loc)}</a>`).join('');
