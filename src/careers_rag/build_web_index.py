@@ -68,14 +68,21 @@ def main() -> None:
             if len(city) > 2:
                 cities[city] += 1
 
+    # Blank values must never reach the gazetteer. Some postings carry an empty
+    # country, and an empty place name compiles to the regex \b\b -- which
+    # matches every query and silently overwrote whatever place had really been
+    # found. Filtering at the source, and guarding again client-side.
+    def clean(names):
+        return sorted({n.strip() for n in names if n and len(n.strip()) > 1})
+
     facets = {
         # Cities with a single posting are dropped: they add gazetteer noise
         # and a one-hit filter is not a useful conversational constraint.
-        "cities": sorted(c for c, n in cities.items() if n >= 2),
-        "countries": sorted(countries),
-        "categories": sorted({p_.category for p_ in postings if p_.category}),
-        "types": sorted({p_.employment_type for p_ in postings if p_.employment_type}),
-        "remote": sorted({p_.remote_type for p_ in postings if p_.remote_type}),
+        "cities": clean(c for c, n in cities.items() if n >= 2),
+        "countries": clean(countries),
+        "categories": clean(p_.category for p_ in postings),
+        "types": clean(p_.employment_type for p_ in postings),
+        "remote": clean(p_.remote_type for p_ in postings),
     }
 
     out.parent.mkdir(parents=True, exist_ok=True)

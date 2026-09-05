@@ -559,12 +559,14 @@ const K1=1.5, B=0.75;
 const STOP=new Set(("the a an and or of to in for on with at by is are be as that this it you your we our will have has from their they not but can all any more who").split(" "));
 const TOK=/[a-z0-9][a-z0-9.+#/-]*/g;
 const tokenize=t=>(t.toLowerCase().match(TOK)||[]).filter(w=>w.length>1&&!STOP.has(w));
-const DATA_V='2026-09-05.4';
+const DATA_V='2026-09-05.5';
 const esc=t=>String(t).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 /* Words that carry no role intent -- stripped so "software engineer jobs" and
    "any software engineer roles?" collapse to the same query. */
-const FILLER=new Set(("jobs job roles role openings opening positions position vacancies show me find list get looking want need there available open please какие".split(" ")));
+const FILLER=new Set(("jobs job roles role openings opening positions position vacancies "
+  +"show me find list get looking want need there available open please only just any some "
+  +"with near around based work working give tell about what which where").split(" "));
 /* Common ways people write a place that the corpus spells differently. */
 const ALIAS={"bengaluru":"Bangalore","blr":"Bangalore","usa":"United States of America",
   "us":"United States of America","united states":"United States of America","america":"United States of America",
@@ -590,8 +592,10 @@ async function ensureIndex(){
     df.forEach((f,t)=>idf.set(t,Math.log(1+(N-f+0.5)/(f+0.5))));
     /* Gazetteer, longest-first so "San Jose" beats a bare "San". */
     const places=[];
-    data.facets.cities.forEach(c=>places.push({v:c,k:'city',l:c.toLowerCase()}));
-    data.facets.countries.forEach(c=>places.push({v:c,k:'country',l:c.toLowerCase()}));
+    /* Guard: a blank place name compiles to \b\b, which matches everything. */
+    const usable=n=>typeof n==='string'&&n.trim().length>1;
+    data.facets.cities.filter(usable).forEach(c=>places.push({v:c,k:'city',l:c.toLowerCase()}));
+    data.facets.countries.filter(usable).forEach(c=>places.push({v:c,k:'country',l:c.toLowerCase()}));
     Object.entries(ALIAS).forEach(([al,real])=>{
       const kind=data.facets.cities.includes(real)?'city':'country';
       if(data.facets.cities.includes(real)||data.facets.countries.includes(real))
