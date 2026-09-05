@@ -151,6 +151,42 @@ footer a{color:var(--accent)}
 .hit mark{background:color-mix(in srgb,var(--accent) 22%,transparent);
   color:inherit;padding:0 1px}
 
+
+/* ---- chat ---- */
+.chat{margin-top:22px;border:1px solid var(--line);background:var(--surface)}
+.thread{padding:18px;display:flex;flex-direction:column;gap:16px;max-height:560px;overflow-y:auto}
+.turn.user{align-self:flex-end;max-width:78%;background:var(--accent);color:#fff;
+  padding:9px 13px;border-radius:13px 13px 3px 13px;font-size:14.5px}
+.turn.bot{align-self:stretch}
+.understood{font-family:var(--mono);font-size:11.5px;color:var(--ink-3);
+  display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:9px}
+.slot{background:var(--sunken);border:1px solid var(--line);border-radius:2px;
+  padding:3px 7px;color:var(--ink-2);display:inline-flex;gap:6px;align-items:center}
+.slot b{color:var(--accent);font-weight:500}
+.slot button{background:none;border:0;color:var(--ink-3);cursor:pointer;font-size:13px;
+  line-height:1;padding:0;font-family:inherit}
+.slot button:hover{color:var(--crit)}
+.count{font-family:var(--mono);font-size:12.5px;color:var(--ink-2);margin-bottom:9px}
+.count b{color:var(--ink);font-weight:600}
+.cards{display:grid;gap:1px;background:var(--line);border:1px solid var(--line)}
+.card{background:var(--surface);padding:12px 14px}
+.card h4{margin:0;font-size:14.5px;font-weight:600}
+.card h4 a{color:var(--ink);text-decoration:none}
+.card h4 a:hover{color:var(--accent);text-decoration:underline}
+.card .m{font-family:var(--mono);font-size:10.5px;color:var(--ink-3);margin-top:3px}
+.card .sn{font-size:12.5px;color:var(--ink-2);margin-top:6px}
+.card mark{background:color-mix(in srgb,var(--accent) 22%,transparent);color:inherit}
+.empty{font-size:14px;color:var(--ink-2);padding:2px 0}
+.composer{display:flex;gap:0;border-top:1px solid var(--line)}
+#q{flex:1;min-width:0;font-family:var(--sans);font-size:14.5px;padding:13px 15px;
+  background:transparent;color:var(--ink);border:0}
+#q:focus{outline:none;background:var(--sunken)}
+#send{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;
+  padding:0 20px;background:transparent;border:0;border-left:1px solid var(--line);
+  color:var(--accent);cursor:pointer}
+#send:hover{background:var(--sunken)}
+.chips{padding:12px 14px;border-top:1px solid var(--line);gap:6px}
+
 /* ---- recorded runs ---- */
 .runs{display:grid;gap:1px;background:var(--line);border:1px solid var(--line);margin-top:22px}
 .run{background:var(--surface);padding:20px 22px}
@@ -221,22 +257,27 @@ footer a{color:var(--accent)}
 
 <section id="try">
   <p class="eyebrow">Try it</p>
-  <h2 class="col">Search all 1,146 postings, in your browser</h2>
-  <p class="col" style="color:var(--ink-2);margin-top:10px">This is the lexical arm — the same
-  BM25 implementation the evaluation runs, ported to JavaScript and executing offline over the
-  full snapshot. No server, no key, nothing to go down.</p>
-  <div class="searchrow">
-    <input id="q" type="search" autocomplete="off" spellcheck="false"
-      placeholder="kubernetes platform engineer · grpc · 1440127 · security researcher"
-      aria-label="Search job postings">
+  <h2 class="col">A conversation, not a search box</h2>
+  <p class="col" style="color:var(--ink-2);margin-top:10px">Ask for a role, then narrow it in a
+  separate turn. <em>“in Bangalore”</em> means nothing on its own — it only works if the session
+  carries the previous turn's intent forward. Every constraint the session is holding is shown as a
+  chip you can remove, so the state is inspectable rather than hidden.</p>
+
+  <div class="chat">
+    <div id="thread" class="thread"></div>
+    <div class="composer">
+      <input id="q" type="text" autocomplete="off" spellcheck="false"
+        placeholder="Try: remote only · in Poland · data scientist · reset"
+        aria-label="Ask about open roles">
+      <button id="send" type="button">Send</button>
+    </div>
+    <div class="chips" id="chips"></div>
   </div>
-  <div class="chips" style="margin-top:10px" id="chips"></div>
-  <div id="meta">Type to search — the corpus loads on your first keystroke (614&nbsp;KB, once).</div>
-  <div id="results"></div>
-  <p class="col" style="font-size:13.5px;color:var(--ink-3);margin-top:16px">Hybrid ranking needs a
-  query embedding and an answer needs a model call, so neither can run in a static page without
-  shipping an API key. Those appear below as recorded runs instead — and in the repo you can run
-  them yourself.</p>
+  <p class="col" style="font-size:13.5px;color:var(--ink-3);margin-top:16px">Turn fusion here is
+  deterministic slot-filling against a gazetteer built from the corpus — instant, offline, and
+  impossible to hallucinate. The LLM condensation path that handles genuinely ambiguous follow-ups
+  lives in <code style="font-family:var(--mono);font-size:12px">chat.py</code> in the repo, where a
+  key is available. Retrieval is the same BM25 the evaluation measured, ported to JavaScript.</p>
 </section>
 
 <hr>
@@ -511,55 +552,127 @@ function pipeline(){
   });
 }
 
-/* ================= live lexical search (BM25, client-side) =================
-   A direct port of src/careers_rag/bm25.py -- same K1, same b, same tokenizer,
-   same stopword list -- so what runs here is what the evaluation measured. */
+/* ================= conversational search =================
+   BM25 is a direct port of src/careers_rag/bm25.py -- same K1, same b, same
+   tokenizer, same stopwords -- so what runs here is what the eval measured. */
 const K1=1.5, B=0.75;
 const STOP=new Set(("the a an and or of to in for on with at by is are be as that this it you your we our will have has from their they not but can all any more who").split(" "));
 const TOK=/[a-z0-9][a-z0-9.+#/-]*/g;
 const tokenize=t=>(t.toLowerCase().match(TOK)||[]).filter(w=>w.length>1&&!STOP.has(w));
+const DATA_V='2026-09-05.4';
+const esc=t=>String(t).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
-/* Data files are immutable per snapshot, so they are fetched with a version
-   query. Without it a returning visitor gets whatever the CDN cached on their
-   first visit -- which silently served a stale corpus after the first data fix
-   and made exact-id lookup return nothing. */
-const DATA_V='2026-09-05.2';
+/* Words that carry no role intent -- stripped so "software engineer jobs" and
+   "any software engineer roles?" collapse to the same query. */
+const FILLER=new Set(("jobs job roles role openings opening positions position vacancies show me find list get looking want need there available open please какие".split(" ")));
+/* Common ways people write a place that the corpus spells differently. */
+const ALIAS={"bengaluru":"Bangalore","blr":"Bangalore","usa":"United States of America",
+  "us":"United States of America","united states":"United States of America","america":"United States of America",
+  "uk":"United Kingdom","england":"United Kingdom","britain":"United Kingdom",
+  "uae":"United Arab Emirates","nl":"Netherlands","holland":"Netherlands"};
+
 let IDX=null, LOADING=null;
+const state={terms:'', city:null, country:null, remote:null, type:null};
+
 async function ensureIndex(){
   if(IDX) return IDX;
   if(LOADING) return LOADING;
-  document.getElementById('meta').textContent='Loading corpus…';
   LOADING=fetch('data/corpus.json?v='+DATA_V).then(r=>r.json()).then(data=>{
     const docs=data.docs, tf=[], len=[], df=new Map(), post=new Map();
     docs.forEach((d,i)=>{
       const toks=tokenize(d.x), m=new Map();
       toks.forEach(t=>m.set(t,(m.get(t)||0)+1));
       tf.push(m); len.push(toks.length);
-      m.forEach((_,t)=>{
-        df.set(t,(df.get(t)||0)+1);
-        if(!post.has(t))post.set(t,[]);
-        post.get(t).push(i);
-      });
+      m.forEach((_,t)=>{df.set(t,(df.get(t)||0)+1);
+        if(!post.has(t))post.set(t,[]); post.get(t).push(i);});
     });
-    const N=docs.length, avg=len.reduce((a,b)=>a+b,0)/N, idf=new Map();
+    const N=docs.length, avg=len.reduce((x,y)=>x+y,0)/N, idf=new Map();
     df.forEach((f,t)=>idf.set(t,Math.log(1+(N-f+0.5)/(f+0.5))));
-    IDX={docs,tf,len,avg,idf,post};
+    /* Gazetteer, longest-first so "San Jose" beats a bare "San". */
+    const places=[];
+    data.facets.cities.forEach(c=>places.push({v:c,k:'city',l:c.toLowerCase()}));
+    data.facets.countries.forEach(c=>places.push({v:c,k:'country',l:c.toLowerCase()}));
+    Object.entries(ALIAS).forEach(([al,real])=>{
+      const kind=data.facets.cities.includes(real)?'city':'country';
+      if(data.facets.cities.includes(real)||data.facets.countries.includes(real))
+        places.push({v:real,k:kind,l:al});
+    });
+    places.sort((x,y)=>y.l.length-x.l.length);
+    IDX={docs,tf,len,avg,idf,post,places};
     return IDX;
   });
   return LOADING;
 }
-function search(q,k=12){
-  const terms=tokenize(q), sc=new Map();
-  terms.forEach(t=>{
+
+/* ---- turn understanding -------------------------------------------------
+   A follow-up like "in bangalore" carries a constraint and no role. A turn
+   with role words replaces the role but keeps existing constraints. That
+   asymmetry is the whole behaviour: constraints accumulate, intent replaces. */
+function interpret(text){
+  let rest=' '+text.toLowerCase()+' ';
+  const found={city:null,country:null,remote:null,type:null,reset:false,clearLoc:false};
+
+  if(/\b(reset|clear|start over|new search)\b/.test(rest)){found.reset=true;return found;}
+  if(/\b(anywhere|any location|any country|everywhere)\b/.test(rest)){
+    found.clearLoc=true; rest=rest.replace(/\b(anywhere|any location|any country|everywhere)\b/g,' ');}
+
+  for(const p of IDX.places){
+    const re=new RegExp('\\b'+p.l.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'\\b');
+    if(re.test(rest)){ found[p.k]=p.v; rest=rest.replace(re,' '); if(found.city&&found.country)break; }
+  }
+  if(/\bremote\b/.test(rest)){found.remote='Remote';rest=rest.replace(/\bremote\b/g,' ');}
+  else if(/\bhybrid\b/.test(rest)){found.remote='Hybrid';rest=rest.replace(/\bhybrid\b/g,' ');}
+  else if(/\bon-?site\b/.test(rest)){found.remote='Onsite Only';rest=rest.replace(/\bon-?site\b/g,' ');}
+  if(/\bpart[- ]time\b/.test(rest)){found.type='Part time';rest=rest.replace(/\bpart[- ]time\b/g,' ');}
+  else if(/\bfull[- ]time\b/.test(rest)){found.type='Full time';rest=rest.replace(/\bfull[- ]time\b/g,' ');}
+
+  const words=tokenize(rest).filter(w=>!FILLER.has(w));
+  found.terms=words.join(' ');
+  return found;
+}
+
+function applyTurn(text){
+  const f=interpret(text);
+  if(f.reset){state.terms='';state.city=null;state.country=null;state.remote=null;state.type=null;return;}
+  if(f.clearLoc){state.city=null;state.country=null;}
+  if(f.city){state.city=f.city;state.country=null;}
+  if(f.country){state.country=f.country;state.city=null;}
+  if(f.remote)state.remote=f.remote;
+  if(f.type)state.type=f.type;
+  /* Only replace the role when this turn actually named one. A bare
+     "in bangalore" must not wipe "software engineer". */
+  if(f.terms)state.terms=f.terms;
+}
+
+/* Constraints are applied BEFORE ranking, not after. Post-filtering a top-k
+   list is what silently collapses recall -- you ask for 8 and get 2. */
+function candidates(){
+  return IDX.docs.map((d,i)=>i).filter(i=>{
+    const d=IDX.docs[i];
+    if(state.city && !(d.l||'').toLowerCase().includes(state.city.toLowerCase())) return false;
+    if(state.country && d.n!==state.country) return false;
+    if(state.remote && d.rt!==state.remote) return false;
+    if(state.type && d.e!==state.type) return false;
+    return true;
+  });
+}
+
+function search(pool,k=8){
+  if(!state.terms){
+    return pool.map(i=>[i,0]).sort((a,b)=>(IDX.docs[b[0]].d||'').localeCompare(IDX.docs[a[0]].d||'')).slice(0,k);
+  }
+  const allow=new Set(pool), sc=new Map();
+  tokenize(state.terms).forEach(t=>{
     const idf=IDX.idf.get(t); if(idf===undefined)return;
     IDX.post.get(t).forEach(i=>{
+      if(!allow.has(i))return;
       const f=IDX.tf[i].get(t), norm=1-B+B*(IDX.len[i]/IDX.avg);
       sc.set(i,(sc.get(i)||0)+idf*(f*(K1+1))/(f+K1*norm));
     });
   });
   return [...sc.entries()].sort((a,b)=>b[1]-a[1]).slice(0,k);
 }
-const esc=t=>t.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
 function highlight(text,terms){
   let out=esc(text);
   terms.filter(t=>t.length>2).forEach(t=>{
@@ -567,35 +680,66 @@ function highlight(text,terms){
   });
   return out;
 }
-async function runSearch(q){
-  const meta=document.getElementById('meta'), res=document.getElementById('results');
-  if(!q.trim()){res.innerHTML='';meta.textContent='Type to search — the corpus loads on your first keystroke (614 KB, once).';return;}
-  await ensureIndex();
-  const t0=performance.now(), hits=search(q), ms=performance.now()-t0;
-  const terms=tokenize(q);
-  meta.textContent=hits.length
-    ? `${hits.length} of ${IDX.docs.length} postings · ${ms.toFixed(1)} ms`
-    : `no match in ${IDX.docs.length} postings`;
-  res.innerHTML=hits.map(([i,s])=>{
-    const d=IDX.docs[i];
-    return `<div class="hit">
-      <h4><a href="${d.u}" target="_blank" rel="noopener">${highlight(d.t,terms)}</a></h4>
-      <div class="sc">${s.toFixed(1)}</div>
-      <div class="m">req ${d.r} · ${esc(d.l)} · ${esc(d.c)} · ${esc(d.e)}</div>
-      <div class="sn">${highlight(d.s,terms)}…</div>
-    </div>`;
-  }).join('');
+
+function slotChips(){
+  const slots=[];
+  if(state.terms)slots.push(['role',state.terms,'terms']);
+  if(state.city)slots.push(['location',state.city,'city']);
+  if(state.country)slots.push(['country',state.country,'country']);
+  if(state.remote)slots.push(['work',state.remote,'remote']);
+  if(state.type)slots.push(['type',state.type,'type']);
+  if(!slots.length)return '<span class="slot">no constraints yet</span>';
+  return slots.map(([k,v,key])=>
+    `<span class="slot">${k} <b>${esc(v)}</b><button data-drop="${key}" aria-label="Remove ${k}">×</button></span>`
+  ).join('');
 }
+
+function render(userText){
+  const thread=document.getElementById('thread');
+  if(userText){
+    const u=document.createElement('div');u.className='turn user';u.textContent=userText;
+    thread.appendChild(u);
+  }
+  const pool=candidates(), hits=search(pool), terms=tokenize(state.terms);
+  const bot=document.createElement('div');bot.className='turn bot';
+  const cards=hits.length? `<div class="cards">${hits.map(([i,sc])=>{
+      const d=IDX.docs[i];
+      return `<div class="card">
+        <h4><a href="${d.u}" target="_blank" rel="noopener">${highlight(d.t,terms)}</a></h4>
+        <div class="m">req ${d.r} · ${esc(d.l)} · ${esc(d.c)} · ${esc(d.rt||d.e)} · posted ${esc(d.d)}</div>
+        <div class="sn">${highlight(d.s,terms)}…</div></div>`;}).join('')}</div>`
+    : `<div class="empty">Nothing in the snapshot matches all of those constraints. Drop one of the chips above, or say <em>“anywhere”</em> to clear the location.</div>`;
+  bot.innerHTML=`<div class="understood">reading as: ${slotChips()}</div>
+    <div class="count"><b>${pool.length}</b> role${pool.length===1?'':'s'} match the constraints${state.terms?`, showing the ${hits.length} best for “${esc(state.terms)}”`:`, newest ${hits.length} shown`}</div>${cards}`;
+  thread.appendChild(bot);
+  thread.scrollTop=thread.scrollHeight;
+}
+
+async function turn(text){
+  if(!text.trim())return;
+  await ensureIndex();
+  applyTurn(text);
+  render(text);
+}
+
+document.getElementById('thread').addEventListener('click',e=>{
+  const key=e.target.dataset&&e.target.dataset.drop;
+  if(!key)return;
+  state[key]=key==='terms'?'':null;
+  render(null);
+});
 const qEl=document.getElementById('q');
-let deb;
-qEl.addEventListener('input',e=>{clearTimeout(deb);const v=e.target.value;deb=setTimeout(()=>runSearch(v),140);});
-['kubernetes terraform','grpc','1440127','retrieval augmented generation','security researcher','pytorch']
-  .forEach(c=>{
-    const b=document.createElement('button');
+document.getElementById('send').onclick=()=>{turn(qEl.value);qEl.value='';};
+qEl.addEventListener('keydown',e=>{if(e.key==='Enter'){turn(qEl.value);qEl.value='';}});
+['software engineer jobs','in Bangalore','remote only','data scientist','reset']
+  .forEach(c=>{const b=document.createElement('button');
     b.className='chip';b.type='button';b.textContent=c;
-    b.onclick=()=>{qEl.value=c;runSearch(c);qEl.focus();};
-    document.getElementById('chips').appendChild(b);
-  });
+    b.onclick=()=>{turn(c);qEl.focus();};
+    document.getElementById('chips').appendChild(b);});
+
+/* Open on a worked exchange rather than an empty box: the carry-forward is the
+   feature, and it should be visible before anyone types. */
+(async()=>{await turn('software engineer jobs'); await turn('in Bangalore');})();
 
 /* ================= recorded runs ================= */
 fetch('data/examples.json?v='+DATA_V).then(r=>r.json()).then(rows=>{

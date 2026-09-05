@@ -38,6 +38,8 @@ def main() -> None:
             "l": p.location_str,
             "n": p.country,
             "e": p.employment_type,
+            "rt": p.remote_type,
+            "d": p.posted_date,
             "u": p.source_url,
             # Indexed text. Two deliberate choices:
             #  * title and skills repeat, because BM25 has no field weighting
@@ -51,8 +53,33 @@ def main() -> None:
             "s": body[:TEASER_CHARS],
         })
 
+    # --- facets ------------------------------------------------------------
+    # A gazetteer built FROM the corpus, not from a hardcoded list. A follow-up
+    # turn like "in bangalore" is only interpretable if the client can tell a
+    # place name from a role term, and the only authority on which places exist
+    # is the snapshot itself.
+    from collections import Counter
+    cities = Counter()
+    countries = Counter()
+    for p_ in postings:
+        countries[p_.country] += 1
+        for loc in p_.locations:
+            city = loc.split(",")[0].strip()
+            if len(city) > 2:
+                cities[city] += 1
+
+    facets = {
+        # Cities with a single posting are dropped: they add gazetteer noise
+        # and a one-hit filter is not a useful conversational constraint.
+        "cities": sorted(c for c, n in cities.items() if n >= 2),
+        "countries": sorted(countries),
+        "categories": sorted({p_.category for p_ in postings if p_.category}),
+        "types": sorted({p_.employment_type for p_ in postings if p_.employment_type}),
+        "remote": sorted({p_.remote_type for p_ in postings if p_.remote_type}),
+    }
+
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(json.dumps({"snapshot": snapshot.name, "docs": docs},
+    out.write_text(json.dumps({"snapshot": snapshot.name, "facets": facets, "docs": docs},
                               separators=(",", ":")))
     kb = out.stat().st_size / 1024
     print(f"{len(docs)} postings -> {out}  ({kb:.0f} KB raw)")
